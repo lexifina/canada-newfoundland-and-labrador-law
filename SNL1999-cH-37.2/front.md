@@ -1,0 +1,11 @@
+SNL1999 CHAPTER H-37.2
+
+HEALTH AND COMMUNITY SERVICES RESUMPTION AND CONTINUATION ACT
+
+CHAPTER H-37.2
+
+AN ACT TO PROVIDE FOR THE RESUMPTION AND CONTINUATION OF HEALTH AND COMMUNITY SERVICES
+
+(Assented to April 1, 1999)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
