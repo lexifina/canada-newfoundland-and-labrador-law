@@ -1,0 +1,11 @@
+SNL1994 CHAPTER 11
+
+NEWFOUNDLAND AND LABRADOR COMPUTER SERVICES LIMITED AMENDMENT ACT
+
+CHAPTER 11
+
+AN ACT RESPECTING NEWFOUNDLAND AND LABRADOR COMPUTER SERVICES LIMITED
+
+(Assented to June 9, 1994)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
