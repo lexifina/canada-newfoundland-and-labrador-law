@@ -1,0 +1,3 @@
+Schedule B
+
+The area known as Redfir Lake – Kapitagas Channel in southwestern Labrador is established as an ecological reserve to preserve the provinces only natural stands of Jack Pine for scientific and educational purposes. In order to accomplish this, there will be no removal of Jack Pine from the sites except under specific permit and there will be no development within the reserve. Scientific research at these sites will be encouraged and educational use will be permitted where it does not conflict with the general purpose of preservation and scientific research. Traditional activities, such as hunting, trapping, fishing, camping and snowmobiling, which do not threaten the survival of the Jack Pine will be permitted to continue.
