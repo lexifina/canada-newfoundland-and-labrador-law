@@ -1,0 +1,3 @@
+Exemption from gasoline tax
+
+(2) Notwithstanding The Gasoline Tax Act, 1962 , the Act No. 55 of 1962, as amended from time to time, or any Act standing in place of the said Act or any other statute or law, Churchill Falls (Labrador) Corporation Limited, its licensees, sublesses, permitees, transferees or assigns as well as the contractors or subcontractors (whether on a lump sum, fixed price, unit price contract basis or otherwise) of any of them shall, on the execution and delivery of an agreement in accordance with Section 7 of this Act, have and be deemed to have had on and after the first day of January, 1967, the exemptions prescribed in the provisions inserted by Clause 1 of that agreement in the Lease referred to in that clause.
