@@ -1,5 +1,0 @@
-Form of guarantee in certain cases
-
-4A. When a loan that is raised otherwise than by way of a bond or debenture issue is guaranteed under this Act, the Lieutenant-Governor in Council may, by order, prescribe the principal terms and conditions of the guarantee and direct that the form of the guarantee shall be such as the Attorney General may approve and further direct that such additional terms and conditions as the Attorney General may approve that are not inconsistent with those prescribed by the Lieutenant-Governor in Council shall be included in the guarantee, and whenever an order is made under this section the guarantee to which it relates shall be made in accordance with the order and the provisions of Section 4 shall not apply to the guarantee, and when the guarantee is made in accordance with the order it shall have the same force and effect of law for all purposes as if all of the terms and conditions thereof had been approved by the Lieutenant-Governor in Council and as if the guarantee was made in the form prescribed by Section 4.
-
-1958 No32 s2
