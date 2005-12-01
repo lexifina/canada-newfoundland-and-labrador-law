@@ -1,0 +1,1 @@
+WHEREAS the Government of Canada and the Government of Newfoundland and Labrador have entered into the Atlantic Accord and have agreed that neither government will introduce amendments to this Act or regulations made under this Act without the consent of both governments:
