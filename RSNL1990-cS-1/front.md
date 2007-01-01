@@ -1,9 +1,0 @@
-RSNL1990 CHAPTER S-1
-
-ST. JOHN S ASSESSMENT ACT
-
-CHAPTER S-1
-
-AN ACT RESPECTING THE ASSESSMENT OF REAL PROPERTY AND THE IMPOSITION AND COLLECTION OF CERTAIN TAXES IN THE CITY OF ST. JOHN 'S
-
-Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
