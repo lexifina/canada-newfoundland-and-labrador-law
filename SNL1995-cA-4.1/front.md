@@ -1,0 +1,11 @@
+SNL1995 CHAPTER A-4.1
+
+ADVANCE HEALTH CARE DIRECTIVES ACT
+
+CHAPTER A-4.1
+
+AN ACT RESPECTING ADVANCE HEALTH CARE DIRECTIVES AND THE APPOINTMENT OF SUBSTITUTE HEALTH CARE DECISION MAKERS
+
+(Assented to May 31, 1995)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
