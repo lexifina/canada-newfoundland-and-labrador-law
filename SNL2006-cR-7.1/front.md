@@ -1,0 +1,11 @@
+SNL2006 CHAPTER R-7.1
+
+REGIONAL HEALTH AUTHORITIES ACT
+
+CHAPTER R-7.1
+
+AN ACT RESPECTING THE DELIVERY OF HEALTH AND COMMUNITY SERVICES AND THE ESTABLISHMENT OF REGIONAL HEALTH AUTHORITIES
+
+(Assented to May 26, 2006 )
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
