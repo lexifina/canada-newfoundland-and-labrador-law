@@ -24,113 +24,83 @@ Criminal negligence causing bodily harm
 
 Manslaughter committed in a vehicle
 
-320.13(1)
+249(01)(A)
 
 5
 
-Dangerous operation of a conveyance
+Dangerous operation of a motor vehicle
 
-320.13(2)
-
-5
-
-Dangerous operation of a conveyance causing bodily harm
-
-320.13(3)
-
-5
-
-Dangerous operation of a conveyance causing death
-
-320.14(1)(a)
-
-5
-
-Operation of a conveyance while impaired by alcohol or a drug or a combination of alcohol and a drug
-
-320.14(1)(b)
-
-5
-
-Having a blood alcohol concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood within 2 hours after ceasing to operate a conveyance
-
-320.14(1)(c)
-
-5
-
-Having a blood drug concentration that is equal to or exceeds the blood drug concentration prescribed by regulation within 2 hours after ceasing to operate a conveyance
-
-320.14(1)(d)
-
-5
-
-Having a blood alcohol concentration and a blood drug concentration combined that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation within 2 hours after ceasing to operate a conveyance
-
-320.14(2)
-
-5
-
-Causing bodily harm while operating a conveyance while impaired by alcohol or a drug or a combination of alcohol or a drug, or causing bodily harm while operating a conveyance and within 2 hours after ceasing to operate the conveyance having a blood concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood, a blood drug concentration that is equal to or exceeds the blood drug concentration that is prescribed by regulation or a blood alcohol concentration and a blood drug concentration that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation
-
-320.14(3)
-
-5
-
-Causing death while operating a conveyance while impaired by alcohol or a drug or a combination of alcohol or a drug, or causing death while operating a conveyance and within 2 hours after ceasing to operate the conveyance having a blood concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood, a blood drug concentration that is equal to or exceeds the blood drug concentration that is prescribed by regulation, or a blood alcohol concentration and a blood drug concentration that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation
-
-320.14(4)
-
-5
-
-Having a blood drug concentration that is equal to or exceeds the blood drug concentration prescribed by regulation and that is less than the blood drug concentration prescribed for the purposes of paragraph 320.14(1)(c) within 2 hours after ceasing to operate a conveyance
-
-320.15(1)
-
-5
-
-Failure or refusal to comply with demand
-
-320.15(2)
-
-5
-
-Failure or refusal to comply with demand knowing, or reckless as to whether, involved in an accident that resulted in bodily harm
-
-320.15(3)
-
-5
-
-Failure or refusal to comply with demand knowing, or reckless as to whether, involved in an accident that resulted in death
-
-320.16(1)
-
-5
-
-Failure to stop after accident
-
-320.16(2)
-
-5
-
-Failure to stop after accident that resulted in bodily harm
-
-320.16(3)
-
-5
-
-Failure to stop after accident that resulted in death
-
-320.17
+249.1(1)
 
 5
 
 Failure to stop while pursued by officer
 
-320.18
+249.1(3)
 
 5
 
-Operation of a conveyance while prohibited
+Failure to stop while pursued by officer causing bodily harm or death
+
+249(03)
+
+5
+
+Dangerous operation causing bodily harm
+
+249(04)
+
+5
+
+Dangerous operation causing death
+
+252(01)
+
+5
+
+Failing to stop at scene of accident
+
+252(02)
+
+5
+
+Failing to stop at scene of accident and offering assistance or give name
+
+253(a)
+
+5
+
+Impaired by alcohol or drugs
+
+253(b)
+
+5
+
+Care and control of vehicle with more than 80 milligrams of alcohol in 100 millilitres of blood
+
+254(05)
+
+5
+
+Refusing to provide blood or breath sample
+
+255(02)
+
+5
+
+Impaired driving causing bodily harm
+
+255(03)
+
+5
+
+Impaired driving causing death
+
+259(04)
+
+5
+
+Driving while disqualified
 
 334
 
@@ -160,19 +130,19 @@ Non resident failure to register commercial motor vehicle
 
 1
 
-Operating service vehicle with dealer’s plates attached
+Operating service vehicle with dealers plates attached
 
 22
 
 1
 
-Using or hiring dealer’s vehicle without registration
+Using or hiring dealers vehicle without registration
 
 27
 
 1
 
-Using vehicle without dealer’s plates attached
+Using vehicle without dealers plates attached
 
 28(2)
 
@@ -306,23 +276,11 @@ Giving false name or address in application for registration of a vehicle
 
 Using or permitting the use of fictitious identification plates
 
-43(4)
+43(3)
 
 3
 
-Operating a motor vehicle without a licence for that class of vehicle
-
-43(5)
-
-3
-
-Invalid or no driver's licence
-
-43(6)
-
-3
-
-Driving while disqualified
+Invalid or no drivers licence
 
 49(2)
 
@@ -388,43 +346,49 @@ Failure to keep record regarding vehicles rented
 
 1
 
-Failure to notify registrar of lost driver’s licence, etc.
+Failure to notify registrar of lost drivers licence, etc.
 
 59(1)(a)
 
 3
 
-Defacing or altering driver’s licence
+Defacing or altering drivers licence
 
 59(1)(b)
 
 3
 
-Lending driver’s licence
+Lending drivers licence
 
 59(1)(c)
 
 3
 
-Person misrepresenting driver’s licence as his or her own
+Person misrepresenting drivers licence as his or her own
 
 59(1)(d)
 
 3
 
-Failure to surrender suspended or cancelled driver’s licence
+Failure to surrender suspended or cancelled drivers licence
 
 59(1)(e)
 
 2
 
-Giving false name or address in application for driver’s licence
+Giving false name or address in application for drivers licence
 
 73(1)
 
 2
 
-Applying for driver’s licence while disqualified
+Applying for drivers licence while disqualified
+
+73(2)
+
+3
+
+Driving while disqualified
 
 75(5(a)
 
@@ -522,23 +486,11 @@ Driving to left of centre line of roadway
 
 Vehicle proceeding at less than normal speed not driving in right hand lane
 
-100.1(1)
+100(3)
 
 3
 
-Failure to yield right-of-way entering roundabout
-
-100.1(2)
-
-3
-
-Failure to drive to right of centre of roundabout
-
-100.1(3)
-
-3
-
-Failure to yield right-of-way in roundabout to traffic travelling to left of driver's vehicle
+Failure to drive to right of rotary traffic island
 
 101(b)
 
@@ -814,23 +766,11 @@ Exceeding the speed limit by between 21 and 30 kilometres per hour
 
 3
 
-Exceeding the speed limit by between 31 and 50 kilometres an hour
-
-110(3)(e)
-
-3
-
-Exceeding the speed limit by 51 kilometres an hour and over
-
-110.01
-
-3
-
-Driving without due care and attention or reasonable consideration for others causing death or bodily harm
+Exceeding the speed limit by 31 kilometres and over
 
 110.1(4)(a)
 
-1
+0
 
 Exceeding the speed limit by between 1 and 10 kilometres an hour
 
@@ -848,57 +788,15 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 110.1(4)(d)
 
-3
+4
 
-Exceeding the speed limit by between 31 and 50 kilometres an hour
-
-110.1(4)(e)
-
-3
-
-Exceeding the speed limit by 51 kilometres an hour and over
-
-110.2(4)(a)
-
-1
-
-Exceeding the speed limit by between 1 and 10 kilometres an hour
-
-110.2(4)(b)
-
-2
-
-Exceeding the speed limit by between 11 and 20 kilometres an hour
-
-110.2(4)(c)
-
-3
-
-Exceeding the speed limit by between 21 and 30 kilometres an hour
-
-110.2(4)(d)
-
-3
-
-Exceeding the speed limit by between 31 and 50 kilometres an hour
-
-110.2(4)(e)
-
-3
-
-Exceeding the speed limit by 51 kilometres an hour and over
+Exceeding the speed limit by 31 kilometres an hour and over
 
 111(1)
 
 1
 
 Slow driving
-
-111.1(1)
-
-1
-
-Operating a slow moving vehicle on a highway with a speed limit of greater than 80 kilometres an hour.
 
 111(3)
 
@@ -1037,12 +935,6 @@ Failing to yield right-of-way when entering highway
 3
 
 Failing to yield right-of-way to emergency vehicle
-
-121.1
-
-3
-
-Failing to reduce speed, stop, pass, change lanes or move over when approaching stopped emergency vehicle or designated vehicle
 
 123(6)
 
@@ -1368,12 +1260,6 @@ Driving vehicle without chains or winter tires
 
 Racing vehicles or bicycles on a highway
 
-168.1(1)
-
-3
-
-Performing or engaging in stunt while driving
-
 169(1)(a)
 
 3
@@ -1480,7 +1366,7 @@ Unlawful sale of radar detectors
 
 3
 
-Holding or using a hand-held wireless communication device or other prescribed device that is capable of receiving or transmitting telephone communications, electronic data, email or text messages
+Operating motor vehicle while using hand held cellular phone
 
 177
 
@@ -1667,12 +1553,6 @@ Licensing and Equipment Regulations Provision
 Compliance Indicators
 
 Description of Offences
-
-2.3(3)
-
-3
-
-Driving, causing to be driven or allowing to be driven a commercial vehicle which has been declared out-of-service under the regulations
 
 7(1)
 
@@ -2002,7 +1882,7 @@ Defective muffler
 
 1
 
-Vehicle not equipped with a horn or horn not securely fastened
+Vehicle not equipped with horn
 
 31
 
@@ -2014,33 +1894,33 @@ Excessive smoke emitted from vehicle
 
 1
 
-Vehicle not equipped with a windshield wiper or washer system
+Vehicle not equipped with a windshield wiper or washer
 
-32(3)
+32(2)
 
 1
 
-Vehicle not equipped with a windshield defrosting and defogging system
+Vehicle not equipped with a windshield defogging system
 
-33.2(1)
+32(4)
 
 1
 
 Inadequate or no rear view mirror
 
-33.2(2)
+32(5)
 
 1
 
-Inadequate or no side rear view mirror when required
+No side rear view mirror when required
 
-33.2(3)
+32(6)
 
 1
 
 Towing vehicle not equipped with 2 side rear view mirrors
 
-35.2(1)
+32(7)
 
 1
 
@@ -2104,19 +1984,7 @@ Vehicle odometer not functioning
 
 1
 
-Required equipment not maintained in good working order or not securely fastened
-
-43.1(4)
-
-2
-
-Operating or causing to be operated commercial vehicle not subject to systematic inspection, repair and maintenance program
-
-43.1(5)
-
-3
-
-Carrier failing to maintain records, destroying records or falsifying records required by regulations
+Required equipment not maintained in good working order
 
 45
 
@@ -2135,24 +2003,6 @@ Head lamps do not conform with Motor Vehicle Safety Act (Canada)
 3
 
 Vehicle equipped with in-cab control for varying mass distribution on one or more axle
-
-50.2(1)
-
-1
-
-Operating vehicle not in compliance with regulations
-
-50.2(2)
-
-1
-
-Causing to be operated commercial vehicle not in compliance with regulations
-
-50.2(3)
-
-3
-
-Obstructing or hindering inspector in performance of his or her duties
 
 Highway Traffic Driver Regulations Provision
 
@@ -2352,6 +2202,16 @@ Operating a trailer with a width greater than 2.05 metres without required consp
 
 Operating an overmass or oversize vehicle without special permit
 
+Cargo Securement Regulations
+
+Compliance Indicators
+
+Description of Offences
+
+Violation of any provision
+
+3
+
 Motor Carrier Act Provision
 
 Compliance Indicators
@@ -2490,179 +2350,131 @@ Failure to affix the name of certificate holder and certificate number to both s
 
 Operating a public service vehicle without a copy of certificate and proof of insurance
 
-Hours of Service Regulations Provision
+Hours of Service Regulations Provisions
 
 Compliance Indicators
 
-Description of Offence
+Description of Offences
 
-5(1)(a)
-
-1
-
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving while driver’s faculties impaired to the point where unsafe to drive.
-
-5(1)(b)
-
-1
-
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would jeopardize the safety or health of the public, the driver or the employees of the carrier.
-
-5(1)(c)
-
-1
-
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where the driver is the subject of an out-of-service declaration.
-
-5(1)(d)
-
-1
-
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would not be in compliance with the regulations.
-
-8(1)
+5
 
 3
 
-Carrier requesting, requiring or allowing a driver to drive or a driver driving after the driver has accumulated 13 hours of driving time in a day.
+Drive without 8 consecutive hours off-duty
+
+8(1)(a)
+
+3
+
+Commercial vehicle driver driving more than 13 hours following at least 8 consecutive hours off duty
+
+8(1)(b)
+
+3
+
+Commercial vehicle driver driving after being on duty 15 hours following at least 8 consecutive hours off duty
+
+8(1)(c)
+
+3
+
+Commercial vehicle driver driving after completing 60 hours on duty during a period of 7 consecutive days
+
+8(1)(d)
+
+3
+
+Commercial vehicle driver driving after completing 70 hours on duty during a period of 8 consecutive days
+
+8(1)(e)
+
+3
+
+Commercial vehicle driver driving after completing 120 hours on duty during a period of 14 consecutive days
 
 8(2)
 
 3
 
-Carrier requesting, requiring or allowing a driver to drive or a driver driving after the driver has accumulated 14 hours of on-duty time in a day.
+Commercial vehicle driver failing to have a minimum of 24 consecutive hours of off-duty time before completing 75 hours on duty
 
-9(1)
-
-3
-
-Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 8 consecutive hours of off-duty time after the driver accumulated 13 hours of driving time.
-
-9(2)
-
-3
-
-Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 8 consecutive hours of off-duty time after the driver accumulated 14 hours of on-duty time.
-
-9(3)
-
-3
-
-Carrier requesting, requiring or allowing a driver to drive and a driver driving after 16 hours have elapsed between the conclusion of the most recent period of 8 or more consecutive hours of off-duty time and the beginning of next 8 or more consecutive hours of off-duty time.
-
-10
-
-1
-
-Carrier failing to ensure that driver has taken or driver failing to take at least 10 hours of off-duty time in a day as prescribed by the regulations.
-
-15
-
-1
-
-Carrier failing to ensure that driver follows or driver fails to follow either cycle 1 or 2.
-
-16(1)
-
-3
-
-Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 24 consecutive hours of off-duty time in the preceding 14 days.
-
-17(1)
-
-3
-
-Carrier requesting, requiring or allowing a driver who is following cycle 1 or a driver who is following cycle 1 driving after the driver has accumulated 70 hours of on-duty time in 7 days or if the driver reset the cycle during the period of the cycle that was ended.
-
-18(1)(a)
-
-3
-
-Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 120 hours of on-duty time in 14 days or if the driver reset the cycle during the period of the cycle that was ended.
-
-18(1)(b)
-
-3
-
-Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 70 hours of on-duty time without having taken at least 24 consecutive hours of off-duty time.
-
-20(1)
-
-1
-
-Carrier requesting, requiring or allowing a driver to switch or a driver switching cycles without first taking the prescribed off-duty time before beginning to drive again.
-
-39(1)
-
-1
-
-Carrier failing to perform its obligations as a permit holder.
-
-39(2)
-
-1
-
-Driver violating or carrier allowing a driver to violate the terms and conditions of a permit.
-
-43(1)
+15(2)
 
 2
 
-Carrier failing to require a driver or driver failing to complete a daily log accounting for all of the driver’s on-duty and off-duty time for that day.
+Commercial vehicle driver failing to properly complete a daily log
 
-44
+15(5)
+
+3
+
+Commercial vehicle driver failing to retain and produce required receipts/documents
+
+15(7)
 
 2
 
-Carrier failing to require driver or driver failing to legibly enter the prescribed information in the daily log.
+Commercial vehicle driver failing to maintain a log in a timely fashion
 
-46(1)
+17(1)(a)
 
-1
+2
 
-Carrier requesting, requiring or allowing a driver to drive or a driver driving while not in possession of daily logs and supporting documents.
+Failing to maintain copies of log as required
 
-47(1) and (2)
+17(1)(b)
 
-1
+2
 
-Carrier failing to ensure that driver or driver failing to forward the original daily log and supporting documents to the home terminal within the prescribed time period.
+Failing to have log current to last change in duty status
 
-47(3)
+17(2)
 
-1
+2
 
-Carrier failing to deposit daily logs and supporting documents at its principal place of business within the prescribed time period or failing to retain the daily logs and supporting documents for the prescribed time period.
+Commercial vehicle driver failing to produce daily log upon request
 
-48(1) and (2)
-
-3
-
-Carrier requesting, requiring or allowing driver to keep or driver keeping more than one daily log, entering or allowing inaccurate information in a daily log or falsifying, mutilating or defacing the daily log or supporting documents.
-
-49(1) and (2)
-
-1
-
-Carrier failing to monitor compliance of driver with regulatory requirements or failing to take remedial action where non-compliance exists.
-
-52(4)
+19(1)
 
 3
 
-Obstructing, hindering or knowingly making false or misleading statements to a director or inspector engaged in carrying out his or her duties.
+Commercial vehicle driver making more than one log for a calendar day or falsifying daily log
 
-53
-
-1
-
-Driver failing to produce or failing to make copies of logs as requested by an inspector.
-
-54(1)
+20
 
 3
 
-Carrier failing to make records immediately available at request of inspector.
+Commercial vehicle driver failing to forward copy of daily log to each carrier for whom the driver worked that day
+
+21
+
+3
+
+Commercial vehicle driver failing to forward within 30 days the original of each daily log for that week to the home terminal or to the principal place of business of each carrier by whom the driver was employed
+
+22(1)
+
+3
+
+Carrier failing to retain daily logs and have readily available for inspection by an inspector for a period of 6 months
+
+22(2)
+
+3
+
+Carrier failing to retain daily logs at the location where the carrier keeps the commercial vehicle driver records or at a location approved by an authorized person
+
+23(2)
+
+3
+
+Carrier failing to have records or documents available for inspection by director or an inspector at all times during business hours
+
+23(3)
+
+3
+
+Carrier or person in possession of records or documents failing to provide reasonable assistance or furnish documents to director or an inspector
 
 Trip Inspection Report Regulations Provision
 
@@ -2670,137 +2482,65 @@ Compliance Indicators
 
 Description of Offence
 
-4(1), (2) and (3)
+3(1)
 
 2
 
-Failing to conduct, or cause to be conducted an inspection of a commercial vehicle in the prescribed manner and frequency.
+Driver of commercial vehicle failing to inspect or cause to be inspected a commercial vehicle which he or she drives before its first trip of the day
 
-5(1)
-
-2
-
-Failing to inspect every component listed in Column 1 of the applicable schedule.
-
-5(2)
+4
 
 2
 
-Failing to conduct an adequate inspection of a commercial vehicle.
+Driver of commercial vehicle or person inspecting commercial vehicle failing to perform complete inspection
 
-5(3)(a)
-
-2
-
-When conducting an inspection of a motor coach in accordance with Schedule D or an equivalent maintenance program failing to raise the commercial vehicle in a manner that provides access to the vehicle components.
-
-5(3)(b)
-
-2
-
-Failing to ensure that an inspection of a motor coach conducted in accordance with Schedule D or an equivalent maintenance program is conducted by a qualified person.
-
-6(1)
-
-1
-
-Failing to record on the inspection report defects detected during the inspection.
-
-6(2)
-
-1
-
-When conducting an inspection of a motor coach in accordance with Schedule D failing to record on the inspection report defects detected during the inspection, brake adjustment measurements and the nature of repairs carried out on the motor coach.
-
-6(3)
-
-1
-
-Failing to report to the carrier prior to the next required inspection minor defects detected during the inspection.
-
-6(4)
+5
 
 3
 
-Failing to immediately report to the carrier major defects detected during the inspection.
+Driver of commercial vehicle or person inspecting commercial vehicle failing to note safety related defects found during inspection
 
-6(5)
-
-1
-
-Where no defects detected during an inspection failing to record on the inspection report that no defects were detected.
-
-7
+6
 
 1
 
-Failing to prepare the inspection report in the prescribed manner with the prescribed information.
+Commercial vehicle driver failing to report any defects observed while in charge of the vehicle
+
+7(1)
+
+1
+
+Person completing inspection report failing to provide information required by the regulations
+
+7(2)
+
+1
+
+Commercial vehicle driver or designated person failing to sign inspection report upon completion
 
 8(1)
 
-2
-
-Driver failing to monitor condition of vehicle while driving or being in charge of a commercial vehicle.
-
-8(2)
-
-1
-
-Driver failing to record on the inspection report or to report to the carrier, in the prescribed time frame, a minor defect detected while driving or being in charge of a commercial vehicle.
-
-8(3)
-
 3
 
-Driver failing to record on the inspection report or to report to the carrier, in the prescribed time frame, a major defect detected while driving or being in charge of a commercial vehicle.
+Carrier or agent failing to repair defect likely to affect safe operation of vehicle prior to vehicle use
 
-9(1)
-
-1
-
-Carrier failing to ensure that previously reported defects are repaired prior to next required inspection or other time period specified in the jurisdiction of travel.
-
-10(1)
+8(4)(a)&(b)
 
 2
 
-Driving or permitting a person to drive a commercial vehicle where the vehicle was not inspected as prescribed, inspection report was not completed as prescribed or driver was not in possession of required inspection reports and schedules.
+Carrier failing to retain for specified period original copy of each vehicle inspection report or copy bearing certification of repairs
 
-10(2)
-
-3
-
-Driving or permitting a person to drive a commercial vehicle where a major defect has been detected.
-
-11(1)
+8(5)
 
 1
 
-Driver failing to forward to the carrier the original of each inspection report within the prescribed time period.
+Commercial vehicle driver failing to carry reports in vehicle
 
-11(2)
+12
 
 1
 
-Carrier failing to retain the original inspection reports for the prescribed time period.
-
-13
-
-3
-
-Failing to produce inspection reports or schedules upon the demand of an inspector or failing to give an inspector reasonable help to enable him or her to carry out his or her duties.
-
-14(2)(d)
-
-2
-
-Falsifying an inspection report.
-
-14(2)(e)
-
-2
-
-Falsely certifying a repair.
+Commercial vehicle driver failing to produce required vehicle inspection reports
 
 Dangerous Goods Ticket Offences Regulations Provision
 
@@ -2850,6 +2590,36 @@ Failure to ensure proper safety marks remain displayed
 
 Failure to produce a training certificate upon request of an inspector
 
+Commercial Vehicle Maintenance Standards Regulations
+
+Compliance Indicator
+
+Description of Offence
+
+47(1)
+
+2
+
+Operate or cause to be operated commercial vehicle not in compliance with regulations
+
+47(2)
+
+2
+
+Operate or cause to be operated commercial vehicle not subject to systematic inspection, repair and maintenance program
+
+47(3)
+
+3
+
+Carrier failing to maintain records, destroy records or falsifying records required by regulations
+
+47(4)
+
+3
+
+Obstructing or hindering inspector in the performance of his or her duties in relation to regulations
+
 Carrier Safety Regulations
 
 Compliance Indicator
@@ -2862,4 +2632,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1; 87/18 s1; 44/19 s1
+106/05 s12; 45/09 s1
