@@ -1,0 +1,5 @@
+Schedule D
+
+FORM OF PERMIT TO OCCUPY NEWLY ERECTED BUILDING
+
+City of St. John' s ,
