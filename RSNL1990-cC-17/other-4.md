@@ -1,0 +1,3 @@
+The building No ...................... Street, the property of ..............…….... has been examined by me, and I certify that it has been built in accordance with the plans submitted and approved, and conforms in all respects to the building regulations of the city, and I authorize that the building may be occupied, used and inhabited.
+
+.........………..........
