@@ -6558,19 +6558,7 @@ Then east 1,000 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 21, NAD 27.
 
-TTT. All that piece or parcel of land and land under water situate and being at Lawn Islands and being described as follows:
-
-Beginning at a point that point having UTM co-ordinates of 5,192,000 metres north, 606,000 metres east;
-
-Then south 1,500 metres;
-
-Then west 1,500 metres;
-
-Then north 1,500 metres;
-
-Then east 1,500 metres to the point of beginning.
-
-All bearings are referred to the UTM Grid Zone 21, NAD 27.
+TTT. Rep. by 66/10 s1
 
 UUU. All that piece or parcel of land and land under water situated and being located at Spirity Cove being described as follows:
 
@@ -7170,4 +7158,4 @@ Then east 1,597 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 22, NAD 27.
 
-132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1
+132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1
