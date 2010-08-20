@@ -2,7 +2,7 @@ Schedule B
 
 Threatened Species
 
-American Marten ( Newfoundland Population)
+American Marten (Newfoundland Population)
 
 Martes americana atrata
 
@@ -30,7 +30,7 @@ Woodland Caribou (Lac Joseph herd)
 
 Rangifer tarandus
 
-Woodland Caribou ( Mealy Mountain herd)
+Woodland Caribou (Mealy Mountain herd)
 
 Rangifer tarandus
 
