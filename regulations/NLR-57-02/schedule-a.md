@@ -26,9 +26,21 @@ Low Northern Rockcress
 
 Neotorularia humilis
 
+Mackenzies Sweetvetch
+
+Hedysarum boreale subsp . mackenzii
+
+Northern Bog Aster
+
+Symphyotrichum boreale
+
 Piping Plover
 
 Charadrius melodus
+
+Rattlesnakeroot
+
+Prenanthes racemosa
 
 Red Crossbill (percna )
 
@@ -42,4 +54,4 @@ Wolverine
 
 Gulo gulo
 
-116/07 s1; 9/08 s1
+116/07 s1; 9/08 s1; 68/10 s1
