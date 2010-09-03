@@ -66,6 +66,8 @@ Town of Placentia
 
 Community of Port au Port East
 
+Town of Portugal Cove-St. Philips
+
 Town of Pouch Cove
 
 Town of St. George's
@@ -80,4 +82,4 @@ Town of Trepassey
 
 Town of Wabush
 
-CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1
+CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1; 76/10 s1
