@@ -12,7 +12,7 @@ Newfoundland and Labrador TRailway Provincial Park Proclamation under the Provin
 
 Under the authority of section 4 of the Provincial Parks Act , the Lieutenant-Governor in Council proclaims the area referred to in the Schedule to be a provincial park.
 
-Dated at St. Johns, May 2, 1997.
+Dated at St. Johns , May 2, 1997 .
 
 John Cummings Deputy Clerk of the Executive Council (Acting)
 
@@ -54,7 +54,7 @@ Then running along the centreline in a generally northwesterly and a westerly di
 
 3. Bishop's Falls Parcel
 
-Also, all that piece or parcel of land situate and being at Bishop's Falls , in the Electoral District of Exploits, abutted and bounded as follows:
+Also, all that piece or parcel of land situate and being at Bishop's Falls, in the Electoral District of Exploits, abutted and bounded as follows:
 
 Commencing at a point, that point being distant 386.64 metres as measured on a bearing of north 25º 28' 34" east from Control Station 76G2194;
 
@@ -138,7 +138,7 @@ The area described in this Schedule is increased by adding the following parcels
 
 1. Bishop's Falls Parcel (No. 2)
 
-All that piece or parcel of land situate and being at Bishop's Falls , in the Electoral District of Exploits, abutted and bounded as follows:
+All that piece or parcel of land situate and being at Bishop's Falls, in the Electoral District of Exploits, abutted and bounded as follows:
 
 Commencing at a point which measures 218.52 metres on a bearing of north 28º 18' 1" west from Control Station 76G2194;
 
@@ -276,7 +276,7 @@ Then south 64° 03' 55" east for 117.234 metres;
 
 Then north 49° 05' 13" east for 26.166 metres;
 
-Then turning and running by land of the Government of Newfoundland and Labrador ( Abandoned Railway) south 45° 43' 45" east for 14.074 metres;
+Then turning and running by land of the Government of Newfoundland and Labrador (Abandoned Railway) south 45° 43' 45" east for 14.074 metres;
 
 Then turning and running along the northwestern limits of the Trans Canada Highway south 20° 34' 22" west for 60.218 metres, more or less, to the point of commencement;
 
@@ -300,7 +300,7 @@ Then running by T'Railway Provincial Park south 42 ° 57' 59" west 14.65 metres;
 
 Then running by the T'Railway Provincial Park along a curve to the left having a radius of 787.08 metres south 60 ° 02' 45" west 88 metres, more or less, to the point of beginning containing an area of 500.42 square metres, more or less.
 
-All bearings being referred to 3 ° Grid North NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude .
+All bearings being referred to 3 ° Grid North NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
 
 2. Anderson property
 
@@ -494,7 +494,7 @@ Then running by land granted by the Crown to Percy George Tipping and registered
 
 Containing an area of 511 square metres, more or less;
 
-All bearings refer to 3° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude .
+All bearings refer to 3° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
 
 2. Aliant property
 
@@ -610,7 +610,7 @@ Containing an area of 0.148 hectare, more or less;
 
 Subject to a utility easement, 5.4 metres wide, which crosses the subject lot;
 
-All bearings refer to 3° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30 west longitude;
+All bearings refer to 3 ° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30 west longitude;
 
 3. Taylor Property - Parcel 3 - Ocean Pond
 
@@ -650,7 +650,7 @@ Subject to, nevertheless, a drainage easement as shown on the adjoining plan;
 
 Containing an area of 72 square metres, more or less, and being more particularly shown delineated on the diagram annexed here;
 
-All bearings being referred to NAD 83 and to the meridian of 53 ° west longitude of the Modified 3 ° Transverse Mercator Projection for Newfoundland.
+All bearings being referred to NAD 83 and to the meridian of 53 ° west longitude of the Modified 3 ° Transverse Mercator Projection for Newfoundland .
 
 5. Jeans Garage Limited Property - Parcel 5 - Channel Port aux Basques
 
@@ -796,4 +796,44 @@ More or less to the point of beginning and containing an area of 0.0415 hectares
 
 All bearings refer to the meridian of 53 ° west longitude of the modified Transverse Mercator Projection.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1
+The area described in this Schedule is decreased by removing the following parcels of land:
+
+1. Parcel 1: Colliers Drive at Gallants, Humber West
+
+All that piece or parcel of land lying northeast of Colliers Drive at Gallants, in the Electoral District of Humber West, being further bounded and described as follows, that is to say:
+
+Beginning at a survey marker on the northeast limit of Colliers Drive, that point being the southerly angle of this described parcel of land, that angle having coordinates of north 5,396,049.067 and east 324,325.394;
+
+Running then from that point of beginning by the northwest limit of the Newfoundland and Labrador T'Railway Provincial Park, north 39 ° 58'04" east 33.497 metres to a survey marker;
+
+Then running by the southwest limit of the reserve 10 metres wide along 7A Brook, north 47 ° 45'13" west 10.386 metres to a survey marker;
+
+Then running by land formerly owned by Adam Goodfellow under L S 14A, now Ralph Collier, south 39 ° 48'01" west 29.558 metres to a survey marker;
+
+Then running by the northeast limit of Colliers Drive, south 27 ° 06'36" east 11.174 metres more or less to the point of beginning.
+
+Containing an area of 326 square metres more or less.
+
+Subject to a utility easement 2.7 metres wide which crosses the lot.
+
+All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the central meridian at 58 ° 30' west longitude.
+
+2. Parcel 2: Tipping Drive at Eastern Brook, Humber Valley
+
+All that piece or parcel of land lying northwest of Tipping Drive and southeast of Deer Lake, at Eastern Brook, in the Electoral District of Humber Valley, being further bounded and described as follows, that is to say:
+
+Beginning at a point, that point being the northerly angle of this described parcel of land and having coordinates of north 5,434,634.182 and east 372,335.151;
+
+Running then from the above described point of beginning by land granted by the Crown to Percy George Tipping and registered under Vol. 108 and Fol. 472, south 25 ° 46'05" west 61.652 metres;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, south 74 ° 34'32" east 9.186 metres to a point on the northwest limit of Tipping Drive, then running by the northwest limit of Tipping Drive, in a generally clockwise direction, along a curve of radius 660.74 metres, to a point being distant 60.887 metres, as measured on a bearing of north 26 ° 47'15" east from the last mentioned point;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, north 69 ° 10'14" west 10.157 metres, more or less to the point of beginning.
+
+Containing in all an area of 558 square metres, more or less.
+
+Subject to a utility easement which extends into the lot.
+
+All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1
