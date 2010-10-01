@@ -1728,7 +1728,7 @@ Unlawful sale of radar detectors
 
 4
 
-Using a hand-held cellular phone while driving a motor vehicle on a highway
+Holding or using a hand-held wireless communication device or other prescribed device that is capable of receiving or transmitting telephone communications, electronic data, email or text messages
 
 177
 
@@ -1976,4 +1976,4 @@ Operating air brake equipped vehicle without proper endorsement
 
 Upgrading drivers licence without properly licensed driving instructor
 
-165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1
+165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1
