@@ -1366,7 +1366,7 @@ Unlawful sale of radar detectors
 
 3
 
-Operating motor vehicle while using hand held cellular phone
+Holding or using a hand-held wireless communication device or other prescribed device that is capable of receiving or transmitting telephone communications, electronic data, email or text messages
 
 177
 
@@ -2632,4 +2632,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1
+106/05 s12; 45/09 s1; 91/10 s1
