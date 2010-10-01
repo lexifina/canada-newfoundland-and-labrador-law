@@ -24,6 +24,28 @@ Alcohol and drug education program
 
 Alcohol and drug dependency assessment / rehabilitation
 
+7 day
+
+1
+
+-
+
+7 day
+
+2
+
+2 years
+
+Alcohol and drug education program
+
+7 day
+
+3 or more
+
+2 years
+
+Alcohol and drug dependency assessment / rehabilitation
+
 90 day
 
 1
@@ -52,13 +74,21 @@ Criminal Code
 
 Alcohol and drug dependency assessment / rehabilitation
 
-Combination of 24 hour or 90 day and Criminal Code
+Combination of:
 
-2 and 1
+(a) 24 hour
+
+(b) 7 day
+
+(c) 90 day suspension
+
+(d) Criminal Code
+
+2 of (a), (b) or (c), or a combination of 2 of them, and one suspension under (d)
 
 2 years
 
-Alcohol and drug dependency assessment / rehabilitation
+Alcohol and drug dependency assessment/rehabilitation
 
 Section 60.4 of Act
 
@@ -80,4 +110,4 @@ Alcohol and drug education program
 
 Alcohol and drug dependency assessment / rehabilitation
 
-74/03 s9; 49/09 s5
+74/03 s9; 49/09 s5; 92/10 s1
