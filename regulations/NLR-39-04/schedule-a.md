@@ -390,9 +390,9 @@ Notes
 
 1
 
-Polychlorinated dibenzo-p- dioxins (PCDDs) & poly-chlorinated dibenzofurans
+Polychlorinated dibenzo -p- dioxins (PCDDs ) & poly-chlorinated dibenzofurans
 
-(PCDFs) (TEQ)
+(PCDFs ) (TEQ)
 
 Picograms (TEQ) per cubic metre of air
 
@@ -517,3 +517,5 @@ OCDD
 OCDF
 
 0.001
+
+39/04 Sch A

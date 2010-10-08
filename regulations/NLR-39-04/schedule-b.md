@@ -39,3 +39,5 @@ Where:
 (a) (ug/m3) = micrograms per cubic metre; and
 
 (b) (pg I-TEQ/m3) = International Total Equivalent Quotient picograms per cubic metre
+
+39/04 Sch B
