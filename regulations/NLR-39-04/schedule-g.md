@@ -22,7 +22,7 @@ Residual Oil
 
 90
 
->105
+> 105
 
 40
 
@@ -34,4 +34,6 @@ Where:
 
 (a) (GJ/hr)= gigajoules/hour
 
-(b) (g/GJ)- grams per gigajoule.
+(b) (g/GJ)- grams per gigajoule .
+
+39/04 Sch G

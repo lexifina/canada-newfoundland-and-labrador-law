@@ -41,3 +41,5 @@ Materials Prohibited from Burning in a Fire
 (j) trash, garbage, or other waste from commercial, industrial or municipal operations
 
 (t) materials disposed of as part of the removal or decontamination of equipment, buildings or other structures
+
+39/04 Sch E
