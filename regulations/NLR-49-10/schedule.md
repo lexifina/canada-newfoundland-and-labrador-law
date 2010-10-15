@@ -68,6 +68,8 @@ Railway Safety Appliance Standards Regulations, C.R.C., c. 1171
 
 GO 10
 
+Railway Safety Management Systems Regulations, SOR/2001-37
+
 Service Equipment Cars Regulations, SOR/86-922
 
 CTC 1986-9
@@ -251,3 +253,5 @@ Switch Locks Installation Order, October 21, 1986
 Engineering
 
 R-39910
+
+49/10 Sch; 96/10 s1
