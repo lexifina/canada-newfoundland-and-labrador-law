@@ -1,4 +1,4 @@
-RSNL1990 CHAPTER R-2
+RSNL1990 CHAPTER R - 2
 
 REAL ESTATE TRADING ACT [Sections 47 and 48 to be Proclaimed]
 
