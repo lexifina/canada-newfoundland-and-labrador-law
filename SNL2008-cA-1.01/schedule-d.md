@@ -4,7 +4,7 @@ Property A Transmission Line from Bishop's Falls - Grand Falls
 
 All that piece or parcel of land situate and being at Grand Falls-Windsor, in the provincial electoral district of Grand Falls-Buchans and Bishops Falls, in the provincial electoral district of Exploits abutted and bounded as follows:
 
-Beginning at a point having grid coordinates of north 5 420 881.3383 metres and east 329 214.5440 metres, NAD 83 G.P.S . ;
+Beginning at a point having grid coordinates of north 5 420 881.3383 metres and east 329 214.5440 metres, NAD 83 G. P.S. ;
 
 Then from the above described starting point south 79 ° 36' 23" east for 21.141 metres;
 
