@@ -2,7 +2,7 @@ Schedule C
 
 Property A Millertown Dam
 
-All that piece or parcel of land situated and being at the eastern end of Red Indian Lake beginning at a point having scaled map coordinate values north 5 403 119 east 260 905.
+All that piece or parcel of land situated and being at the eastern end of Beothuk Lake beginning at a point having scaled map coordinate values north 5 403 119 east 260 905.
 
 Then south 60-03 east a distance of 186 metres;
 
@@ -12,7 +12,7 @@ Then north 60-03 west a distance of 186 metres;
 
 Then north 29-56 east a distance of 423 metres to the principal point of beginning containing an area of 7.85 hectares more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , Zone 2, NAD83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, Zone 2, NAD83.
 
 Property B Bishop's Falls Power House
 
@@ -32,7 +32,7 @@ Then south 20-02 east a distance of 19 metres;
 
 Then south 75-55 east a distance of 498 metres to the principal point of beginning containing an area of 13.65 hectares more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , Zone 1, NAD83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, Zone 1, NAD83.
 
 Property C Buchans - Upper Dam
 
@@ -48,7 +48,7 @@ Then south 80 ° 30' west, 100 metres;
 
 Then north 09 ° west, 23 metres, more or less, to the point of beginning and containing an area of 0.23 hectares, more or less.
 
-All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection .
+All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection.
 
 Property D Buchans Dam, intake, penstock, power plant
 
@@ -100,7 +100,7 @@ Then south 34 ° 43' west, 46.01 metres;
 
 Then north 56 ° 20' west, 0.34 metres, more or less, to the point of beginning and containing an area of 6.67 hectares, more or less.
 
-All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection .
+All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection.
 
 Property E Goodyears Dam - Exploits River
 
@@ -118,7 +118,7 @@ Then north 39-06 east a distance of 167 metres;
 
 Then due north a distance of 290 metres to the principal point of beginning containing an area of 2.52 hectares more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , Zone 2, NAD83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, Zone 2, NAD83.
 
 Property F First Falls - Exploits River
 
@@ -230,7 +230,7 @@ Then south 56 ° east, 180 metres;
 
 Then south 43 ° west, 80 metres to the principal point of beginning, containing an area of 1.4 hectares, more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , NAD 83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, NAD 83.
 
 Property I South Twin River Control Structure
 
@@ -246,7 +246,7 @@ Then south 30 ° east, 115 metres;
 
 Then south 58 ° west, 45 metres to the principal point of beginning, containing an area of 0.52 hectares, more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , NAD 83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, NAD 83.
 
 Property J Trouble Pond Control Structure
 
@@ -262,7 +262,7 @@ Then south 74 ° west 70 metres;
 
 Then north 20 ° west, 160 metres to the principal point of beginning, containing an area of 1.1 hectares, more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transvesre Mercator Projection , NAD 83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transvesre Mercator Projection, NAD 83.
 
 Property K Rocky Pond Control Structure
 
@@ -278,7 +278,7 @@ Then south 44 ° west, 75 metres;
 
 Then north 45 ° west, 330 metres to the principal point of beginning, containing an area of 2.5 hectares, more or less.
 
-All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection , NAD 83.
+All bearings are referred to the meridian of 56 ° west longitude of the 3 ° Transverse Mercator Projection, NAD 83.
 
 Property L Long Lake Control Structure
 
@@ -294,7 +294,7 @@ Then north 20 ° west, 58 metres;
 
 Then north 72 ° east, 40 metres, more or less, to the point of beginning and containing an area of 0.23 hectares, more or less.
 
-All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection .
+All bearings being referred to the meridian of 56 ° west longitude, zone 2 NAD 83 projection.
 
 Property M Star Lake Control Structure
 
@@ -314,7 +314,7 @@ All bearing being referred to the meridian of 56 ° west longitude, zone 2, NAD 
 
 Property N Star Lake Power Plant
 
-All that piece or parcel of land situate and being at Star Brook, Red Indian Lake , Newfoundland and Labrador and being bounded and abutted as follows:
+All that piece or parcel of land situate and being at Star Brook, Beothuk Lake , Newfoundland and Labrador and being bounded and abutted as follows:
 
 Beginning at a point having scaled map coordinates of north 5 379 888 metres and east 215 747 metres of the 3 ° modified transverse mercator projection for the Province of Newfoundland and Labrador .
 
