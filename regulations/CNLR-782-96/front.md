@@ -40,10 +40,12 @@ Yukon
 
 State of Delaware
 
+State of New York
+
 British Colony of Cayman Islands , British West Indies
 
 Bermuda
 
-269/85; 118/88; 37/90; 2008 c47 s8
+269/85; 118/88; 37/90; 2008 c47 s8; 12/11 s1
 
 The Order designating the Province of Alberta for the purposes of the registration of limited partnerships, Newfoundland Regulation 269/85, the Order designating the Provinces of New Brunswick, Prince Edward Island, Saskatchewan and British Columbia, the Yukon and Northwest Territories and the State of Ohio for the purposes of the registration of limited partnerships, Newfoundland Regulation 118/88, and the Order designating the State of Texas for the purposes of the registration of limited partnerships, Newfoundland Regulation 37/90, are repealed.
