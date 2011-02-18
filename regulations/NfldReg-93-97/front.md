@@ -54,7 +54,7 @@ Then running along the centreline in a generally northwesterly and a westerly di
 
 3. Bishop's Falls Parcel
 
-Also, all that piece or parcel of land situate and being at Bishop's Falls, in the Electoral District of Exploits, abutted and bounded as follows:
+Also, all that piece or parcel of land situate and being at Bishop's Falls , in the Electoral District of Exploits, abutted and bounded as follows:
 
 Commencing at a point, that point being distant 386.64 metres as measured on a bearing of north 25º 28' 34" east from Control Station 76G2194;
 
@@ -98,47 +98,17 @@ Containing in all an area of 0.402 hectares.
 
 All bearings refer to grid north.
 
-5. Howley Parcel
+5. Howley Parcel - [Rep. by 17/11 s1]
 
-Also all that piece or parcel of land situate and being east of Howley in the Electoral District of Humber Valley, being a strip of land 30.48 metres wide, lying between two parallel lines and being perpendicularly distant 15.24 metres on either side of a centre line, more particularly described as follows:
+6. Terra Nova Parcel - [Rep. by 17/11 s1]
 
-Commencing at a point in the easterly limit of Route 401, 30 metres wide, at Howley, being the point of intersection of the said limit with the centre line of the former Canadian National Railway line;
-
-Then running along the former centre line in general northeasterly and southeasterly directions for a distance of approximately 22 kilometres to the point of intersection of the former centre line with the centre of the bridge spanning Kittys Brook;
-
-Containing in all an area of 67 hectares, more or less;
-
-All bearings refer to grid north.
-
-6. Terra Nova Parcel
-
-All that piece or parcel of land situate and being north of Terra Nova, in the Electoral District of Terra Nova, being a strip of land, 30.48 metres wide, lying between 2 parallel lines and being perpendicularly distant 15.24 metres on either side of a centre line, more particularly described as follows:
-
-Commencing at a point in the centre line of the former Canadian National Railway Line at Terra Nova, being the point of intersection of the former centre line with the centre of the northern end of the bridge spanning Terra Nova Lake ;
-
-Then running along the former centre line in general north and northeasterly directions for a distance of approximately 30 kilometres to the point of intersection of the former centre line with the centre of Northwest Brook;
-
-Containing an area of 93 hectares, more or less;
-
-All bearings refer to grid north.
-
-7. Badger Parcel
-
-All that piece or parcel of land situate and being west of Badger in the Electoral District of Grand Falls-Buchans, being a strip of land 30.48 metres wide, lying between two parallel lines and being perpendicularly distant 15.24 metres, on either side of a centre line more-particularly described as follows:
-
-Commencing at a point in the westerly limit of Route 370, 20 metres wide, at Badger; being the point of intersection of the limit with the centre line of the former Canadian National Railway line;
-
-Then running along the former centre line in general northwesterly and westerly directions for a distance of approximately 42 kilometres to the point of intersection of the former centre line with the centre of the bridge spanning Mary Marchs Brook;
-
-Containing an area of 131 hectares, more or less;
-
-All bearings refer to grid north.
+7. Badger Parcel - [Rep. by 17/11 s1]
 
 The area described in this Schedule is increased by adding the following parcels of land:
 
 1. Bishop's Falls Parcel (No. 2)
 
-All that piece or parcel of land situate and being at Bishop's Falls, in the Electoral District of Exploits, abutted and bounded as follows:
+All that piece or parcel of land situate and being at Bishop's Falls , in the Electoral District of Exploits, abutted and bounded as follows:
 
 Commencing at a point which measures 218.52 metres on a bearing of north 28º 18' 1" west from Control Station 76G2194;
 
@@ -276,7 +246,7 @@ Then south 64° 03' 55" east for 117.234 metres;
 
 Then north 49° 05' 13" east for 26.166 metres;
 
-Then turning and running by land of the Government of Newfoundland and Labrador (Abandoned Railway) south 45° 43' 45" east for 14.074 metres;
+Then turning and running by land of the Government of Newfoundland and Labrador ( Abandoned Railway) south 45° 43' 45" east for 14.074 metres;
 
 Then turning and running along the northwestern limits of the Trans Canada Highway south 20° 34' 22" west for 60.218 metres, more or less, to the point of commencement;
 
@@ -300,7 +270,7 @@ Then running by T'Railway Provincial Park south 42 ° 57' 59" west 14.65 metres;
 
 Then running by the T'Railway Provincial Park along a curve to the left having a radius of 787.08 metres south 60 ° 02' 45" west 88 metres, more or less, to the point of beginning containing an area of 500.42 square metres, more or less.
 
-All bearings being referred to 3 ° Grid North NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+All bearings being referred to 3 ° Grid North NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude .
 
 2. Anderson property
 
@@ -494,7 +464,7 @@ Then running by land granted by the Crown to Percy George Tipping and registered
 
 Containing an area of 511 square metres, more or less;
 
-All bearings refer to 3° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+All bearings refer to 3° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude .
 
 2. Aliant property
 
@@ -610,7 +580,7 @@ Containing an area of 0.148 hectare, more or less;
 
 Subject to a utility easement, 5.4 metres wide, which crosses the subject lot;
 
-All bearings refer to 3 ° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30 west longitude;
+All bearings refer to 3° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30 west longitude;
 
 3. Taylor Property - Parcel 3 - Ocean Pond
 
@@ -816,7 +786,7 @@ Containing an area of 326 square metres more or less.
 
 Subject to a utility easement 2.7 metres wide which crosses the lot.
 
-All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the central meridian at 58 ° 30' west longitude.
+All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the central meridian at 58° 30' west longitude .
 
 2. Parcel 2: Tipping Drive at Eastern Brook, Humber Valley
 
@@ -834,6 +804,6 @@ Containing in all an area of 558 square metres, more or less.
 
 Subject to a utility easement which extends into the lot.
 
-All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+All bearings refer to 3 ° Grid North, NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude .
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
