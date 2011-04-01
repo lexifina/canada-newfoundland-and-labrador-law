@@ -1,6 +1,6 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 11/07
 
-Access to Information Regulations under the Access to Information and Protection of Privacy Act (O.C . 2007-014)
+Access to Information Regulations under the Access to Information and Protection of Privacy Act (O.C. 2007-014)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 11/07
 
