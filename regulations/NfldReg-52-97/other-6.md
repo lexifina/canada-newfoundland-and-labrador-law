@@ -26,9 +26,9 @@ Where a plaintiff receives a reply that makes a counterclaim
 
 (d) oppose all or part of the claim by listing reasons why the claim is opposed.
 
-Where a counterclaim is for more than $5,000
+Where counterclaim is for more than $25, 000
 
-(5) A defendant who has a counterclaim amounting to more than $5,000, may
+(5) A defendant who has a counterclaim amounting to more than $25, 000 may
 
 (a) abandon part of the counterclaim so it may be heard in the court; or
 
@@ -36,7 +36,7 @@ Where a counterclaim is for more than $5,000
 
 How to abandon part of a counterclaim
 
-(6) To abandon part of a counterclaim, the defendant shall state on the counterclaim part of the reply that the amount over $5,000 is abandoned.
+(6) To abandon part of a counterclaim, the defendant shall state on the counterclaim part of the reply that the amount over $25, 000 is abandoned.
 
 The effect of abandoning part of a counterclaim
 
@@ -64,4 +64,4 @@ Where a plaintiff has already abandoned part of a claim
 
 (b) participate in the action begun by the defendant in the Trial Division and claim the higher amount.
 
-52/97 Rule 6; 105/05 Rule 1
+52/97 Rule 6; 105/05 Rule 1; 41/11 Rule 2
