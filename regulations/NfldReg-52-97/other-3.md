@@ -20,13 +20,13 @@ Claim against more than one defendant
 
 (3) A plaintiff may name more than one defendant in a statement of claim where the claim against each defendant is related to or connected with the original subject matter of the claim.
 
-Claim is for more than $5,000
+Claim is for more than $25, 000
 
-(4) A plaintiff who has a claim amounting to more than $5,000 may abandon that part of the claim in excess of $5,000.
+(4) A plaintiff who has a claim amounting to more than $25, 000 may abandon that part of the claim in excess of $25, 000.
 
 Abandoning part of a claim
 
-(5) To abandon part of a claim, a plaintiff shall state on the statement of claim that the amount over $5,000 is abandoned.
+(5) To abandon part of a claim, the plaintiff shall state on the statement of claim that the amount over $25,000 is abandoned.
 
 Effect of abandoning part of a claim
 
@@ -52,4 +52,4 @@ No representative of a deceased persons estate appointed
 
 (11) Where, a representative of a deceased persons estate has not been appointed, a plaintiff shall apply, under the Rules of Supreme Court, 1986 , to have a representative appointed before proceeding with a claim under these rules.
 
-52/97 Rule 3; 2001 c42 s45; 105/05 Rule 1
+52/97 Rule 3; 2001 c42 s45; 105/05 Rule 1; 41/11 Rule 1
