@@ -1,10 +1,10 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 43/09
 
-Child and Parental Benefits Regulations under the Income Tax Act, 2000 (O.C . 2009-160)
+Child and Parental Benefits Regulations under the Income Tax Act, 2000 (O.C. 2009-160)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 43/09
 
-Child and Parental Benefits Regulations under the Income Tax Act, 2000 (O.C . 2009-160)
+Child and Parental Benefits Regulations under the Income Tax Act, 2000 (O.C. 2009-160)
 
 (Filed May 26, 2009 )
 
