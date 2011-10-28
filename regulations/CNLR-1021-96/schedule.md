@@ -1,6 +1,6 @@
 Schedule
 
-Town of Arnold's Cove
+Town of Arnold 's Cove
 
 Town of Avondale
 
@@ -30,6 +30,8 @@ Town of Gambo
 
 Town of Gander
 
+Town of Glovertown
+
 Town of Grand Falls - Windsor
 
 Town of Happy Valley - Goose Bay
@@ -50,7 +52,7 @@ Town of Marystown
 
 City of Mount Pearl
 
-Town of Norman's Cove - Long Cove
+Town of Norman 's Cove - Long Cove
 
 Town of North River
 
@@ -82,4 +84,4 @@ Town of Trepassey
 
 Town of Wabush
 
-CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1; 76/10 s1
+CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1; 76/10 s1; 97/11 s1
