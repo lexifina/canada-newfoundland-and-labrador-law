@@ -50,4 +50,40 @@ Schedule B
 
 25. Fisheries Loan Board
 
-126/85; 2001 c42 s45
+26. Bay St. George Residential Support Board Co-operative Apartments #2, 3, 4, 5 and 6, Stephenville
+
+27. Bay St. George Youth Assessment Centre
+
+28. Bill and Paul's Community Living Arrangement
+
+29. CARA Transition House, Gander
+
+30. Eastern Residential Support Board
+
+31. Grace Sparkes Transition House
+
+32. Loretta Barlett Home for Youth
+
+33. Martin Martin Group Home
+
+34. Pine Heights Group Home, Grand Falls
+
+35. Shalom Incorporated
+
+36. T.J. McDonald Achievement Home, Burin
+
+37. Waypoints
+
+38. The Labrador Group Home
+
+39. The John Howard Society Home for Youth, St. John's
+
+40. Committee on Family Violence, Corner Brook
+
+41. Iris Kirby House
+
+42. Libra House Inc.
+
+43. Naomi Centre
+
+126/85; 2001 c42 s45; 96/11 s3
