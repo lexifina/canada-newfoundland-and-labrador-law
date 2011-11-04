@@ -192,4 +192,24 @@ Note: the above described parcel of land being subject to a utility easement as 
 
 All bearings are referred to Grid North, Zone 2-NAD83- 56 ° CM .
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being on the south side of Forest Avenue , in the City of Mount Pearl, in the Provincial Electoral District of Mount Pearl North, abutted and bounded as follows:
+
+Beginning at a point, in the southern limit of Forest Avenue , the said point being distant 142.857 metres from Control Monument No. 8OG2170 on a bearing of south 16 ° 41' 30" west with a reference bearing of south 77 ° 17' 30" east from Control Monument No. 8OG2171 to Control Monument No. 8OG2170;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park south 15 ° 56' 04" east 7.816 metres;
+
+Then running by the northern limits of the Newfoundland and Labrador T'Railway Provincial Park south 80 ° 17' 33" west 50.185 metres;
+
+Then running along the eastern limits of Forest Avenue north 03 ° 29' 52" east 5.215 metres;
+
+Then running along the southeastern limits of Forest Avenue along the arc of a curve having a chord bearing and distance of north 26 ° 43' 58" east 3.348 metres and a radius of 21.133 metres;
+
+Then running by land of Wayne Piccott north 80 ° 17' 33" eat 46.158 metres, more or less, to the point of beginning.
+
+The above described parcel of land containing, in all, an area of 377.9 square metres, more or less.
+
+All bearing and co-ordinates being referred to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, North American Datum 1983.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1

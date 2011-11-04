@@ -46,7 +46,7 @@ All bearings refer to the meridian of 53 ° west longitude of the modified three
 
 Also, all that piece or parcel of land being a portion of the former Canadian National Railway mainline right of way as shown on Special Plan No. 22 in the Registry of Crown Titles, situated and being at Ocean Pond in the Electoral District of Harbour Main-Whitbourne;
 
-More particularly described as a strip of land 15.24 metres wide running parallel to and being perpendicularly distant 7.62 metres on each side of the centreline of the railway right of way;
+More particularly described as a strip of land 22.86 metres wide running parallel to and being perpendicularly distant 7.62 metres on each side of the centreline of the railway right of way;
 
 Commencing at a point on the centreline at the mile 48 marker;
 
