@@ -212,4 +212,22 @@ The above described parcel of land containing, in all, an area of 377.9 square m
 
 All bearing and co-ordinates being referred to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, North American Datum 1983.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being northwest of Tipping Drive , in the Town of Pasadena , in the Provincial Electoral District of Humber East, abutted and bounded as follows:
+
+Beginning at a survey marker on the northwest limit of Tipping Drive, the said point being the easterly angle of the described parcel of land and having co-ordinates of north 5,434,374.098 and east 372,250.498;
+
+Then running from the above described point of beginning by the northwest limit of Tipping Drive, south 16 ° 00' 31" west for 122.133 metres, to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, north 50 ° 52' 12" west for 4.421 metres, to a survey marker;
+
+Then running by land granted by the Crown to W. A. Dawe, now Douglas Lavallee, and registered in Volume 113 - Folio 89 in the Registry of Crown Titles, north 16 ° 15' 18" east for 121.910 metres, to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, south 50 ° 52' 12" east for 3.851 metres, more or less, to the point of beginning.
+
+The above described parcel of land containing, in all, an area of 465 square metres more or less.
+
+All bearings refer to 3 ° Grid North, North American Datum 1983, as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1
