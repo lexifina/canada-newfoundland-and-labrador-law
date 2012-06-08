@@ -1554,6 +1554,12 @@ Compliance Indicators
 
 Description of Offences
 
+2.3(3)
+
+3
+
+Driving, causing to be driven or allowing to be driven a commercial vehicle which has been declared out-of-service under the regulations
+
 7(1)
 
 2
@@ -1882,7 +1888,7 @@ Defective muffler
 
 1
 
-Vehicle not equipped with horn
+Vehicle not equipped with a horn or horn not securely fastened
 
 31
 
@@ -1894,33 +1900,33 @@ Excessive smoke emitted from vehicle
 
 1
 
-Vehicle not equipped with a windshield wiper or washer
+Vehicle not equipped with a windshield wiper or washer system
 
-32(2)
+32(3)
 
 1
 
-Vehicle not equipped with a windshield defogging system
+Vehicle not equipped with a windshield defrosting and defogging system
 
-32(4)
+33.2(1)
 
 1
 
 Inadequate or no rear view mirror
 
-32(5)
+33.2(2)
 
 1
 
-No side rear view mirror when required
+Inadequate or no side rear view mirror when required
 
-32(6)
+33.2(3)
 
 1
 
 Towing vehicle not equipped with 2 side rear view mirrors
 
-32(7)
+35.2(1)
 
 1
 
@@ -1984,7 +1990,19 @@ Vehicle odometer not functioning
 
 1
 
-Required equipment not maintained in good working order
+Required equipment not maintained in good working order or not securely fastened
+
+43.1(4)
+
+2
+
+Operating or causing to be operated commercial vehicle not subject to systematic inspection, repair and maintenance program
+
+43.1(5)
+
+3
+
+Carrier failing to maintain records, destroying records or falsifying records required by regulations
 
 45
 
@@ -2003,6 +2021,24 @@ Head lamps do not conform with Motor Vehicle Safety Act (Canada)
 3
 
 Vehicle equipped with in-cab control for varying mass distribution on one or more axle
+
+50.2(1)
+
+1
+
+Operating vehicle not in compliance with regulations
+
+50.2(2)
+
+1
+
+Causing to be operated commercial vehicle not in compliance with regulations
+
+50.2(3)
+
+3
+
+Obstructing or hindering inspector in performance of his or her duties
 
 Highway Traffic Driver Regulations Provision
 
@@ -2590,36 +2626,6 @@ Failure to ensure proper safety marks remain displayed
 
 Failure to produce a training certificate upon request of an inspector
 
-Commercial Vehicle Maintenance Standards Regulations
-
-Compliance Indicator
-
-Description of Offence
-
-47(1)
-
-2
-
-Operate or cause to be operated commercial vehicle not in compliance with regulations
-
-47(2)
-
-2
-
-Operate or cause to be operated commercial vehicle not subject to systematic inspection, repair and maintenance program
-
-47(3)
-
-3
-
-Carrier failing to maintain records, destroy records or falsifying records required by regulations
-
-47(4)
-
-3
-
-Obstructing or hindering inspector in the performance of his or her duties in relation to regulations
-
 Carrier Safety Regulations
 
 Compliance Indicator
@@ -2632,4 +2638,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1
+106/05 s12; 45/09 s1; 91/10 s1; 52/12 s1
