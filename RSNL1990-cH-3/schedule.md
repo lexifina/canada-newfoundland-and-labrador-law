@@ -392,7 +392,19 @@ Failure to deliver plate or licence or give advice required to registrar
 
 2 days
 
-43(3)
+43(4)
+
+No licence for class of motor vehicle Second offence Subsequent
+
+50 200 500
+
+50 100 300
+
+2 days 7 days 17 days
+
+1 day 2 days 6 days
+
+43(5)
 
 Invalid or no driver's licence Second offence Subsequent
 
@@ -403,6 +415,18 @@ Invalid or no driver's licence Second offence Subsequent
 2 days 7 days 17 days
 
 1 day 2 days 6 days
+
+43(6)
+
+Driving while disqualified Second offence Subsequent offence
+
+200 300 500
+
+100 200 300
+
+7 days 10 days 17 days
+
+2 days 4 days 6 days
 
 45(7)
 
@@ -763,18 +787,6 @@ Applying for driver's licence while disqualified
 14 days
 
 2 days
-
-73(2)
-
-Driving while disqualified Second offence Subsequent offence
-
-200 300 500
-
-100 200 300
-
-7 days 10 days 17 days
-
-2 days 4 days 6 days
 
 75(5)(a)
 
@@ -3608,4 +3620,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8
