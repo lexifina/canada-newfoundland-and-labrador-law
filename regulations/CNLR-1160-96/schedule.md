@@ -2238,16 +2238,6 @@ Operating a trailer with a width greater than 2.05 metres without required consp
 
 Operating an overmass or oversize vehicle without special permit
 
-Cargo Securement Regulations
-
-Compliance Indicators
-
-Description of Offences
-
-Violation of any provision
-
-3
-
 Motor Carrier Act Provision
 
 Compliance Indicators
@@ -2518,65 +2508,137 @@ Compliance Indicators
 
 Description of Offence
 
-3(1)
+4(1), (2) and (3)
 
 2
 
-Driver of commercial vehicle failing to inspect or cause to be inspected a commercial vehicle which he or she drives before its first trip of the day
+Failing to conduct, or cause to be conducted an inspection of a commercial vehicle in the prescribed manner and frequency.
 
-4
+5(1)
 
 2
 
-Driver of commercial vehicle or person inspecting commercial vehicle failing to perform complete inspection
+Failing to inspect every component listed in Column 1 of the applicable schedule.
 
-5
+5(2)
+
+2
+
+Failing to conduct an adequate inspection of a commercial vehicle.
+
+5(3)(a)
+
+2
+
+When conducting an inspection of a motor coach in accordance with Schedule D or an equivalent maintenance program failing to raise the commercial vehicle in a manner that provides access to the vehicle components.
+
+5(3)(b)
+
+2
+
+Failing to ensure that an inspection of a motor coach conducted in accordance with Schedule D or an equivalent maintenance program is conducted by a qualified person.
+
+6(1)
+
+1
+
+Failing to record on the inspection report defects detected during the inspection.
+
+6(2)
+
+1
+
+When conducting an inspection of a motor coach in accordance with Schedule D failing to record on the inspection report defects detected during the inspection, brake adjustment measurements and the nature of repairs carried out on the motor coach.
+
+6(3)
+
+1
+
+Failing to report to the carrier prior to the next required inspection minor defects detected during the inspection.
+
+6(4)
 
 3
 
-Driver of commercial vehicle or person inspecting commercial vehicle failing to note safety related defects found during inspection
+Failing to immediately report to the carrier major defects detected during the inspection.
 
-6
-
-1
-
-Commercial vehicle driver failing to report any defects observed while in charge of the vehicle
-
-7(1)
+6(5)
 
 1
 
-Person completing inspection report failing to provide information required by the regulations
+Where no defects detected during an inspection failing to record on the inspection report that no defects were detected.
 
-7(2)
+7
 
 1
 
-Commercial vehicle driver or designated person failing to sign inspection report upon completion
+Failing to prepare the inspection report in the prescribed manner with the prescribed information.
 
 8(1)
 
+2
+
+Driver failing to monitor condition of vehicle while driving or being in charge of a commercial vehicle.
+
+8(2)
+
+1
+
+Driver failing to record on the inspection report or to report to the carrier, in the prescribed time frame, a minor defect detected while driving or being in charge of a commercial vehicle.
+
+8(3)
+
 3
 
-Carrier or agent failing to repair defect likely to affect safe operation of vehicle prior to vehicle use
+Driver failing to record on the inspection report or to report to the carrier, in the prescribed time frame, a major defect detected while driving or being in charge of a commercial vehicle.
 
-8(4)(a)&(b)
+9(1)
+
+1
+
+Carrier failing to ensure that previously reported defects are repaired prior to next required inspection or other time period specified in the jurisdiction of travel.
+
+10(1)
 
 2
 
-Carrier failing to retain for specified period original copy of each vehicle inspection report or copy bearing certification of repairs
+Driving or permitting a person to drive a commercial vehicle where the vehicle was not inspected as prescribed, inspection report was not completed as prescribed or driver was not in possession of required inspection reports and schedules.
 
-8(5)
+10(2)
+
+3
+
+Driving or permitting a person to drive a commercial vehicle where a major defect has been detected.
+
+11(1)
 
 1
 
-Commercial vehicle driver failing to carry reports in vehicle
+Driver failing to forward to the carrier the original of each inspection report within the prescribed time period.
 
-12
+11(2)
 
 1
 
-Commercial vehicle driver failing to produce required vehicle inspection reports
+Carrier failing to retain the original inspection reports for the prescribed time period.
+
+13
+
+3
+
+Failing to produce inspection reports or schedules upon the demand of an inspector or failing to give an inspector reasonable help to enable him or her to carry out his or her duties.
+
+14(2)(d)
+
+2
+
+Falsifying an inspection report.
+
+14(2)(e)
+
+2
+
+Falsely certifying a repair.
 
 Dangerous Goods Ticket Offences Regulations Provision
 
@@ -2638,4 +2700,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 52/12 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1
