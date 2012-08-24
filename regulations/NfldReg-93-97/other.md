@@ -230,4 +230,26 @@ The above described parcel of land containing, in all, an area of 465 square met
 
 All bearings refer to 3 ° Grid North, North American Datum 1983, as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land lying north of St. Aidens Road, in the City of Corner Brook, in the Electoral District of Humber West, in the Province of Newfoundland and Labrador, being further bounded and described as follows, that is to say:
+
+Beginning at a survey marker on the northerly limit of St. Aidens Road, the said survey marker being the westerly angle of the herein described parcel of land, the said angle having co-ordinates of north 5,424,487.027 and east 343,088.167;
+
+Running then from the above described point of beginning by land occupied by John Staples, south 87 ° 29' 34" east 23.808 metres to a survey marker;
+
+Then continuing by land occupied by John Staples, south 85 ° 07' 15" east 44.187 metres to a survey marker;
+
+Then continuing by land occupied by John Staples, south 87 ° 19' 43" east 44.377 metres to a survey marker;
+
+Then continuing by land occupied by John Staples, north 89 ° 15' 41" east 1.571 metres to a survey marker;
+
+Then running by Newfoundland and Labrador T'Railway Provincial Park, south 17 ° 51' 29" west 3.146 metres to a survey marker;
+
+Then continuing by Newfoundland and Labrador T'Railway Provincial Park, north 85 ° 00' 39" west 113.176 metres, more or less, to the point of beginning;
+
+Containing an area of 153 square metres, more or less.
+
+All bearings refer to 3 ° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1
