@@ -170,11 +170,23 @@ Using or permitting use of fictitious plate or marker
 
 Failure to deliver plate or licence or give advice required to registrar
 
-43(3)
+43(4)
+
+2
+
+No licence for class of motor vehicle
+
+43(5)
 
 2
 
 Invalid or no driver's licence
+
+43(6)
+
+2
+
+Driving while disqualified
 
 45(7)
 
@@ -367,12 +379,6 @@ Failure to deliver driver's licence to court upon conviction
 0
 
 Applying for driver's licence while disqualified
-
-73(2)
-
-0
-
-Driving while disqualified
 
 75(5)(a)
 
@@ -1976,4 +1982,4 @@ Operating air brake equipped vehicle without proper endorsement
 
 Upgrading drivers licence without properly licensed driving instructor
 
-165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1
+165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1
