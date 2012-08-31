@@ -276,11 +276,23 @@ Giving false name or address in application for registration of a vehicle
 
 Using or permitting the use of fictitious identification plates
 
-43(3)
+43(4)
 
 3
 
-Invalid or no drivers licence
+Operating a motor vehicle without a licence for that class of vehicle
+
+43(5)
+
+3
+
+Invalid or no driver's licence
+
+43(6)
+
+3
+
+Driving while disqualified
 
 49(2)
 
@@ -383,12 +395,6 @@ Giving false name or address in application for drivers licence
 2
 
 Applying for drivers licence while disqualified
-
-73(2)
-
-3
-
-Driving while disqualified
 
 75(5(a)
 
@@ -2700,4 +2706,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1
