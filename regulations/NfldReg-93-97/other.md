@@ -252,4 +252,24 @@ Containing an area of 153 square metres, more or less.
 
 All bearings refer to 3 ° Grid North, NAD 1983, as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being on the west side of Talcville Road , in the Town of Conception Bay South , in the Electoral District of Conception Bay South, in the Province of Newfoundland and Labrador , and being bounded and abutted as follows, that is to say:
+
+Beginning at a point on the said west side of Talcville Road, said point having coordinates of north 5,263,832.467 metres and east 307,755.340 metres of the Modified 3 ° Transverse Mercator Projection, NAD83, for the Province of Newfoundland and Labrador;
+
+Running then along the said west side of Talcville Road south 34 ° 27' 57'' east 5.841 metres;
+
+And then south 29 ° 28' 15'' east 1.868 metres;
+
+Then running by Newfoundland and Labrador T'Railway Provincial Park south 65 ° 12' 09'' west 45.595 metres;
+
+Then running by Newfoundland and Labrador T'Railway Provincial Park north 32 ° 26' 51" west 7.688 metres;
+
+Then running by land of Florizel Mercer and described on Roll 2624 at Frame 140 of the Registry of Deeds for the Province of Newfoundland and Labrador north 65 ° 12' 09" east 45.485 metres, more or less to the point of beginning;
+
+Containing, in all, an area of 0.0347 hectares, more or less.
+
+All bearings being referred to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, NAD83.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12
