@@ -3572,7 +3572,7 @@ The above described piece or parcel of land containing an area of 61 hectares, m
 
 Also all that other piece or parcel of land being Parcel "86-A" on Lands Branch Plan No. SP-88 and containing an area of 5.525 hectares, more or less, abutted and bounded as follows, that is to say:
 
-Beginning at a point in the westerly limit of Chapel Arm-Bellevue Road, 30 metres wide, the point having reference from point number 29 of Bellevue Beach Provincial Park as shown on Lands Branch Plan No. SP-88 as follows:
+Beginning at a point in the westerly limit of Chapel Arm-Bellevue Road , 30 metres wide, the point having reference from point number 29 of Bellevue Beach Provincial Park as shown on Lands Branch Plan No. SP-88 as follows:
 
 South 73° 10' 5" west 12.08 metres;
 
@@ -3734,7 +3734,7 @@ Then running along the westerly and northerly shoreline of Jack's Pond in genera
 
 Then running by land of Jack's Pond Provincial Park north 16° 24' 50" east 40 metres, more or less;
 
-Then running along the centreline of the Cabot Highway, now abandoned, in a general northwesterly direction to the point of beginning, the point being distant 765 metres as measured on a bearing of north 73° 35' 10" west from the last mentioned point.
+Then running along the centreline of the Cabot Highway , now abandoned, in a general northwesterly direction to the point of beginning, the point being distant 765 metres as measured on a bearing of north 73° 35' 10" west from the last mentioned point.
 
 The above described piece or parcel of land containing an area of 257 hectares, more or less.
 
@@ -4934,7 +4934,7 @@ Then heading in a generally southeasterly direction for a distance of 430 metres
 
 Then heading in a generally northeasterly direction, following the western bank of a small river, while maintaining a distance of 20 metres from the coastline, for a distance of 570 metres, more or less, to a point having map scaled coordinates 5 527 365 metres north, 472 656 metres east;
 
-Then heading in a generally westerly direction along the southern bank of the Main River, while maintaining a distance of 20 metres from the coastline, for a distance of 350 metres, more or less, back to the point of beginning, the above described parcel of land containing an area of 0.143 km2 .
+Then heading in a generally westerly direction along the southern bank of the Main River , while maintaining a distance of 20 metres from the coastline, for a distance of 350 metres, more or less, back to the point of beginning, the above described parcel of land containing an area of 0.143 km2 .
 
 Parcel 2
 
@@ -7158,4 +7158,116 @@ Then east 1,597 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 22, NAD 27.
 
-132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1
+IIII. All that piece or parcel of land and land under water situate and being in the general area of Julienne Lake in the province and being described as follows:
+
+Beginning at a point that point having UTM co-ordinates of 5,886,000 metres north, 655,500 metres east;
+
+Then south 17,500 metres;
+
+Then west 5,500 metres;
+
+Then south 500 metres;
+
+Then west 2,000 metres;
+
+Then north 15,000 metres;
+
+Then west approximately 500 metres to the eastern boundary of mining lease 125 (223M);
+
+Then north approximately 2,400 metres along the eastern boundary of mining lease 125 (223M) to the southern boundary of mining lease 132 (223M);
+
+Then east approximately 500 metres along the southern boundary of mining lease 132 (223M);
+
+Then north approximately 300 metres along the eastern boundary of mining lease 132 (223M);
+
+Then east approximately 1,000 metres along the southern boundary of mining lease 132 (223M);
+
+Then north approximately 3,300 metres, a portion of which is along the eastern boundary of mining lease 132 (223M);
+
+Then east 1,500 metres;
+
+Then south 500 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then east 1,000 metres;
+
+Then south 1,000 metres;
+
+Then east 4,000 metres;
+
+Then south 500 metres;
+
+Then east 1,000 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 19, NAD 27.
+
+Reserving nevertheless out of the above described parcel of land all that area covered by map staked licences, portions of map staked licences and mining leases.
+
+JJJJ. All that piece or parcel of land and land under water situate and being north of Baie Verte in the province and being described as follows:
+
+Beginning at a point that point having UTM co-ordinates of 5,539,000 metres north, 560,000 metres east;
+
+Then south 500 metres;
+
+Then east 500 metres;
+
+Then south 500 metres;
+
+Then east 500 metres;
+
+Then south 1,000 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then west 1,500 metres;
+
+Then south 1,500 metres;
+
+Then west 1,000 metres;
+
+Then north 500 metres;
+
+Then west 500 metres;
+
+Then north 500 metres;
+
+Then west 500 metres;
+
+Then north 2,000 metres;
+
+Then east 500 metres;
+
+Then north 500 metres;
+
+Then east 1,000 metres;
+
+Then north 500 metres;
+
+Then east 1,500 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 21, NAD 27.
+
+KKKK. All that piece or parcel of land and land under water situate and being the Bishops Magnetite Mine east of Flat Bay in the province and being described as follows:
+
+Beginning at a point that point having UTM co-ordinates of 5,362,000 metres north, 402,000 metres east;
+
+Then south 1,000 metres;
+
+Then west 1,000 metres;
+
+Then north 1,000 metres;
+
+Then east 1,000 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 21, NAD 27.
+
+132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1
