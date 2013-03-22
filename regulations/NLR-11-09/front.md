@@ -2,6 +2,10 @@ NEWFOUNDLAND AND LABRADOR REGULATION 11/09
 
 Nickel-in-Concentrate Exemption Order, 2009 under the Mineral Act (O.C. 2009-051)
 
+NEWFOUNDLAND AND LABRADOR REGULATION 11/09
+
+Nickel-in-Concentrate Exemption Order, 2009 under the Mineral Act (O.C. 2009-051)
+
 (Filed February 28, 2009 )
 
 Under the authority of section 31.1 of the Mineral Act, the Lieutenant-Governor in Council makes the following Order.
