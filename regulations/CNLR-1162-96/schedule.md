@@ -4,7 +4,7 @@ Hours of Sale
 
 Hours of Sale and Consumption of all Spirits, Wine and Beer as Permitted under the Regulations
 
-Hotel, Motel, Tourist Home, Lounge, Club, Institution, Military Mess, Restaurant, Recreational Facility
+Hotel, Motel, Tourist Home, Lounge, Club, Institution, Military Mess, Restaurant, Brew Restaurant, Recreational Facility
 
 Hours of Sale :
 
@@ -72,7 +72,7 @@ Hours of Sale and Consumption:
 
 New Year's Eve
 
-Hotel, Motel, Tourist Home, Lounge, Club, Restaurant, Restaurant/Lounge, Military Mess, Institution, Recreational Facility
+Hotel, Motel, Tourist Home, Lounge, Club, Restaurant, Brew Restaurant, Restaurant/Lounge, Military Mess, Institution, Recreational Facility
 
 Hours of Sale :
 
@@ -94,4 +94,4 @@ Hours of Consumption:
 
 9:00 a.m. to 3:30 a.m. of the day immediately succeeding Thursday, Friday, Saturday and Sunday
 
-73/99 s4
+73/99 s4; 33/13 s7
