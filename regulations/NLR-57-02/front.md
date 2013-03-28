@@ -1,10 +1,10 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 57/02
 
-Endangered Species List Regulations under the Endangered Species Act (O.C . 2002-274)
+Endangered Species List Regulations under the Endangered Species Act (O.C. 2002-274)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 57/02
 
-Endangered Species List Regulations under the Endangered Species Act (O.C . 2002-274)
+Endangered Species List Regulations under the Endangered Species Act (O.C. 2002-274)
 
 (Filed July 30, 2002 )
 
