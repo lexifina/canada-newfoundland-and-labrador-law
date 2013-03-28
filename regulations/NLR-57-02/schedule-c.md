@@ -34,7 +34,7 @@ Mountain Fern
 
 Thelypteris quelpaertensis
 
-Peregrine Falcon (anatum )
+Peregrine Falcon (anatum)
 
 Falco peregrinus anatum
 
