@@ -14,6 +14,10 @@ Eskimo Curlew
 
 Numenius borealis
 
+Graceful Felt Lichen (Voles Ears Lichen)
+
+Erioderma mollissimum
+
 Ivory Gull
 
 Pagophila eburnea
@@ -28,7 +32,7 @@ Neotorularia humilis
 
 Mackenzies Sweetvetch
 
-Hedysarum boreale subsp . mackenzii
+Hedysarum boreale subsp. mackenzii
 
 Northern Bog Aster
 
@@ -42,7 +46,7 @@ Rattlesnakeroot
 
 Prenanthes racemosa
 
-Red Crossbill (percna )
+Red Crossbill (percna)
 
 Loxia curvirostra percna
 
@@ -54,4 +58,4 @@ Wolverine
 
 Gulo gulo
 
-116/07 s1; 9/08 s1; 68/10 s1
+116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1
