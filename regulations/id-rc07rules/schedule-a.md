@@ -1,10 +1,10 @@
-Schedule
+Schedule A
 
 House Operations Estimates of Intra-constituency Costs
 
-Riding No.
+District No.
 
-Riding Name
+Electoral District
 
 Total
 
@@ -12,292 +12,292 @@ Total
 
 Baie Verte - Springdale
 
-$12,600
+$10,100
 
 2
 
 Bay of Islands
 
-15,600
+12,500
 
 3
 
 Bellevue
 
-16,400
+13,100
 
 4
 
 Bonavista North
 
-12,600
+10,100
 
 5
 
 Bonavista South
 
-12,600
+10,100
 
 6
 
 Burgeo - LaPoile
 
-14,100
+11,300
 
 7
 
 Burin - Placentia West
 
-10,200
+8,200
 
 8
 
 Cape St. Francis
 
-9,000
+7,200
 
 9
 
 Carbonear - Harbour Grace
 
-9,600
+7,700
 
 10
 
 Cartwright - L'Anse au Clair
 
-49,200
+25,600
 
 11
 
 Conception Bay East - Bell Island
 
-9,600
+7,700
 
 12
 
 Conception Bay South
 
-9,000
+7,200
 
 13
 
 Exploits
 
-12,600
+10,100
 
 14
 
 Ferryland
 
-12,600
+10,100
 
 15
 
 Fortune Bay - Cape La Hune
 
-59,600
+16,300
 
 16
 
 Gander
 
-9,600
+7,700
 
 17
 
 Grand Bank
 
-15,000
+12,000
 
 18
 
 Grand Falls-Windsor - Buchans
 
-11,400
+9,100
 
 19
 
 Grand Falls-Windsor - Green Bay South
 
-9,000
+7,200
 
 20
 
 Harbour Main
 
-8,600
+6,900
 
 21
 
 Humber East
 
-7,900
+6,300
 
 22
 
 Humber Valley
 
-15,000
+12,000
 
 23
 
 Humber West
 
-10,200
+8,200
 
 24
 
 Kilbride
 
-9,000
+7,200
 
 25
 
 Labrador West
 
-9,600
+7,700
 
 26
 
 Lake Melville
 
-10,000
+8,000
 
 27
 
 Lewisporte
 
-11,500
+9,200
 
 28
 
 Mount Pearl North
 
-7,500
+6,000
 
 29
 
 Mount Pearl South
 
-7,500
+6,000
 
 30
 
 Placentia - St. Mary's
 
-14,400
+11,500
 
 31
 
 Port au Port
 
-8,500
+6,800
 
 32
 
 Port de Grave
 
-9,600
+7,700
 
 33
 
 Signal Hill - Quidi Vidi
 
-7,500
+6,000
 
 34
 
 St. Barbe
 
-12,600
+11,900
 
 35
 
 St. George's - Stephenville East
 
-9,600
+7,700
 
 36
 
 St. John's Centre
 
-7,500
+6,000
 
 37
 
 St. John's East
 
-7,500
+6,000
 
 38
 
 St. John's North
 
-7,500
+6,000
 
 39
 
 St. John's South
 
-7,500
+6,000
 
 40
 
 St. John's West
 
-7,500
+6,000
 
 41
 
 Terra Nova
 
-12,800
+10,200
 
 42
 
 The Isle of Notre Dame
 
-12,300
+9,800
 
 43
 
 The Straits - White Bay North
 
-12,600
+10,100
 
 44
 
 Topsail
 
-7,500
+6,000
 
 45
 
 Torngat Mountains
 
-45,900
+20,700
 
 46
 
 Trinity - Bay de Verde
 
-10,800
+8,600
 
 47
 
 Trinity North
 
-10,200
+8,200
 
 48
 
 Virginia Waters
 
-7,500
+6,000
 
 Total
 
-$626,400
+$442,000
 
-2007 cH-10.1 Sch Sch
+44/13 s9
