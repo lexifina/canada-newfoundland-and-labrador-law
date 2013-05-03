@@ -1,0 +1,11 @@
+SNL2006 CHAPTER I-15.1
+
+INTERNATIONAL INTERESTS IN MOBILE AIRCRAFT EQUIPMENT ACT
+
+CHAPTER I-15.1
+
+AN ACT TO IMPLEMENT THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE AIRCRAFT EQUIPMENT
+
+(Assented to December 12, 2006 )
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
