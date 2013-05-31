@@ -1,0 +1,11 @@
+SNL2012 CHAPTER M-25
+
+MUSKRAT FALLS PROJECT LAND USE AND EXPROPRIATION ACT
+
+CHAPTER M-25
+
+AN ACT RESPECTING THE USE AND EXPROPRIATION OF LAND FOR THE PURPOSE OF THE MUSKRAT FALLS PROJECT
+
+(Assented to December 22, 2012)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
