@@ -272,4 +272,24 @@ Containing, in all, an area of 0.0347 hectares, more or less.
 
 All bearings being referred to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, NAD83.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being in the Town of Conception Bay South , in the province of Newfoundland and Labrador , in the Electoral District of Topsail, abutted and bounded as follows, that is to say:
+
+Beginning at a point being the southeastern most corner of the herein described parcel of land and having coordinates of east 309,963.423 metres and north 5,265,076.659 metres, more or less;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park south 77 ° 24' 24" west for 7.322 metres, more or less;
+
+Then running by land of Michael Nolan, registered at the Registry of Deeds in Volume 1282 Folio 410, clockwise along an arc with a chord bearing of north 11 ° 40' 31" west, a chord distance of 23.851 metres, and a radius of 164.057 metres, more or less;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park north 80 ° 25' 56" east for 7.298 metres, more or less;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park counter clockwise along an arc with a chord bearing of south 11 ° 44' 37" east, a chord distance of 23.466 metres, and a radius of 117.643 metres, more or less, to the point of beginning.
+
+The above described piece or parcel of land containing an area of 170.849 square metres, more or less.
+
+Reserving and excepting out of the above described piece or parcel of land, however, all those pieces or parcels of land lawfully alienated from the Crown.
+
+All bearings and coordinates refer to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, NAD 1983 CSRS.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1
