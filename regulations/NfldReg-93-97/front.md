@@ -304,21 +304,19 @@ All bearings refer to 3 ° Grid North NAD 1983 as referred to the Transverse Mer
 
 4. Little Harbour property - parcel 1
 
-All that piece or parcel of land lying northwest of the Trans Canada Highway at Little Harbour, in the Electoral District of Humber Valley, in the Province of Newfoundland and Labrador , being further bounded and described as follows:
+All that piece or parcel of land situate and being located at Little Harbour, in the Electoral District of Humber Valley, in the Province of Newfoundland and Labrador, being further bounded and described as follows:
 
-Beginning at a point, that point being the northerly corner of the described lot and having co-ordinates of north 5,442,343.817 and east 376,868.979;
+Beginning at a point, that point being the northerly angle of the described lot and having co-ordinates of north 5,442,235.256 and east 376,690.675;
 
-Then running from the above described point of beginning by land of Nathanial Rubia, and by a Right of Way, south 58 ° 39' 53" west 208.753 metres;
+Then running from the described point of beginning by the Newfoundland and Labrador TRailway Provincial Park, 30.48 metres wide, south 0 ° 58' 07" east 35.351 metres;
 
-Then running by land of Taylor Estates , and by a Right of Way, south 58 ° 35' 53" west 388.629 metres;
+Then running by land granted by the Crown to Bishop OReilly General Assembly of the Knights of Columbus, and registered under Vol. 166-Fol. 32 in the Registry of Crown Grants, south 58 ° 35' 53" west 1,018.353 metres to a point, and along a curve of radius 719.440 metres, in a counterclockwise direction, to a point being distant 34.068 metres, as measured on a bearing of south 57 ° 14' 23" west from the last mentioned point;
 
-Then running by land of the Government of Newfoundland and Labrador , T'Railway, south 60 ° 22' 00" east 34.838 metres;
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, along a curve of radius 105.000 metres, in a counterclockwise direction, to a point being distant 79.234 metres, as measured on a bearing of south 75 ° 37' 26" west from the last mentioned point;
 
-Then running by land of Taylor Estates , and by Crown Land, north 58 ° 35' 53" east 371.74 metres;
+Then running by land of the Columbus Club of Corner Brook, L.S. 1031, along a curve of radius 749.920 metres, in a clockwise direction, to a point being distant 110.116 metres, as measured on a bearing of north 54 ° 23' 10" east from the last mentioned point;
 
-Then running by Crown Land, north 58 ° 39' 53" east 208.736 metres;
-
-Then running by land of the Government of Newfoundland and Labrador, T'Railway, north 31 ° 20' 07" west 30.48 metres, more or less, to the point of beginning containing an area of 1.795 hectare, more or less, and being more particularly shown on Yates and Woods Limited Drawing No. 04022-2, dated September 30, 2004;
+Then continuing by said land of the Columbus Club of Corner Brook, north 58 ° 35' 53" east 1,036.260 metres, more or less, to the point of beginning containing an area of 3.314 hectare more or less;
 
 All bearings refer to 3 ° Grid North NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58 ° 30' west longitude.
 
