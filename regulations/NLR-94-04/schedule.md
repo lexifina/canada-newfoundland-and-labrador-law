@@ -16,8 +16,12 @@ Manitoba Director Employment Standards Division
 
 Ontario Director of Employment Standards Employment Practices Branch, Department of Labour
 
+Quebec Commission des normes du travail
+
 New Brunswick Director of Employment Standards Department of Training and Employment Development
 
 Prince Edward Island Inspector of Labour Standards Department of Community & Cultural Affairs
 
 Nova Scotia Director of Labour Standards Department of Environment and Labour
+
+94/04 Sch; 108/13 s1
