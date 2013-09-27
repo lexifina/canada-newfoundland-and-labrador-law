@@ -6,6 +6,10 @@ American Marten (Newfoundland Population)
 
 Martes americana atrata
 
+Bodin's Milkvetch
+
+Astragalus bodinii
+
 Chimney Swift
 
 Chaetura pelagica
@@ -38,4 +42,4 @@ Woodland Caribou (Red Wine herd)
 
 Rangifer tarandus
 
-157/04 s2; 9/08 s2; 114/09 s1
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2
