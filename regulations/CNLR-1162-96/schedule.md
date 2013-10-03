@@ -94,4 +94,4 @@ Hours of Consumption:
 
 9:00 a.m. to 3:30 a.m. of the day immediately succeeding Thursday, Friday, Saturday and Sunday
 
-73/99 s4; 33/13 s7
+73/99 s4 33/13 s7
