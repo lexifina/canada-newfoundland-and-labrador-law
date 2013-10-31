@@ -2,101 +2,79 @@ Schedule B
 
 Fees
 
-Definitions
+Definition
 
 1. In this Schedule of Fees the following definitions apply:
 
 (a) attendance in court means attendance in court or a judge's chambers and waiting at the court house for either;
 
-(b) preparation means a service performed on behalf of a client other than attendance in court;
+(b) preparation means a service performed on behalf of a client other than attendance in court; and
 
 (c) appeals include prerogative writ and charter of rights applications.
 
-Maximum hours
+Maximum hourly rate
 
-2. (1) The maximum hours of preparation or attendance in court, travel and accommodation are as follows:
+2. (1) The maximum hourly rate chargeable by a solicitor for preparation or attendance in court, including travel, is as follows:
 
 (a)
 
-for preparation and attendance in court:
+for articled students
 
-(i)
-
-for all offences within the exclusive jurisdiction of the Trial Division, jury trials, dangerous offender applications and appeals before the Court of Appeal and the Supreme Court of Canada
-
-50/60
-
-(ii)
-
-for all matters before a judge alone
-
-45/55
-
-(iii)
-
-duty counsel (adult or youth court)
-
-50/60
-
-(iv)
-
-for all other matters
-
-45/55
+50
 
 (b)
 
-for articled students
+for solicitors who are members of the bar for less than 5 years
 
-20
+120
 
 (c)
 
-for actual time spent travelling plus waiting time during normal business hours up to a maximum of 5 when the solicitor travels by plane, not including delays due to weather or other circumstances
+for solicitors who are members of the bar for at least 5 years but less than 10 years
 
-45/55
+125
 
-(2) The maximum hours of preparation for criminal and quasi-criminal matters are as follows:
+(d)
+
+for solicitors who are members of the bar for 10 years or more
+
+135
+
+(2) For the purposes of subsection (1), travel includes in transit waiting time.
+
+Maximum hours
+
+3. (1) The maximum number of hours for preparation in criminal and quasi-criminal matters are as follows:
 
 (a)
 
 for all offences within the exclusive jurisdiction of the Supreme Court and dangerous offender applications
 
-75
+200
 
 (b)
 
 for all offences before a judge and jury
 
-30
+100
 
 (c)
 
 for all indictable offences before a judge alone
 
-20
+50
 
 (d)
 
 for all summary conviction offences
 
-06
+20
 
 (e)
 
-for bail, bail review and bail variation
+for all bail, bail review and bail variations before any level of court
 
-(i)
-
-offences within the exclusive jurisdiction of the Supreme Court
-
-10
-
-(ii)
-
-all other bail hearings, reviews or variations
-
-05
+20
 
 (f)
 
@@ -110,57 +88,57 @@ all offences and bail applications are to be taxed as if the young offender was 
 
 transfer hearings
 
-20
+50
 
 (iii)
 
 review of disposition
 
-05
+10
 
-(3) The maximum number of hours for preparation in civil matters are as follows:
+(2) The maximum number of hours for preparation in civil matters are as follows:
 
 (a)
 
 for divorce
 
-05
+7
 
 (b)
 
 for maintenance
 
-05
+20
 
 (c)
 
-for custody and wardship
+for all custody matters except custody proceedings referred to in paragraphs (e) and (f)
 
-20
+40
 
 (d)
 
-for affiliation proceedings
+for all child access matters except custody proceedings referred to in paragraphs (e) and (f)
 
-10
+20
 
 (e)
 
-for small claims actions
+for temporary custody proceedings under the Child Youth Care and Protection Act
 
-05
+30
 
 (f)
 
-for all other civil actions
+for continuous custody proceedings under the Child Youth Care and Protection Act
 
-10
+60
 
 (g)
 
-for separation and affiliation agreements
+for all other civil actions
 
-05
+20
 
 (h)
 
@@ -170,44 +148,70 @@ for appeals
 
 before the Trial Division
 
-10
+50
 
 (ii)
 
 sentence appeals before the Court of Appeal
 
-10
+40
 
 (iii)
 
 all other appeals before the Court of Appeal
 
-25
+75
 
 (iv)
 
 bail pending appeal
 
-05
+10
 
 (v)
 
 Supreme Court of Canada
 
-40
+100
 
 (i)
 
 before an administrative boards and other tribunals
 
-10
+30
 
-Maximum hours
+(j)
 
-3. The maximum number of hours for appearances in court or appearances before another tribunal is 6 hours a day.
+for appeals from administrative boards and other tribunals
+
+(i)
+
+to the Trial Division
+
+40
+
+(ii)
+
+to the Court of Appeal, Federal Court or Federal Court of Appeal
+
+60
+
+(iii)
+
+to the Supreme Court of Canada
+
+100
+
+Maximum hours per day
+
+4. The maximum number of hours chargeable in a day for
+
+(a) appearances in court or appearances before another tribunal, including waiting time and delays of court proceedings, is 7 hours a day ; and
+
+(b) actual time spent travelling to and from the solicitor's ordinary place of business, including in transit waiting time, is 7 hours a day.
 
 Mileage, meals and accommodations
 
-4. Mileage, meals and accommodations shall be paid in accordance with amounts paid by the provincial government to its employees.
+5. Mileage, meals and accommodations shall be paid in accordance with amounts paid by the provincial government to its employees.
 
-52/91 s1
+88/15 s1
