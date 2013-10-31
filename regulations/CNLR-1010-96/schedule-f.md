@@ -42,6 +42,6 @@ Provincial director
 
 Province
 
-10. In this Schedule the term "province" includes a territory of Canada.
+10. In this Schedule the term "province" includes a territory of Canada .
 
 87/78 Sch VIII

@@ -34,7 +34,7 @@ BURIN: Burin - Placentia West, Grand Bank
 
 AREA 8 (serviced by Corner Brook office)
 
-CORNER BROOK: Bay of Islands , Baie Verte, Humber East, Humber Valley , Humber West, St. Barbe, The Straits & White Bay North
+CORNER BROOK: Bay of Islands, Baie Verte, Humber East, Humber Valley , Humber West, St. Barbe, The Straits & White Bay North
 
 AREA 9 (serviced by Stephenville office)
 
@@ -42,6 +42,6 @@ STEPHENVILLE: Burgeo & La Poile, Port au Port, St. George's - Stephenville East
 
 AREA 10 (serviced by Happy Valley office)
 
-LABRADOR : Cartwright - L'Anse au Clair, Labrador West, Lake Melville , Torngat Mountains
+LABRADOR: Cartwright - L'Anse au Clair, Labrador West, Lake Melville , Torngat Mountains
 
 87/78 Sch VI
