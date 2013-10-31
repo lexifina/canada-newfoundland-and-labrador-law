@@ -38,13 +38,13 @@ Income
 
 (c) investment income;
 
-(d) pensions received under the Old Age Security Act ( Canada ) and the Canada Pension Plan Act;
+(d) pensions received under the Old Age Security Act (Canada ) and the Canada Pension Plan Act;
 
-(e) allowances received under the War Veterans Allowances Act ( Canada ) or under the Civilian War Pensions and Allowances Act ( Canada );
+(e) allowances received under the War Veterans Allowances Act (Canada ) or under the Civilian War Pensions and Allowances Act (Canada );
 
 (f) Workers' Compensation Board payments received under the Workers' Compensation Act;
 
-(g) unemployment insurance benefits received under the Employment Insurance Act ( Canada );
+(g) unemployment insurance benefits received under the Employment Insurance Act (Canada );
 
 (h) alimony, separation or maintenance payments;
 
