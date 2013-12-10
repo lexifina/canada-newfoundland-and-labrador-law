@@ -1,6 +1,6 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 31/07
 
-Child Support Service Regulations under the Family Law Act (O.C . 2007-081)
+Child Support Service Regulations under the Family Law Act (O.C. 2007-081)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 31/07
 
