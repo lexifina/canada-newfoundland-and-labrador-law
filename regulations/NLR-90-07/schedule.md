@@ -1,6 +1,6 @@
 Schedule
 
-J. - FEES TO BE TAKEN BY THE REGISTRAR
+J. - FEES TO BE TAKEN BY THE SUPREME COURT
 
 1.
 
@@ -16,7 +16,7 @@ For every exemplification of probate or letters of administration
 
 3.
 
-For making copies of any will, pleading, affidavit or other document in the Registry, at the rate of $0.25 for every page or a part of a page. (Except that the Registrar may provide free of charge copies of the reasons for an order or judgment filed in a matter to every party to the matter; to publishers, law schools or other educational institutions whose primary objective is the dissemination of legal information; to courts and to those other persons or institutions the Registrar considers appropriate)
+For making copies of any will, pleading, affidavit or other document in the Registry, at the rate of $0.25 for every page or a part of a page. (Except that the Supreme Court may provide free of charge copies of the reasons for an order or judgment filed in a matter to every party to the matter; to publishers, law schools or other educational institutions whose primary objective is the dissemination of legal information; to courts and to those other persons or institutions the Supreme Court considers appropriate)
 
 4.
 
@@ -105,3 +105,5 @@ For each certificate of readiness
 For each certified copy
 
 30.00
+
+90/07 Sch; 2013 c16 s26
