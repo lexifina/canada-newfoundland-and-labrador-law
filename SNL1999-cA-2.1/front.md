@@ -1,6 +1,6 @@
 SNL1999 CHAPTER A-2.1
 
-ADOPTION ACT [To be Repealed by SNL2013 cA-3.1 s92 - not in force]
+ADOPTION ACT
 
 CHAPTER A-2.1
 

@@ -50,13 +50,13 @@ In the Supreme Court of Newfoundland and Labrador
 
 This is to certify under the authority of the Quieting of Titles Act that A.B., of ......................., is the legal and beneficial owner in fee simple in possession (or as the case may be) of all, etc., (here describe the land) subject to the exceptions and qualifications mentioned in section 22 of the Act (or as the case may be), and to (specifying either by reference to a schedule or otherwise the charges or encumbrances, exceptions or qualifications to which the title of A.B. is subject) but free from other rights, interests, claims and demands, (or that stating the facts found and declared under section 30 and stating on whose application the facts are declared).
 
-In witness of the above statements ...................... (the Registrar of the Supreme Court of Newfoundland and Labrador has signed and the seal of the Court has been affixed to this certificate this (month, day) 19 .....
+In witness of the above statements ...................... (a clerk of the Supreme Court has signed and the seal of the Court has been affixed to this certificate this (month, day) 19 .....
 
 (LS)
 
 By order of ........(a judge)
 
-.......................... (Registrar).
+Clerk of the Supreme Court
 
 FORM 4
 
@@ -64,12 +64,12 @@ CONVEYANCE BY THE SUPREME COURT
 
 The Supreme Court of Newfoundland and Labrador , under the authority of the Quieting of Titles Act , conveys to A.B., of ............... (here describe the land sold) shall hold the land forever (or as the case may be), subject to (here specify as in the case of a Certificate of Title).
 
-In witness of the above statements ....................., the Registrar of the Supreme Court of Newfoundland and Labrador has signed and the seal of the Court has been affixed to this certificate this (month,day) 19 .....
+In witness of the above statements ....................., a clerk of the Supreme Court has signed and the seal of the Court has been affixed to this certificate this (month,day) 19 .....
 
 By order of (a Judge)
 
 (LS)
 
-..................... (Registrar)
+Clerk of the Supreme Court
 
-1977 c46 s11; 1986 c42 Sch B; 2001 cN-3.1 s2
+1977 c46 s11; 1986 c42 Sch B; 2001 cN-3.1 s2; 2013 c16 s25
