@@ -1,6 +1,10 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 90/07
 
-Supreme Court Fees Regulations under the Judicature Act (O.C . 2007-353)
+Supreme Court Fees Regulations under the Judicature Act (O.C. 2007-353)
+
+NEWFOUNDLAND AND LABRADOR REGULATION 90/07
+
+Supreme Court Fees Regulations under the Judicature Act (O.C. 2007-353)
 
 (Filed August 29, 2007 )
 
