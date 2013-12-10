@@ -1,6 +1,6 @@
 SNL2012 CHAPTER P-12.2
 
-PHARMACY ACT, 2012 [S.17 in force June 30, 2013 & Part VI in force September 30, 2013]
+PHARMACY ACT, 2012
 
 CHAPTER P-12.2
 
