@@ -292,4 +292,26 @@ Reserving and excepting out of the above described piece or parcel of land, howe
 
 All bearings and coordinates refer to the meridian of 53 ° west longitude of the 3 ° Transverse Mercator Projection, NAD 1983 CSRS.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land lying northwest of Musgrave Drive, in the Town of Steady Brook, in the Province of Newfoundland and Labrador, in the Electoral District of Humber East and being bounded and abutted as follows, that is to say:
+
+Beginning at a survey marker located on the northeast limit of the Newfoundland and Labrador T'Railway Provincial Park, the said survey marker being the southerly angle of the herein described parcel of land, the said angle having coordinates of north 5,423,877.992 and east 353,840.498;
+
+Then running from the above described point of beginning by the Newfoundland and Labrador T'Railway Provincial Park, north 65° 56' 14" east 9.787 metres to a survey marker on the northwest limit of Musgrave Drive;
+
+Then running by the northwest limit of Musgrave Drive, along a curve having a radius of 23.287, metres, in a clockwise direction, to a survey marker which is distant 4.383 metres as measured on a bearing of north 51°08'57" east from the last mentioned survey marker;
+
+Then continuing by the northwest limit of Musgrave Drive, north 56° 32' 57" east 2.194 metres, to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park north 21° 15' 43" west 8.276 metres, to a survey marker;
+
+Then running by crown land occupied by Jason Russell, south 59° 56' 17" west 16.676 metres to a survey marker;
+
+Then running by land granted by the Crown to Bernard Grant and registered under Vol. 301 Fol. 36 in the Registry of Crown Grants, south 23°59'46" east 8.000 metres, more or less to the point of beginning;
+
+Containing an area of 139 square metres more or less.
+
+All bearings refer to 3° Grid North, NAD 1983 as referred to the Traverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1
