@@ -1748,6 +1748,54 @@ Exceeding the speed limit by 31 kilometres an hour and over Second offence Subse
 
 6 days 8 days 10 days
 
+110.2(4)(a)
+
+Exceeding the speed limit by between 1 and 10 kilometres an hour Second offence Subsequent offence
+
+270 450 720
+
+100 270 450
+
+5 days 8 days 12 days
+
+1 day 3 days 5 days
+
+110.2(4)(b)
+
+Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence Subsequent offence
+
+300 600 900
+
+200 400 600
+
+5 days 10 days 12 days
+
+2 days 4 days 6 days
+
+110.2(4)(c)
+
+Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence Subsequent offence
+
+600 900 1200
+
+400 600 800
+
+10 days 15 days 20 days
+
+4 days 6 days 8 days
+
+110.2(4)(d)
+
+Exceeding the speed limit by 31 kilometres an hour and over Second offence Subsequent offence
+
+900 1200 1500
+
+600 800 1000
+
+15 days 20 days 25 days
+
+6 days 8 days 10 days
+
 111(1)
 
 Slow driving
@@ -1763,6 +1811,18 @@ Slow driving
 111(3)
 
 Failing to obey order to increase speed, pull in to curb or remove vehicle from highway
+
+400
+
+100
+
+14 days
+
+2 days
+
+111.1(1)
+
+Operating a slow moving vehicle on a highway with a speed limit of greater than 80 kilometres an hour
 
 400
 
@@ -2036,9 +2096,33 @@ Failing to yield right-of-way to emergency vehicle
 
 6 days
 
+121.1
+
+Failure to reduce speed and comply with section 121.1 when approaching a stopped emergency vehicle or designated vehicle
+
+900
+
+300
+
+30 days
+
+6 days
+
 123(2)
 
-Driver of emergency vehicle exceeding speed limit and not sounding audible signal or showing flashing red light
+Driver of emergency vehicle exceeding speed limit or proceeding past a red light or stop sign and not sounding audible signal or showing flashing red light
+
+400
+
+100
+
+14 days
+
+2 days
+
+123(2.1)
+
+Driver of emergency vehicle failing to stop emergency vehicle before proceeding past red light or stop sign
 
 400
 
@@ -3452,6 +3536,18 @@ Driving motor vehicle with seat belt removed or inoperative
 
 2 days
 
+178(2.1)
+
+Driver operating vehicle with more persons in the vehicle than seat belt assemblies
+
+500
+
+100
+
+17 days
+
+2 days
+
 178(3)
 
 Driver not wearing seat belt
@@ -3467,6 +3563,30 @@ Driver not wearing seat belt
 178(4)
 
 Passenger not wearing seat belt
+
+500
+
+100
+
+17 days
+
+2 days
+
+178(5.1)
+
+Driver operating vehicle with a person riding on a portion of the vehicle not designed for passengers
+
+500
+
+100
+
+17 days
+
+2 days
+
+178(5.2)
+
+Passenger riding on a portion of the vehicle not designed for passengers
 
 500
 
@@ -3620,4 +3740,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8
