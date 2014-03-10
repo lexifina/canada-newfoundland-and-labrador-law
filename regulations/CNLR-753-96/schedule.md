@@ -860,6 +860,30 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 Exceeding the speed limit by 31 kilometres an hour and over
 
+110.2(4)(a)
+
+0
+
+Exceeding the speed limit by between 1 and 10 kilometres an hour
+
+110.2(4)(b)
+
+2
+
+Exceeding the speed limit by between 11 and 20 kilometres an hour
+
+110.2(4)(c)
+
+3
+
+Exceeding the speed limit by between 21 and 30 kilometres an hour
+
+110.2(4)(d)
+
+4
+
+Exceeding the speed limit 31 kilometres an hour or over
+
 111(1)
 
 2
@@ -871,6 +895,12 @@ Slow driving
 2
 
 Failing to obey order to increase speed, pull in to curb or remove vehicle from highway
+
+111.1(1)
+
+2
+
+Operating a slow moving vehicle on a highway with a speed limit of greater than 80 kilometres an hour
 
 112
 
@@ -1004,11 +1034,23 @@ Failing to yield right-of-way when entering highway
 
 Failing to yield right-of-way to emergency vehicle
 
+121.1
+
+4
+
+Failing to reduce speed and if necessary stop, to pass if it is safe to do so, and to change lanes if there is another lane for travelling in the same direction or move over if it is safe to do so, when approaching a stopped emergency vehicle or designated vehicle
+
 123(2)
 
 2
 
-Driver of emergency vehicle exceeding speed limit and not sounding audible signal or showing flashing red light
+Driver of emergency vehicle exceeding speed limit or proceeding past a red light or stop sign and not sounding audible signal or showing flashing red light
+
+123(2.1)
+
+2
+
+Driver of emergency vehicle failing to stop emergency vehicle before proceeding past red light or stop sign.
 
 123(3)
 
@@ -1748,6 +1790,12 @@ Knowingly causing another to drive unlawfully
 
 Driving motor vehicle with seat belt removed or inoperative
 
+178(2.1)
+
+2
+
+Driver operating vehicle with more persons in the vehicle than seat belt assemblies
+
 178(3)
 
 2
@@ -1759,6 +1807,18 @@ Driver not wearing seat belt
 0
 
 Passenger not wearing seat belt
+
+178(5.1)
+
+2
+
+Driver operating vehicle with a person riding on a portion of the vehicle not designed for passengers
+
+178(5.2)
+
+0
+
+Passenger riding on a portion of the vehicle not designed for passengers
 
 178(6)
 
@@ -1982,4 +2042,4 @@ Operating air brake equipped vehicle without proper endorsement
 
 Upgrading drivers licence without properly licensed driving instructor
 
-165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1
+165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1; 19/14 s1; 20/14 s1
