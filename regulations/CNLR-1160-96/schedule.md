@@ -804,6 +804,12 @@ Exceeding the speed limit by 31 kilometres an hour and over
 
 Slow driving
 
+111.1(1)
+
+1
+
+Operating a slow moving vehicle on a highway with a speed limit of greater than 80 kilometres an hour.
+
 111(3)
 
 2
@@ -2706,4 +2712,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1
