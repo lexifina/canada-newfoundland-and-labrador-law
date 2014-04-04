@@ -242,7 +242,13 @@ Micrograms per cubic metre of air
 
 25
 
+8.8
+
 24 hour
+
+1 year
+
+The 3 year average of the annual average concentrations
 
 16
 
@@ -390,9 +396,9 @@ Notes
 
 1
 
-Polychlorinated dibenzo -p- dioxins (PCDDs ) & poly-chlorinated dibenzofurans
+Polychlorinated dibenzo-p- dioxins (PCDDs) & poly-chlorinated dibenzofurans
 
-(PCDFs ) (TEQ)
+(PCDFs) (TEQ)
 
 Picograms (TEQ) per cubic metre of air
 
@@ -518,4 +524,4 @@ OCDF
 
 0.001
 
-39/04 Sch A
+39/04 Sch A; 34/14 s1
