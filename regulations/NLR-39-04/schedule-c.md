@@ -76,7 +76,7 @@ Mercury
 
 $2 / kilogram
 
-Polychlorinated dibenzo -p-dioxins (PCDDs ) & poly-chlorinated dibenzofurans (PCDFs )(TEQ)
+Polychlorinated dibenzo-p-dioxins (PCDDs) & poly-chlorinated dibenzofurans (PCDFs)(TEQ)
 
 1000 milligrams TEQ
 
