@@ -14,6 +14,10 @@ Barrow's Goldeneye
 
 Bucephala islandica
 
+Bobolink
+
+Dolichonyx oryzivorus
+
 Boreal Felt Lichen
 
 Erioderma pedicellatum
@@ -21,10 +25,6 @@ Erioderma pedicellatum
 Fernald's Milk-vetch
 
 Astragalus robbinsii var. fernaldii
-
-Gray-cheeked Thrush
-
-Catharus minimus
 
 Harlequin Duck
 
@@ -54,4 +54,4 @@ Short-eared owl
 
 Asio flammeus
 
-116/07 s2; 9/08 s3
+116/07 s2; 9/08 s3; 33/14 s2

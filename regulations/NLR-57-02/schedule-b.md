@@ -22,6 +22,10 @@ Fernald's Braya
 
 Braya fernaldii
 
+Newfoundland Gray-cheeked Thrush
+
+Catharus minimus minimus
+
 Olive-sided Flycatcher
 
 Contopus cooperi
@@ -29,6 +33,10 @@ Contopus cooperi
 Porsild's Bryum
 
 Mielichhoferia macrocarpa
+
+Sharpleaf Aster
+
+Oclemena acuminata
 
 Woodland Caribou (Lac Joseph herd)
 
@@ -42,4 +50,4 @@ Woodland Caribou (Red Wine herd)
 
 Rangifer tarandus
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1
