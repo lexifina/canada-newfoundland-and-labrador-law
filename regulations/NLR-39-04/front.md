@@ -1,6 +1,6 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 39/04
 
-Air Pollution Control Regulations, 2004 pdf under the Environmental Protection Act (O.C . 2004-232)
+Air Pollution Control Regulations, 2004 under the Environmental Protection Act (O.C. 2004-232)
 
 Air Pollution Control Regulations, 2004 under the Environmental Protection Act (O.C. 2004-232)
 
