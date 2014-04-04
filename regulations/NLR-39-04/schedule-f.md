@@ -302,7 +302,7 @@ LDT = Light Duty Truck (1988 +, <= 3855.5 kg gross vehicle weight rating (GVWR))
 
 Where:
 
-(a) (ppm ) = parts per million by volume
+(a) (ppm) = parts per million by volume
 
 (b) (%) = percentage by volume
 
