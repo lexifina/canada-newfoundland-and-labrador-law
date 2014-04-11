@@ -12,7 +12,7 @@ Total
 
 Baie Verte - Springdale
 
-$10,100
+$11,900
 
 2
 
@@ -78,7 +78,7 @@ Conception Bay East - Bell Island
 
 Conception Bay South
 
-7,200
+6,100
 
 13
 
@@ -120,7 +120,7 @@ Grand Falls-Windsor - Buchans
 
 Grand Falls-Windsor - Green Bay South
 
-7,200
+9,700
 
 20
 
@@ -144,13 +144,13 @@ Humber Valley
 
 Humber West
 
-8,200
+7,100
 
 24
 
 Kilbride
 
-7,200
+6,100
 
 25
 
@@ -162,7 +162,7 @@ Labrador West
 
 Lake Melville
 
-8,000
+6,900
 
 27
 
@@ -252,7 +252,7 @@ St. John's West
 
 Terra Nova
 
-10,200
+12,700
 
 42
 
@@ -264,7 +264,7 @@ The Isle of Notre Dame
 
 The Straits - White Bay North
 
-10,100
+10,800
 
 44
 
@@ -298,6 +298,6 @@ Virginia Waters
 
 Total
 
-$442,000
+$445,100
 
-44/13 s9
+35/14 s1
