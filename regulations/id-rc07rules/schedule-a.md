@@ -156,13 +156,13 @@ Kilbride
 
 Labrador West
 
-7,700
+6,600
 
 26
 
 Lake Melville
 
-6,900
+8,000
 
 27
 
@@ -300,4 +300,4 @@ Total
 
 $445,100
 
-35/14 s1
+35/14 s1; 40/14 s1
