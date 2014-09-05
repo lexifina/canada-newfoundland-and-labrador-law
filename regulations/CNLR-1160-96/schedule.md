@@ -2388,131 +2388,179 @@ Failure to affix the name of certificate holder and certificate number to both s
 
 Operating a public service vehicle without a copy of certificate and proof of insurance
 
-Hours of Service Regulations Provisions
+Hours of Service Regulations Provision
 
 Compliance Indicators
 
-Description of Offences
+Description of Offence
 
-5
+5(1)(a)
 
-3
+1
 
-Drive without 8 consecutive hours off-duty
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving while drivers faculties impaired to the point where unsafe to drive.
 
-8(1)(a)
+5(1)(b)
 
-3
+1
 
-Commercial vehicle driver driving more than 13 hours following at least 8 consecutive hours off duty
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would jeopardize the safety or health of the public, the driver or the employees of the carrier.
 
-8(1)(b)
+5(1)(c)
 
-3
+1
 
-Commercial vehicle driver driving after being on duty 15 hours following at least 8 consecutive hours off duty
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where the driver is the subject of an out-of-service declaration.
 
-8(1)(c)
+5(1)(d)
 
-3
+1
 
-Commercial vehicle driver driving after completing 60 hours on duty during a period of 7 consecutive days
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would not be in compliance with the regulations.
 
-8(1)(d)
-
-3
-
-Commercial vehicle driver driving after completing 70 hours on duty during a period of 8 consecutive days
-
-8(1)(e)
+8(1)
 
 3
 
-Commercial vehicle driver driving after completing 120 hours on duty during a period of 14 consecutive days
+Carrier requesting, requiring or allowing a driver to drive or a driver driving after the driver has accumulated 13 hours of driving time in a day.
 
 8(2)
 
 3
 
-Commercial vehicle driver failing to have a minimum of 24 consecutive hours of off-duty time before completing 75 hours on duty
+Carrier requesting, requiring or allowing a driver to drive or a driver driving after the driver has accumulated 14 hours of on-duty time in a day.
 
-15(2)
+9(1)
+
+3
+
+Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 8 consecutive hours of off-duty time after the driver accumulated 13 hours of driving time.
+
+9(2)
+
+3
+
+Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 8 consecutive hours of off-duty time after the driver accumulated 14 hours of on-duty time.
+
+9(3)
+
+3
+
+Carrier requesting, requiring or allowing a driver to drive and a driver driving after 16 hours have elapsed between the conclusion of the most recent period of 8 or more consecutive hours of off-duty time and the beginning of next 8 or more consecutive hours of off-duty time.
+
+10
+
+1
+
+Carrier failing to ensure that driver has taken or driver failing to take at least 10 hours of off-duty time in a day as prescribed by the regulations.
+
+15
+
+1
+
+Carrier failing to ensure that driver follows or driver fails to follow either cycle 1 or 2.
+
+16(1)
+
+3
+
+Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 24 consecutive hours of off-duty time in the preceding 14 days.
+
+17(1)
+
+3
+
+Carrier requesting, requiring or allowing a driver who is following cycle 1 or a driver who is following cycle 1 driving after the driver has accumulated 70 hours of on-duty time in 7 days or if the driver reset the cycle during the period of the cycle that was ended.
+
+18(1)(a)
+
+3
+
+Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 120 hours of on-duty time in 14 days or if the driver reset the cycle during the period of the cycle that was ended.
+
+18(1)(b)
+
+3
+
+Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 70 hours of on-duty time without having taken at least 24 consecutive hours of off-duty time.
+
+20(1)
+
+1
+
+Carrier requesting, requiring or allowing a driver to switch or a driver switching cycles without first taking the prescribed off-duty time before beginning to drive again.
+
+39(1)
+
+1
+
+Carrier failing to perform its obligations as a permit holder.
+
+39(2)
+
+1
+
+Driver violating or carrier allowing a driver to violate the terms and conditions of a permit.
+
+43(1)
 
 2
 
-Commercial vehicle driver failing to properly complete a daily log
+Carrier failing to require a driver or driver failing to complete a daily log accounting for all of the drivers on-duty and off-duty time for that day.
 
-15(5)
-
-3
-
-Commercial vehicle driver failing to retain and produce required receipts/documents
-
-15(7)
+44
 
 2
 
-Commercial vehicle driver failing to maintain a log in a timely fashion
+Carrier failing to require driver or driver failing to legibly enter the prescribed information in the daily log.
 
-17(1)(a)
+46(1)
 
-2
+1
 
-Failing to maintain copies of log as required
+Carrier requesting, requiring or allowing a driver to drive or a driver driving while not in possession of daily logs and supporting documents.
 
-17(1)(b)
+47(1) and (2)
 
-2
+1
 
-Failing to have log current to last change in duty status
+Carrier failing to ensure that driver or driver failing to forward the original daily log and supporting documents to the home terminal within the prescribed time period.
 
-17(2)
+47(3)
 
-2
+1
 
-Commercial vehicle driver failing to produce daily log upon request
+Carrier failing to deposit daily logs and supporting documents at its principal place of business within the prescribed time period or failing to retain the daily logs and supporting documents for the prescribed time period.
 
-19(1)
-
-3
-
-Commercial vehicle driver making more than one log for a calendar day or falsifying daily log
-
-20
+48(1) and (2)
 
 3
 
-Commercial vehicle driver failing to forward copy of daily log to each carrier for whom the driver worked that day
+Carrier requesting, requiring or allowing driver to keep or driver keeping more than one daily log, entering or allowing inaccurate information in a daily log or falsifying, mutilating or defacing the daily log or supporting documents.
 
-21
+49(1) and (2)
 
-3
+1
 
-Commercial vehicle driver failing to forward within 30 days the original of each daily log for that week to the home terminal or to the principal place of business of each carrier by whom the driver was employed
+Carrier failing to monitor compliance of driver with regulatory requirements or failing to take remedial action where non-compliance exists.
 
-22(1)
-
-3
-
-Carrier failing to retain daily logs and have readily available for inspection by an inspector for a period of 6 months
-
-22(2)
+52(4)
 
 3
 
-Carrier failing to retain daily logs at the location where the carrier keeps the commercial vehicle driver records or at a location approved by an authorized person
+Obstructing, hindering or knowingly making false or misleading statements to a director or inspector engaged in carrying out his or her duties.
 
-23(2)
+53
+
+1
+
+Driver failing to produce or failing to make copies of logs as requested by an inspector.
+
+54(1)
 
 3
 
-Carrier failing to have records or documents available for inspection by director or an inspector at all times during business hours
-
-23(3)
-
-3
-
-Carrier or person in possession of records or documents failing to provide reasonable assistance or furnish documents to director or an inspector
+Carrier failing to make records immediately available at request of inspector.
 
 Trip Inspection Report Regulations Provision
 
@@ -2712,4 +2760,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1
