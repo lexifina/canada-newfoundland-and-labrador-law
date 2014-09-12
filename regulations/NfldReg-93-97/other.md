@@ -314,4 +314,22 @@ Containing an area of 139 square metres more or less.
 
 All bearings refer to 3° Grid North, NAD 1983 as referred to the Traverse Mercator Projection for Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land lying northwest of Lakeshore Drive , 15.0 meters wide, in the Town of Pasadena , in the Electoral District of Humber Valley, in the Province of Newfoundland and Labrador , being further bounded and described a follows:
+
+Beginning at a survey marker, that survey marker being the westerly angle of the parcel of land described below, that angle having co-ordinates of north 5,432,190.565 and east 370,526.679;
+
+Running then from the above described point of beginning by land granted by the Crown to Lisa Marie Tipple and registered under Vol. 308 - Fol. 17 in the Registry of Crown Titles, along a curve having a radius of 791.456 metres, in a clockwise direction, to a survey marker which is distant 97.182 metres, as measured on a bearing of north 44 ° 38 59" east from the point of beginning;
+
+Then running by land granted by the Crown to David Tapp and registered under Vol. 206 - Fol.136 in the Registry of Crown Titles, and by the Newfoundland and Labrador T'Railway Provincial Park, south 42° 18' 00" east 13.554 metres, to a survey marker located on the northwest limit of Lakeshore Drive;
+
+Then running by the northwest limit of Lakeshore Drive, along a curve having a radius of 601.759 metres, in a counter clockwise direction, to a survey marker which is distant 97.000 metres, as measured on a bearing of south 46° 58 '41" west from the last mentioned survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park, north 42° 34' 41" west 9.610 metres, more or less, to the point of beginning;
+
+Containing an area of 0.109 hectare, more or less.
+
+All bearings refer to 3° Grid North (NAD 1983) as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s1
