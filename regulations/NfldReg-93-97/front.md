@@ -6,7 +6,7 @@ NEWFOUNDLAND AND LABRADOR REGULATION 93/97
 
 Newfoundland and Labrador TRailway Provincial Park Proclamation under the Provincial Parks Act (O.C. 97-228)
 
-97/97; 2001 c42 s45
+93/97; 2001 c42 s45
 
 (Filed July 14, 1997)
 
