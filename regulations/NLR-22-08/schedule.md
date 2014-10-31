@@ -452,256 +452,52 @@ Storage of fish against bulkheads contrary to requirements
 
 500
 
-5
+3(1)
 
-In-Province Retail Fish Establishment Regulations
+Fish Inspection Administrative Regulations
 
-Failure to adhere to floor surface or drain requirements
+Person selling fish without a licence
 
-100
+300
 
-200
-
-500
-
-6
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to interior wall surface requirements
-
-100
-
-200
+400
 
 500
 
-7
+3(2)
 
-In-Province Retail Fish Establishment Regulations
+Fish Inspection Administrative Regulations
 
-Failure to adhere to ceiling requirements
+Person buying or attempting to buy fish without a licence
 
-100
+300
 
-200
-
-500
-
-8
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to overhead space requirements
-
-100
-
-200
+400
 
 500
 
-9
+3(3)
 
-In-Province Retail Fish Establishment Regulations
+Fish Inspection Administrative Regulations
 
-Failure to adhere to window requirements
+Fish harvester processing fish without a licence
 
-100
+300
 
-200
-
-500
-
-10
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to door and air-curtain requirements
-
-100
-
-200
+400
 
 500
 
-11
+4.1
 
-In-Province Retail Fish Establishment Regulations
+Fish Inspection Administrative Regulations
 
-Failure to adhere to ventilation requirements
+Fish harvester selling fish from vehicle or door-to-door
 
-100
+300
 
-200
-
-500
-
-12
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to lighting requirements
-
-100
-
-200
+400
 
 500
 
-13
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to requirements respecting toilet facilities
-
-100
-
-200
-
-500
-
-15
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to provide disinfection facilities as required
-
-100
-
-200
-
-500
-
-16
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to equipment surface requirements
-
-100
-
-200
-
-500
-
-17
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to equipment requirements
-
-100
-
-200
-
-500
-
-18
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to container requirements
-
-100
-
-200
-
-500
-
-19
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to offal bin requirements
-
-100
-
-200
-
-500
-
-20
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to conveyor requirements
-
-100
-
-200
-
-500
-
-21
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to utensil requirements
-
-100
-
-200
-
-500
-
-22
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to freezing facility requirements
-
-100
-
-200
-
-500
-
-23
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to roller device requirements
-
-100
-
-200
-
-500
-
-24
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to cooler requirements
-
-100
-
-200
-
-500
-
-25
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to packaging and labelling materials storage requirements
-
-100
-
-200
-
-500
-
-26
-
-In-Province Retail Fish Establishment Regulations
-
-Failure to adhere to ingredients and additives storage requirements
-
-100
-
-200
-
-500
-
-22/08 Sch
+22/08 Sch; 84/14 s2; 77/15 s2
