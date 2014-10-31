@@ -8,7 +8,7 @@ Fish Inspection Ticket Offences Regulations under the Fish Inspection Act (O.C. 
 
 (Filed April 23, 2008 )
 
-Under the authority of paragraph 4(1)( e.1) of the Fish Inspection Act , the Lieutenant-Governor in Council makes the following regulations.
+Under the authority of paragraph 4(1)(e.1) of the Fish Inspection Act , the Lieutenant-Governor in Council makes the following regulations.
 
 Dated at St. Johns , April 22, 2008
 
