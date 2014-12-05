@@ -2,6 +2,10 @@ NEWFOUNDLAND AND LABRADOR REGULATION 40/13
 
 Nickel-in-Concentrate Exemption Order, 2013 under the Mineral Act (O.C. 2013-079)
 
+NEWFOUNDLAND AND LABRADOR REGULATION 40/13
+
+Nickel-in-Concentrate Exemption Order, 2013 under the Mineral Act (O.C. 2013-079)
+
 (Filed March 27, 2013)
 
 Under the authority of section 31.1 of the Mineral Act, the Lieutenant-Governor in Council makes the following Order.
