@@ -130,19 +130,19 @@ Non resident failure to register commercial motor vehicle
 
 1
 
-Operating service vehicle with dealers plates attached
+Operating service vehicle with dealer's plates attached
 
 22
 
 1
 
-Using or hiring dealers vehicle without registration
+Using or hiring dealer's vehicle without registration
 
 27
 
 1
 
-Using vehicle without dealers plates attached
+Using vehicle without dealer's plates attached
 
 28(2)
 
@@ -358,43 +358,43 @@ Failure to keep record regarding vehicles rented
 
 1
 
-Failure to notify registrar of lost drivers licence, etc.
+Failure to notify registrar of lost driver's licence, etc.
 
 59(1)(a)
 
 3
 
-Defacing or altering drivers licence
+Defacing or altering driver's licence
 
 59(1)(b)
 
 3
 
-Lending drivers licence
+Lending driver's licence
 
 59(1)(c)
 
 3
 
-Person misrepresenting drivers licence as his or her own
+Person misrepresenting driver's licence as his or her own
 
 59(1)(d)
 
 3
 
-Failure to surrender suspended or cancelled drivers licence
+Failure to surrender suspended or cancelled driver's licence
 
 59(1)(e)
 
 2
 
-Giving false name or address in application for drivers licence
+Giving false name or address in application for driver's licence
 
 73(1)
 
 2
 
-Applying for drivers licence while disqualified
+Applying for driver's licence while disqualified
 
 75(5(a)
 
@@ -492,11 +492,23 @@ Driving to left of centre line of roadway
 
 Vehicle proceeding at less than normal speed not driving in right hand lane
 
-100(3)
+100.1(1)
 
 3
 
-Failure to drive to right of rotary traffic island
+Failure to yield right-of-way entering roundabout
+
+100.1(2)
+
+3
+
+Failure to drive to right of centre of roundabout
+
+100.1(3)
+
+3
+
+Failure to yield right-of-way in roundabout to traffic travelling to left of driver's vehicle
 
 101(b)
 
@@ -2398,7 +2410,7 @@ Description of Offence
 
 1
 
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving while drivers faculties impaired to the point where unsafe to drive.
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving while driver's faculties impaired to the point where unsafe to drive.
 
 5(1)(b)
 
@@ -2506,7 +2518,7 @@ Driver violating or carrier allowing a driver to violate the terms and condition
 
 2
 
-Carrier failing to require a driver or driver failing to complete a daily log accounting for all of the drivers on-duty and off-duty time for that day.
+Carrier failing to require a driver or driver failing to complete a daily log accounting for all of the driver's on-duty and off-duty time for that day.
 
 44
 
@@ -2760,4 +2772,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1
