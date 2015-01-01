@@ -488,11 +488,23 @@ Driving to left of centre line of roadway
 
 Vehicle proceeding at less than normal speed not driving in right hand lane
 
-100(3)
+100.1(1)
 
 2
 
-Failure to drive to right of rotary traffic island
+Failure to yield right-of-way entering roundabout
+
+100.1(2)
+
+2
+
+Failure to drive to right of centre of roundabout
+
+100.1(3)
+
+2
+
+Failure to yield right-of-way in roundabout to traffic travelling to left of driver's vehicle
 
 101(b)
 
@@ -2042,4 +2054,4 @@ Operating air brake equipped vehicle without proper endorsement
 
 Upgrading drivers licence without properly licensed driving instructor
 
-165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1; 19/14 s1; 20/14 s1
+165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1; 19/14 s1; 20/14 s1; 104/14 s1
