@@ -1,0 +1,11 @@
+SNL2014 CHAPTER C-10.1
+
+CHARTERED PROFESSIONAL ACCOUNTANTS AND PUBLIC ACCOUNTANTS ACT
+
+CHAPTER C-10.1
+
+AN ACT RESPECTING CHARTERED PROFESSIONAL ACCOUNTANTS AND PUBLIC ACCOUNTANTS
+
+(Assented to December 16, 2014)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
