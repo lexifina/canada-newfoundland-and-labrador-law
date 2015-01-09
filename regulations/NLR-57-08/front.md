@@ -2,6 +2,10 @@ NEWFOUNDLAND AND LABRADOR REGULATION 57/08
 
 Pharmaceutical Services Regulations under the Pharmaceutical Services Act
 
+NEWFOUNDLAND AND LABRADOR REGULATION 57/08
+
+Pharmaceutical Services Regulations under the Pharmaceutical Services Act
+
 (Filed October 8, 2008 )
 
 Under the authority of section 52 of the Pharmaceutical Services Act, I make the following regulations.
