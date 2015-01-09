@@ -106,10 +106,12 @@ Tularaemia
 
 Typhoid and para-typhoid fever
 
+Viral hemorrhagic fevers
+
 Water-borne disease - due to chemical, toxin, virus, bacteria or other orgranism (specified or unspecified) including conditions where water-borne disease is suspected but not confirmed
 
 Yellow Fever, and
 
 Other diseases that may be declared by the minister by order to be a communicable disease.
 
-NLR 32/98; NLR 44/03 s2
+32/98; 44/03 s2; 1/15 s2
