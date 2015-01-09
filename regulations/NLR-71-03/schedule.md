@@ -12,7 +12,7 @@ Definitions
 
 Classification
 
-2. Notwithstanding another provision of these regulations, as of July 1, 2009, the classification of the Kometik, Mattea and Vinland shall be as follows:
+2. Notwithstanding another provision of these regulations, as of July 1, 2009, the classification of the Kometik , Mattea and Vinland shall be as follows:
 
 (a) the Kometik is classified as an owned tanker;
 
