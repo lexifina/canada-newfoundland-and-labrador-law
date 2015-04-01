@@ -2336,6 +2336,18 @@ Riding bicycle abreast of another bicycle rider
 
 1 day
 
+129(2)(c.1)
+
+Riding bicycle without a bicycle helmet
+
+180
+
+25
+
+6 days
+
+1 day
+
 129(2)(d)
 
 Riding bicycle without at least one hand on handle-bars
@@ -2399,6 +2411,18 @@ Driving bicycle on highway where signs prohibit use of bicycles
 129(2)(i)
 
 Riding bicycle on roadway when bicycle path provided
+
+180
+
+25
+
+6 days
+
+1 day
+
+129(3)
+
+Authorizing or knowingly permitting a person under the age of 16 to ride a bicycle without a bicycle helmet
 
 180
 
@@ -3764,4 +3788,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3
