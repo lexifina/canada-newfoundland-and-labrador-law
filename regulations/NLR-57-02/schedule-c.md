@@ -14,6 +14,10 @@ Barrow's Goldeneye
 
 Bucephala islandica
 
+Blue Felt Lichen
+
+Degelia plumbea
+
 Bobolink
 
 Dolichonyx oryzivorus
@@ -54,4 +58,8 @@ Short-eared owl
 
 Asio flammeus
 
-116/07 s2; 9/08 s3; 33/14 s2
+Water Pygmyweed
+
+Tillaea aquatica
+
+116/07 s2; 9/08 s3; 33/14 s2; 33/15 s3

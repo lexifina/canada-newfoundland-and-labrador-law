@@ -38,6 +38,10 @@ Sharpleaf Aster
 
 Oclemena acuminata
 
+Tradescant's Aster
+
+Symphyotrichum tradescantii
+
 Woodland Caribou (Lac Joseph herd)
 
 Rangifer tarandus
@@ -50,4 +54,4 @@ Woodland Caribou (Red Wine herd)
 
 Rangifer tarandus
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2

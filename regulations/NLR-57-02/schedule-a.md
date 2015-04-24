@@ -26,9 +26,17 @@ Feathery False Solomon's Seal
 
 Maianthemum racemosum subsp. racemosum
 
+Gmelin's Watercrowfoot
+
+Ranunculus gmelinii
+
 Graceful Felt Lichen (Voles Ears Lichen)
 
 Erioderma mollissimum
+
+Griscom's Arnica
+
+Arnica griscomii subsp. griscomii
 
 Ivory Gull
 
@@ -86,4 +94,8 @@ Wolverine
 
 Gulo gulo
 
-116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1
+Wooly Arnica
+
+Arnica angustifolia subsp. tomentosa
+
+116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1
