@@ -12,6 +12,8 @@ Section 40
 
 Annual rental for mining lease
 
-$80/ha.
+May 1/15 - March 31/16: April 1/16 onwards:
 
-1992 cF-7.1 s31; 47/96 s1; 57/97 s1
+$105/ha $120/ha
+
+34/15 s1
