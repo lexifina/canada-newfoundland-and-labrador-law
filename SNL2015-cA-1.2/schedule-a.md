@@ -1,0 +1,43 @@
+Schedule A
+
+(a) sections 64 to 68 of the Adoption Act, 2013 ;
+
+(b) section 29 of the Adult Protection Act ;
+
+(c) section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act ;
+
+(d) sections 69 to 74 of the Children and Youth Care and Protection Act ;
+
+(e) section 5.4 of the Energy Corporation Act ;
+
+(f) section 8.1 of the Evidence Act ;
+
+(g) subsection 24(1) of the Fatalities Investigations Act ;
+
+(h) subsection 5(1) of the Fish Inspection Act ;
+
+(i) section 4 of the Fisheries Act ;
+
+(j) sections 173, 174 and 174.1 of the Highway Traffic Act ;
+
+(k) section 15 of the Mineral Act ;
+
+(l) section 16 of the Mineral Holdings Impost Act ;
+
+(m) subsection 13(3) of the Order of Newfoundland and Labrador Act ;
+
+(n) sections 153, 154 and 155 of the Petroleum Drilling Regulations ;
+
+(o) sections 53 and 56 of the Petroleum Regulations ;
+
+(p) section 21 of the Research and Development Council Act ;
+
+(q) section 12 and subsection 62(2) of the Schools Act, 1997 ;
+
+(r) sections 19 and 20 of the Securities Act ;
+
+(s) section 13 of the Statistics Agency Act ; and
+
+(t) section 18 of the Workplace Health, Safety and Compensation Act .
+
+2015 cA-1.2 Sch
