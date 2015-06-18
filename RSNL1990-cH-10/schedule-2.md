@@ -30,7 +30,7 @@ Bay Of Islands
 
 The District of the Bay of Islands shall consist of and include all that part of the Province of Newfoundland and Labrador bounded as follows:
 
-Beginning at the point of land known as North Head, located on the eastern shoreline of the Gulf of St. Lawrence , north of the Bay of Islands ;
+Beginning at the point of land known as North Head, located on the eastern shoreline of the Gulf of St. Lawrence, north of the Bay of Islands ;
 
 Then running in an easterly direction to the intersection of the parallel of 49 ° 18' north latitude and the meridian of 57 ° 30' west longitude;
 
@@ -92,7 +92,7 @@ Then running in a northwesterly direction to the intersection of the centre line
 
 Then running in a general northwesterly direction to the point of land known as Hopeall Head, located on the western shoreline of Hopeall Bay, Trinity Bay;
 
-Then running in general southeasterly and northwesterly directions along the sinuosities of the shoreline of Trinity Bay to the point of beginning, together with Woody Island , Bar Haven Island , Merasheen Island , Long Island , Red Island and all other adjacent islands.
+Then running in general southeasterly and northwesterly directions along the sinuosities of the shoreline of Trinity Bay to the point of beginning, together with Woody Island , Bar Haven Island , Merasheen Island , Long Island, Red Island and all other adjacent islands.
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
@@ -122,7 +122,7 @@ Then running in general southeasterly and southwesterly directions along the sin
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
-Note: This district includes the communities of Clarke's Head, Wings Point, Gander Bay South, Gander Bay , Main Point, Davidsville, Frederickton, Noggin Cove, Carmanville, Aspen Cove, Ladle Cove, Musgrave Harbour , Deadman's Bay, Lumsden, Cape Freels North, Templeman, Pound Cove, Newtown , Valleyfield , Wesleyville, Brookfield , Badger's Quay, Pool's Island , Greenspond, Indian Bay , Parsons Point, Centreville and Trinity.
+Note: This district includes the communities of Clarke's Head, Wings Point, Gander Bay South, Gander Bay , Main Point, Davidsville, Frederickton, Noggin Cove, Carmanville, Aspen Cove, Ladle Cove, Musgrave Harbour , Deadman's Bay, Lumsden, Cape Freels North, Templeman, Pound Cove, Newtown , Valleyfield , Wesleyville, Brookfield , Badger's Quay, Pool's Island, Greenspond, Indian Bay , Parsons Point, Centreville and Trinity.
 
 Population - 10,064
 
@@ -150,7 +150,7 @@ Then running in a general southwesterly direction along the sinuosities of the s
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
-Note: This district includes the communities of Lethbridge , Jamestown , Portland , Winter Brook, Sweet Bay, Southern Bay, Princeton , Brooklyn , Summerville, Plate Cove East, Plate Cove West, Open Hall, Red Cliff, Tickle Cove, Keels, Duntara, King's Cove, Stock Cove, Knights Cove, Upper Amherst Cove, Amherst Cove, Newmans Cove, Bonavista, Lance Cove, Spillars Cove, Elliston, Little Catalina, Catalina, Port Union and Melrose .
+Note: This district includes the communities of Lethbridge , Jamestown , Portland , Winter Brook, Sweet Bay, Southern Bay, Princeton, Brooklyn, Summerville, Plate Cove East, Plate Cove West, Open Hall, Red Cliff, Tickle Cove, Keels, Duntara, King's Cove, Stock Cove, Knights Cove, Upper Amherst Cove, Amherst Cove, Newmans Cove, Bonavista, Lance Cove, Spillars Cove, Elliston, Little Catalina, Catalina, Port Union and Melrose .
 
 Population - 10,014
 
@@ -224,7 +224,7 @@ Then running in a northwesterly direction along the eastern boundary of the Town
 
 Then running in general northerly and southeasterly directions along the sinuosities of the shoreline to the point of beginning.
 
-Note: This district includes the communities of Bauline, Pouch Cove, Flatrock, Shoe Cove, Torbay , Middle Cove, Outer Cove, Logy Bay and part of the City of St. John's .
+Note: This district includes the communities of Bauline, Pouch Cove, Flatrock, Shoe Cove, Torbay, Middle Cove, Outer Cove, Logy Bay and part of the City of St. John's .
 
 Population - 11,777
 
@@ -528,7 +528,7 @@ Then running along the western shoreline of Burin Inlet to the point of land kno
 
 Then running in general westerly and northeasterly directions along the sinuosities of the shoreline to the point of beginning, together with Allan's Island , Little Burin Island and all other adjacent islands.
 
-Note: This district includes the communities of Winterland, Lewin's Cove, Bay View, Salmonier, Epworth, Wandsworth, Corbin, Little St. Lawrence, St. Lawrence, Lawn, Lord's Cove, Taylor 's Bay, Point au Gaul , Calmer, Lamaline, Point May, Fortune, Grand Bank, L'Anse-au-Loup, Grand Beach , Frenchman's Cove and Garnish.
+Note: This district includes the communities of Winterland, Lewin's Cove, Bay View, Salmonier, Epworth, Wandsworth, Corbin, Little St. Lawrence, St. Lawrence, Lawn, Lord's Cove, Taylor 's Bay, Point au Gaul, Calmer, Lamaline, Point May, Fortune, Grand Bank, L'Anse-au-Loup, Grand Beach , Frenchman's Cove and Garnish.
 
 Population - 10,060
 
@@ -624,11 +624,11 @@ Then running south along the meridian of 56 ° 20' west longitude to its interse
 
 Then running due west along the line to the point of intersection with the centre line of the Trans Canada Highway and the meridian of 56 ° 30' west longitude;
 
-Then running in a general southwesterly direction along the centre line of the Trans Canada Highway to the point of beginning, together with Triton Island , Pelley's Island , Long Island , Sunday Cove Island and all other adjacent islands.
+Then running in a general southwesterly direction along the centre line of the Trans Canada Highway to the point of beginning, together with Triton Island , Pelley's Island, Long Island, Sunday Cove Island and all other adjacent islands.
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
-Note: This district includes the communities of South Brook, Robert's Arm, Miles Cove, Port Anson, Lushes Bight, Beaumont , Beaumont North, Pilley's Island , Triton, Brighton , and part of the Town of Grand Falls-Windsor.
+Note: This district includes the communities of South Brook, Robert's Arm, Miles Cove, Port Anson, Lushes Bight, Beaumont , Beaumont North, Pilley's Island, Triton, Brighton , and part of the Town of Grand Falls-Windsor.
 
 Population - 9,960
 
@@ -720,7 +720,7 @@ Humber Valley
 
 The District of Humber Valley shall consist of and include all that part of the Province of Newfoundland and Labrador bounded as follows:
 
-Beginning at the intersection of the parallel of 50 ° 30' north latitude and the eastern shoreline of the Northern Peninsula , south of the vacated community of Williamsport ;
+Beginning at the intersection of the parallel of 50 ° 30' north latitude and the eastern shoreline of the Northern Peninsula, south of the vacated community of Williamsport ;
 
 Then running west along the parallel of 50 ° 30' north latitude to its intersection with the meridian of 56 ° 45' west longitude;
 
@@ -904,7 +904,7 @@ Then running along the boundary in a general easterly direction to the point of 
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
-Note: This district includes the communities of Churchill Falls , Happy Valley-Goose Bay , North West River, Sheshatshiu, and Mud Lake .
+Note: This district includes the communities of Churchill Falls, Happy Valley-Goose Bay , North West River, Sheshatshiu, and Mud Lake .
 
 Population - 10,299
 
@@ -1016,7 +1016,7 @@ Placentia B St. Mary's
 
 The District of Placentia B St. Mary's shall consist of and include all that part of the Province of Newfoundland and Labrador bounded as follows:
 
-Beginning at the point of land known as Corbin Head, located on the eastern shoreline of Placentia Bay , northwest of the community of Long Harbour ;
+Beginning at the point of land known as Corbin Head, located on the eastern shoreline of Placentia Bay, northwest of the community of Long Harbour ;
 
 Then running due east to the point of intersection with the centre line of Route #202;
 
@@ -1116,7 +1116,7 @@ Then running in a general southerly direction along the sinuosities of the weste
 
 All geographic coordinates being scaled and referenced to the Universal Transverse Mercator Map Projection and the North American Datum of 1983.
 
-Note: This district includes the communities of North River , Makinsons, Clarke's Beach, Coley's Point, Port de Grave, Ship Cove, Hibbs Cove, Frenchs Cove, Bishops Beach , Bay Roberts, Shearstown, Upper Island Cove, Bishop's Cove and part of the community of Spaniard's Bay.
+Note: This district includes the communities of North River, Makinsons, Clarke's Beach, Coley's Point, Port de Grave, Ship Cove, Hibbs Cove, Frenchs Cove, Bishops Beach , Bay Roberts, Shearstown, Upper Island Cove, Bishop's Cove and part of the community of Spaniard's Bay.
 
 Population - 12,015
 
@@ -1204,7 +1204,7 @@ St. Georges - Stephenville East
 
 The District of St. Georges - Stephenville East shall consist of and include all that part of the Province of Newfoundland and Labrador bounded as follows:
 
-Beginning at the point of land known as Red Rocks on the eastern shoreline of the Cabot Strait , north of Cape Ray ;
+Beginning at the point of land known as Red Rocks on the eastern shoreline of the Cabot Strait, north of Cape Ray ;
 
 Then running in a northeasterly direction to the intersection of the parallel of 48 ° 30' north latitude and the meridian of 58 ° west longitude;
 
