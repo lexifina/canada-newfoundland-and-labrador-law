@@ -22,13 +22,13 @@ For making copies of any will, pleading, affidavit or other document in the Regi
 
 For every search, except in the case of a party to an action while the action is pending, or for one year after its termination
 
-10.00
+20.00
 
 5.
 
 Upon every originating document except originating unilateral applications and applications for support
 
-60.00
+120.00
 
 6.
 
@@ -52,7 +52,7 @@ With an attachment order
 
 With an order of the Court
 
-30.00
+60.00
 
 10.
 
@@ -106,4 +106,4 @@ For each certified copy
 
 30.00
 
-90/07 Sch; 2013 c16 s26
+90/07 Sch; 2013 c16 s26; 39/15 s2
