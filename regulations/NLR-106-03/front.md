@@ -10,7 +10,7 @@ Student Financial Assistance Administration Regulations under the Student Financ
 
 Under the authority of section 15 of the Student Financial Assistance Act, I make the following regulations.
 
-Dated at St. Johns , August 21, 2003
+Dated at St. John's , August 21, 2003
 
 Anna Thistle Minister of Youth Services and Post Secondary Education
 
