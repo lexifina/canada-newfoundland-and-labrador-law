@@ -121,3 +121,5 @@ Tethering
 (c) daily access to exercise that is adequate and appropriate for that dog and that is unfettered from a fixed area.
 
 34. A dog that is young, aged or infirm shall not be tethered, unsupervised, outside for an extended period of time.
+
+36/12 Sch B
