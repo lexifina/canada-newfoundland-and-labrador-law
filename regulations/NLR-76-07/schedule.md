@@ -1,6 +1,6 @@
 Schedule
 
-MINIMUM PROCESSING REQUIREMENTS
+Minimum Processing Requirements
 
 The following minimum processing requirements apply to all fish intended for sale outside Newfoundland and Labrador :
 
@@ -44,7 +44,7 @@ Greysole
 
 whole packaged
 
-Groundfish (all species other than Monkfish, Halibut, Blackback Flounder, Greysole, Yellowtail Flounder and Turbot)
+Groundfish (all species other than Blackback Flounder, Greysole, Halibut, Monkfish, Redfish (Ocean Perch), Turbot and Yellowtail Flounder)
 
 filleted or split and salted
 
@@ -54,7 +54,7 @@ head on gutted and packaged
 
 Herring
 
-salted and packed in a carton not to exceed 110 kilograms or whole packaged in frozen form or whole fresh in bulk during the period May 1 to June 15, and November 1 to December 31.
+salted and packed in a carton not to exceed 110 kilograms or whole packaged in frozen form or whole fresh in bulk during the period April 15 to June 15, and November 1 to December 31
 
 Lobster
 
@@ -68,6 +68,10 @@ Mussels
 
 washed, declumped, and graded
 
+Redfish (Ocean Perch)
+
+whole packaged
+
 Scallop
 
 shucked
@@ -78,7 +82,7 @@ gutted and packaged in frozen form
 
 Sea Urchin
 
-gonads removed
+gonads removed from 50% of all raw material purchases during the period September 1 to March 31
 
 Seal
 
@@ -90,7 +94,7 @@ cooked and peeled
 
 Snow Crab
 
-sectioned or whole cooked and 10% of all raw material purchases in a calendar year to be processed into one or more of the following forms: (i ) individually scored "snap and eat" leg segments; (ii)cap on or cap off cocktail claws (iii) 907 gram consumer packs; (iv) meat removed from shell; or (v) other value added form as approved by the minister
+sectioned or whole cooked and 10% of all raw material purchases in a calendar year to be processed into one or more of the following forms: (i) individually scored "snap and eat" leg segments; (ii) cap on or cap off cocktail claws (iii) 907 gram consumer packs; (iv) meat removed from shell; or (v) other value added form as approved by the minister
 
 Squid
 
@@ -98,7 +102,7 @@ whole packaged in frozen form
 
 Turbot
 
-Head on gutted and packaged in frozen form
+head on gutted and packaged in frozen form
 
 Whelk
 
@@ -106,6 +110,6 @@ whole frozen
 
 Yellowtail Flounder
 
-For each fish that is less than 380 grams, whole packaged in frozen form or for each fish that is 380 grams or more, filleted
+for each fish that is less than 380 grams, whole packaged in frozen form or for each fish that is 380 grams or more, filleted
 
-33/08 s9
+94/15 s1
