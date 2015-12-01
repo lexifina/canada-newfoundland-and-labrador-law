@@ -10,294 +10,246 @@ Total
 
 1
 
-Baie Verte - Springdale
+Baie Verte - Green Bay
 
-$11,900
+$12,600
 
 2
 
-Bay of Islands
+Bonavista
 
-12,500
+11,200
 
 3
 
-Bellevue
-
-13,100
-
-4
-
-Bonavista North
-
-10,100
-
-5
-
-Bonavista South
-
-10,100
-
-6
-
-Burgeo - LaPoile
+Burgeo - La Poile
 
 11,300
 
-7
+4
 
-Burin - Placentia West
+Burin - Grand Bank
 
-8,200
+12,700
 
-8
+5
 
 Cape St. Francis
 
 7,200
 
-9
+6
 
-Carbonear - Harbour Grace
+Carbonear - Trinity - Bay de Verde
 
-7,700
+8,600
 
-10
+7
 
 Cartwright - L'Anse au Clair
 
 25,600
 
-11
+8
 
 Conception Bay East - Bell Island
 
 7,700
 
-12
+9
 
 Conception Bay South
 
 6,100
 
-13
+10
+
+Corner Brook
+
+6,000
+
+11
 
 Exploits
 
-10,100
+10,800
 
-14
+12
 
 Ferryland
 
 10,100
 
-15
+13
+
+Fogo Island - Cape Freels
+
+12,700
+
+14
 
 Fortune Bay - Cape La Hune
 
 16,300
 
-16
+15
 
 Gander
 
 7,700
 
-17
-
-Grand Bank
-
-12,000
-
-18
+16
 
 Grand Falls-Windsor - Buchans
 
 9,100
 
-19
+17
 
-Grand Falls-Windsor - Green Bay South
+Harbour Grace - Port de Grave
 
-9,700
+7,700
 
-20
+18
 
 Harbour Main
 
-6,900
+7,600
+
+19
+
+Humber - Bay of Islands
+
+12,500
+
+20
+
+Humber - Gros Morne
+
+12,600
 
 21
-
-Humber East
-
-6,300
-
-22
-
-Humber Valley
-
-12,000
-
-23
-
-Humber West
-
-7,100
-
-24
-
-Kilbride
-
-6,100
-
-25
 
 Labrador West
 
 6,600
 
-26
+22
 
 Lake Melville
 
 8,000
 
-27
+23
 
-Lewisporte
+Lewisporte - Twillingate
 
 9,200
 
-28
+24
+
+Mount Pearl - Southlands
+
+6,000
+
+25
 
 Mount Pearl North
 
 6,000
 
-29
+26
 
-Mount Pearl South
+Mount Scio
 
 6,000
 
-30
+27
 
 Placentia - St. Mary's
 
 11,500
 
+28
+
+Placentia West - Bellevue
+
+13,800
+
+29
+
+St. Barbe - L'Anse aux Meadows
+
+12,200
+
+30
+
+St. George's - Humber
+
+8,400
+
 31
-
-Port au Port
-
-6,800
-
-32
-
-Port de Grave
-
-7,700
-
-33
-
-Signal Hill - Quidi Vidi
-
-6,000
-
-34
-
-St. Barbe
-
-11,900
-
-35
-
-St. George's - Stephenville East
-
-7,700
-
-36
 
 St. John's Centre
 
 6,000
 
-37
+32
 
-St. John's East
-
-6,000
-
-38
-
-St. John's North
+St. John's East - Quidi Vidi
 
 6,000
 
-39
-
-St. John's South
-
-6,000
-
-40
+33
 
 St. John's West
 
 6,000
 
-41
+34
+
+Stephenville - Port au Port
+
+6,800
+
+35
 
 Terra Nova
 
 12,700
 
-42
+36
 
-The Isle of Notre Dame
-
-9,800
-
-43
-
-The Straits - White Bay North
-
-10,800
-
-44
-
-Topsail
+Topsail - Paradise
 
 6,000
 
-45
+37
 
 Torngat Mountains
 
 20,700
 
-46
+38
 
-Trinity - Bay de Verde
+Virginia Waters - Pleasantville
 
-8,600
+6,000
 
-47
+39
 
-Trinity North
+Waterford Valley
 
-8,200
+6,000
 
-48
+40
 
-Virginia Waters
+Windsor Lake
 
 6,000
 
 Total
 
-$445,100
+$386,000
 
-35/14 s1; 40/14 s1
+2015 c5 s7
