@@ -332,4 +332,22 @@ Containing an area of 0.109 hectare, more or less.
 
 All bearings refer to 3° Grid North (NAD 1983) as referred to the Transverse Mercator Projection for the Province of Newfoundland and Labrador with the Central Meridian at 58° 30' west longitude.
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being near the eastern side of Three Island Pond Road , in the Town of Paradise , in the Electoral District of Topsail-Paradise, in the Province of Newfoundland and Labrador , abutted and bounded as follows, that is to say:
+
+Beginning at a point, said point being 71.510 metres as measured on a bearing of north 25° 04' 56" east and then 2.179 metres on a bearing of north 52o 44' 27" east from Crown Land Monument No. 96G6155;
+
+Then running counterclockwise along the arc of a curve by Parcel 2 of Crown Land Application No. 141548 having an arc length of 37.612 metres and radius of 378.485 metres and a chord bearing and distance of north 36° 50' 59" west, 37.597 metres;
+
+Then running along the Newfoundland and Labrador TRailway Provincial Park north 53° 11' 19" east, 2.443 metres;
+
+Then running clockwise along the arc of a curve along the Newfoundland and Labrador TRailway Provincial Park having an arc length of 37.593 metres and radius of 380.925 metres and a chord bearing and distance south 36° 51' 04" east, 37.578 metres;
+
+Then running along the Newfoundland and Labrador TRailway Provincial Park south 52° 44' 27" west, 2.444 metres, more or less, to the point of beginning;
+
+Containing an area of 0.0092 hectares, more or less.
+
+All bearings being referred to NAD83 and to the meridian of 53° west longitude of the Modified 3° Transverse Mercator Projection for the Province of Newfoundland and Labrador .
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s1l 1/16 s1
