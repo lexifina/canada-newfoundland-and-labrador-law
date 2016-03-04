@@ -350,4 +350,48 @@ Containing an area of 0.0092 hectares, more or less.
 
 All bearings being referred to NAD83 and to the meridian of 53° west longitude of the Modified 3° Transverse Mercator Projection for the Province of Newfoundland and Labrador .
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s1l 1/16 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being at the Town of Bishop 's Falls, in the Electoral District of Exploits, in the Province of Newfoundland and Labrador , abutted and bounded as follows, that is to say:
+
+Beginning at survey marker located on the northeasterly limit of the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, the said point being the most easterly angle of the herein described parcel and having co-ordinates of north 5,430,347.614 metres and east 342,031.765 metres;
+
+Then crossing the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, north 87° 05' 29" west 33.135 metres to a survey marker;
+
+Then running counter clockwise along the arc of a curve having a radius of 124.595 metres and a length of 84.617 metres, Crown Land, to a point which bears north 86° 14' 43" west a straight line distance of 83.000 metres to a survey marker;
+
+Then crossing the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, north 22° 18' 06" west 15.089 metres to a survey marker;
+
+Then running clockwise along the arc of a curve having a radius of 139.595 metres and a length of 127.878 metres, Crown Land, to a point which bears south 80° 10' 11" east a straight line distance of 123.454 metres, more or less, to the point of beginning;
+
+The above described land contains an area of 0.161 hectares more or less.
+
+All bearings are being referred to the meridian of 56 west longitude of the 3° Modified Transverse Mercator Projection. Zone 2-NAD83 for the Province of Newfoundland and Labrador .
+
+The area described in this Schedule is increased by adding the following parcel of land:
+
+All that piece or parcel of land situate and being at the Town of Bishop 's Falls, in the Electoral District of Exploits, in the Province of Newfoundland and Labrador , abutted and bounded as follows, that is to say:
+
+Beginning at survey marker located on the southeasterly limit of the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, the said point being the most westerly angle of the herein described parcel and having co-ordinates of north 5,430,283.650 metres and east 341,832.359 metres;
+
+Then running along the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, north 33° 46' 11" east 24.531 metres to a survey marker;
+
+Then running clockwise along the arc of a curve having a radius of 124.595 metres and a length of 88.134 metres, the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, to a point which bears north 54° 02' 03" east a straight line distance of 86.308 metres to a survey marker;
+
+Then running along Crown Land , south 22° 18' 06" east 1.355 metres to a survey marker;
+
+Then running along Crown Land, south 87° 05' 29" east 82.414 metres to a survey marker;
+
+Then running clockwise along the arc of a curve having a radius of 124.595 metres and a length of 59.805 metres, the Newfoundland and Labrador T'Railway Provincial Park, Title No. 113478, to a point which bears south 53° 02' 19" east a straight line distance of 59.233 metres to a survey marker;
+
+Then running along Crown Land, north 76° 10' 05" west 54.949 metres to a survey marker;
+
+Then running counter clockwise along the arc of a curve having a radius of 101.615 metres and a length of 112.321 metres, along land granted by the Crown to Nfld. Pine and Pulp Limited, registered in Vol. SG2, Fol. 49, at the Registry of Crown Titles, to a point which bears south 83° 25' 00" west a straight line distance of 106.690 metres to a survey marker;
+
+Then running along Crown Land, south 60° 19' 45" west 62.494 metres, more or less, to the point of beginning;
+
+The above described land contains an area of 0.398 hectares more or less.
+
+All bearings are being referred to the meridian of 56 west longitude of the 3° Modified Transverse Mercator Projection. Zone 2-NAD83 for the Province of Newfoundland and Labrador .
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s11; 1/16 s1; 8/16 s1
