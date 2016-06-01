@@ -26,13 +26,13 @@ on receipt of funds by the public trustee
 
 $250
 
-plus
+Plus
 
 estate
 
 semi-annually and on payout
 
-5% of interest or income received
+8% of interest or income received
 
 Trustee Act
 
@@ -44,13 +44,13 @@ on receipt of funds by the public trustee
 
 $250
 
-plus
+Plus
 
 estate
 
 semi-annually and on payout
 
-5% of interest or income earned
+8% of interest or income earned
 
 Public Trustee Act, 2009
 
@@ -70,17 +70,17 @@ estate
 
 on receipt of funds by the public trustee
 
-5% of capital assets received
+8% of capital assets received
 
-plus
+Plus
 
 estate
 
 on receipt of funds by the public trustee
 
-5% commission on sale proceeds of real property
+8% commission on sale proceeds of real property
 
-plus
+Plus
 
 estate
 
@@ -88,13 +88,13 @@ on receipt of funds by the public trustee
 
 10% commission on sale proceeds of chattels
 
-plus
+Plus
 
 estate
 
 semi-annually and on payout
 
-5% of interest or income received
+8% of interest or income received
 
 person requesting deed
 
@@ -110,7 +110,7 @@ on receipt of funds by the public trustee
 
 5% of capital assets received
 
-plus
+Plus
 
 estate
 
@@ -118,7 +118,7 @@ on receipt of funds by the public trustee
 
 5% commission on sale proceeds of real property
 
-plus
+Plus
 
 estate
 
@@ -126,7 +126,7 @@ on receipt of funds by the public trustee
 
 10% commission on sale proceeds of chattels
 
-plus
+Plus
 
 estate
 
@@ -140,17 +140,17 @@ estate
 
 on receipt of funds by the public trustee
 
-5% of capital assets received
+8% of capital assets received
 
-plus
+Plus
 
 estate
 
 on receipt of funds by the public trustee
 
-5% commission on sale proceeds of real property
+8% commission on sale proceeds of real property
 
-plus
+Plus
 
 estate
 
@@ -158,10 +158,12 @@ on receipt of funds by the public trustee
 
 10% commission on sale proceeds of chattels
 
-plus
+Plus
 
 estate
 
 semi-annually and on payout
 
-5% of interest or income received
+8% of interest or income received
+
+26/16 s1
