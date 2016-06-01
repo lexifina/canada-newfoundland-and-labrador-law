@@ -18,7 +18,7 @@ Minimum number of lifeguards that must be on duty in the complement of lifeguard
 
 1
 
-31 ? 75 inclusive
+31 - 75 inclusive
 
 2
 
