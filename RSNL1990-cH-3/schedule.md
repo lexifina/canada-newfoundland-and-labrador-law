@@ -3550,15 +3550,15 @@ Unlawful sale of radar detectors Subsequent offence
 
 176.1
 
-Using a hand-held cellular phone while driving a motor vehicle on a highway
+Using a hand-held cellular phone while driving a motor vehicle on a highway Second offence Subsequent offence
 
-400
+500 750 1000
 
-100
+300 500 750
 
-14 days
+14 days 14 days 14 days
 
-2 days
+2 days 2 days 2 days
 
 177
 
@@ -3788,4 +3788,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1
