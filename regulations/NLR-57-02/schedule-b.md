@@ -2,7 +2,7 @@ Schedule B
 
 Threatened Species
 
-American Marten (Newfoundland Population)
+American Marten (Island of Newfoundland Population)
 
 Martes americana atrata
 
@@ -17,10 +17,6 @@ Chaetura pelagica
 Common Nighthawk
 
 Chardeiles minor
-
-Fernald's Braya
-
-Braya fernaldii
 
 Newfoundland Gray-cheeked Thrush
 
@@ -54,4 +50,4 @@ Woodland Caribou (Red Wine herd)
 
 Rangifer tarandus
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2

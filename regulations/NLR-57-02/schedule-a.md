@@ -26,6 +26,10 @@ Feathery False Solomon's Seal
 
 Maianthemum racemosum subsp. racemosum
 
+Fernald's Braya
+
+Braya fernaldii
+
 Gmelin's Watercrowfoot
 
 Ranunculus gmelinii
@@ -58,9 +62,17 @@ Mackenzies Sweetvetch
 
 Hedysarum boreale subsp. mackenzii
 
+Mountain Bladder Fern (Island of Newfoundland Population)
+
+Cystopteris montana
+
 Northern Bog Aster
 
 Symphyotrichum boreale
+
+Northern Twayblade
+
+Listera borealis
 
 Oval-leaved Creeping Spearwort
 
@@ -98,4 +110,4 @@ Wooly Arnica
 
 Arnica angustifolia subsp. tomentosa
 
-116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1
+116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1; 28/16 s1
