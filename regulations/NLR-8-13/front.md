@@ -10,7 +10,7 @@ Eastern Regional Service Board Regulations, 2013 under the Regional Service Boar
 
 Under the authority of section 19 of the Regional Service Boards Act, 2012 , I make the following regulations.
 
-Dated at St. Johns , January 15, 2013.
+Dated at St. John's , January 15, 2013.
 
 Kevin O'Brien Minister of Municipal Affairs
 
