@@ -10,7 +10,7 @@ Highway Sign Regulations, 1999 under the Urban and Rural Planning Act (O.C. 99-4
 
 Under the authority of section 63 of the Urban and Rural Planning Act , the minister with the approval of the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John's , September 29, 1999 .
+Dated at St. John's , September 29, 1999.
 
 Lloyd Matthews Minister of Municipal and Provincial Affairs
 
