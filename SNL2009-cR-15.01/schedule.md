@@ -20,7 +20,7 @@ Max.
 
 Min
 
-32(1)(a) to (g), 32(2), (4), (6) & (7), 71(2) and where no other penalty has been provided or prescribed by the Act or the regulations
+32(1)(a) to (g), 32(2), (4), (6), (6.1) & (7), 71(2) and where no other penalty has been provided or prescribed by the Act or the regulations
 
 Offences generally under the Act
 
@@ -286,4 +286,4 @@ Third & Subsequent Offence
 
 -
 
-2009 cR-15.01 Sch
+2009 cR-15.01 Sch; 2016 c20 s7
