@@ -6,6 +6,8 @@ Marble Mountain Development Corporation Board of Directors
 
 Public Service Pension Plan Corporation with respect to government appointees
 
+Teachers' Pension Plan Corporation with respect to government appointees
+
 Statutory Appointments
 
 Auditor General Act , section 4
@@ -70,4 +72,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch
+2016 cI-2.1 Sch; 36/16 s2
