@@ -24,6 +24,8 @@ Newfoundland and Labrador Sports Centre Inc. with respect to 6 members and a cha
 
 Newfoundland and Labrador Tourism Board with respect to a ministerial appointment of a chairperson
 
+Oil and Gas Industry Development Council
+
 Premier's Task Force on Improving Educational Outcomes
 
 Premier's Youth Advisory Committee
@@ -216,4 +218,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 35/16 s2
+2016 cI-2.1 s19; 35/16 s2; 44/16 s1
