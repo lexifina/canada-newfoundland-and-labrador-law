@@ -58,7 +58,7 @@ Public Service Commission Act , subsection 5(3)
 
 Public Utilities Act , subsections 6(2) and 117(1)
 
-Regional Health Authorities Act , subsections 8(1) and (2)
+Regional Health Authorities Act , subsections 8(1) and (2) and subsection 14(1)
 
 Regional Health Authorities Act , Regional Health Authorities Regulations , subsection 3(3)
 
@@ -72,4 +72,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2
