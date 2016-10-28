@@ -330,6 +330,30 @@ Micrograms per cubic metre of air
 
 (1)
 
+This item number effective until December 31, 2024
+
+20.1
+
+Sulphur dioxide
+
+7446-09-5
+
+Parts per billion
+
+65
+
+4
+
+1 hour
+
+1 year
+
+(2.1)
+
+(2.2)
+
+This item number effective January 1, 2025
+
 21
 
 Vanadium
@@ -357,6 +381,10 @@ Micrograms per cubic metre of air
 (1) Arithmetic mean
 
 (2) Geometric mean
+
+(2.1) The 3 year average of the annual 99th percentile of the SO2 daily maximum 1 hour average concentrations.
+
+(2.2) The arithmetic average over a single calendar year of all 1 hour average SO2 concentrations.
 
 Table II: Ambient Air Quality Standards for Dioxins and Furans at Reference Conditions
 
@@ -524,4 +552,4 @@ OCDF
 
 0.001
 
-39/04 Sch A; 34/14 s1
+39/04 Sch A; 34/14 s1; 70/16 s1
