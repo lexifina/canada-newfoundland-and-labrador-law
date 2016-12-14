@@ -44,7 +44,7 @@ Independent Appointments Commission Act , subsection 6(3)
 
 Labour Relations Act , section 6
 
-Legal Aid Act , paragraph 3(2)(a)
+Legal Aid Act , paragraph 3(2)(a), except those members appointed under subsection 3(3)
 
 Liquor Corporation Act , subsections 5(1) and (2)
 
@@ -72,4 +72,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1
