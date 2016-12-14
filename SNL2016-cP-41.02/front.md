@@ -1,0 +1,11 @@
+SNL2016 CHAPTER P-41.02
+
+PUBLIC SECTOR COMPENSATION TRANSPARENCY ACT
+
+CHAPTER P-41.02
+
+AN ACT TO PROVIDE THE PUBLIC WITH TRANSPARENCY REGARDING PUBLIC SECTOR COMPENSATION
+
+(Assented to December 14, 2016)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
