@@ -1,6 +1,6 @@
 Schedule B
 
-1. For the purpose of paragraph 4(2)(c), from January 1 to June 30, 2007, the mid-point of each range of base credit amounts listed in the first column of the following table is the amount specified opposite in the second column of the table.
+1. For the purpose of paragraph 4(2)(c), from January 1 to December 31, 2017 the mid-point of each range of base credit amounts listed in the first column of the following table is the amount specified opposite in the second column of the table.
 
 Column 1
 
@@ -10,102 +10,48 @@ Range of base credit amount
 
 Mid-point
 
-$0 to $7,410
+$0 to $8,978
 
-$7,410.00
+$8,978.00
 
-From $7,410.01 to $9,010
+From $8,978.01 to $10,917
 
-$8,210.00
+$9,947.50
 
-From $9,010.01 to $10,610
+From $10,917.01 to $12,856
 
-$9,810.00
+$11,886.50
 
-From $10,610.01 to $12,210
+From $12,856.01 to $14,795
 
-$11,410.00
+$13,825.50
 
-From $12,210.01 to $13,810
+From $14,795.01 to $16,734
 
-$13,010.00
+$15,764.50
 
-From $13,810.01 to $15,410
+From $16,734.01 to $18,673
 
-$14,610.00
+$17,703.50
 
-From $15,410.01 to $17,010
+From $18,673.01 to $20,612
 
-$16,210.00
+$19,642.50
 
-From $17,010.01 to $18,610
+From $20,612.01 to $22,551
 
-$17,810.00
+$21,581.50
 
-From $18,610.01 to $20,210
+From $22,551.01 to $24,490
 
-$19,410.00
+$23,520.50
 
-From $20,210.01 to $21,810
+From $24,490.01 to $26,429
 
-$21,010.00
+$25,459.50
 
-for amounts in excess of $21,810
-
-the actual base credit amount
-
-2. For the purpose of paragraph 4(2)(c), from July 1 to December 31, 2007, the mid-point of each range of base credit amounts listed in the first column of the following table is the amount specified opposite in the second column of the table.
-
-Column 1
-
-Column 2
-
-Range of base credit amount
-
-Mid-point
-
-$0 to $7,558
-
-$7,558.00
-
-From $7, 558.01 to $9,174
-
-$8,366.00
-
-From $9,174.01 to $10,790
-
-$9,982.00
-
-From $10,790.01 to $12,406
-
-$11,598.00
-
-From $12,406.01 to $14,022
-
-$13,214.00
-
-From $14,022.01 to $15,638
-
-$14,830.00
-
-From $15,638.01 to $17,254
-
-$16,446.00
-
-From $17,254.01 to $18,870
-
-$18,062.00
-
-From $18,870.01 to $20,486
-
-$19,687.00
-
-From $20,486.01 to $22,102
-
-$21,249.00
-
-for amounts in excess of $22,102
+for amounts in excess of $26,429
 
 the actual base credit amount
 
-18/09 s1; 57/09 s1; 19/10 s1
+19/10 s2; 15/18 s2
