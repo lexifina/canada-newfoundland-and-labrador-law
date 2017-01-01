@@ -1,105 +1,105 @@
 Schedule A
 
-1. For the purpose of the description of F in paragraph 4 (2)(b), from January 1 to June 30, 2007, , the ranges of remuneration for each pay period in a taxation year shall be determined as follows:
+1. For the purpose of the description of F in paragraph 4 (2)(b), from January 1 to December 31, 2017, the ranges of remuneration for each pay period in a taxation year shall be determined as follows:
 
-(a) in respect of a daily pay period, the ranges of remuneration commence at $40 and increase in increments of $2 for each range up to and including $140.99;
+(a) in respect of a daily pay period, the ranges of remuneration commence at $40 and increase in increments of $2 for each range up to and including $147.99;
 
-(b) in respect of a weekly pay period, the ranges of remuneration commence at $150 and increase in increments of
+(b) in respect of a weekly pay period, the ranges of remuneration commence at $182 and increase in increments of
 
-(i) $2 for each range up to and including $257.99,
+(i) $2 for each range up to and including $289.99,
 
-(ii) $4 for each range from $258 to $477.99,
+(ii) $4 for each range from $290 to $509.99,
 
-(iii) $8 for each range from $478 to $917.99,
+(iii) $8 for each range from $510 to $949.99,
 
-(iv) $12 for each range from $918 to $1,577.99,
+(iv) $12 for each range from $950 to $1,609.99,
 
-(v) $16 for each range from $1,578 to $2,457.99, and
+(v) $16 for each range from $1610 to $2,489.99, and
 
-(vi) $20 for each range from $2,458 to $3,557.99;
+(vi) $20 for each range from $2,490 to $3,589.99;
 
-(c) in respect of a bi-weekly pay period, the ranges of remuneration commence at $299 and increase in increments of
+(c) in respect of a bi-weekly pay period, the ranges of remuneration commence at $364 and increase in increments of
 
-(i) $4 for each range up to and including $514.99,
+(i) $4 for each range up to and including $579.99,
 
-(ii) $8 for each range from $515 to $954.99,
+(ii) $8 for each range from $580 to $1,019.99,
 
-(iii) $16 for each range from $955 to $1,834.99,
+(iii) $16 for each range from $1,020 to $1,899.99,
 
-(iv) $24 for each range from $1,835 to $3,154.99,
+(iv) $24 for each range from $1,900 to $3,219.99,
 
-(v) $32 for each range from $3,155 to $4,914.99, and
+(v) $32 for each range from $3,220 to $4,979.99, and
 
-(vi) $40 for each range from $4,915 to $7,114.99;
+(vi) $40 for each range from $4,980 to $7,179.99;
 
-(d) in respect of a semi-monthly pay period, the ranges of remuneration commence at $324 and increase in increments of
+(d) in respect of a semi-monthly pay period, the ranges of remuneration commence at $394 and increase in increments of
 
-(i) $4 for each range up to and including $539.99,
+(i) $4 for each range up to and including $609.99,
 
-(ii) $8 for each range from $540 to $979.99,
+(ii) $8 for each range from $610 to $1,049.99,
 
-(iii) $18 for each range from $980 to $1,969.99,
+(iii) $18 for each range from $1,050 to $2,039.99,
 
-(iv) $26 for each range from $1,970 to $3,399.99,
+(iv) $26 for each range from $2,040 to $3,469.99,
 
-(v) $34 for each range from $3,400 to $5,269.99, and
+(v) $34 for each range from $3,470 to $5,339.99, and
 
-(vi) $44 for each range from $5,270 to $7,689.99;
+(vi) $44 for each range from $5,340 to $7,759.99;
 
-(e) in respect of 12 monthly pay periods, the ranges of remuneration commence at $647 and increase in increments of
+(e) in respect of 12 monthly pay periods, the ranges of remuneration commence at $786 and increase in increments of
 
-(i) $8 for each range up to and including $1,078.99,
+(i) $8 for each range up to and including $1,217.99,
 
-(ii) $18 for each range from $1,079 to $2,068.99,
+(ii) $18 for each range from $1,218 to $2,207.99,
 
-(iii) $34 for each range from $2,069 to $3,938.99,
+(iii) $34 for each range from $2,208 to $4,077.99,
 
-(iv) $52 for each range from $3,939 to $6,798.99,
+(iv) $52 for each range from $4,078 to $6,937.99,
 
-(v) $70 for each range from $6,799 to $10,648.99, and
+(v) $70 for each range from $6,938 to $10,787.99, and
 
-(vi) $86 for each range from $10,649 to $15,378.99;
+(vi) $86 for each range from $10,788 to $15,517.99;
 
-(f) in respect of 10 pay periods a year, the ranges of remuneration commence at $777and increase in increments of
+(f) in respect of 10 pay periods a year, the ranges of remuneration commence at $944 and increase in increments of
 
-(i) $10 for each range up to and including $1,316.99,
+(i) $10 for each range up to and including $1,483.99,
 
-(ii) $20 for each range from $1,317 to $2,416.99,
+(ii) $20 for each range from $1,484 to $2,583.99,
 
-(iii) $42 for each range from $2,417 to $4,726.99,
+(iii) $42 for each range from $2,584 to $4,893.99,
 
-(iv) $62 for each range from $4,727 to $8,136.99,
+(iv) $62 for each range from $4,894 to $8,303.99,
 
-(v) $84 for each range from $8,137 to $12,756.99, and
+(v) $84 for each range from $8,304 to $12,923.99, and
 
-(vi) $104 for each range from $12,757 to $18,476.99;
+(vi) $104 for each range from $12,924 to $18,643.99;
 
 (g) in respect of 13 pay periods a year, the ranges of remuneration commence at $726 and increase in increments of
 
-(i) $8 for each range up to and including $1,029.99,
+(i) $8 for each range up to and including $1,157.99,
 
-(ii) $16 for each range from $1,030 to $1,909.99,
+(ii) $16 for each range from $1,158 to $2,037.99,
 
-(iii) $32 for each range from $1,910 to $3,669.99,
+(iii) $32 for each range from $2,038 to $3,797.99,
 
-(iv) $48 for each range from $3,670 to $6,309.99,
+(iv) $48 for each range from $3,798 to $6,437.99,
 
-(v) $64 for each range from $6,310 to $9,829.99, and
+(v) $64 for each range from $6,438 to $9,957.99, and
 
-(vi) $80 for each range from $9,830 to $14,229.99; and
+(vi) $80 for each range from $9,958 to $14,357.99; and
 
-(h) in respect of 22 pay periods a year, the ranges of remuneration commence at $354 and increase in increments of
+(h) in respect of 22 pay periods a year, the ranges of remuneration commence at $429 and increase in increments of
 
-(i) $6 for each range up to and including $677.99,
+(i) $6 for each range up to and including $752.99,
 
-(ii) $10 for each range from $678 to $1,227.99,
+(ii) $10 for each range from $753 to $1,302.99,
 
-(iii) $18 for each range from $1,228 to $2,217.99,
+(iii) $18 for each range from $1,303 to $2,292.99,
 
-(iv) $28 for each range from $2,218 to $3,757.99,
+(iv) $28 for each range from $2,293 to $3,832.99,
 
-(v) $38 for each range from $3,758 to $5,847.99, and
+(v) $38 for each range from $3,833 to $5,922.99, and
 
-(vi) $48 for each range from $5,848 to $8,847.99.
+(vi) $48 for each range from $5,923 to $8,562.99.
 
-18/09 s1; 57/09 s1; 19/10 s1
+18/09 s1; 57/09 s1; 19/10 s1; 15/18 s2
