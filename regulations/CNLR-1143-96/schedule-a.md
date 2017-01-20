@@ -100,7 +100,7 @@ Then south 85 ° 26' 19" west 2,007.257 metres;
 
 Then north 29 ° 16' 48" west 443.683 metres;
 
-Then along the southeast shoreline of Bay dEspoir, in a generally northeast direction, for a distance of approximately 9,500 metres, more or less to the point of beginning and containing an area of 3,403 ha.
+Then along the southeast shoreline of Bay d'Espoir, in a generally northeast direction, for a distance of approximately 9,500 metres, more or less to the point of beginning and containing an area of 3,403 ha.
 
 All bearings are referred to the UTM Grid Zone 21, NAD27.
 
@@ -7024,9 +7024,9 @@ Then following the northwestern forest access road in a generally northwesterly 
 
 Then following a straight line in a northeasterly direction to a point that point having UTM co-ordinates of 5,487,175 metres north, 491,986 metres east;
 
-Then following the Upper Humber River in a generally northerly direction to its confluence with Taylors Brook;
+Then following the Upper Humber River in a generally northerly direction to its confluence with Taylor's Brook;
 
-Then following the eastern bank of Taylors Brook to a point that point having UTM co-ordinates of 5,488,155 metres north, 492,509 metres east;
+Then following the eastern bank of Taylor's Brook to a point that point having UTM co-ordinates of 5,488,155 metres north, 492,509 metres east;
 
 Then following a straight line in a generally easterly direction to a point that point having UTM co-ordinates of 5,488,093 metres north, 494,091 metres east which corresponds to the intersection of forest access roads;
 
@@ -7270,4 +7270,182 @@ Then east 1,000 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 21, NAD 27.
 
-132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1
+LLLL. All that piece of land and land under water situate and being at Fischells Brook in the province and being described as follows:
+
+Beginning at a point that point having UTM co-ordinates of 5,353,000 metres north, 386,000 metres east;
+
+Then south 1,500 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then west 500 metres;
+
+Then south 1,000 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then west 500 metres;
+
+Then south 500 metres;
+
+Then west 1,500 metres;
+
+Then north 3,000 metres;
+
+Then east 500 metres;
+
+Then north 500 metres;
+
+Then east 1,500 metres;
+
+Then north 500 metres;
+
+Then east 1,500 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 21, NAD 27.
+
+MMMM. All that piece or parcel of land and land under water situate and being in the general area of Julienne Lake in the province and being described as follows:
+
+Beginning at a point that point having UTM co-ordinates of 5,886,500 metres north, 649,000 metres east;
+
+Then south 800 metres;
+
+Then west 1,000 metres;
+
+Then south 300 metres;
+
+Then west 500 metres;
+
+Then north 100 metres;
+
+Then west 500 metres;
+
+Then north 1,000 metres;
+
+Then east 2,000 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 19, NAD 27.
+
+NNNN. All that piece or parcel of land and land under water situate and being in the general area of Tally Pond in the province and being described as follows:
+
+Beginning at a point that point having MTM co-ordinates of 5,391,179 metres north, 268,784 metres east;
+
+Then south 86 ° 38' 45" east 615.25 metres;
+
+Then north 85 ° 32' 54" east 145.97 metres;
+
+Then south 84 ° 22' 58" east 112.59 metres;
+
+Then north 88 ° 59' 11" east 95.70 metres;
+
+Then north 71 ° 52' 42" east 98.52 metres;
+
+Then north 89 ° 59' 20" east 1,752.81 metres;
+
+Then south 5 ° 41' 14" west 311.64 metres;
+
+Then south 6 ° 14' 30" west 93.89 metres;
+
+Then south 1 ° 27' 23" west 299.97 metres;
+
+Then south 5 ° 28' 36" west 357.65 metres;
+
+Then south 00 ° 46' 41" east 242.79 metres;
+
+Then south 26 ° 45' 34" east 108.69 metres;
+
+Then south 12 ° 7' 49" west 161.28 metres;
+
+Then south 33 ° 52' 5" west 65.20 metres;
+
+Then south 2 ° 22' 58" west 218.48 metres;
+
+Then south 00 ° 5' 33" west 300.48 metres;
+
+Then north 79 ° 32' 5" west 176.80 metres;
+
+Then north 80 ° 50' 37" west 385.63 metres;
+
+Then north 87 ° 11' 57" west 475.21 metres;
+
+Then north 89 ° 48' 38" west 352.17 metres;
+
+Then north 86 ° 30' 10" west 105.75 metres;
+
+Then south 89 ° 47' 22" west 158.52 metres;
+
+Then north 88 ° 24' 53" west 106.29 metres;
+
+Then north 86 ° 54' 59" west 110.94 metres;
+
+Then north 89 ° 55' 58" west 65.09 metres;
+
+Then south 87 ° 54' 6" west 86.07 metres;
+
+Then south 89 ° 56' 12" west 153.97 metres;
+
+Then south 85 ° 16' 59" west 86.79 metres;
+
+Then north 88 ° 50' 25" west 218.05 metres;
+
+Then south 77 ° 6' 6" west 89.87 metres;
+
+Then north 72 ° 35' 49" west 103.28 metres;
+
+Then north 5 ° 34' 31" east 1,121.17 metres;
+
+Then north 27 ° 2' 5" west 369.93 metres;
+
+Then north 16 ° 6' 36" west 107.79 metres;
+
+Then north 5 ° 36' 36" east 447.30 metres to the point of beginning.
+
+All bearings are referred to the MTM Grid Zone 2, NAD 83.
+
+OOOO. All that piece or parcel of land and land under water situate and being in the general area of Tally Pond in the province and being described as follows:
+
+Beginning at a point that point having MTM co-ordinates of 5,391,196 metres north, 265,916 metres east;
+
+Then south 89 ° 40' 31" east 2,868.960 metres;
+
+Then south 5 ° 36' 36" west 446.887 metres;
+
+Then south 16 ° 6' 36" east 107.758 metres;
+
+Then south 27 ° 2' 5" east 369.938 metres;
+
+Then south 5 ° 34' 41" west 1,121.327 metres;
+
+Then north 70 ° 00' 36" west 69.155 metres;
+
+Then north 65 ° 29' 6" west 56.891 metres;
+
+Then north 89 ° 51' 47" west 581.664 metres;
+
+Then north 89 ° 40' 52" west 1,022.316 metres;
+
+Then south 88 ° 7' 9" west 79.444 metres;
+
+Then north 86 ° 39' 40" west 157.30 metres;
+
+Then north 86 ° 38' 19" west 154.657 metres;
+
+Then south 89 ° 2' 3" west 57.250 metres;
+
+Then north 88 ° 52' 57" west 392.469 metres;
+
+Then north 88 ° 52' 51" west 267.321 metres;
+
+Then south 89 ° 2' 34" west 59.499 metres;
+
+Then south 88 ° 7' 46" west 27.421 metres;
+
+Then north 00 ° 00' 6" east 1,930.104 metres to the point of beginning.
+
+All bearings are referred to the MTM Grid Zone 2, NAD 83.
+
+132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1; 3/17 s1
