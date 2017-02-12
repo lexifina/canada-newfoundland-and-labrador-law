@@ -3056,6 +3056,30 @@ Motorcycle passenger riding without helmet
 
 2 days
 
+154.1(1)
+
+Three-wheeled vehicle driver operating or passenger riding without helmet or eye protection
+
+400
+
+100
+
+14 days
+
+2 days
+
+154.1(2)
+
+Child seat restraint system used in non-compliant three-wheeled vehicle
+
+500
+
+100
+
+17 days
+
+2 days
+
 155(a)
 
 Driving motor vehicle with stickers on windows
@@ -3788,4 +3812,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3
