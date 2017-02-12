@@ -6,7 +6,7 @@ VEHICLE CLASS
 
 MINIMUM SPACE (width x length)
 
-cars, light trucks & vans
+cars, light trucks, vans and three-wheeled vehicles
 
 4 metres x 8 metres
 
@@ -26,4 +26,4 @@ recreational trailers
 
 4 metres x 8 metres
 
-64/93 Sch A
+64/93 Sch A; 9/17 s1
