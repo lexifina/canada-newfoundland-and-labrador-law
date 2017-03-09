@@ -12,6 +12,8 @@ C.A. Pippy Park Golf Course Limited with respect to ministerial appointments
 
 Dental Monitoring Committee
 
+Fisheries Advisory Council
+
 Interprovincial Lottery Corporation Board of Directors with respect to provincial nominees
 
 Municipal Assessment Agency with respect to taxpayer representatives
@@ -218,4 +220,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 35/16 s2; 44/16 s1
+2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 35/16 s1
