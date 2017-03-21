@@ -26,6 +26,8 @@ Schedule A
 
 (m) subsection 13(3) of the Order of Newfoundland and Labrador Act ;
 
+(m.1) sections 10 and 15 of the Patient Safety Act ;
+
 (n) sections 153, 154 and 155 of the Petroleum Drilling Regulations ;
 
 (o) sections 53 and 56 of the Petroleum Regulations ;
@@ -40,4 +42,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch
+2015 cA-1.2 Sch; 2017 cP-3.01 s28
