@@ -176,6 +176,8 @@ Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to m
 
 Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
 
+Patient Safety Act , subparagraph 19(1)(b)(i)
+
 Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)(b)
 
 Pharmaceutical Services Act , section 42
@@ -220,4 +222,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 35/16 s1
+2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 15/17 s1; 2017 cP-3.01 s32
