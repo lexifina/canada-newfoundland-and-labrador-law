@@ -2,6 +2,8 @@ Schedule
 
 Campbellton Municipal Planning Area
 
+Cox's Cove Municipal Planning Area
+
 Fermeuse Municipal Planning Area
 
 Flowers Cove Municipal Planning Area
@@ -26,4 +28,4 @@ Trinity Bay North Municipal Planning Area
 
 York Harbour Municipal Planning Area
 
-76/16 s1; 8/17 s1
+76/16 s1; 8/17 s1; 20/17 s1
