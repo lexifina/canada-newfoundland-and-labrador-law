@@ -8,6 +8,8 @@ Agreement on Internal Trade Roster of Panelists
 
 Atlantic Lotto Corporation with respect to provincial representatives
 
+Audit Committee with respect to ministerial appointments of members external to government
+
 C.A. Pippy Park Golf Course Limited with respect to ministerial appointments
 
 Dental Monitoring Committee
@@ -222,4 +224,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 15/17 s1; 2017 cP-3.01 s32
+2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 15/17 s1; 2017 cP-3.01 s32; 35/17 s1
