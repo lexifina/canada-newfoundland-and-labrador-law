@@ -1,10 +1,10 @@
 NEWFOUNDLAND AND LABRADOR REGULATION 93/97
 
-Newfoundland and Labrador TRailway Provincial Park Proclamation under the Provincial Parks Act (O.C. 97-228)
+Newfoundland and Labrador T'Railway Provincial Park Proclamation under the Provincial Parks Act (O.C. 97-228)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 93/97
 
-Newfoundland and Labrador TRailway Provincial Park Proclamation under the Provincial Parks Act (O.C. 97-228)
+Newfoundland and Labrador T'Railway Provincial Park Proclamation under the Provincial Parks Act (O.C. 97-228)
 
 93/97; 2001 c42 s45
 
@@ -12,7 +12,7 @@ Newfoundland and Labrador TRailway Provincial Park Proclamation under the Provin
 
 Under the authority of section 4 of the Provincial Parks Act , the Lieutenant-Governor in Council proclaims the area referred to in the Schedule to be a provincial park.
 
-Dated at St. Johns , May 2, 1997 .
+Dated at St. John's , May 2, 1997 .
 
 John Cummings Deputy Clerk of the Executive Council (Acting)
 
@@ -308,9 +308,9 @@ All that piece or parcel of land situate and being located at Little Harbour, in
 
 Beginning at a point, that point being the northerly angle of the described lot and having co-ordinates of north 5,442,235.256 and east 376,690.675;
 
-Then running from the described point of beginning by the Newfoundland and Labrador TRailway Provincial Park, 30.48 metres wide, south 0 ° 58' 07" east 35.351 metres;
+Then running from the described point of beginning by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, south 0 ° 58' 07" east 35.351 metres;
 
-Then running by land granted by the Crown to Bishop OReilly General Assembly of the Knights of Columbus, and registered under Vol. 166-Fol. 32 in the Registry of Crown Grants, south 58 ° 35' 53" west 1,018.353 metres to a point, and along a curve of radius 719.440 metres, in a counterclockwise direction, to a point being distant 34.068 metres, as measured on a bearing of south 57 ° 14' 23" west from the last mentioned point;
+Then running by land granted by the Crown to Bishop O'Reilly General Assembly of the Knights of Columbus, and registered under Vol. 166-Fol. 32 in the Registry of Crown Grants, south 58 ° 35' 53" west 1,018.353 metres to a point, and along a curve of radius 719.440 metres, in a counterclockwise direction, to a point being distant 34.068 metres, as measured on a bearing of south 57 ° 14' 23" west from the last mentioned point;
 
 Then running by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, along a curve of radius 105.000 metres, in a counterclockwise direction, to a point being distant 79.234 metres, as measured on a bearing of south 75 ° 37' 26" west from the last mentioned point;
 
@@ -542,15 +542,15 @@ The area described in this Schedule is decreased by removing the following parce
 
 1. Day Property - Parcel 1 - Boom Siding
 
-All that piece or parcel of land lying south of Deer Lake and north of the Government of Newfoundland and Labrador TRailway, at Boom Siding, in the Electoral District of Humber East, in the Province of Newfoundland and Labrador , being further bounded and described as follows:
+All that piece or parcel of land lying south of Deer Lake and north of the Government of Newfoundland and Labrador T'Railway, at Boom Siding, in the Electoral District of Humber East, in the Province of Newfoundland and Labrador , being further bounded and described as follows:
 
 Beginning at a point, that point having co-ordinates of north 5,429,783.180 and east 365,319.744;
 
-Then running from the above described point of beginning by the Government of Newfoundland and Labrador TRailway, north 0 ° 42 42" west 6.905 metres;
+Then running from the above described point of beginning by the Government of Newfoundland and Labrador T'Railway, north 0 ° 42' 42" west 6.905 metres;
 
-Then running by land granted by the Crown to Albert Day and registered under Vol. 118 - Fol.10 in the Registry of Crown Grants, north 85 ° 1718" east 27.246 metres;
+Then running by land granted by the Crown to Albert Day and registered under Vol. 118 - Fol.10 in the Registry of Crown Grants, north 85 ° 17'18" east 27.246 metres;
 
-Then running by the Government of Newfoundland and Labrador TRailway, south 0 ° 42 42" east 7.145 metres, and south 85 ° 47 24" west 27.230 metres, more or less, to the point of beginning;
+Then running by the Government of Newfoundland and Labrador T'Railway, south 0 ° 42' 42" east 7.145 metres, and south 85 ° 47' 24" west 27.230 metres, more or less, to the point of beginning;
 
 Containing an area of 191 square metres, more or less;
 
@@ -558,27 +558,27 @@ Subject to a portion of utility easement 7.4 metres wide which extends unto the 
 
 2. Town of Mount Moriah Property - Parcel 2 - Mount Moriah
 
-All that piece or parcel of land being a portion of the Government of Newfoundland and Labrador TRailway, in the Town of Mount Moriah, in the Electoral District of Bay of Islands , in the Province of Newfoundland and Labrador , being further bounded and described as follows:
+All that piece or parcel of land being a portion of the Government of Newfoundland and Labrador T'Railway, in the Town of Mount Moriah, in the Electoral District of Bay of Islands , in the Province of Newfoundland and Labrador , being further bounded and described as follows:
 
-Beginning at a point, that point being found by running from monument no. 94G5032, south 61 ° 45 33" west 708.66 metres;
+Beginning at a point, that point being found by running from monument no. 94G5032, south 61 ° 45' 33" west 708.66 metres;
 
-Then running from the above described point of beginning by the Government of Newfoundland and Labrador TRailway, south 72 ° 46 43" east 33.641 metres;
+Then running from the above described point of beginning by the Government of Newfoundland and Labrador T'Railway, south 72 ° 46' 43" east 33.641 metres;
 
-Then running south 8 ° 00 23" west 6.234 metres, to a point;
+Then running south 8 ° 00' 23" west 6.234 metres, to a point;
 
-Then continuing by the Government of Newfoundland and Labrador TRailway, along a curve of radius 316.774 metres, in a counter clockwise direction, to a point being distant 79.761 metres, as measured on a bearing of south 71 ° 54 58" west from the last mentioned point;
+Then continuing by the Government of Newfoundland and Labrador T'Railway, along a curve of radius 316.774 metres, in a counter clockwise direction, to a point being distant 79.761 metres, as measured on a bearing of south 71 ° 54' 58" west from the last mentioned point;
 
-Then continuing by the Government of Newfoundland and Labrador TRailway, north 10 ° 41 16" east 27.773 metres;
+Then continuing by the Government of Newfoundland and Labrador T'Railway, north 10 ° 41' 16" east 27.773 metres;
 
-Then running by land granted by the Crown to Samuel Pauley and registered under Volume 69 and Folio 176 in the Registry of Crown Grants, north 68 ° 42 14" east 14.997 metres;
+Then running by land granted by the Crown to Samuel Pauley and registered under Volume 69 and Folio 176 in the Registry of Crown Grants, north 68 ° 42' 14" east 14.997 metres;
 
-Then running by land granted by the Crown to Peter OQuinn and registered under Volume 78 and Folio 7 in the Registry of Crown Grants, north 72 ° 13 21" east 26.709 metres, more or less, to the point of beginning;
+Then running by land granted by the Crown to Peter O'Quinn and registered under Volume 78 and Folio 7 in the Registry of Crown Grants, north 72 ° 13' 21" east 26.709 metres, more or less, to the point of beginning;
 
 Containing an area of 0.148 hectare, more or less;
 
 Subject to a utility easement, 5.4 metres wide, which crosses the subject lot;
 
-All bearings refer to 3 ° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30 west longitude;
+All bearings refer to 3 ° grid north NAD 1983 as referred to the Transverse Mercator Projection for Newfoundland with the Central Meridian at 58 ° 30' west longitude;
 
 3. Taylor Property - Parcel 3 - Ocean Pond
 
@@ -586,13 +586,13 @@ All that piece or parcel of land situate and being on the southern side of the O
 
 Beginning at a point, that point being an iron bar set at the northeastern corner of the land and having grid co-ordinates of north 5,253,959.794 and east 272,967.986;
 
-Then running along land of the TRailway Provincial Park south 7 ° 58 4" west, a distance of 26.839 metres;
+Then running along land of the T'Railway Provincial Park south 7 ° 58' 4" west, a distance of 26.839 metres;
 
-Then running along land granted to Jeanette Taylor and registered in the Crown Registry in V-184 F-43 and by land of Jeanette Taylor registered in the Provincial Registry of Deeds on Roll 73 Frame 2323, south 66 ° 19 04" west, a distance of 27.080 metres
+Then running along land granted to Jeanette Taylor and registered in the Crown Registry in V-184 F-43 and by land of Jeanette Taylor registered in the Provincial Registry of Deeds on Roll 73 Frame 2323, south 66 ° 19' 04" west, a distance of 27.080 metres
 
-Then running along land of the TRailway Provincial Park north 21 ° 45 56" west, a distance of 22.860 metres;
+Then running along land of the T'Railway Provincial Park north 21 ° 45' 56" west, a distance of 22.860 metres;
 
-Then north 66 ° 19 04" east, a distance of 40.399 metres, more or less, to the point of beginning.
+Then north 66 ° 19' 04" east, a distance of 40.399 metres, more or less, to the point of beginning.
 
 Containing an area of 770.8 square metres, more or less, and being more particularly described and delineated on the drawing annexed here.
 
@@ -602,17 +602,17 @@ All bearings are referred to the meridian 53 ° west longitude of the Modified 3
 
 All that piece or parcel of land situate and being near the eastern side of Three Island Pond Road, having varying widths, at Paradise, in the electoral district of Topsail, Newfoundland and Labrador, Canada and being abutted and bounded as follows:
 
-Beginning at a point, that point being 513.953 metres as measured on a bearing of south 83 ° 37 25" east from Crown Land Monument No. 96G 6156;
+Beginning at a point, that point being 513.953 metres as measured on a bearing of south 83 ° 37' 25" east from Crown Land Monument No. 96G 6156;
 
-Then running along by land registered to James and Jessie Roberts in roll 1462 frame 397 of the Registry of Deeds in Newfoundland and Labrador north 56 ° 12 26" east, 3.986 metres;
+Then running along by land registered to James and Jessie Roberts in roll 1462 frame 397 of the Registry of Deeds in Newfoundland and Labrador north 56 ° 12' 26" east, 3.986 metres;
 
-Then running along by TRailway Provincial Park south 44 ° 16 13" east, 18.438 metres;
+Then running along by T'Railway Provincial Park south 44 ° 16' 13" east, 18.438 metres;
 
-Then running south 56 ° 23 12" west, 4.002 metres;
+Then running south 56 ° 23' 12" west, 4.002 metres;
 
-Then running along by a Crown Grant issued to George Phillips registered in volume 108 folio 402 of the Crown Land Registry in Newfoundland and Labrador north 44 ° 01 04" west, 3.048 metres;
+Then running along by a Crown Grant issued to George Phillips registered in volume 108 folio 402 of the Crown Land Registry in Newfoundland and Labrador north 44 ° 01' 04" west, 3.048 metres;
 
-Then running north 44 ° 16 05" west, 15.375 metres, more or less, to the point of beginning.
+Then running north 44 ° 16' 05" west, 15.375 metres, more or less, to the point of beginning.
 
 Subject to, nevertheless, a drainage easement as shown on the adjoining plan;
 
@@ -624,17 +624,17 @@ All bearings being referred to NAD 83 and to the meridian of 53 ° west longitud
 
 All that piece or parcel of land situate and being at Channel-Port aux Basques, District of Burgeo and La Poile, Newfoundland and Labrador , Canada and bounded as follows:
 
-Beginning at a point, that point being north 1 ° 28 58" west a distance of 1995.125 metres from Control Monument number 82G2337;
+Beginning at a point, that point being north 1 ° 28' 58" west a distance of 1995.125 metres from Control Monument number 82G2337;
 
-Then by land granted to Joseph Jeans, Vol. 163 Fol. 55, north 14 ° 53 40" west a distance of 65.281 metres;
+Then by land granted to Joseph Jeans, Vol. 163 Fol. 55, north 14 ° 53' 40" west a distance of 65.281 metres;
 
-Then by the sideline of Grand Bay West Road , 30 metres wide, south 30 ° 27 00" west a distance of 31.746 metres;
+Then by the sideline of Grand Bay West Road , 30 metres wide, south 30 ° 27' 00" west a distance of 31.746 metres;
 
-Then by the sideline of Bar Haven Drive south 42 ° 37 06" east a distance of 48.541 metres to the point of beginning;
+Then by the sideline of Bar Haven Drive south 42 ° 37' 06" east a distance of 48.541 metres to the point of beginning;
 
 The above described parcel of land contains an area of 737.1 square metres and is more particularly delineated on the diagram annexed here;
 
-All bearings refer to the meridian of 58 ° 30 west longitude of the 3 ° Transverse Mercator Projection NAD 83.
+All bearings refer to the meridian of 58 ° 30' west longitude of the 3 ° Transverse Mercator Projection NAD 83.
 
 The area described in this Schedule is decreased by removing the following parcel of land:
 
