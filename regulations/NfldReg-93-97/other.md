@@ -6,11 +6,11 @@ Beginning at a survey marker, the said survey marker being the westerly angle of
 
 Running then from the above described point of beginning by land of Bernard Grant, north 65° 56' 14" east 20.040 metres to a survey marker;
 
-Then running by land of the Newfoundland and Labrador TRailway Provincial Park, south 23° 59' 46" east 8.000 metres to a survey marker;
+Then running by land of the Newfoundland and Labrador T'Railway Provincial Park, south 23° 59' 46" east 8.000 metres to a survey marker;
 
-Then continuing by land of the Newfoundland and Labrador TRailway Provincial Park, south 65° 56' 14" west 21.521 metres to a survey marker;
+Then continuing by land of the Newfoundland and Labrador T'Railway Provincial Park, south 65° 56' 14" west 21.521 metres to a survey marker;
 
-Then continuing by land of the Newfoundland and Labrador TRailway Provincial Park, north 13°30'46" west 8.138 metres, more or less, to the point of beginning;
+Then continuing by land of the Newfoundland and Labrador T'Railway Provincial Park, north 13°30'46" west 8.138 metres, more or less, to the point of beginning;
 
 Containing an area of 166 square metres, more or less;
 
@@ -24,15 +24,15 @@ All that piece or parcel of land situate and being northeast of Fowlers Road , i
 
 Beginning at a point, that point having M.T.M grid coordinates C.M. 53° NAD 83 of north 5,265,219.785 and east 309,699.786;
 
-Then running north 66° 24' 00" west a distance of 4.248 metres by land occupied by Stephen ONeill, 121 Fowlers Road, to a point;
+Then running north 66° 24' 00" west a distance of 4.248 metres by land occupied by Stephen O'Neill, 121 Fowlers Road, to a point;
 
-Then turning and running north 24° 21' 00" east, a distance of 7.139 metres by the Newfoundland and Labrador TRailway Provincial Park, 30.48 metres wide, to a point;
+Then turning and running north 24° 21' 00" east, a distance of 7.139 metres by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, to a point;
 
-Then turning and running north 57° 31' 35" east a distance of 3.775 metres by the Newfoundland and Labrador TRailway Provincial Park, 30.48 metres wide, to a point;
+Then turning and running north 57° 31' 35" east a distance of 3.775 metres by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, to a point;
 
-Then turning and running north 73° 14' 01" east, a distance of 5.983 metres by the Newfoundland and Labrador TRailway Provincial Park, 30.48 metres wide, to a point;
+Then turning and running north 73° 14' 01" east, a distance of 5.983 metres by the Newfoundland and Labrador T'Railway Provincial Park, 30.48 metres wide, to a point;
 
-Then turning and running south 33° 40' 00" west, a distance of 14.367 metres by land occupied by Stephen ONeill, 121 Fowlers Road, to the point of beginning.
+Then turning and running south 33° 40' 00" west, a distance of 14.367 metres by land occupied by Stephen O'Neill, 121 Fowlers Road, to the point of beginning.
 
 Containing in all an area of 0.0057 hectares.
 
@@ -320,7 +320,7 @@ All that piece or parcel of land lying northwest of Lakeshore Drive , 15.0 meter
 
 Beginning at a survey marker, that survey marker being the westerly angle of the parcel of land described below, that angle having co-ordinates of north 5,432,190.565 and east 370,526.679;
 
-Running then from the above described point of beginning by land granted by the Crown to Lisa Marie Tipple and registered under Vol. 308 - Fol. 17 in the Registry of Crown Titles, along a curve having a radius of 791.456 metres, in a clockwise direction, to a survey marker which is distant 97.182 metres, as measured on a bearing of north 44 ° 38 59" east from the point of beginning;
+Running then from the above described point of beginning by land granted by the Crown to Lisa Marie Tipple and registered under Vol. 308 - Fol. 17 in the Registry of Crown Titles, along a curve having a radius of 791.456 metres, in a clockwise direction, to a survey marker which is distant 97.182 metres, as measured on a bearing of north 44 ° 38' 59" east from the point of beginning;
 
 Then running by land granted by the Crown to David Tapp and registered under Vol. 206 - Fol.136 in the Registry of Crown Titles, and by the Newfoundland and Labrador T'Railway Provincial Park, south 42° 18' 00" east 13.554 metres, to a survey marker located on the northwest limit of Lakeshore Drive;
 
@@ -340,11 +340,11 @@ Beginning at a point, said point being 71.510 metres as measured on a bearing of
 
 Then running counterclockwise along the arc of a curve by Parcel 2 of Crown Land Application No. 141548 having an arc length of 37.612 metres and radius of 378.485 metres and a chord bearing and distance of north 36° 50' 59" west, 37.597 metres;
 
-Then running along the Newfoundland and Labrador TRailway Provincial Park north 53° 11' 19" east, 2.443 metres;
+Then running along the Newfoundland and Labrador T'Railway Provincial Park north 53° 11' 19" east, 2.443 metres;
 
-Then running clockwise along the arc of a curve along the Newfoundland and Labrador TRailway Provincial Park having an arc length of 37.593 metres and radius of 380.925 metres and a chord bearing and distance south 36° 51' 04" east, 37.578 metres;
+Then running clockwise along the arc of a curve along the Newfoundland and Labrador T'Railway Provincial Park having an arc length of 37.593 metres and radius of 380.925 metres and a chord bearing and distance south 36° 51' 04" east, 37.578 metres;
 
-Then running along the Newfoundland and Labrador TRailway Provincial Park south 52° 44' 27" west, 2.444 metres, more or less, to the point of beginning;
+Then running along the Newfoundland and Labrador T'Railway Provincial Park south 52° 44' 27" west, 2.444 metres, more or less, to the point of beginning;
 
 Containing an area of 0.0092 hectares, more or less.
 
@@ -394,4 +394,36 @@ The above described land contains an area of 0.398 hectares more or less.
 
 All bearings are being referred to the meridian of 56 west longitude of the 3° Modified Transverse Mercator Projection. Zone 2-NAD83 for the Province of Newfoundland and Labrador .
 
-31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s11; 1/16 s1; 8/16 s1
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All that piece or parcel of land situate and being at the Town of Gallants , in the Electoral District of St. George's-Humber, in the Province of Newfoundland and Labrador , abutted and bounded as follows, that is to say:
+
+Beginning at a survey marker, the said point being the most westerly angle of the herein described parcel of land and having coordinates of north 5,396,245.122 and east 324,501.176;
+
+Then running by land of George Parsons, registration number 607231 at the Registry of Deeds, north 49 ° 24' 05'' east 47.098 metres to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park south 42 ° 39' 01'' east 7.620 metres to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park south 49 ° 27' 36'' west 46.479 metres to a survey marker;
+
+Then running by the Newfoundland and Labrador T'Railway Provincial Park north 47 ° 19' 10" west 7.620 metres, more or less, to the point of beginning;
+
+The above described land contains an area of 0.036 hectares, more or less.
+
+All bearings referenced to the Meridian of 58 ° 30' west longitude of the Three Degree Modified Transverse Mercator Projection, Zone 3, NAD 83 for the Province of Newfoundland and Labrador .
+
+The area described in this Schedule is decreased by removing the following parcel of land:
+
+All those pieces or parcels of the Newfoundland and Labrador T'Railway Provincial Park located between the Town of Mount Moriah and the Town of Pasadena in the Province of Newfoundland and Labrador, in the Electoral Districts of St. George's-Humber, Humber-Bay of Islands, and Corner Brook , abutted and bounded as follows, that is to say:
+
+Beginning at a point where the Newfoundland and Labrador T'Railway Provincial Park meets the 20 metre right-of-way of Tipping Drive, in the Town of Pasadena, as depicted on Special Plan 51, more particularly described as 458,117 metres east and 5,433,195 metres north, more or less;
+
+Then continuing along the centreline in a general south, south westerly, and westerly direction to the Town of Mount Moriah for 41.64 kilometres, more or less, and including all right-of-way lands, to a point in the western boundary of the 20 metre right-of-way of Serpentine Road where it crosses the Newfoundland and Labrador T'Railway Provincial Park, as depicted on Special Plan 54, more particularly described as 423,498 metres east and 5,424,147 metres north, more or less;
+
+Depicted on Special Plans 51, 52, 53, and 54 registered in the Registry of Crown Titles.
+
+Reserving and excepting out of the above described pieces or parcels of land, however, all those pieces and parcels of land lawfully alienated from the Crown.
+
+All bearings and coordinates refer to the Central Meridian of 57° west longitude of the 6° Universal Transverse Mercator Projection, Zone 21, North American Datum 1983.
+
+31/00 s1; 49/01 s1; 51/01 s1; 2001 c42 s45; 41/06 s1; 55/06 s1; 83/07 s1; 27/08 s1; 40/08 s1; 71/08 s1; 71/10 s1; 89/10 s1; 16/11 s1; 17/11 s1; 18/11 s1; 39/11 s1; 98/11 s1; 99/11 s1; 16/12 s1; 61/12 s1; 84/12 s1; 63/13 s1; 71/13 s1; 129/13 s1; 75/14 s11; 1/16 s1; 8/16 s1; 40/17 s1; 41/17 s1
