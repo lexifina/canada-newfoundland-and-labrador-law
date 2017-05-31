@@ -242,12 +242,6 @@ Using licence issued another person
 
 Unlawful operation under licence issued elsewhere
 
-53(2)
-
-0
-
-Unlawful operation of motorcycle under licence issued elsewhere
-
 54
 
 0
@@ -259,36 +253,6 @@ Allowing unlicensed driver to drive
 2
 
 Having person in addition to learner and instructor in vehicle
-
-55(4)(b)
-
-2
-
-Carrying passenger on motorcycle when not permitted
-
-55(4)(c)(i)
-
-2
-
-Motorcycle learner not accompanied by licensed driver
-
-55(4)(c)(ii)
-
-2
-
-Motorcycle learner accompanied by licensed driver under 18 years of age
-
-55(4)(d)
-
-2
-
-Operating motorcycle after dark with beginner licence only
-
-55(4)(e)
-
-2
-
-Operating motorcycle as beginner on a highway with a speed limit in excess of 60 km per hour
 
 55.2
 
@@ -1292,18 +1256,6 @@ School bus not equipped with visual signals or not activated
 
 Operating school bus with markings not concealed
 
-138(1)
-
-2
-
-Failing to yield right-of-way to vehicle drawn by animal
-
-138(2)
-
-2
-
-Making avoidable noise when animal passing engine
-
 139
 
 2
@@ -1838,29 +1790,11 @@ Passenger riding on a portion of the vehicle not designed for passengers
 
 Driver operating vehicle where underage passenger required to wear seat belt is unbelted
 
-178(8)
-
-2
-
-Driver operating vehicle with child not in car seat
-
 178.1(2)
 
 2
 
 Operating on a highway a vehicle in which there is a passenger, who is a child 8 years of age or younger, improperly or not secured in a child seat restraint system
-
-184(1)
-
-0
-
-Placing unauthorized signs on highway
-
-185
-
-0
-
-Injuring or defacing traffic signs
 
 187(5)
 
@@ -1885,173 +1819,3 @@ Driver refusing to give name or address or giving false name or address
 0
 
 Person failing to give information regarding identity of driver
-
-Highway Traffic Bus Regulations
-
-Column 1
-
-Column 2
-
-Column 3
-
-Section and Subsection or Paragraph
-
-Number of Demerit Points
-
-Short Description of Offences
-
-5(3)
-
-2
-
-Failing to activate stop arm or flashing lights
-
-19(1)
-
-2
-
-Failing to stop at railway crossing
-
-19(2)
-
-2
-
-Bus driver not maintaining proper following distance
-
-Highway Traffic Licensing Equipment Regulations
-
-Column 1
-
-Column 2
-
-Column 3
-
-Section and Subsection or Paragraph
-
-Number of Demerit Points
-
-Short Description of Offences
-
-7.1(2)
-
-2
-
-Operating motor vehicle without headlights on
-
-7.1(b)
-
-2
-
-Improper use of fog lamps
-
-7.2(b)
-
-2
-
-Failure to have motorcycle headlight on when in motion on a highway
-
-7.3(b)(i)
-
-2
-
-Failing to dim headlights to oncoming traffic
-
-7.3(b)(ii)
-
-2
-
-Failing to dim headlights when following another vehicle
-
-Highway Traffic Driver Regulations, 1999
-
-Column 1
-
-Column 2
-
-Column 3
-
-Subsection or Paragraph
-
-Number of Points
-
-Short Description of Offences
-
-5(2)(a)
-
-3
-
-Failure to have accompanying driver or qualified accompanying driver
-
-5(2)(b)
-
-3
-
-Passenger in vehicle
-
-5(2)(c)
-
-3
-
-Driving between midnight and 5 a.m.
-
-5(2)(d)
-
-3
-
-No display of “novice driver” sign
-
-6(1)(a)
-
-3
-
-Failure to have accompanying driver or qualified accompanying driver
-
-6(1)(b)
-
-3
-
-Insufficient seat belts for passengers
-
-7(2)(a)
-
-3
-
-Failure to have accompanying driver or qualified accompanying driver
-
-7(2)(b)
-
-3
-
-Driving between sunset and sunrise
-
-7(2)(c)
-
-3
-
-Driving on highway with speed limit over 80 kph
-
-7(2)(d)
-
-3
-
-Carrying a passenger
-
-8(1)
-
-3
-
-Driving between midnight and 5 a.m.
-
-21
-
-2
-
-Operating air brake equipped vehicle without proper endorsement
-
-26
-
-3
-
-Upgrading drivers licence without properly licensed driving instructor
-
-165/92 Table; 109/98 s4; 30/03 s1; 48/09 s1; 93/10 s1; 64/12 s1; 19/14 s1; 20/14 s1; 104/14 s1
