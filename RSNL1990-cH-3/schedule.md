@@ -536,18 +536,6 @@ Unlawful operation under licence issued elsewhere
 
 2 days
 
-53(2)
-
-Unlawful operation of motor cycle under licence issued elsewhere
-
-400
-
-100
-
-14 days
-
-2 days
-
 54
 
 Allowing unlicensed driver to drive
@@ -563,66 +551,6 @@ Allowing unlicensed driver to drive
 55(2)
 
 Having person in addition to learner and instructor in vehicle
-
-400
-
-100
-
-14 days
-
-2 days
-
-55(4)(b)
-
-Motorcycle learner transporting passenger when prohibited
-
-400
-
-100
-
-14 days
-
-2 days
-
-55(4)(c)(i)
-
-Motorcycle learner not accompanied by licensed driver
-
-400
-
-100
-
-14 days
-
-2 days
-
-55(4)(c) (ii)
-
-Motorcycle learner accompanied by licensed driver under 18 years of age
-
-400
-
-100
-
-14 days
-
-2 days
-
-55(4)(d)
-
-Motorcycle learner operating after dark
-
-400
-
-100
-
-14 days
-
-2 days
-
-55(4)(e)
-
-Motorcycle learner operating vehicle on highway with speed limit in excess of 60 kph.
 
 400
 
@@ -1030,7 +958,7 @@ Failure to drive to right of centre of roundabout
 
 100.1(3)
 
-Failure to yield right-of-way in roundabout to traffic travelling to left of drivers vehicle
+Failure to yield right-of-way in roundabout to traffic travelling to left of driver's vehicle
 
 400
 
@@ -3812,4 +3740,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3; 2017 c10 s15
