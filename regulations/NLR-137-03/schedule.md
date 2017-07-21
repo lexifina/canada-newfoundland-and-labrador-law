@@ -10,6 +10,8 @@ Happy Adventure Municipal Planning Area
 
 Harbour Main-Chapel's Cove-Lakeview Municipal Planning Area
 
+Indian Bay Municipal Planning Area
+
 Lawn Municipal Planning Area
 
 Meadows Municipal Planning Area
@@ -26,4 +28,4 @@ Trinity Bay North Municipal Planning Area
 
 York Harbour Municipal Planning Area
 
-76/16 s1; 8/17 s1; 20/17 s1; 46/17 s1
+76/16 s1; 8/17 s1; 20/17 s1; 46/17 s1; 68/17 s1
