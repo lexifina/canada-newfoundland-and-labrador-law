@@ -2,15 +2,15 @@ Schedule C
 
 Entities
 
-Agreement on Internal Trade Dispute Screener
-
-Agreement on Internal Trade Roster of Panelists
-
 Atlantic Lotto Corporation with respect to provincial representatives
 
 Audit Committee with respect to ministerial appointments of members external to government
 
 C.A. Pippy Park Golf Course Limited with respect to ministerial appointments
+
+Canadian Free Trade Agreement Roster for Appellate Panels
+
+Canadian Free Trade Agreement Roster for Panels and Compliance Panels
 
 Dental Monitoring Committee
 
@@ -32,7 +32,7 @@ Oil and Gas Industry Development Council
 
 Premier's Task Force on Improving Educational Outcomes
 
-Premier's Youth Advisory Committee
+Premier's Youth Council
 
 Provincial Advisory Council on Aging and Seniors
 
@@ -224,4 +224,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 15/17 s1; 2017 cP-3.01 s32; 35/17 s1
+2016 cI-2.1 s19; 35/16 s2; 44/16 s1; 15/17 s1; 2017 cP-3.01 s32; 35/17 s1; 2017 c15 s4; 76/17 s2
