@@ -90,7 +90,7 @@ Combination of:
 
 Alcohol and drug dependency assessment/rehabilitation
 
-Section 60.4 of Act
+Section 60.3 of Act
 
 2 months
 
@@ -110,4 +110,4 @@ Alcohol and drug education program
 
 Alcohol and drug dependency assessment / rehabilitation
 
-74/03 s9; 49/09 s5; 92/10 s1
+74/03 s9; 49/09 s5; 92/10 s1; 78/17 s5
