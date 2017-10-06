@@ -2,6 +2,8 @@ Schedule
 
 Campbellton Municipal Planning Area
 
+Cox's Cove Municipal Planning Area
+
 Embree Municipal Planning Area
 
 Gillams Municipal Planning Area
@@ -17,6 +19,8 @@ Lawn Municipal Planning Area
 Meadows Municipal Planning Area
 
 New-Wes-Valley Municipal Planning Area
+
+Portugal Cove South Municipal Planning Area
 
 Roddickton-Bide Arm Municipal Planning Area Schedule B
 
