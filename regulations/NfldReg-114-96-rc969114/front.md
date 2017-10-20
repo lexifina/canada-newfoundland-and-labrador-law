@@ -2,8 +2,6 @@ NEWFOUNDLAND AND LABRADOR REGULATION 114/96
 
 Pension Benefits Act Regulations under the Pension Benefits Act, 1997 (O.C. 96-968)
 
-NEWFOUNDLAND AND LABRADOR REGULATION 114/96
-
 Pension Benefits Act Regulations under the Pension Benefits Act, 1997 (O.C. 96-968)
 
 (Filed December 18, 1996)
