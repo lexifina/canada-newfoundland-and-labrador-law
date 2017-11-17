@@ -460,4 +460,4 @@ The above described parcel is subject to all reservations, easements, rights-of-
 
 All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
 
-44/17 Sch
+44/17 s1
