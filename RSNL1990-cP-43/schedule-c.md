@@ -20,6 +20,8 @@ Interprovincial Lottery Corporation Board of Directors with respect to provincia
 
 Municipal Assessment Agency with respect to taxpayer representatives
 
+Mistaken Point World Heritage Site Advisory Council with respect to public interest members
+
 Newfoundland and Labrador Film Development Corporation
 
 Newfoundland and Labrador Historic Commemorations Board
