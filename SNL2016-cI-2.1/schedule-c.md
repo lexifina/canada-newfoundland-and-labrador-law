@@ -78,6 +78,8 @@ Buildings Accessibility Act , section 18 with respect to Lieutenant-Governor in 
 
 Canadian Centre for Occupational Health and Safety Act , section 4 with respect to provincial appointments
 
+Centre for Health Information Act, 2018 , subsections 7(2) and 13(1)
+
 Chartered Professional Accountants and Public Accountants Act , subsections 5(1) and 28(4) with respect to ministerial appointments
 
 Chiropractors Act, 2009 , subsections 5(1) and 21(4)
@@ -214,4 +216,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19
+2016 cI-2.1 s19; 2018 cC-5.2 s28
