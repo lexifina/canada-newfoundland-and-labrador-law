@@ -16,7 +16,7 @@ Business Investment Corporation Act, subsection 7(1)
 
 Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act , section 10, with respect to provincial appointees, nomination for chairperson, designation of vice-chairperson and alternate
 
-Centre for Health Information Act, subsection 6(1)
+Centre for Health Information Act , subsection 6(1)
 
 Child and Youth Advocate Act , section 4
 
@@ -54,6 +54,8 @@ Memorial University Act , paragraph 22(2)(c) and subsection 48(1)
 
 Pippy Park Commission Act , paragraph 4(1)(a) and subsection 12(1)
 
+Public Procurement Act , subsection 15(1)
+
 Public Service Commission Act , subsection 5(3)
 
 Public Utilities Act , subsections 6(2) and 117(1)
@@ -68,8 +70,10 @@ Rooms Act , subsections 7(1) and 10(1)
 
 Royal Newfoundland Constabulary Act, 1992 , subsection 4(1)
 
+Seniors' Advocate Act , section 4
+
 Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31
