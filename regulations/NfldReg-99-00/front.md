@@ -10,7 +10,7 @@ Prepaid Funeral Services Regulations under the Prepaid Funeral Services Act (O.C
 
 Under the authority of section 14 of the Prepaid Funeral Services Act, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John's , December 19, 2000.
+Dated at St. Johns , December 19, 2000.
 
 Gary Norris Clerk of the Executive Council
 
