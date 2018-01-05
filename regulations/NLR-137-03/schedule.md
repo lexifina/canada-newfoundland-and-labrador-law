@@ -6,6 +6,10 @@ Cox's Cove Municipal Planning Area
 
 Embree Municipal Planning Area
 
+Fermeuse Municipal Planning Area
+
+Flowers Cove Municipal Planning Area
+
 Gillams Municipal Planning Area
 
 Happy Adventure Municipal Planning Area
@@ -19,6 +23,8 @@ Lawn Municipal Planning Area
 Meadows Municipal Planning Area
 
 New-Wes-Valley Municipal Planning Area
+
+Port au Port West-Aguathuna-Felix Cove Municipal Planning Area
 
 Portugal Cove South Municipal Planning Area
 
