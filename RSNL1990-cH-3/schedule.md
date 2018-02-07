@@ -108,9 +108,9 @@ Failure to return or deliver plate or vehicle licence
 
 Failure to produce vehicle licence
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -120,9 +120,9 @@ Failure to produce vehicle licence
 
 Identification plates not securely fastened in proper position
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -132,9 +132,9 @@ Identification plates not securely fastened in proper position
 
 Failure to keep identification plates clean
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -168,9 +168,9 @@ Failure to file change of address with registrar
 
 Failure to notify registrar of change of name
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -252,9 +252,9 @@ Operating a vehicle contrary to paragraph 10(1)(b) re: vehicle exceeding 10,900 
 
 Operating a vehicle contrary to paragraph 10(1)(d)
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -396,9 +396,9 @@ Failure to deliver plate or licence or give advice required to registrar
 
 No licence for class of motor vehicle Second offence Subsequent
 
-50 200 500
+600 1100 1600
 
-50 100 300
+300 800 1100
 
 2 days 7 days 17 days
 
@@ -408,9 +408,9 @@ No licence for class of motor vehicle Second offence Subsequent
 
 Invalid or no driver's licence Second offence Subsequent
 
-50 200 500
+600 1100 1600
 
-50 100 300
+300 800 1100
 
 2 days 7 days 17 days
 
@@ -468,9 +468,9 @@ Licensee failing to sign licence
 
 Licensee failing to produce licence upon request
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -492,9 +492,9 @@ Failure to return licence to registrar on request
 
 Failure to return or deliver licence
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -612,9 +612,9 @@ Failure to keep record regarding vehicles rented
 
 Failure to notify registrar of lost driver's licence, etc.
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -924,9 +924,9 @@ Driving to left of centre line of roadway
 
 Vehicle proceeding at less than normal speed not driving in right hand lane
 
-180
+235
 
-45
+100
 
 6 days
 
@@ -1752,9 +1752,9 @@ Exceeding the speed limit by 31 kilometres an hour and over Second offence Subse
 
 Slow driving
 
-180
+235
 
-45
+100
 
 6 days
 
@@ -2796,9 +2796,9 @@ Parking on a bridge or in a highway tunnel
 
 Failure to observe traffic-control device prohibiting parking or stopping
 
-90
+170
 
-20
+100
 
 3 days
 
@@ -3036,9 +3036,9 @@ Driving motor vehicle with ornaments obstructing vision
 
 Driving motor vehicle with windshield, etc., so covered with snow, etc. as to obscure or obstruct vision
 
-180
+235
 
-45
+100
 
 6 days
 
@@ -3624,9 +3624,9 @@ Driver operating vehicle with child not in car seat
 
 Operating vehicle without proper equipment or of improper construction
 
-90
+170
 
-20
+100
 
 3 days
 
@@ -3648,9 +3648,9 @@ Notification of non repairable or salvage vehicle
 
 Failure to comply with vehicle inspection requirements
 
-120
+160
 
-60
+100
 
 4 days
 
@@ -3740,4 +3740,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3; 2017 c10 s15
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3; 2017 c10 s15; 2017 c18
