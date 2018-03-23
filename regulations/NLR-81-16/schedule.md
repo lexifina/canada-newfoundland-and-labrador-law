@@ -58,7 +58,7 @@ Provincial Information and Library Resources Board
 
 Public Service Commission
 
-Research & Development Corporation
+Research and Development Corporation
 
 Royal Newfoundland Constabulary
 
@@ -72,4 +72,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch
+81/16 Sch;
