@@ -140,7 +140,7 @@ Occupancies of same classifications
 
 Entrances
 
-3. (1) Except as required in subsection (2), every building shall have at least one entrance intended for general use by the public, occupants or employees employed in the building designed in conformance with and opening to the outdoors at sidewall level or to a ramp leading to a sidewall.
+3. (1) Except as required in subsection (2), every building shall have at least one entrance intended for general use by the public, occupants or employees employed in the building designed in conformance with and opening to the outdoors at sidewalk level or to a ramp leading to a sidewalk.
 
 (2) Where a suite is located in a storey to which a barrier-free path of travel is provided and is completely separate from the remainder of the building so that there is no access to the remainder of the building, such suites shall have at least one barrier-free entrance in conformance with subsection (1).
 
@@ -160,7 +160,9 @@ Corridors
 
 Post or turnstiles
 
-6. Post or turnstiles shall not restrict the barrier-free path of travel to less than 750 millimetres into or throughout a building unless an alternative means of access is provided adjacent to and is plainly visible from the restricted access.
+6. (1) Posts shall not restrict the barrier-free path of travel to less than 810 millimetres into or throughout a building unless an alternative means of access is provided adjacent to and is plainly visible from the restricted access.
+
+(2) Where a turnstile is used, it shall have an adjacent gate with a clear width of at least 810 millimetres.
 
 Interior barrier-free path of travel
 
