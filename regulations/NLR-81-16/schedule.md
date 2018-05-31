@@ -20,6 +20,8 @@ Human Rights Commission
 
 Independent Appointments Commission
 
+Innovation and Business Investment Corporation
+
 Labour Relations Board
 
 Labrador-Grenfell Regional Health Authority
@@ -58,8 +60,6 @@ Provincial Information and Library Resources Board
 
 Public Service Commission
 
-Research and Development Corporation
-
 Royal Newfoundland Constabulary
 
 Student Loan Corporation of Newfoundland and Labrador
@@ -72,4 +72,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch;
+81/16 Sch; 2018 cI-7.1 s29
