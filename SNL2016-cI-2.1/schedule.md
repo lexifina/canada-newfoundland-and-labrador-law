@@ -12,8 +12,6 @@ Statutory Appointments
 
 Auditor General Act , section 4
 
-Business Investment Corporation Act, subsection 7(1)
-
 Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act , section 10, with respect to provincial appointees, nomination for chairperson, designation of vice-chairperson and alternate
 
 Centre for Health Information Act, 2018 , subsections 7(2) and 13(1)
@@ -42,6 +40,8 @@ Hydro Corporation Act, 2007 , subsections 6(2) and 7(3)
 
 Independent Appointments Commission Act , subsection 6(3)
 
+Innovation and Business Investment Corporation Act , paragraph 7(1)(c)
+
 Labour Relations Act , section 6
 
 Legal Aid Act , paragraph 3(2)(a), except those members appointed under subsection 3(3)
@@ -64,8 +64,6 @@ Regional Health Authorities Act , subsections 8(1) and (2) and subsection 14(1)
 
 Regional Health Authorities Act , Regional Health Authorities Regulations , subsection 3(3)
 
-Research and Development Council Act , subsections 6(2) and 12(1)
-
 Rooms Act , subsections 7(1) and 10(1)
 
 Royal Newfoundland Constabulary Act, 1992 , subsection 4(1)
@@ -76,4 +74,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2018 cC-5.2 s28
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2018 cC-5.2 s28; 2018 cI-7.1 c26
