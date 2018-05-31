@@ -20,6 +20,8 @@ Schedule A
 
 (j) sections 173, 174 and 174.1 of the Highway Traffic Act ;
 
+(j.1) section 21 of the Innovation and Business Investment Corporation Act;
+
 (k) section 15 of the Mineral Act ;
 
 (l) section 16 of the Mineral Holdings Impost Act ;
@@ -32,7 +34,7 @@ Schedule A
 
 (o) sections 53 and 56 of the Petroleum Regulations ;
 
-(p) section 21 of the Research and Development Council Act ;
+(p) [Rep. by 2018 cI-7.1 s24]
 
 (q) section 12 and subsection 62(2) of the Schools Act, 1997 ;
 
@@ -42,4 +44,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24
