@@ -4,8 +4,6 @@ The Agricultural Products Marketing Board
 
 The Board of Commissioners of Public Utilities
 
-Business Investment Corporation
-
 The C.A. Pippy Park Commission
 
 The Cancer Treatment and Research Foundation
@@ -16,8 +14,6 @@ Criminal Code Mental Disorder Review Board (section 672.38 Criminal Code)
 
 The Dairy Farmers of Newfoundland and Labrador
 
-Day Care and Homemaking Services Licensing Board
-
 Edge Corporation Evaluation Board
 
 The Egg Producers of Newfoundland and Labrador
@@ -27,6 +23,8 @@ Enterprise Newfoundland and Labrador Corporation
 A hospital board or authority as defined in the Hospitals Act
 
 A health and community services board incorporated under the Health and Community Services Act
+
+Innovation and Business Investment Corporation
 
 Insurance Adjusters, Agents and Brokers Appeal Board
 
@@ -106,4 +104,4 @@ A corporation, commission or board the majority of the members of which, or the 
 
 A board, commission or other body added to this Schedule by order of the Lieutenant-Governor in Council
 
-2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2
+2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2; 2014 cC-11.01 s38; 2018 cI-7.1 s25
