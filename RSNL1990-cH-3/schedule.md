@@ -562,7 +562,7 @@ Having person in addition to learner and instructor in vehicle
 
 55.2
 
-Contravening restriction on novice or accompanying drive
+Contravening restriction on novice or accompanying driver
 
 400
 
@@ -744,9 +744,9 @@ Operating or permitting the operation of a motor vehicle without a policy Second
 
 Failure to produce proof that a policy is in force
 
-100
+175
 
-25
+100
 
 4 days
 
@@ -1572,9 +1572,9 @@ Driving imprudently Second offence Subsequent offence
 
 Driving without due care and attention Second offence Subsequent offence
 
-180 240 480
+500 750 1000
 
-120 180 240
+300 500 750
 
 6 days 8 days 16 days
 
@@ -1584,9 +1584,9 @@ Driving without due care and attention Second offence Subsequent offence
 
 Driving without reasonable consideration for other persons Second offence Subsequent offence
 
-180 240 480
+500 750 1000
 
-120 180 240
+300 500 750
 
 6 days 8 days 16 days
 
@@ -1642,7 +1642,7 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 110(3)(d)
 
-Exceeding the speed limit by 31 kilometres and over Second offence Subsequent offence
+Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
 450 600 750
 
@@ -1651,6 +1651,30 @@ Exceeding the speed limit by 31 kilometres and over Second offence Subsequent of
 15 days 20 days 25 days
 
 6 days 8 days 10 days
+
+110(3)(e)
+
+Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
+
+600 700 850
+
+400 500 600
+
+15 days 20 days 25 days
+
+6 days 8 days 10 days
+
+110.01
+
+Driving without due care and attention or reasonable consideration for others causing death or bodily harm
+
+20000
+
+2000
+
+180 days
+
+60 days
 
 110.1(4)(a)
 
@@ -1690,11 +1714,23 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 110.1(4)(d)
 
-Exceeding the speed limit by 31 kilometres an hour and over Second offence Subsequent offence
+Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
 900 1200 1500
 
 600 800 1000
+
+15 days 20 days 25 days
+
+6 days 8 days 10 days
+
+110.1(4)(e)
+
+Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
+
+1200 1500 1800
+
+800 1000 1200
 
 15 days 20 days 25 days
 
@@ -1738,11 +1774,23 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 110.2(4)(d)
 
-Exceeding the speed limit by 31 kilometres an hour and over Second offence Subsequent offence
+Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
 900 1200 1500
 
 600 800 1000
+
+15 days 20 days 25 days
+
+6 days 8 days 10 days
+
+110.2(4)(e)
+
+Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
+
+1200 1500 1800
+
+800 1000 1200
 
 15 days 20 days 25 days
 
@@ -2002,7 +2050,7 @@ Stopping or decreasing speed without signalling
 
 118
 
-Failing to yield right- of-way at intersection
+Failing to yield right-of-way at intersection
 
 400
 
@@ -3272,9 +3320,21 @@ Driving vehicle without chains or winter tires
 
 2 days
 
-168
+168(1)
 
 Racing vehicles or bicycles on highways
+
+900
+
+180
+
+30 days
+
+4 days
+
+168.1(1)
+
+Performing or engaging in stunt while driving
 
 900
 
@@ -3740,4 +3800,4 @@ Alteration of identification card, false name or address on or possessing false 
 
 -
 
-2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3; 2017 c10 s15; 2017 c18
+2004 c18 s8; 2004 c27 s24; 2006 c23 s14; 2007 c23 s3; 2008 c57 s7; 2009 c9 s31; 2012 c17 s8; 2013 c10 s2; 2013 c15 s8; 2014 c24 s3; 2014 c28 s3; 2016 c31 s1; 2016 c13 s2; 2016 c51 s3; 2017 c10 s15
