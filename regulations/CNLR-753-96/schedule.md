@@ -810,7 +810,19 @@ Exceeding the speed limit by between 21 and 30 kilometres per hour
 
 4
 
-Exceeding the speed limit by 31 kilometres and over
+Exceeding the speed limit by between 31 and 50 kilometres an hour
+
+110(3)(e)
+
+4
+
+Exceeding the speed limit by 51 kilometres an hour and over
+
+110.01
+
+6
+
+Driving without due care and attention or reasonable consideration for others causing death or bodily harm
 
 110.1(4)(a)
 
@@ -834,7 +846,13 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 4
 
-Exceeding the speed limit by 31 kilometres an hour and over
+Exceeding the speed limit by between 31 and 50 kilometres an hour
+
+110.1(4)(e)
+
+4
+
+Exceeding the speed limit by 51 kilometres an hour and over
 
 110.2(4)(a)
 
@@ -858,7 +876,13 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 4
 
-Exceeding the speed limit 31 kilometres an hour or over
+Exceeding the speed limit by between 31 and 50 kilometres an hour
+
+110.2(4)(e)
+
+4
+
+Exceeding the speed limit by 51 kilometres an hour and over
 
 111(1)
 
@@ -1603,6 +1627,12 @@ Driving vehicle without chains or winter tires
 2
 
 Racing vehicles or bicycles on highways
+
+168.1(1)
+
+2
+
+Performing or engaging in stunt while driving
 
 169(1)(a)
 
