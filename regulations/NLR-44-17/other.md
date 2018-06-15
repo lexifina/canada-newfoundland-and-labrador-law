@@ -694,4 +694,176 @@ The above described parcel is subject to all reservations, easements, rights-of-
 
 All bearings and coordinates being referenced to NAD 1983 MTM Zone 4.
 
-44/17 Sch; 100/17 s1
+Area 44
+
+All that piece or parcel of land situated near St. Fintan's, in the electoral district of St. George's-Humber, in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+
+Commencing at a point being the south most corner of the within described parcel, west of the Trans Canada Highway , having coordinates of east 284 071 metres and north 5 334 386 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 282 731 metres and north 5 334 993 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 282 518 metres and north 5 336 956 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 283 237 metres and north 5 336 734 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 283 738 metres and north 5 336 136 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 283 563 metres and north 5 335 944 metres, more or less;
+
+Then heading in a southeast direction to a point west of the Trans Canada Highway having coordinates of east 284 419 metres and north 5 334 777 metres, more or less;
+
+Then heading in a southwest direction, along the Trans Canada Highway , back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 250 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+Area 45
+
+All that piece or parcel of land situated near Cormack, in the electoral district of Humber-Gros Morne, in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+
+Commencing at a point being the south most corner of the within described parcel, east of Route 430, having coordinates of east 198 828 metres and north 5 453 800 metres, more or less;
+
+Then heading north along Route 430 to a point having coordinates of east 198 324 metres and north 5 456 687 metres, more or less;
+
+Then heading east to a point having coordinates of east 198 553 metres and north 5 456 675 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 199 595 metres and north 5 458 737 metres, more or less;
+
+Then heading in an easterly direction to a point having coordinates of east 200 775 metres and north 5 458 256 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 199 345 metres and north 5 455 301 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 199 458 metres and north 5 454 763 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 199 149 metres and north 5 453 869 metres, more or less;
+
+Then heading in a southwest direction back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 600 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+Area 46
+
+All that piece or parcel of land situated near Rocky Pond, in the electoral district of Baie Verte-Green Bay, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Commencing at a point being the south most corner of the within described parcel, having coordinates of east 299 166 metres and north 5 460 537 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 297 797 metres and north 5 462 031 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 298 606 metres and north 5 462 591 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 299 229 metres and north 5 461 844 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 299 913 metres and north 5 462 591 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 300 754 metres and north 5 461 844 metres, more or less;
+
+Then heading in a southwest direction back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 296 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+Area 47
+
+All that piece or parcel of land situated at Sops Lake, in the electoral district of Baie Verte-Green Bay, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Commencing at a point being the north most corner of the within described parcel, having coordinates of east 315 600 metres and north 5 474 888 metres, more or less;
+
+Then heading in a southeast direction partially along the shoreline of Sops Lake to a point having coordinates of east 316 121 metres and north 5 474 462 metres, more or less;
+
+Then heading south to a point having coordinates of east 316 095 metres and north 5 473 695 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 316 638 metres and north 5 473 381 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 316 420 metres and north 5 473 236 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 315 888 metres and north 5 473 455 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 315 406 metres and north 5 472 303 metres, more or less;
+
+Then heading west to a point having coordinates of east 314 840 metres and north 5 472 331 metres, more or less;
+
+Then heading north to a point having coordinates of east 315 097 metres and north 5 474 878 metres, more or less;
+
+Then heading east back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 243 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+Area 48
+
+All that piece or parcel of land situated near Gander Bay , in the electoral district of Fogo Island-Cape Freels, in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+
+Commencing at a point being the southwest corner of the within described parcel, on the east side of Route 330, having coordinates of east 197 349 metres and north 5 455 347 metres, more or less;
+
+Then heading north following Route 330 to a point having coordinates of east 197 400 metres and north 5 458 477 metres, more or less;
+
+Then crossing Route 330 and heading in southwest direction to a point having coordinates of east 197 015 metres and north 5 458 334 metres, more or less;
+
+Then heading in an irregular northeast direction crossing and continuing on to a point on the east side of Route 330 having coordinates of east 200 107 metres and north 5 464 365 metres, more or less;
+
+Then following Route 330 in a northeast direction to a point having coordinates of east 200 563 metres and north 5 464 885 metres, more or less;
+
+Then heading east to a point having coordinates of east 202 690 metres and north 5 465 350 metres, more or less;
+
+Then heading south to a point having coordinates of east 202 211 metres and north 5 462 454 metres, more or less;
+
+Then heading in a southwest direction to a point on the west side of First Pond having coordinates of east 198 940 metres and north 5 461 489 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 199 064 metres and north 5 459 666 metres, more or less;
+
+Then heading in an irregular northeast direction to a point on the southwest bank of Second Pond having coordinates of east 201 399 metres and north 5 460 783 metres, more or less;
+
+Then following the south bank of Second Pond and continuing along the south bank of Third Pond in a northeast direction to a point having coordinates of east 203 864 metres and north 5 461 750 metres, more or less;
+
+Then heading in a southeast direction to a point on the west bank of Fourth Pond having coordinates of east 204 875 metres and north 5 460 112 metres, more or less;
+
+Then following the west bank of Fourth Pond in a southwest direction to a point having coordinates of east 203 846 metres and north 5 458 360 metres, more or less;
+
+Then heading in a southwest direction back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 4247 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
+
+Area 49
+
+All that piece or parcel of land situated near Appleton , in the electoral district of Gander, in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+
+Commencing at a point being the northeastern most corner of the within described parcel, on the southwest bank of an unnamed pond, having coordinates of east 394 848 metres and north 5 427 924 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 394 456 metres and north 5 427 065 metres, more or less;
+
+Then heading in an irregular southwest direction crossing the Trans Canada Highway to a point having coordinates of east 392 684 metres and north 5 424 944 metres, more or less;
+
+Then heading in a northwest direction crossing the Trans Canada Highway to a point having coordinates of east 392 393 metres and north 5 426 380 metres, more or less;
+
+Then heading in an irregular northeast direction crossing the Trans Canada Highway to a point having coordinates of east 392 727 metres and north 5 426 704 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 393 121 metres and north 5 426 148 metres, more or less;
+
+Then heading in a northeast direction to a point on the southwest bank of an unnamed pond having coordinates of east 394 717 metres and north 5 427 936 metres, more or less;
+
+Then heading east following the southern bank of that pond back to the point of commencement.
+
+The above described piece or parcel of land containing approximately 195 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+44/17 Sch; 100/17 s1; 45/18
