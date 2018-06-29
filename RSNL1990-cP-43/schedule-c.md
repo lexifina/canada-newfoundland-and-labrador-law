@@ -2,6 +2,8 @@ Schedule C
 
 Entities
 
+Advisory committee established under section 14 of the Prescription Monitoring Act with respect to public representatives
+
 Atlantic Lotto Corporation with respect to provincial representatives
 
 Audit Committee with respect to ministerial appointments of members external to government
