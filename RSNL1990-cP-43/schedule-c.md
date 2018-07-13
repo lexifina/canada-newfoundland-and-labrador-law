@@ -196,7 +196,7 @@ Pharmacy Act, 2012 , subsections 6(1) and 36(4) with respect to ministerial appo
 
 Physiotherapy Act, 2006 , subsections 5(1) and 16(4) with respect to ministerial appointments
 
-Private Training Institutions Act , subsection 4(3)
+Private Training Institutions Act, Private Training Institutions Regulations, paragraphs 3.1(e) and (f)
 
 Professional Fish Harvesters Act , section 5, subsection 15(1) and section 20
 
