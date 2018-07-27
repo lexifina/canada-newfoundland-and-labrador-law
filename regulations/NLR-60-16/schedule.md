@@ -1,12 +1,12 @@
 Schedule
 
-Annual Water Use Charges for Commercial and Industrial Purposes
+Annual Water Use Charges
 
 Water Use Purpose
 
 Annual Water Use Charges
 
-Commercial Purposes
+Commercial
 
 Marine aquaculture
 
@@ -24,38 +24,30 @@ Water bottling and/or production of other water based finished products from sur
 
 $500 per 1,000 m3 licensed and used plus $50 per 1,000 m3 licensed but not used
 
-Minimum annual water use charge for water bottling and/or production of other water based finished products from surface and groundwater sources
-
-$2,500
-
 Water bottling and/or production of other water based finished products from water or ice harvested from icebergs
 
 $1,000 per 1,000 m3 licensed and used plus $100 per 1,000 m3 licensed but not used
 
-Minimum annual water use charge for water bottling and/or production of other water based finished products from water or ice harvested from icebergs
-
-$5,000
-
-Minimum annual water use charge for any other commercial purpose
+Minimum annual water use charge for a commercial entity where water is only used for non-commercial purposes
 
 $500
 
-Industrial Purposes
+Industrial
 
 Mineral Exploration
 
 $1,000
 
-Industrial (Except the removal or displacement of water from a body of water)
+Industrial purpose (Except the removal or displacement of water from a body of water by accumulated or deposited tailing effluent and material)
 
 $10 per 1,000 m3 licensed and used plus $1.00 per 1,000 m3 licensed but not used
 
-Industrial for the removal or displacement of water from a body of water by accumulated or deposited tailing effluent and material
+Industrial purpose for the removal or displacement of water from a body of water by accumulated or deposited tailing effluent and material
 
 $200 per 1,000 m3 of water removed or displaced
 
-Minimum annual water use charge for any other industrial purpose
+Minimum annual water use charge for any industrial purpose (including the removal or displacement of water from a body of water) where there is no water metering equipment to measure water use
 
 $1,000
 
-60/16 Sch
+60/16 Sch; 61/18 s1
