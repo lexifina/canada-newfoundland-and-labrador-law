@@ -30,6 +30,8 @@ Portugal Cove South Municipal Planning Area
 
 Roddickton-Bide Arm Municipal Planning Area Schedule B
 
+Salmon Cove Municipal Planning Area
+
 Salvage Municipal Planning Area
 
 St. Jacques-Coombs Cove Municipal Planning Area - area added by St. Jacques-Coombs Cove Municipal Planning Area (Amendment) , NLR 5/17, only
