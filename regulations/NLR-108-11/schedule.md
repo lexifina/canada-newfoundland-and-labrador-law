@@ -47,3 +47,9 @@ Supreme Court, Court of Appeal, Richardson Building , 315 Duckworth Street , St.
 Supreme Court of Newfoundland and Labrador , Family Division, 21 King's Bridge Road , St. John's ; and
 
 An area used by a judge of the Supreme Court or the Court of Appeal for the purpose of conducting circuit court.
+
+Inquiries:
+
+An area used for the purpose of conducting the commission of inquiry respecting the Muskrat Falls Project.
+
+108/11 Sch; 79/18 s1
