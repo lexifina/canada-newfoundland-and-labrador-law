@@ -784,11 +784,23 @@ Exceeding the speed limit by between 21 and 30 kilometres per hour
 
 3
 
-Exceeding the speed limit by 31 kilometres and over
+Exceeding the speed limit by 31 and 50 kilometres an hour
+
+110(3)(e)
+
+3
+
+Exceeding the speed limit by 51 kilometres an hour and over
+
+110.01
+
+3
+
+Driving without due care and attention or reasonable consideration for others causing death or bodily harm
 
 110.1(4)(a)
 
-0
+1
 
 Exceeding the speed limit by between 1 and 10 kilometres an hour
 
@@ -806,9 +818,39 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 110.1(4)(d)
 
-4
+3
 
-Exceeding the speed limit by 31 kilometres an hour and over
+Exceeding the speed limit by 31 and 50 kilometres an hour
+
+110.1(4)(e)
+
+3
+
+Exceeding the speed limit by 51 kilometres an hour and over
+
+110.2(4)(b)
+
+2
+
+Exceeding the speed limit by between 11 and 20 kilometres an hour
+
+110.2(4)(c)
+
+3
+
+Exceeding the speed limit by between 21 and 30 kilometres an hour
+
+110.2(4)(d)
+
+3
+
+Exceeding the speed limit by between 31 and 50 kilometres an hour
+
+110.2(4)(e)
+
+3
+
+Exceeding the speed limit by 51 kilometres an hour and over
 
 111(1)
 
@@ -959,6 +1001,12 @@ Failing to yield right-of-way when entering highway
 3
 
 Failing to yield right-of-way to emergency vehicle
+
+121.1
+
+3
+
+Failing to reduce speed, stop, pass, change lanes or move over when approaching stopped emergency vehicle or designated vehicle
 
 123(6)
 
@@ -1283,6 +1331,12 @@ Driving vehicle without chains or winter tires
 3
 
 Racing vehicles or bicycles on a highway
+
+168.1(1)
+
+3
+
+Performing or engaging in stunt whle driving
 
 169(1)(a)
 
@@ -2772,4 +2826,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1; 87/18 s1
