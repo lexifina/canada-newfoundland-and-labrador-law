@@ -14,6 +14,8 @@ Canadian Free Trade Agreement Roster for Appellate Panels
 
 Canadian Free Trade Agreement Roster for Panels and Compliance Panels
 
+Committee for the Independent Review of the Public Post-Secondary Education System
+
 Dental Monitoring Committee
 
 Fisheries Advisory Council
