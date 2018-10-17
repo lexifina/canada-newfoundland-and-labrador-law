@@ -66,23 +66,41 @@ Failing to stop at scene of accident
 
 Failing to stop at scene of accident and offering assistance or give name
 
-253(a)
+253(1)(a)
 
 5
 
-Impaired by alcohol or drugs
+Operation or care or control of motor vehicle while impaired by alcohol or drugs
 
-253(b)
-
-5
-
-Care and control of vehicle with more than 80 milligrams of alcohol in 100 millilitres of blood
-
-254(05)
+253(1)(b)
 
 5
 
-Refusing to provide blood or breath sample
+Operation or care or control of motor vehicle with more than 80 milligrams of alcohol in 100 millilitres of blood
+
+253(3)(a)
+
+5
+
+Blood drug concentration equal to or over concentration prescribed by regulation within 2 hours after ceasing to operate or have care or control of motor vehicle
+
+253(3)(b)
+
+5
+
+Blood drug concentration equal to or over concentration prescribed by regulation and less than concentration prescribed under paragraph 253(3)(a) within 2 hours after ceasing to operate or have care or control of motor vehicle
+
+253(3)(c)
+
+5
+
+Blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation within 2 hours after ceasing to operate or have care or control of motor vehicle
+
+254(5)
+
+5
+
+Failure or refusal to comply with demand
 
 255(02)
 
@@ -90,11 +108,35 @@ Refusing to provide blood or breath sample
 
 Impaired driving causing bodily harm
 
+255(2.1)
+
+5
+
+Operation or care or control of motor vehicle while blood alcohol concentration, blood drug concentration or blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation causing bodily harm
+
+255(2.2)
+
+5
+
+Failure or refusal to comply with demand knowing operation or care or control of motor vehicle resulted in bodily harm
+
 255(03)
 
 5
 
 Impaired driving causing death
+
+255(3.1)
+
+5
+
+Operation or care or control of motor vehicle while blood alcohol concentration, blood drug concentration or blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation causing death
+
+255(3.2)
+
+5
+
+Failure or refusal to comply with demand knowing operation or care or control of motor vehicle resulted in death
 
 259(04)
 
@@ -784,7 +826,7 @@ Exceeding the speed limit by between 21 and 30 kilometres per hour
 
 3
 
-Exceeding the speed limit by 31 and 50 kilometres an hour
+Exceeding the speed limit by between 31 and 50 kilometres an hour
 
 110(3)(e)
 
@@ -820,13 +862,19 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour
 
 3
 
-Exceeding the speed limit by 31 and 50 kilometres an hour
+Exceeding the speed limit by between 31 and 50 kilometres an hour
 
 110.1(4)(e)
 
 3
 
 Exceeding the speed limit by 51 kilometres an hour and over
+
+110.2(4)(a)
+
+1
+
+Exceeding the speed limit by between 1 and 10 kilometres an hour
 
 110.2(4)(b)
 
@@ -1336,7 +1384,7 @@ Racing vehicles or bicycles on a highway
 
 3
 
-Performing or engaging in stunt whle driving
+Performing or engaging in stunt while driving
 
 169(1)(a)
 
