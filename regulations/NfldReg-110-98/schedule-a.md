@@ -8,22 +8,6 @@ Within a period of
 
 Requires evidence of completion of
 
-24 hour
-
-2
-
-2 years
-
-Alcohol and drug education program
-
-24 hour
-
-3 or more
-
-2 years
-
-Alcohol and drug dependency assessment / rehabilitation
-
 7 day
 
 1
@@ -56,7 +40,7 @@ Alcohol and drug education program
 
 2 or more
 
-2years
+2 years
 
 Alcohol and drug dependency assessment / rehabilitation
 
@@ -76,21 +60,19 @@ Alcohol and drug dependency assessment / rehabilitation
 
 Combination of:
 
-(a) 24 hour
+(a) 7 day
 
-(b) 7 day
+(b) 90 day
 
-(c) 90 day suspension
+(c) Criminal Code
 
-(d) Criminal Code
-
-2 of (a), (b) or (c), or a combination of 2 of them, and one suspension under (d)
+2 of (a), 2 of (b), or a combination of (a) and (b), and one suspension under (c)
 
 2 years
 
 Alcohol and drug dependency assessment/rehabilitation
 
-Section 60.3 of Act
+Section 60.003 or 60.03 of Act
 
 2 months
 
@@ -110,4 +92,4 @@ Alcohol and drug education program
 
 Alcohol and drug dependency assessment / rehabilitation
 
-74/03 s9; 49/09 s5; 92/10 s1; 78/17 s5
+74/03 s9; 49/09 s5; 92/10 s1; 78/17 s5; 84/18 s2
