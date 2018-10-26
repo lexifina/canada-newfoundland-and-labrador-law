@@ -300,7 +300,7 @@ Mobile homes
 
 (2) If a mobile home subdivision is located within the community concerned, the location of the mobile home will be restricted to that subdivision.
 
-Highway Commercial Zone - Code (HC)
+Highway Commercial Zone - Code (HC)o p="#DEFAULT">
 
 Permitted Uses
 
