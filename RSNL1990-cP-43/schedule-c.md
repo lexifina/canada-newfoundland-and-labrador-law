@@ -86,9 +86,11 @@ Arts Council Act , section 6
 
 Atlantic Provinces Harness Racing Commission Act , subsection 5(1)
 
-Atlantic Provinces Special Education Authority Act (Nova Scotia ), paragraph 5(2)(b)
+Atlantic Provinces Special Education Authority Act (Nova Scotia), paragraph 5(2)(b)
 
 Buildings Accessibility Act, sections 18 and 20 with respect to Lieutenant-Governor in Council appointments
+
+Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, section 201.114 with respect to provincial appointments
 
 Canadian Centre for Occupational Health and Safety Act , section 4 with respect to provincial appointments
 
@@ -184,7 +186,7 @@ Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to m
 
 Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
 
-Order of Newfoundland and Labrador Act , paragraph 12(1)(c)
+Order of Newfoundland and Labrador Act, paragraph 12(1)(c)
 
 Patient Safety Act , subparagraph 19(1)(b)(i)
 
