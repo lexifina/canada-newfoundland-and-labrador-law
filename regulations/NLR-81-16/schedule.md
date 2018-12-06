@@ -12,10 +12,6 @@ Conseil scolaire fr ancophone provincial de Terre-Neuve-et-Labrador
 
 Eastern Regional Health Authority
 
-Electoral Districts Boundaries Commission
-
-Government Purchasing Agency
-
 Human Rights Commission
 
 Independent Appointments Commission
@@ -29,8 +25,6 @@ Labrador-Grenfell Regional Health Authority
 Marble Mountain Development Corporation
 
 Memorial University of Newfoundland
-
-Mental Health Review Board
 
 Multi-Materials Stewardship Board
 
@@ -58,6 +52,8 @@ Provincial Advisory Council on the Status of Women
 
 Provincial Information and Library Resources Board
 
+Public Procurement Agency
+
 Public Service Commission
 
 Royal Newfoundland Constabulary
@@ -72,4 +68,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch; 2018 cI-7.1 s29
+81/16 Sch; 2018 cI-7.1 s29; 110/18 s4
