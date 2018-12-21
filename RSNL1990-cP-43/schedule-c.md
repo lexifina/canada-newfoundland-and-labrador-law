@@ -16,8 +16,6 @@ Canadian Free Trade Agreement Roster for Panels and Compliance Panels
 
 Committee for the Independent Review of the Public Post-Secondary Education System
 
-Dental Monitoring Committee
-
 Fisheries Advisory Council
 
 Interprovincial Lottery Corporation Board of Directors with respect to provincial nominees
@@ -86,7 +84,7 @@ Arts Council Act , section 6
 
 Atlantic Provinces Harness Racing Commission Act , subsection 5(1)
 
-Atlantic Provinces Special Education Authority Act (Nova Scotia), paragraph 5(2)(b)
+Atlantic Provinces Special Education Authority Act (Nova Scotia ), paragraph 5(2)(b)
 
 Buildings Accessibility Act, sections 18 and 20 with respect to Lieutenant-Governor in Council appointments
 
@@ -150,7 +148,7 @@ Income and Employment Support Act , section 42
 
 Labrador Inuit Land Claims Agreement, Part 12.8.2, 13.10.2
 
-Lands Act , St. John's Urban Region Agriculture Development Area Regulations , subsections 3(3) and 7(2)
+Lands Act , St. John's Urban Region Agriculture Development Area Regulations , subsections 3(4) with respect to the appointment of a member of the community and subsection 7(2)
 
 Law Society Act, 1999 , section 42(4) with respect to ministerial appointments and paragraph 65(2)(b)
 
@@ -186,7 +184,7 @@ Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to m
 
 Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
 
-Order of Newfoundland and Labrador Act, paragraph 12(1)(c)
+Order of Newfoundland and Labrador Act , paragraph 12(1)(c)
 
 Patient Safety Act , subparagraph 19(1)(b)(i)
 
@@ -202,7 +200,7 @@ Physiotherapy Act, 2006 , subsections 5(1) and 16(4) with respect to ministerial
 
 Private Training Institutions Act, Private Training Institutions Regulations, paragraphs 3.1(e) and (f)
 
-Professional Fish Harvesters Act , section 5, subsection 15(1) and section 20
+Professional Fish Harvesters Act, paragraphs 5(2)(f) and (h) and subsection 15(3) and section 20 with respect to the appointment of a person who is not a professional fish harvester
 
 Provincial Court Act, 1991 , paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
 
