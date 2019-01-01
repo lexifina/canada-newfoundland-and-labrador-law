@@ -18,6 +18,12 @@ CH4
 
 25
 
+Nitrogen triflouride
+
+NF3
+
+17,200
+
 Nitrous oxide
 
 N2 O
@@ -198,4 +204,4 @@ c-C3 F6
 
 17,340
 
-14/17 Sch C
+14/17 Sch C; 117/18 s10
