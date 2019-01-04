@@ -48,7 +48,7 @@ Hours of Consumption:
 
 Sale further restricted to 15 minutes after the boat has left its home berth and sale shall cease 15 minutes before reaching its home berth
 
-Brewer's Agent and Brewer's Retail
+Brewer's Agent, Brewer's Retail and Retail Store licensed under section 15.1
 
 Hours of Sale :
 
@@ -94,4 +94,4 @@ Hours of Consumption:
 
 9:00 a.m. to 3:30 a.m. of the day immediately succeeding Thursday, Friday, Saturday and Sunday
 
-73/99 s4 33/13 s7
+73/99 s4; 33/13 s7; 1/19 s5
