@@ -2216,6 +2216,18 @@ Failing to exercise due care to avoid colliding with pedestrian
 
 2 days
 
+127(a.1)
+
+Failing to leave proper distance when passing pedestrian
+
+400
+
+100
+
+14 days
+
+2 days
+
 127(b)
 
 Failing to give warning by sounding horn
