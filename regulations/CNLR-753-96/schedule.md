@@ -1094,6 +1094,12 @@ Pedestrian failing to yield right-of-way to driver at place other than cross-wal
 
 Failing to exercise due care to avoid colliding with pedestrian
 
+127(a.1)
+
+2
+
+Failing to leave proper distance when passing pedestrian
+
 127(b)
 
 2
