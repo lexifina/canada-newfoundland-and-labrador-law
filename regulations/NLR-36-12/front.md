@@ -10,7 +10,7 @@ Animal Protection Standards Regulations under the Animal Health and Protection A
 
 Under the authority of sections 29 and 66 of the Animal Health and Protection Act, I make the following regulations.
 
-Dated at St. John's , May 1, 2012.
+Dated at St. John’s, May 1, 2012.
 
 Jerome P. Kennedy, Q.C. Minister Responsible for the Forestry and Agrifoods Agency
 
