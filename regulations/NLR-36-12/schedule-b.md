@@ -94,25 +94,67 @@ Basic requirements for a pen or enclosure
 
 (c) daily access to exercise that is adequate and appropriate for that dog outside of the pen or enclosure.
 
-Tethering
+Containment
 
-30. A dog that is tethered, unsupervised, outside shall be
+30. (1) A dog that is safely contained outside shall be contained
 
-(a) tethered in a location that does not pose a high risk of injury or other distress to the tethered dog; and
+(a) in a location that does not pose a high risk of injury or other distress to the dog; and
 
-(b) tethered in an environment that is free of debris and does not cause harm or undue strain or stress on the tethered dog.
+(b) in an environment that is free of debris and does not cause harm or undue strain or stress on the dog.
 
-31. The area in which a dog is tethered, unsupervised, outside shall be cleaned and have excreta removed from it on a daily basis.
+(2) A dog that is safely contained outside shall be provided with sufficient protection from the weather to prevent the dog from experiencing undue distress, taking into account the dog’s
 
-32. The restraining device used to tether a dog that is tethered, unsupervised, outside
+(a) age;
 
-(a) shall be at least 5 times the length of the dog;
+(b) health;
 
-(b) shall allow the dog to move in a manner that is safe and unrestricted excepted by its length; and
+(c) breed;
 
-(c) shall not weigh more than 10 per cent of the dog's body weight.
+(d) coat; and
 
-33. A dog that is tethered, unsupervised, outside shall be provided
+(e) ability to adapt to heat or cold.
+
+30.1 A dog shall not be contained outside in extreme weather conditions identified by a weather watch or warning issued by Environment and Climate Change Canada.
+
+31. The area in which a dog is contained, unsupervised, outside, shall
+
+(a) provide sufficient space to ensure that the dog
+
+(i) can move freely and engage in natural behaviour, and
+
+(ii) is not required to sit, stand or lie down in excreta;
+
+(b) have clean areas for feeding and drinking; and
+
+(c) be cleaned and have excreta removed on a daily basis.
+
+32. (1) A tether used to contain a dog outside shall
+
+(a) be at least 5 times the length of the dog;
+
+(b) allow the dog to move in a manner that is safe and unrestricted, excepted by its length; and
+
+(c) not weigh more than 10 per cent of the dog's body weight.
+
+(2) A collar or harness used with a tether on a dog contained outdoors shall be of a size, type, design and fit so as to not cause the dog discomfort or injury.
+
+(3) The following collars or harnesses shall not be used with a tether as a restraining device on a dog contained outdoors:
+
+(a) choke collar;
+
+(b) pinch collar;
+
+(c) prong collar;
+
+(d) slip collar;
+
+(e) head halter collar; or
+
+(f) martingale collar.
+
+(4) A dog shall not be kept contained while wearing a muzzle that impedes the dog's ability to breathe or drink water.
+
+33. A dog that is contained, unsupervised, outside shall be provided
 
 (a) daily social interaction with people or animals or both;
 
@@ -120,6 +162,16 @@ Tethering
 
 (c) daily access to exercise that is adequate and appropriate for that dog and that is unfettered from a fixed area.
 
-34. A dog that is young, aged or infirm shall not be tethered, unsupervised, outside for an extended period of time.
+34. A dog shall not be contained, unsupervised, outside, where the dog is
 
-36/12 Sch B
+(a) under 6 months of age;
+
+(b) whelping;
+
+(c) nursing;
+
+(d) in estrus; or
+
+(e) aged or infirm.
+
+36/12 Sch B; 67/25 s2
