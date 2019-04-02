@@ -138,7 +138,7 @@ Health Professions Act , subsection 9(1) and paragraph 35(4)(c) with respect to 
 
 Health Research Ethics Authority Act, paragraph 3(2)(d)
 
-Hearing Aid Practitioners Act, 2005 , subsections 4(1) and 13(4) with respect to ministerial appointments
+Hearing Aid Practitioners Act , subsections 4(1) and 13(4) with respect to ministerial appointments
 
 Historic Resources Act , section 22
 
@@ -160,9 +160,9 @@ Massage Therapy Act, 2005 , subsections 4(1) and 14(4) with respect to ministeri
 
 Medical Act, 2011 , paragraph 9(1)(b) and subsection 40(4) with respect to ministerial appointments
 
-Medical Care Insurance Act 1999 , subsection 15(7) with respect to those persons not nominated by the medical or dental associations
+Medical Care and Hospital Insurance Act , subsection 28(1) with respect to those persons not nominated by the medical or dental associations
 
-Medical Care Insurance Act, 1999 , Physicians and Fee Regulations , paragraph 15(1)(b)
+Medical Care and Hospital Insurance Act, 1999 , Physicians and Fee Regulations , paragraph 15(1)(b)
 
 Mental Health Care and Treatment Act , section 57
 
