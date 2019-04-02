@@ -32,7 +32,7 @@ Environmental Protection Act, Waste Management Regulations, 2003 section 3
 
 House of Assembly Act , section 34
 
-Housing Corporation Act, subsections 3(2) and 7(1)
+Housing Corporation Act , subsections 3(2) and 7(1)
 
 Human Rights Act, 2010, section 22
 
@@ -62,7 +62,9 @@ Public Utilities Act , subsections 6(2) and 117(1)
 
 Regional Health Authorities Act , subsections 8(1) and (2) and subsection 14(1)
 
-Regional Health Authorities Act , Regional Health Authorities Regulations , subsection 3(3)
+Regional Health Service Boards Act, 2012, subsection 5(1)
+
+Regional Service Boards Act, 2012 , subsection 5(1)
 
 Rooms Act , subsections 7(1) and 10(1)
 
@@ -74,4 +76,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11; 2019 c10 s5
