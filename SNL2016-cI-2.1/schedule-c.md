@@ -172,6 +172,8 @@ Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to m
 
 Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
 
+Order of Newfoundland and Labrador Act , paragraph 12(1)(c)
+
 Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)(b)
 
 Pharmaceutical Services Act , section 42
@@ -216,4 +218,4 @@ Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to minist
 
 Wilderness and Ecological Reserves Act , subsection 7(1)
 
-2016 cI-2.1 s19; 2018 cC-5.2 s28
+2016 cI-2.1 s19; 2018 c3 s4; 2018 cC-5.2 s28
