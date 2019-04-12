@@ -34,8 +34,6 @@ Newfoundland and Labrador Tourism Board with respect to a ministerial appointmen
 
 Oil and Gas Industry Development Council
 
-Premier's Task Force on Improving Educational Outcomes
-
 Premier's Youth Council
 
 Provincial Advisory Council on Aging and Seniors
