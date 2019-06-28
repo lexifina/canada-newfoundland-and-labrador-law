@@ -6,7 +6,7 @@ Schedule A
 
 (c) section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act ;
 
-(d) sections 69 to 74 of the Children and Youth Care and Protection Act ;
+(d) sections 90 to 96 of the Children, Youth and Families Act ;
 
 (e) section 5.4 of the Energy Corporation Act ;
 
@@ -44,4 +44,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112
