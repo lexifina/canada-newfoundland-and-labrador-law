@@ -24,125 +24,113 @@ Criminal negligence causing bodily harm
 
 Manslaughter committed in a vehicle
 
-249(01)(A)
+320.13(1)
 
 5
 
-Dangerous operation of a motor vehicle
+Dangerous operation of a conveyance
 
-249.1(1)
-
-5
-
-Failure to stop while pursued by officer
-
-249.1(3)
+320.13(2)
 
 5
 
-Failure to stop while pursued by officer causing bodily harm or death
+Dangerous operation of a conveyance causing bodily harm
 
-249(03)
-
-5
-
-Dangerous operation causing bodily harm
-
-249(04)
+320.13(3)
 
 5
 
-Dangerous operation causing death
+Dangerous operation of a conveyance causing death
 
-252(01)
-
-5
-
-Failing to stop at scene of accident
-
-252(02)
+320.14(1)(a)
 
 5
 
-Failing to stop at scene of accident and offering assistance or give name
+Operation of a conveyance while impaired by alcohol or a drug or a combination of alcohol and a drug
 
-253(1)(a)
-
-5
-
-Operation or care or control of motor vehicle while impaired by alcohol or drugs
-
-253(1)(b)
+320.14(1)(b)
 
 5
 
-Operation or care or control of motor vehicle with more than 80 milligrams of alcohol in 100 millilitres of blood
+Having a blood alcohol concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood within 2 hours after ceasing to operate a conveyance
 
-253(3)(a)
-
-5
-
-Blood drug concentration equal to or over concentration prescribed by regulation within 2 hours after ceasing to operate or have care or control of motor vehicle
-
-253(3)(b)
+320.14(1)(c)
 
 5
 
-Blood drug concentration equal to or over concentration prescribed by regulation and less than concentration prescribed under paragraph 253(3)(a) within 2 hours after ceasing to operate or have care or control of motor vehicle
+Having a blood drug concentration that is equal to or exceeds the blood drug concentration prescribed by regulation within 2 hours after ceasing to operate a conveyance
 
-253(3)(c)
+320.14(1)(d)
 
 5
 
-Blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation within 2 hours after ceasing to operate or have care or control of motor vehicle
+Having a blood alcohol concentration and a blood drug concentration combined that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation within 2 hours after ceasing to operate a conveyance
 
-254(5)
+320.14(2)
+
+5
+
+Causing bodily harm while operating a conveyance while impaired by alcohol or a drug or a combination of alcohol or a drug, or causing bodily harm while operating a conveyance and within 2 hours after ceasing to operate the conveyance having a blood concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood, a blood drug concentration that is equal to or exceeds the blood drug concentration that is prescribed by regulation or a blood alcohol concentration and a blood drug concentration that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation
+
+320.14(3)
+
+5
+
+Causing death while operating a conveyance while impaired by alcohol or a drug or a combination of alcohol or a drug, or causing death while operating a conveyance and within 2 hours after ceasing to operate the conveyance having a blood concentration that is equal to or exceeds 80 mg of alcohol in 100 ml of blood, a blood drug concentration that is equal to or exceeds the blood drug concentration that is prescribed by regulation, or a blood alcohol concentration and a blood drug concentration that is equal to or exceeds the blood alcohol concentration and the blood drug concentration prescribed by regulation
+
+320.14(4)
+
+5
+
+Having a blood drug concentration that is equal to or exceeds the blood drug concentration prescribed by regulation and that is less than the blood drug concentration prescribed for the purposes of paragraph 320.14(1)(c) within 2 hours after ceasing to operate a conveyance
+
+320.15(1)
 
 5
 
 Failure or refusal to comply with demand
 
-255(02)
+320.15(2)
 
 5
 
-Impaired driving causing bodily harm
+Failure or refusal to comply with demand knowing, or reckless as to whether, involved in an accident that resulted in bodily harm
 
-255(2.1)
-
-5
-
-Operation or care or control of motor vehicle while blood alcohol concentration, blood drug concentration or blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation causing bodily harm
-
-255(2.2)
+320.15(3)
 
 5
 
-Failure or refusal to comply with demand knowing operation or care or control of motor vehicle resulted in bodily harm
+Failure or refusal to comply with demand knowing, or reckless as to whether, involved in an accident that resulted in death
 
-255(03)
-
-5
-
-Impaired driving causing death
-
-255(3.1)
+320.16(1)
 
 5
 
-Operation or care or control of motor vehicle while blood alcohol concentration, blood drug concentration or blood alcohol concentration and blood drug concentration combined equal to or over concentration prescribed by regulation causing death
+Failure to stop after accident
 
-255(3.2)
-
-5
-
-Failure or refusal to comply with demand knowing operation or care or control of motor vehicle resulted in death
-
-259(04)
+320.16(2)
 
 5
 
-Driving while disqualified
+Failure to stop after accident that resulted in bodily harm
+
+320.16(3)
+
+5
+
+Failure to stop after accident that resulted in death
+
+320.17
+
+5
+
+Failure to stop while pursued by officer
+
+320.18
+
+5
+
+Operation of a conveyance while prohibited
 
 334
 
@@ -172,19 +160,19 @@ Non resident failure to register commercial motor vehicle
 
 1
 
-Operating service vehicle with dealer's plates attached
+Operating service vehicle with dealer’s plates attached
 
 22
 
 1
 
-Using or hiring dealer's vehicle without registration
+Using or hiring dealer’s vehicle without registration
 
 27
 
 1
 
-Using vehicle without dealer's plates attached
+Using vehicle without dealer’s plates attached
 
 28(2)
 
@@ -400,43 +388,43 @@ Failure to keep record regarding vehicles rented
 
 1
 
-Failure to notify registrar of lost driver's licence, etc.
+Failure to notify registrar of lost driver’s licence, etc.
 
 59(1)(a)
 
 3
 
-Defacing or altering driver's licence
+Defacing or altering driver’s licence
 
 59(1)(b)
 
 3
 
-Lending driver's licence
+Lending driver’s licence
 
 59(1)(c)
 
 3
 
-Person misrepresenting driver's licence as his or her own
+Person misrepresenting driver’s licence as his or her own
 
 59(1)(d)
 
 3
 
-Failure to surrender suspended or cancelled driver's licence
+Failure to surrender suspended or cancelled driver’s licence
 
 59(1)(e)
 
 2
 
-Giving false name or address in application for driver's licence
+Giving false name or address in application for driver’s licence
 
 73(1)
 
 2
 
-Applying for driver's licence while disqualified
+Applying for driver’s licence while disqualified
 
 75(5(a)
 
@@ -2508,25 +2496,19 @@ Compliance Indicators
 
 Description of Offence
 
-5(1)(a)
+5(a)
 
 1
 
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving while driver's faculties impaired to the point where unsafe to drive.
+Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would be likely to jeopardize the safety or health of the public, the driver or the employees of the carrier.
 
-5(1)(b)
-
-1
-
-Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where driving would jeopardize the safety or health of the public, the driver or the employees of the carrier.
-
-5(1)(c)
+5(b)
 
 1
 
 Carrier, shipper, cosignee or person requesting, requiring or allowing a driver to drive or a driver driving where the driver is the subject of an out-of-service declaration.
 
-5(1)(d)
+5(c)
 
 1
 
@@ -2568,113 +2550,137 @@ Carrier requesting, requiring or allowing a driver to drive and a driver driving
 
 Carrier failing to ensure that driver has taken or driver failing to take at least 10 hours of off-duty time in a day as prescribed by the regulations.
 
-15
+15(1)
 
 1
 
-Carrier failing to ensure that driver follows or driver fails to follow either cycle 1 or 2.
+Carrier failing to require that driver follows or driver fails to follow either cycle 1 or 2.
 
-16(1)
+15(2)
 
 3
 
 Carrier requesting, requiring or allowing a driver to drive or a driver driving without having taken at least 24 consecutive hours of off-duty time in the preceding 14 days.
 
-17(1)
+15(3)
 
 3
 
-Carrier requesting, requiring or allowing a driver who is following cycle 1 or a driver who is following cycle 1 driving after the driver has accumulated 70 hours of on-duty time in 7 days or if the driver reset the cycle during the period of the cycle that was ended.
+Carrier requesting, requiring or allowing a driver who is following cycle 1 or a driver who is following cycle 1 driving after having accumulated 70 hours of on-duty time in 7 days.
 
-18(1)(a)
+15(4)(a)
 
 3
 
-Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 120 hours of on-duty time in 14 days or if the driver reset the cycle during the period of the cycle that was ended.
+Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 120 hours of on-duty time in 14 days.
 
-18(1)(b)
+15(4)(b)
 
 3
 
 Carrier requesting, requiring or allowing a driver who is following cycle 2 to drive or a driver who is following cycle 2 driving after having accumulated 70 hours of on-duty time without having taken at least 24 consecutive hours of off-duty time.
 
-20(1)
+17(1)
 
 1
 
 Carrier requesting, requiring or allowing a driver to switch or a driver switching cycles without first taking the prescribed off-duty time before beginning to drive again.
 
-39(1)
+31
 
 1
 
 Carrier failing to perform its obligations as a permit holder.
 
-39(2)
+34(1)
+
+3
+
+Motor carrier failing to ensure that a commercial vehicle is equipped with an electronic logging device that meets the requirements of the Technical Standard.
+
+38(1)
+
+2
+
+Carrier failing to require a driver or driver failing to complete a record of duty status.
+
+39(1) and (2)
+
+2
+
+Carrier failing to require a driver or driver failing to legibly enter the prescribed information in the record of duty status.
+
+40
 
 1
 
-Driver violating or carrier allowing a driver to violate the terms and conditions of a permit.
+Carrier requesting, requiring or allowing a driver to drive or a driver driving while not in possession of records of duty status and supporting documents.
+
+41(1) and (2)
+
+1
+
+Carrier failing to ensure that a driver or a driver failing to forward the record of duty status and supporting documents to the home terminal within the prescribed time period.
+
+41(3)(a)
+
+1
+
+Carrier failing to deposit records of duty status and supporting documents at its principal place of business within the prescribed time period.
+
+41(3)(b)
+
+1
+
+Carrier failing to retain records of duty status and supporting documents for the prescribed time period.
+
+42(1)
+
+3
+
+Carrier requesting, requiring or allowing a driver to keep or a driver keeping more than one record of duty status in respect of any day.
+
+42(2)
+
+3
+
+Carrier requesting, requiring or allowing a person to or a person entering inaccurate information in a record of duty status or falsifying, mutilating, obscuring, altering, deleting, destroying or defacing records of duty status or supporting documents.
+
+42(3)
+
+3
+
+Carrier requesting, requiring or allowing a person to or a person blocking or degrading a signal transmission or reception or tampering with an electronic logging device.
 
 43(1)
 
-2
+1
 
-Carrier failing to require a driver or driver failing to complete a daily log accounting for all of the driver's on-duty and off-duty time for that day.
+Carrier failing to monitor compliance of driver with regulatory requirements.
 
-44
-
-2
-
-Carrier failing to require driver or driver failing to legibly enter the prescribed information in the daily log.
-
-46(1)
+43(2)
 
 1
 
-Carrier requesting, requiring or allowing a driver to drive or a driver driving while not in possession of daily logs and supporting documents.
+Carrier failing to take remedial action where non-compliance exists.
 
-47(1) and (2)
-
-1
-
-Carrier failing to ensure that driver or driver failing to forward the original daily log and supporting documents to the home terminal within the prescribed time period.
-
-47(3)
-
-1
-
-Carrier failing to deposit daily logs and supporting documents at its principal place of business within the prescribed time period or failing to retain the daily logs and supporting documents for the prescribed time period.
-
-48(1) and (2)
+46(4)
 
 3
 
-Carrier requesting, requiring or allowing driver to keep or driver keeping more than one daily log, entering or allowing inaccurate information in a daily log or falsifying, mutilating or defacing the daily log or supporting documents.
+Obstructing, hindering or knowingly making false or misleading statements to an inspector engaged in carrying out duties and functions.
 
-49(1) and (2)
-
-1
-
-Carrier failing to monitor compliance of driver with regulatory requirements or failing to take remedial action where non-compliance exists.
-
-52(4)
-
-3
-
-Obstructing, hindering or knowingly making false or misleading statements to a director or inspector engaged in carrying out his or her duties.
-
-53
+47
 
 1
 
-Driver failing to produce or failing to make copies of logs as requested by an inspector.
+Driver failing to produce documents requested by an inspector for inspection.
 
-54(1)
+48(2)
 
 3
 
-Carrier failing to make records immediately available at request of inspector.
+Carrier failing to produce documents requested by an inspector for inspection at the place specified by the inspector.
 
 Trip Inspection Report Regulations Provision
 
@@ -2800,7 +2806,7 @@ Carrier failing to retain the original inspection reports for the prescribed tim
 
 3
 
-Failing to produce inspection reports or schedules upon the demand of an inspector or failing to give an inspector reasonable help to enable him or her to carry out his or her duties.
+Failing to produce inspection reports or schedules upon the demand of an inspector or failing to give an inspector reasonable help to enable the inspector to carry out his or her duties.
 
 14(2)(d)
 
@@ -2874,4 +2880,4 @@ All provisions
 
 A violation of any provision of the Carrier Safety Regulations
 
-106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1; 87/18 s1
+106/05 s12; 45/09 s1; 91/10 s1; 24/12 s1; 52/12 s1; 63/12 s1; 18/14 s1; 73/14 s1; 103/14 s1; 87/18 s1; 44/19 s1; 45/23 s14
