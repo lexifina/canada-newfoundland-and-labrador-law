@@ -218,7 +218,7 @@ Royal Newfoundland Constabulary Act, 1992 , subsection 29(1)
 
 Social Workers Act , subsection 12(1) and paragraph 24(4)(c)
 
-Student Financial Assistance Act , Student Financial Assistance Administration Regulations , paragraphs 18(1)(b) and (e)
+Student Financial Assistance Act, 2019 , Student Financial Assistance Administration Regulations , paragraphs 18(1)(b) and (e)
 
 Teachers' Collective Bargaining Act , subsection 10(1)
 
