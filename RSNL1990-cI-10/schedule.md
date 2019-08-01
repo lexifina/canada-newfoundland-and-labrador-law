@@ -38,7 +38,7 @@ Definitions
 
 (e) "credit insurance" means insurance against loss to a person who has granted credit where the loss is the result of the insolvency or default of the person to whom the credit was given;
 
-(f) "credit protection insurance" means insurance under which an insurer undertakes to pay off credit balances or debts of an individual, in whole or in part, in the event of an impairment or potential impairment in the individual's income or ability to earn an income;
+(f) "credit protection insurance" means insurance under which an insurer undertakes to pay off credit balances or debts of an individual, in whole or in part, in the event of an impairment or potential impairment in the individual’s income or ability to earn an income;
 
 (g) "fidelity insurance" means
 
