@@ -1,7 +1,5 @@
 Schedule
 
-Association of Registered Nurses of Newfoundland and Labrador
-
 Board of Commissioners of Public Utilities
 
 C.A. Pippy Park Commission
@@ -11,6 +9,8 @@ Canada-Newfoundland and Labrador Offshore Petroleum Board
 Central Regional Health Authority
 
 College for Licensed Practical Nurses of Newfoundland and Labrador
+
+College of Registered Nurses of Newfoundland and Labrador
 
 College of the North Atlantic
 
@@ -52,12 +52,10 @@ Provincial Advisory Council on the Status of Women - Newfoundland and Labrador
 
 Provincial Information and Library Resources Board
 
-Research and Development Council
-
 Waypoints
 
 Western Regional Health Authority
 
 Workplace Health, Safety and Compensation Commission
 
-2014 cO-9 Sch
+2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30
