@@ -866,4 +866,992 @@ The above described parcel is subject to all reservations, easements, rights-of-
 
 All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
 
-44/17 Sch; 100/17 s1; 45/18
+Area 50
+
+All that piece or parcel of land situated south of Loch Leven, in the electoral district of St. George's-Humber in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 279 917 metres and north 5 332 972 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 276 779 metres and north 5 333 939 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 271 202 metres and north 5 332 564 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 272 466 metres and north 5 334 579 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 274 359 metres and north 5 333 840 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 274 561 metres and north 5 334 357 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 276 215 metres and north 5 334 586 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 274 495 metres and north 5 335 741 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 274 545 metres and north 5 335 863 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 274 699 metres and north 5 335 862 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 275 116 metres and north 5 336 152 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 275 239 metres and north 5 335 969 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 275 917 metres and north 5 336 927 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 276 456 metres and north 5 336 899 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 276 671 metres and north 5 335 975 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 275 826 metres and north 5 336 350 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 275 667 metres and north 5 335 914 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 275 462 metres and north 5 335 717 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 276 552 metres and north 5 334 496 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 278 197 metres and north 5 334 715 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 279 292 metres and north 5 334 373 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 279 993 metres and north 5 334 547 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 281 864 metres and north 5 333 624 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 282 083 metres and north 5 333 102 metres, more or less;
+
+Then heading in a southerly direction to a point having coordinates of east 282 102 metres and north 5 332 973 metres, more or less;
+
+Then heading in a westerly direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point located at the southwest corner of the within described parcel having coordinates of east 278 404 metres and north 5 331 650 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 278 054 metres and north 5 332 598 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 278 169 metres and north 5 332 970 metres, more or less;
+
+Then heading in an easterly direction to a point having coordinates of east 280 079 metres and north 5 332 972 metres, more or less;
+
+Then heading in a southerly direction to a point having coordinates of east 280 079 metres and north 5 332 836 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 280 186 metres and north 5 332 501 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 280 048 metres and north 5 331 956 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 279 639 metres and north 5 332 045 metres, more or less;
+
+Then heading in a westerly direction to a point having coordinates of east 279 353 metres and north 5 332 035 metres, more or less;
+
+Then heading in a southwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing an area of approximately 1418 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+Area 51
+
+All that piece or parcel of land situated east of the Trans-Canada Highway Route Number 1, north of Mitchells Pond, in the electoral district of St. George's-Humber, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 284 024 metres and north 5 341 233 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 284 286 metres and north 5 341 580 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 286 623 metres and north 5 341 015 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 286 977 metres and north 5 341 339 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 285 298 metres and north 5 342 479 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 285 371 metres and north 5 342 632 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 285 483 metres and north 5 342 860 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 289 999 metres and north 5 340 197 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 290 006 metres and north 5 340 016 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 290 586 metres and north 5 339 115 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 290 502 metres and north 5 339 090 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 290 219 metres and north 5 339 454 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 289 809 metres and north 5 339 679 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 289 539 metres and north 5 339 700 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 289 360 metres and north 5 339 581 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 288 427 metres and north 5 340 129 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 289 210 metres and north 5 339 438 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 289 618 metres and north 5 339 495 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 290 742 metres and north 5 338 706 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 291 031 metres and north 5 338 425 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 291 113 metres and north 5 337 863 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 291 148 metres and north 5 337 681 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 290 889 metres and north 5 337 479 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 290 767 metres and north 5 337 608 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 290 768 metres and north 5 337 601 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 289 698 metres and north 5 338 685 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 289 601 metres and north 5 338 724 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 288 400 metres and north 5 339 110 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 287 470 metres and north 5 340 981 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 286 982 metres and north 5 340 942 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 286 940 metres and north 5 340 658 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 287 124 metres and north 5 340 824 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 286 856 metres and north 5 340 568 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 286 730 metres and north 5 340 572 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 285 061 metres and north 5 340 506 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 284 722 metres and north 5 340 770 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 284 851 metres and north 5 340 880 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 284 646 metres and north 5 341 012 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 284 534 metres and north 5 340 800 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 287 021 metres and north 5 342 541 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 287 254 metres and north 5 342 737 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 286 885 metres and north 5 343 144 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 287 860 metres and north 5 342 476 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 287 815 metres and north 5 342 346 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 288 284 metres and north 5 341 852 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 288 354 metres and north 5 341 898 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 288 307 metres and north 5 342 114 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 288 554 metres and north 5 341 907 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 288 447 metres and north 5 341 793 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 287 927 metres and north 5 341 679 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 287 343 metres and north 5 342 040 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing a total area of approximately 950 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+Area 52
+
+All that piece or parcel of land situated north of Rocky Ponds, near the Trans-Canada Highway Route Number 1, in the electoral district of St. George's-Humber, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 307 834 metres and north 5 353 135 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 307 067 metres and north 5 353 062 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 306 840 metres and north 5 352 644 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 305 162 metres and north 5 352 967 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 304 977 metres and north 5 352 641 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 304 048 metres and north 5 352 708 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 303 869 metres and north 5 352 977 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 303 738 metres and north 5 352 936 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 104 metres and north 5 352 449 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 303 238 metres and north 5 352 122 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 303 018 metres and north 5 352 246 metres, more or less;
+
+Then heading in a westerly direction to a point having coordinates of east 302 953 metres and north 5 352 247 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 302 844 metres and north 5 352 432 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 302 565 metres and north 5 352 448 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 302 417 metres and north 5 352 419 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 301 820 metres and north 5 352 514 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 300 902 metres and north 5 352 930 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 301 092 metres and north 5 352 970 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 300 412 metres and north 5 353 451 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 300 630 metres and north 5 353 430 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 300 867 metres and north 5 353 318 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 301 236 metres and north 5 353 432 metres, more or less;
+
+Then heading in an easterly direction to a point having coordinates of east 301 686 metres and north 5 353 437 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 301 734 metres and north 5 353 478 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 302 062 metres and north 5 353 374 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 302 996 metres and north 5 353 690 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 303 013 metres and north 5 353 897 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 302 915 metres and north 5 354 070 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 303 109 metres and north 5 353 949 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 303 162 metres and north 5 353 827 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 303 430 metres and north 5 353 722 metres, more or less;
+
+Then heading in a southerly direction to a point having coordinates of east 303 434 metres and north 5 353 597 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 303 547 metres and north 5 353 455 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 476 metres and north 5 353 675 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 683 metres and north 5 353 638 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 304 770 metres and north 5 353 787 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 304 570 metres and north 5 354 138 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 747 metres and north 5 354 499 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 305 158 metres and north 5 354 410 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 305 729 metres and north 5 354 360 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 305 720 metres and north 5 354 418 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 305 518 metres and north 5 354 397 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 305 524 metres and north 5 354 430 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 305 649 metres and north 5 354 450 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 305 635 metres and north 5 354 478 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 305 449 metres and north 5 354 441 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 305 177 metres and north 5 354 812 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 305 700 metres and north 5 354 748 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 305 769 metres and north 5 354 489 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 305 892 metres and north 5 354 557 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 306 342 metres and north 5 354 217 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 305 830 metres and north 5 353 788 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 305 557 metres and north 5 354 192 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 305 470 metres and north 5 354 124 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 305 524 metres and north 5 353 588 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 305 814 metres and north 5 353 624 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 306 240 metres and north 5 353 469 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 306 046 metres and north 5 353 754 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 306 096 metres and north 5 353 764 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 306 492 metres and north 5 353 487 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 306 498 metres and north 5 353 088 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 306 364 metres and north 5 353 056 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 306 406 metres and north 5 352 923 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 306 515 metres and north 5 352 969 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 306 508 metres and north 5 353 048 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 306 919 metres and north 5 353 429 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 307 021 metres and north 5 353 392 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 307 210 metres and north 5 353 538 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 307 037 metres and north 5 353 975 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 306 560 metres and north 5 354 318 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 306 661 metres and north 5 354 388 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 307 854 metres and north 5 353 700 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 307 768 metres and north 5 353 630 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 307 494 metres and north 5 353 718 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 307 499 metres and north 5 353 481 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 307 652 metres and north 5 353 506 metres, more or less;
+
+Then heading in a southeast direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 304 264 metres and north 5 354 325 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 304 131 metres and north 5 354 470 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 304 093 metres and north 5 354 804 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 304 168 metres and north 5 354 586 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 304 267 metres and north 5 354 458 metres, more or less;
+
+Then heading in a southerly direction more or less, to the point of commencement.
+
+Part C
+
+Commencing at a point in the within described parcel having coordinates of east 302 939 metres and north 5 355 488 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 303 203 metres and north 5 355 924 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 303 341 metres and north 5 355 922 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 303 477 metres and north 5 356 004 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 303 775 metres and north 5 355 769 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 303 868 metres and north 5 355 887 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 303 684 metres and north 5 356 084 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 303 726 metres and north 5 356 198 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 303 845 metres and north 5 356 202 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 304 064 metres and north 5 356 324 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 304 108 metres and north 5 356 316 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 158 metres and north 5 356 266 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 218 metres and north 5 356 331 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 440 metres and north 5 355 806 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 304 364 metres and north 5 355 684 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 458 metres and north 5 355 603 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 305 052 metres and north 5 355 938 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 305 618 metres and north 5 355 408 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 305 753 metres and north 5 355 011 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 305 357 metres and north 5 354 911 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 305 098 metres and north 5 354 838 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 304 670 metres and north 5 354 752 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 304 260 metres and north 5 354 800 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 272 metres and north 5 354 951 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 506 metres and north 5 355 017 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 304 895 metres and north 5 354 918 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 304 985 metres and north 5 354 982 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 304 945 metres and north 5 355 223 metres, more or less;
+
+Then heading in a westerly direction to a point having coordinates of east 304 708 metres and north 5 355 213 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 304 578 metres and north 5 355 142 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 304 425 metres and north 5 355 385 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 304 223 metres and north 5 355 203 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 303 863 metres and north 5 355 576 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 303 856 metres and north 5 355 500 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 303 721 metres and north 5 355 556 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 303 648 metres and north 5 355 507 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 303 625 metres and north 5 355 509 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 303 615 metres and north 5 355 524 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 303 589 metres and north 5 355 500 metres, more or less;
+
+Then heading in a northwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing a total area of approximately 926 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+Area 53
+
+All that piece or parcel of land situated east of the Trans-Canada Highway Route Number 1, in the electoral district of St. George's-Humber, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 290 315 metres and north 5 344 366 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 290 364 metres and north 5 344 473 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 290 383 metres and north 5 344 729 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 291 452 metres and north 5 345 312 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 292 836 metres and north 5 344 938 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 494 metres and north 5 344 586 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 518 metres and north 5 344 595 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 816 metres and north 5 344 966 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 292 908 metres and north 5 344 957 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 524 metres and north 5 344 613 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 293 887 metres and north 5 344 357 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 294 376 metres and north 5 344 642 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 297 096 metres and north 5 343 229 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 296 126 metres and north 5 343 198 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 296 258 metres and north 5 343 329 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 296 231 metres and north 5 343 398 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 295 685 metres and north 5 343 291 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 295 659 metres and north 5 343 389 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 296 047 metres and north 5 343 431 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 784 metres and north 5 343 725 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 295 392 metres and north 5 343 108 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 294 049 metres and north 5 343 881 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 294 174 metres and north 5 344 144 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 293 994 metres and north 5 344 248 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 293 508 metres and north 5 343 827 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 293 085 metres and north 5 343 990 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 293 074 metres and north 5 343 888 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 878 metres and north 5 343 405 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 293 745 metres and north 5 343 360 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 835 metres and north 5 343 925 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 292 860 metres and north 5 344 102 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 757 metres and north 5 344 128 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 292 706 metres and north 5 343 834 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 292 892 metres and north 5 343 608 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 294 399 metres and north 5 342 757 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 295 185 metres and north 5 342 737 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 295 679 metres and north 5 343 087 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 296 483 metres and north 5 342 575 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 296 804 metres and north 5 342 851 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 297 611 metres and north 5 342 459 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 297 665 metres and north 5 342 451 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 298 166 metres and north 5 341 893 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 298 154 metres and north 5 341 876 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 297 733 metres and north 5 341 990 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 297 420 metres and north 5 341 928 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 297 349 metres and north 5 341 894 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 297 223 metres and north 5 341 972 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 297 256 metres and north 5 342 334 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 296 986 metres and north 5 342 533 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 296 786 metres and north 5 342 402 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 297 273 metres and north 5 341 769 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 297 725 metres and north 5 341 537 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 297 679 metres and north 5 341 434 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 297 589 metres and north 5 341 130 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 297 154 metres and north 5 341 406 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 297 150 metres and north 5 341 706 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 705 metres and north 5 342 173 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates east 295 982 metres and north 5 342 148 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates east 296 022 and north 5 342 358 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates east 296 299 and north 5 342 312 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates east 296 523 and north 5 342 219 metres, more or less;
+
+Then heading in a northerly direction to a point having coordinates of east 296 522 metres and north 5 342 293 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 852 metres and north 5 342 548 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 295 628 metres and north 5 342 383 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 296 000 metres and north 5 342 290 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 295 929 metres and north 5 342 217 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 406 metres and north 5 342 343 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 295 273 metres and north 5 342 162 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 295 857 metres and north 5 341 816 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 215 metres and north 5 341 989 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 294 466 metres and north 5 342 128 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 294 673 metres and north 5 342 278 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 295 125 metres and north 5 342 144 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 295 116 metres and north 5 342 239 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 293 186 metres and north 5 343 304 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 293 099 metres and north 5 343 239 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 341 metres and north 5 344 072 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 291 493 metres and north 5 344 232 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 291 602 metres and north 5 344 659 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 291 688 metres and north 5 344 694 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 291 795 metres and north 5 344 511 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 292 226 metres and north 5 344 637 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 291 935 metres and north 5 344 934 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 291 622 metres and north 5 344 843 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 291 587 metres and north 5 344 907 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 291 527 metres and north 5 344 915 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 291 522 metres and north 5 344 894 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 291 580 metres and north 5 344 886 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 291 612 metres and north 5 344 827 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 291 551 metres and north 5 344 747 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 291 546 metres and north 5 344 698 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 291 088 metres and north 5 344 409 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 291 100 metres and north 5 344 336 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 291 257 metres and north 5 344 332 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 291 368 metres and north 5 344 221 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 291 187 metres and north 5 344 158 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement, but excluding all that piece or parcel of land abutted and bounded as follows:
+
+Commencing at a point having coordinates of east 292 551 metres and north 5 344 287 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 377 metres and north 5 344 514 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 292 410 metres and north 5 344 656 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 292 762 metres and north 5 344 505 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 292 846 metres and north 5 344 562 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 647 metres and north 5 344 729 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 292 759 metres and north 5 344 837 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 559 metres and north 5 344 379 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 293 307 metres and north 5 344 290 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 399 metres and north 5 344 175 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 293 363 metres and north 5 344 074 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 292 699 metres and north 5 344 453 metres, more or less;
+
+Then heading in an irregular southwest direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 297 864 metres and north 5 341 504 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 298 929 metres and north 5 341 073 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 298 626 metres and north 5 341 021 metres, more or less;
+
+Then heading in a northwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing a total area of approximately 716 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+Area 54
+
+All that piece or parcel of land situated east of Reidville, in the electoral district of Humber-Gros Morne, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 207 969 metres and north 5 454 878 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 205 643 metres and north 5 454 930 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 204 955 metres and north 5 455 283 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 204 474 metres and north 5 454 480 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 204 515 metres and north 5 455 139 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 205 842 metres and north 5 456 903 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 753 metres and north 5 457 254 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 910 metres and north 5 457 432 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 206 972 metres and north 5 457 409 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 206 974 metres and north 5 457 415 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 206 907 metres and north 5 457 449 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 206 742 metres and north 5 457 269 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 206 648 metres and north 5 457 526 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 206 667 metres and north 5 457 540 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 802 metres and north 5 457 643 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 207 175 metres and north 5 457 653 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 207 180 metres and north 5 457 882 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 207 736 metres and north 5 457 840 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 207 900 metres and north 5 457 636 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 207 966 metres and north 5 458 000 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 208 342 metres and north 5 457 461 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 208 547 metres and north 5 457 616 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 208 575 metres and north 5 457 466 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 208 790 metres and north 5 457 653 metres, more or less;
+
+Then heading in an irregular easterly direction to a point having coordinates of east 209 504 metres and north 5 457 616 metres, more or less;
+
+Then heading in a northerly direction to a point having coordinates of east 209 505 metres and north 5 457 784 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 210 034 metres and north 5 458 523 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 210 965 metres and north 5 458 683 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 210 929 metres and north 5 458 478 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 210 874 metres and north 5 458 498 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 210 233 metres and north 5 458 440 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 209 790 metres and north 5 457 254 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 209 376 metres and north 5 457 210 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 208 793 metres and north 5 457 167 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 208 735 metres and north 5 457 079 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 208 312 metres and north 5 456 747 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 207 809 metres and north 5 456 512 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 207 832 metres and north 5 457 000 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 207 388 metres and north 5 456 890 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 207 480 metres and north 5 456 444 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 207 377 metres and north 5 456 414 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 206 831 metres and north 5 457 002 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 205 643 metres and north 5 456 174 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 087 metres and north 5 456 695 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 205 567 metres and north 5 455 652 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 458 metres and north 5 456 058 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 206 350 metres and north 5 455 448 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 865 metres and north 5 455 700 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 206 744 metres and north 5 456 209 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 206 941 metres and north 5 456 265 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 207 263 metres and north 5 456 003 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 208 641 metres and north 5 456 381 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 209 260 metres and north 5 455 786 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 209 056 metres and north 5 455 914 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 208 874 metres and north 5 455 675 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 208 869 metres and north 5 455 883 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 207 698 metres and north 5 455 735 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 207 928 metres and north 5 455 486 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 207 658 metres and north 5 455 356 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 207 501 metres and north 5 455 481 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 207 463 metres and north 5 455 348 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 207 568 metres and north 5 455 304 metres, more or less;
+
+Then heading in an irregular westerly direction to a point having coordinates of east 207 378 metres and north 5 455 242 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 207 516 metres and north 5 454 989 metres, more or less;
+
+Then heading in an irregular southeast direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 207 981 metres and north 5 454 885 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 209 259 metres and north 5 455 786 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 210 237 metres and north 5 456 750 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 210 257 metres and north 5 456 723 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 210 296 metres and north 5 456 743 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 210 246 metres and north 5 456 760 metres, more or less;
+
+Then heading in a northeast direction to a point located at the southwest corner of a pond having coordinates of east 211 161 metres and north 5 457 662 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 211 175 metres and north 5 457 587 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 211 235 metres and north 5 457 613 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 211 259 metres and north 5 457 683 metres, more or less;
+
+Then heading in a westerly direction to a point having coordinates of east 211 245 metres and north 5 457 683 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 211 289 metres and north 5 457 789 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 211 335 metres and north 5 457 822 metres, more or less;
+
+Then heading in an easterly direction to a point having coordinates of east 211 760 metres and north 5 457 818 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 212 091 metres and north 5 458 325 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 212 080 metres and north 5 458 205 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 212 119 metres and north 5 458 132 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 212 114 metres and north 5 457 997 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 211 998 metres and north 5 457 839 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 212 019 metres and north 5 457 761 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 211 961 metres and north 5 457 665 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 212 244 metres and north 5 457 290 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 212 171 metres and north 5 456 181 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 212 437 metres and north 5 455 918 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 212 355 metres and north 5 455 752 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 212 289 metres and north 5 455 794 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 211 064 metres and north 5 455 854 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 210 565 metres and north 5 455 749 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 209 504 metres and north 5 455 188 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 209 127 metres and north 5 455 319 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 208 457 metres and north 5 454 823 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing an area of approximately 968 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+Area 55
+
+All that piece or parcel of land situated west of Deer Lake, in the electoral district of Humber-Gros Morne, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 372 992 metres and north 5 444 123 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 372 507 metres and north 5 445 120 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 373 897 metres and north 5 446 462 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 373 737 metres and north 5 447 036 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 374 331 metres and north 5 447 525 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 375 198 metres and north 5 445 720 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 375 111 metres and north 5 445 661 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 374 921 metres and north 5 445 719 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 374 866 metres and north 5 445 348 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 373 800 metres and north 5 444 772 metres, more or less;
+
+Then heading in a southwest direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 376 321 metres and north 5 449 856 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 374 111 metres and north 5 449 506 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 374 197 metres and north 5 448 495 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 375 267 metres and north 5 445 867 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 375 840 metres and north 5 448 996 metres, more or less;
+
+Then heading in a southwest direction to a point having coordinates of east 374 848 metres and north 5 448 694 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 375 415 metres and north 5 448 980 metres, more or less;
+
+Then heading in a northeast direction more or less, to the point of commencement.
+
+Part C
+
+Commencing at a point in the within described parcel having coordinates of east 375 337 metres and north 5 445 721 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 375 946 metres and north 5 449 028 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 376 233 metres and north 5 449 116 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 376 463 metres and north 5 448 413 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 377 882 metres and north 5 448 489 metres, more or less;
+
+Then heading in a southerly direction to a point having coordinates of east 377 880 metres and north 5 446 742 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 375 767 metres and north 5 446 169 metres, more or less;
+
+Then heading in a southwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing a total area of approximately 1289 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+44/17 Sch; 100/17 s1; 45/18; 66/19 s1
