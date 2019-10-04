@@ -82,7 +82,7 @@ gutted and packaged in frozen form
 
 Sea Urchin
 
-gonads removed from 50% of all raw material purchases during the period September 1 to March 31
+gonads removed from 75% of all raw material purchases
 
 Seal
 
@@ -112,4 +112,4 @@ Yellowtail Flounder
 
 for each fish that is less than 380 grams, whole packaged in frozen form or for each fish that is 380 grams or more, filleted
 
-94/15 s1
+94/15 s1; 65/19 s1
