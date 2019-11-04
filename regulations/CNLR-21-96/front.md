@@ -1,4 +1,4 @@
-CONSOLIDATED NEWFOUNDLAND AND LABRDOR REGULATION 21/96
+CONSOLIDATED NEWFOUNDLAND AND LABRADOR REGULATION 21/96
 
 Medical Care Insurance Insured Services Regulations under the Medical Care Insurance Act (O.C. 96-132)
 
