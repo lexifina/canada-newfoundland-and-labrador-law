@@ -3548,6 +3548,54 @@ Making false statement in report
 
 6 days
 
+175(5)(a)
+
+Failing to obey sign placed or signal given Subsequent offence
+
+500 700
+
+300 500
+
+20 days 25 days
+
+15 days 20 days
+
+175(5)(b)
+
+Failing to obey order given Subsequent offence
+
+500 700
+
+300 500
+
+20 days 25 days
+
+15 days 20 days
+
+175(5)(c)
+
+Refusal to have vehicle weighed Subsequent offence
+
+500 700
+
+300 500
+
+20 days 25 days
+
+15 days 20 days
+
+175(5)(d)
+
+Failure to comply with order to remove portion of load Subsequent offence
+
+500 700
+
+300 500
+
+20 days 25 days
+
+15 days 20 days
+
 176(1)
 
 Care and control of a motor vehicle equipped with radar detector Subsequent offence
@@ -3596,6 +3644,42 @@ Knowingly causing another to drive unlawfully
 
 4 days
 
+177.4(a)
+
+Operating or towing a vehicle where the identification plate cannot be accurately captured by an image capturing enforcement system
+
+400
+
+100
+
+14 days
+
+2 days
+
+177.4(b)
+
+Defacing, obliterating or interfering with an image capturing enforcement system or any part of it
+
+400
+
+100
+
+14 days
+
+2 days
+
+177.4(c)
+
+Altering or removing or attempting to alter or remove an image capturing enforcement system or any part of it
+
+400
+
+100
+
+14 days
+
+2 days
+
 178(2)
 
 Driving motor vehicle with seat belt removed or inoperative
@@ -3610,7 +3694,7 @@ Driving motor vehicle with seat belt removed or inoperative
 
 178(2.1)
 
-Driver operating vehicle with more persons in the vehicle than seat belt assemblies
+Driver operating vehicle with more persons in the vehicle than seat belt asseblies
 
 500
 
