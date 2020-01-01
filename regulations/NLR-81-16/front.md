@@ -10,7 +10,7 @@ Public Sector Compensation Transparency Regulations under the Public Sector Comp
 
 Under the authority of section 9 of the Public Sector Compensation Transparency Act , the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John's , December 16, 2016
+Dated at St. John’s , December 16, 2016
 
 Bernard M. Coffey, Q.C. Clerk of the Executive Council
 
