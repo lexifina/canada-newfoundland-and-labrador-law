@@ -26,6 +26,8 @@ Schedule A
 
 (l) section 16 of the Mineral Holdings Impost Act ;
 
+(l.1) section 23 of the Oil and Gas Corporation Act ;
+
 (m) subsection 13(3) of the Order of Newfoundland and Labrador Act ;
 
 (m.1) sections 10 and 15 of the Patient Safety Act ;
@@ -44,4 +46,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49
