@@ -48,6 +48,8 @@ Newfoundland and Labrador Medical Care Plan
 
 NL 911 Bureau Inc.
 
+Oil and Gas Corporation of Newfoundland and Labrador and its subsidiaries
+
 Provincial Advisory Council on the Status of Women
 
 Provincial Information and Library Resources Board
@@ -68,4 +70,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch; 2018 cI-7.1 s29; 110/18 s4
+81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53
