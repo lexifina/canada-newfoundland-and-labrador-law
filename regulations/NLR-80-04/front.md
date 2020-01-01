@@ -10,7 +10,7 @@ Automobile Insurance Prohibited Underwriting Regulations under the Insurance Com
 
 Under the authority of paragraph 107(e.1) of the Insurance Companies Act , the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. Johns , July 28, 2004 .
+Dated at St. John's , July 28, 2004 .
 
 Robert C. Thompson Clerk of the Executive Council
 
