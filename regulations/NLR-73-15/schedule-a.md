@@ -1,4 +1,4 @@
-Schedule
+Schedule A
 
 Minor Ailments
 
@@ -6,17 +6,21 @@ Acne, Mild
 
 Allergic Rhinitis
 
+Aphthous Ulcers
+
 Atopic Dermatitis, Mild-Moderate
 
 Callouses and Corns
 
-Cold Sore
+Cold Sores
 
 Contact Dermatitis
 
-Dandruff
+Dandruff and Seborrhea
 
-Diarrhea (Non-Infectious)
+Diarrhea (non-infectious)
+
+Dry Eyes
 
 Dysmenorrhea
 
@@ -24,7 +28,7 @@ Dyspepsia
 
 Emergency Contraception
 
-Fungal Infections of the Skin
+Fungal Skin Infections (including athlete's foot)
 
 Gastroesophageal Reflux Disease
 
@@ -34,19 +38,17 @@ Hemorrhoids
 
 Impetigo
 
+Insomnia, Mild
+
 Joint Pain, Mild
 
-Muscle Pain, Mild
+Musculoskeletal Pain, Mild
 
-Nausea
+Nausea and Vomiting
 
-Oral Fungal Infection
-
-Oral Ulceration
+Oral Candidiasis
 
 Pinworms
-
-Sleep Disorders, Mild
 
 Smoking Cessation
 
@@ -56,8 +58,6 @@ Urticaria, Mild (including bites and stings)
 
 Vaginal Candidiasis
 
-Warts (excluding facial and genital)
+Viral Skin Infections (common and flat warts)
 
-Xerophthalmia
-
-73/15 Sch
+73/15 Sch; 4/20 s6
