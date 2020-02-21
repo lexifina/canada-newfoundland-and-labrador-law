@@ -16,6 +16,8 @@ Chancroid Chlamydia
 
 Clostridium Difficile
 
+COVID-19
+
 Creutzfeldt-Jakob Disease (CJD)
 
 Diphtheria Food or water-borne illness due to chemical, toxin, virus, bacteria or other organism, whether specific or unspecified, including conditions where food poisoning is suspected but not confirmed
