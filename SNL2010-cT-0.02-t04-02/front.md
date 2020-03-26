@@ -1,0 +1,11 @@
+SNL2010 CHAPTER T-0.02
+
+TEMPORARY VARIATION OF STATUTORY DEADLINES ACT
+
+CHAPTER T-4.02
+
+AN ACT RESPECTING THE TEMPORARY VARIATION OF DEADLINES AND TIME PERIODS PRESCRIBED IN ACTS OF THE PROVINCE
+
+(Assented to March 26, 2020)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
