@@ -1,0 +1,11 @@
+SNL2020 CHAPTER T-4.001
+
+TEMPORARY ALTERNATE WITNESSING OF DOCUMENTS ACT
+
+CHAPTER T-4.001
+
+AN ACT RESPECTING THE WITNESSING OF DOCUMENTS THROUGH THE USE OF AUDIO-VISUAL TECHNOLOGY
+
+(Assented to May 6, 2020)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
