@@ -86,4 +86,6 @@ Schedule B
 
 43. Naomi Centre
 
-126/85; 2001 c42 s45; 96/11 s3
+44. Newfoundland and Labrador Centre for Health Information
+
+126/85; 2001 c42 s45; 96/11 s3; 47/20 s1
