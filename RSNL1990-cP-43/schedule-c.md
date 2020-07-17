@@ -88,8 +88,6 @@ Buildings Accessibility Act, sections 18 and 20 with respect to Lieutenant-Gover
 
 Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, section 201.114 with respect to provincial appointments
 
-Canadian Centre for Occupational Health and Safety Act , section 4 with respect to provincial appointments
-
 Chartered Professional Accountants and Public Accountants Act , subsections 5(1) and 28(4) with respect to ministerial appointments
 
 Chiropractors Act, 2009 , subsections 5(1) and 21(4)
