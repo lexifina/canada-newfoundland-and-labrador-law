@@ -272,7 +272,7 @@ Then following the western bank of Deer Brook in a generally southerly direction
 
 Then following a line with an azimuth of 308º 06' 47" with a chord of 220.57 metres, an arc of 222.13 metres and with a radius of 539.43;
 
-Then following an azimuth of 319º 54' 50" for a distance of 442.93 ;
+Then following an azimuth of 319º 54' 50" for a distance of 442.93;
 
 Then following a line with an azimuth of 300º 07' 58" with a chord of 418.89 metres, an arc of 427.33 metres and with a radius of 618.96;
 
@@ -314,7 +314,7 @@ Then following an azimuth of 350º 23' 58" for a distance of 1816.514 metres;
 
 Then following an azimuth of 348º 56' 58" for a distance of 238.544 metres;
 
-Then following an azimuth of 275º 08' 26" for a distance of 1692.483 metres to a point on the southern extremity of Rocky Harbour pond ;
+Then following an azimuth of 275º 08' 26" for a distance of 1692.483 metres to a point on the southern extremity of Rocky Harbour pond;
 
 Then following the eastern shoreline of Rocky Harbour Pond to a point located at 492,763.486 metres north and 348,863.717 metres east;
 
@@ -1144,7 +1144,7 @@ All that area of the Island of Newfoundland bounded by a line beginning at the o
 
 Then following Bottom Brook in a northwesterly direction to its intersection with a paved road;
 
-Then following this road in a southeasterly direction to the main Long Harbour road , Route 202;
+Then following this road in a southeasterly direction to the main Long Harbour road, Route 202;
 
 Then following said road in a northeasterly direction to its intersection with the Trans Canada Highway , TCH, Route 1;
 
