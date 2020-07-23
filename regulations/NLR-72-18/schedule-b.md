@@ -60,7 +60,7 @@ Then following the eastern bank of the Romaine River in a generally northwesterl
 
 Then following a straight line due east to the point of commencement.
 
-(d) Management Area 51 - Grand Falls
+(d) Management Area 51 – Baikie Lake
 
 All that area of Labrador bounded by a line beginning at the intersection of the Trans Labrador Highway, Route 500, and the western bank of the Metchin River;
 
@@ -658,4 +658,4 @@ Then following said railway in a generally southerly direction to its intersecti
 
 Then following said highway in a generally northeasterly direction to the point of commencement.
 
-72/18 Sch. B
+72/18 Sch. B; 53/20 s1
