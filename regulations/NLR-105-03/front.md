@@ -2,8 +2,6 @@ NEWFOUNDLAND AND LABRADOR REGULATION 105/03
 
 Student Financial Assistance Regulations under the Student Financial Assistance Act (O.C. 2003-469)
 
-NEWFOUNDLAND AND LABRADOR REGULATION 105/03
-
 Student Financial Assistance Regulations under the Student Financial Assistance Act (O.C. 2003-469)
 
 (Filed September 8, 2003 )
