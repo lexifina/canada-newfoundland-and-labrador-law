@@ -12,19 +12,15 @@ Embree Municipal Planning Area
 
 George's Brook-Milton Municipal Planning Area
 
-Gillams Municipal Planning Area
-
 Hampden Municipal Planning Area
 
 Happy Adventure Municipal Planning Area
 
-Indian Bay Municipal Planning Area
-
 Lawn Municipal Planning Area
 
-Meadows Municipal Planning Area
+McIvers Municipal Planning Area
 
-Port au Port West-Aguathuna-Felix Cove Municipal Planning Area
+Meadows Municipal Planning Area
 
 Roddickton-Bide Arm Municipal Planning Area Schedule B
 
@@ -35,8 +31,6 @@ Salvage Municipal Planning Area
 St. Jacques-Coombs Cove Municipal Planning Area - area added by St. Jacques-Coombs Cove Municipal Planning Area (Amendment) , NLR 5/17, only
 
 St. Joseph's Municipal Planning Area
-
-Trinity Bay North Municipal Planning Area
 
 York Harbour Municipal Planning Area
 
