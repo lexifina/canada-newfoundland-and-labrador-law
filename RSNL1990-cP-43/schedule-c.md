@@ -218,8 +218,6 @@ Social Workers Act , subsection 12(1) and paragraph 24(4)(c)
 
 Student Financial Assistance Act, 2019 , Student Financial Assistance Administration Regulations , paragraphs 18(1)(b) and (e)
 
-Teachers' Collective Bargaining Act , subsection 10(1)
-
 Teachers Training Act , section 3
 
 Urban and Rural Planning Act, 2000 , subsection 41(1)
