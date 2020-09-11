@@ -52,6 +52,8 @@ Measles
 
 Meningococcal Invasive Disease
 
+Multi-System Inflammatory Syndrome in Children (MIS-C)
+
 Mumps
 
 Pertussis
