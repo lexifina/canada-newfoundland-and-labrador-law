@@ -2,6 +2,10 @@ NEWFOUNDLAND AND LABRADOR REGULATION 48/15
 
 Labrador Border Zones Rebate Regulations under the Revenue Administration Act
 
+NEWFOUNDLAND AND LABRADOR REGULATION 48/15
+
+Labrador Border Zones Rebate Regulations under the Revenue Administration Act
+
 (Filed July 28, 2015)
 
 Under the authority of subsection 112(2) and section 113 of the Revenue Administration Act, I make the following regulations.
