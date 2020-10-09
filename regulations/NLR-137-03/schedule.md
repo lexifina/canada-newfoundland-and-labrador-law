@@ -10,7 +10,7 @@ Cox's Cove Municipal Planning Area
 
 Embree Municipal Planning Area
 
-George's Brook-Milton Municipal Planning Area
+George’s Brook-Milton Municipal Planning Area
 
 Hampden Municipal Planning Area
 
@@ -22,7 +22,9 @@ McIvers Municipal Planning Area
 
 Meadows Municipal Planning Area
 
-Roddickton-Bide Arm Municipal Planning Area Schedule B
+Mount Carmel-Mitchell's Brook-St. Catherine's Municipal Planning Area
+
+Roddickton -Bide Arm Municipal Planning Area Schedule B
 
 Salmon Cove Municipal Planning Area
 
