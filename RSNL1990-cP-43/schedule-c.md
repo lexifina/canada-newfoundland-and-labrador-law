@@ -18,6 +18,8 @@ Committee for the Independent Review of the Public Post-Secondary Education Syst
 
 Fisheries Advisory Council
 
+Independent Geoscience Technical Advisory Committee with respect to mineral industry representatives
+
 Interprovincial Lottery Corporation Board of Directors with respect to provincial nominees
 
 Municipal Assessment Agency with respect to taxpayer representatives
