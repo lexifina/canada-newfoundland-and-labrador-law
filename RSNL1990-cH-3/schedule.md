@@ -44,21 +44,9 @@ Failure to register interjurisdictional carrier
 
 9 days
 
-17(2)
+21(3)
 
-Dealer assigning or transferring licence
-
-400
-
-100
-
-14 days
-
-2 days
-
-21
-
-Operating service vehicle with dealer's plates attached
+Person using a vehicle with a dealer plate at-tached who is not the dealer or an employee of the dealer or a per-son to whom the vehi-cle had been loaned by the dealer for demon-stration purposes for a period not exceeding 3 consecutive days
 
 400
 
@@ -68,9 +56,9 @@ Operating service vehicle with dealer's plates attached
 
 2 days
 
-22
+21(4)(a)
 
-Using or hiring dealer's vehicle without registration
+Attaching, or permitting to be attached, a dealer plate to a vehicle used for the carriage of per-sons or goods for com-pensation
 
 400
 
@@ -80,9 +68,57 @@ Using or hiring dealer's vehicle without registration
 
 2 days
 
-27
+21(4)(b)
 
-Using vehicle without dealer's plates attached
+Attaching, or permitting to be attached, a dealer plate to a vehicle used for private use or hire
+
+400
+
+100
+
+14 days
+
+2 days
+
+21(4)(c)
+
+Attaching, or permitting to be attached, a dealer plate to a vehicle used as a service vehicle
+
+400
+
+100
+
+14 days
+
+2 days
+
+23(1)
+
+Carrying on business as a dealer without a licence
+
+400
+
+100
+
+14 days
+
+2 days
+
+23(2)
+
+Carrying on business as a dealer in a name other than the name in which licence was issued
+
+400
+
+100
+
+14 days
+
+2 days
+
+23(3)
+
+Using vehicle without vehicle being registered to the dealer or without dealer plate attached
 
 400
 
