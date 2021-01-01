@@ -1,4 +1,4 @@
-Schedule E
+Schedule
 
 First Aid Room
 
@@ -50,8 +50,8 @@ EQUIPMENT
 
 3 splints - x-ray transparent or equivalent
 
-1 emergency first aid kit (No. 3) and flashlight for use outside the first aid room at the scene of the accident
+1 Type 3: Intermediate first aid kit for large workplaces (51-100 workers) and flashlight for use outside the first aid room at the scene of the accident
 
 Those other supplies, in addition to those required under these regulations, as the first aid attendant in consultation with a physician considers necessary.
 
-12/86 Sch E
+12/86 Sch.; 68/20 s8
