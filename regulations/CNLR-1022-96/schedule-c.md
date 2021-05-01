@@ -8,7 +8,7 @@ Parameter
 
 Standard
 
-Fluid cow's milk products (except creams)
+Fluid cow’s milk products (except creams)
 
 Freezing point
 
