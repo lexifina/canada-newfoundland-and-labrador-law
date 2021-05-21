@@ -50,6 +50,10 @@ Lindley's Aster
 
 Symphyotrichum ciliolatum
 
+Little Brown Myotis
+
+Myotis lucifugus
+
 Long's Braya
 
 Braya longii
@@ -58,7 +62,7 @@ Low Northern Rockcress
 
 Neotorularia humilis
 
-Mackenzies Sweetvetch
+Mackenzie’s Sweetvetch
 
 Hedysarum boreale subsp. mackenzii
 
@@ -69,6 +73,10 @@ Cystopteris montana
 Northern Bog Aster
 
 Symphyotrichum boreale
+
+Northern Myotis
+
+Myotis septentrionalis
 
 Northern Twayblade
 
@@ -110,4 +118,4 @@ Wooly Arnica
 
 Arnica angustifolia subsp. tomentosa
 
-116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1; 28/16 s1
+116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1; 28/16 s1; 23/21 s1
