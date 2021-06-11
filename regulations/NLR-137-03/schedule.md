@@ -6,6 +6,8 @@ Bryant's Cove Municipal Planning Area
 
 Campbellton Municipal Planning Area
 
+Conception Bay South Municipal Planning Area
+
 Cox's Cove Municipal Planning Area
 
 Embree Municipal Planning Area
@@ -24,7 +26,7 @@ Meadows Municipal Planning Area
 
 Mount Carmel-Mitchell's Brook-St. Catherine's Municipal Planning Area
 
-Roddickton -Bide Arm Municipal Planning Area Schedule B
+Roddickton-Bide Arm Municipal Planning Area Schedule B
 
 Salmon Cove Municipal Planning Area
 
