@@ -16,8 +16,6 @@ Canadian Free Trade Agreement Roster for Panels and Compliance Panels
 
 Committee for the Independent Review of the Public Post-Secondary Education System
 
-Fisheries Advisory Council
-
 Independent Geoscience Technical Advisory Committee with respect to mineral industry representatives
 
 Interprovincial Lottery Corporation Board of Directors with respect to provincial nominees
