@@ -6,6 +6,10 @@ American Marten (Island of Newfoundland Population)
 
 Martes americana atrata
 
+Black Ash
+
+Fraxinus nigra
+
 Bodin's Milkvetch
 
 Astragalus bodinii
@@ -17,6 +21,10 @@ Chaetura pelagica
 Common Nighthawk
 
 Chardeiles minor
+
+Hudsonian Godwit
+
+Limosa haemastica
 
 Newfoundland Gray-cheeked Thrush
 
@@ -34,6 +42,10 @@ Sharpleaf Aster
 
 Oclemena acuminata
 
+Suckley’s Cuckoo Bumble Bee
+
+Bombus suckleyi
+
 Tradescant's Aster
 
 Symphyotrichum tradescantii
@@ -50,4 +62,8 @@ Woodland Caribou (Red Wine herd)
 
 Rangifer tarandus
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2
+Wrinkled Shingle Lichen
+
+Pannaria lurida
+
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2
