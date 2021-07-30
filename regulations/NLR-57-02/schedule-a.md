@@ -42,6 +42,10 @@ Griscom's Arnica
 
 Arnica griscomii subsp. griscomii
 
+Gypsy Cuckoo Bumble Bee
+
+Bombus bohemicus
+
 Ivory Gull
 
 Pagophila eburnea
@@ -118,4 +122,4 @@ Wooly Arnica
 
 Arnica angustifolia subsp. tomentosa
 
-116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1; 28/16 s1; 23/21 s1
+116/07 s1; 9/08 s1; 68/10 s1; 38/13 s1; 110/13 s1; 111/13 s1; 33/15 s1; 28/16 s1; 23/21 s1; 42/21 s1
