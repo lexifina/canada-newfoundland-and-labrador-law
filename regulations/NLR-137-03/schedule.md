@@ -1,6 +1,8 @@
 Schedule
 
-Appleton Municipal Planning Area
+Anchor Point Municipal Planning Area
+
+Bishop's Falls Municipal Planning Area, 2021
 
 Bryant's Cove Municipal Planning Area
 
@@ -8,27 +10,15 @@ Campbellton Municipal Planning Area
 
 Conception Bay South Municipal Planning Area
 
-Cox's Cove Municipal Planning Area
-
 Embree Municipal Planning Area
 
 George’s Brook-Milton Municipal Planning Area
 
-Hampden Municipal Planning Area
-
 Happy Adventure Municipal Planning Area
-
-Lawn Municipal Planning Area
-
-McIvers Municipal Planning Area
 
 Meadows Municipal Planning Area
 
 Mount Carmel-Mitchell's Brook-St. Catherine's Municipal Planning Area
-
-Roddickton-Bide Arm Municipal Planning Area Schedule B
-
-Salmon Cove Municipal Planning Area
 
 Salvage Municipal Planning Area
 
