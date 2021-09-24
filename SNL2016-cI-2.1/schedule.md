@@ -68,7 +68,7 @@ Regional Health Service Boards Act, 2012, subsection 5(1)
 
 Regional Service Boards Act, 2012 , subsection 5(1)
 
-Rooms Act , subsections 7(1) and 10(1)
+Rooms Act, 2016 , subsection 10(1) and paragraph 12(1)(b)
 
 Royal Newfoundland Constabulary Act, 1992 , subsection 4(1)
 
@@ -78,4 +78,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11; 2019 c10 s5; 2019 c27 s3; 2019 cO-6.1 s50
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2016 cR-15.2 s32; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11; 2019 c10 s5; 2019 c27 s3; 2019 cO-6.1 s50
