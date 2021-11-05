@@ -8,7 +8,7 @@ Annual Water Use Charges
 
 Commercial
 
-Marine aquaculture
+Marine aquaculture (finfish only)
 
 $1,000
 
@@ -20,23 +20,11 @@ Commercial purpose (Except water bottling and/or production of other finished wa
 
 $5 per 1,000 m3 licensed and used plus $0.50 per 1,000 m3 licensed but not used
 
-Water bottling and/or production of other water based finished products from surface and groundwater sources
-
-$500 per 1,000 m3 licensed and used plus $50 per 1,000 m3 licensed but not used
-
-Water bottling and/or production of other water based finished products from water or ice harvested from icebergs
-
-$1,000 per 1,000 m3 licensed and used plus $100 per 1,000 m3 licensed but not used
-
 Minimum annual water use charge for a commercial entity where water is only used for non-commercial purposes
 
 $500
 
 Industrial
-
-Mineral Exploration
-
-$1,000
 
 Industrial purpose (Except the removal or displacement of water from a body of water by accumulated or deposited tailing effluent and material)
 
@@ -50,4 +38,4 @@ Minimum annual water use charge for any industrial purpose (including the remova
 
 $1,000
 
-60/16 Sch; 61/18 s1
+60/16 Sch; 61/18 s1; 67/21 s2
