@@ -66,6 +66,8 @@ Regional Council of the Rural Secretariat - St. Anthony-Port au Choix Region
 
 Regional Council of the Rural Secretariat - Stephenville-Port aux Basques Region
 
+Teacher Allocation Review Committee
+
 Torngat Joint Fisheries Board with respect to the members appointed by the provincial minister
 
 Torngat Wildlife and Plants Co-Management Board with respect to the members appointed by the provincial minister
@@ -146,7 +148,7 @@ Labrador Inuit Land Claims Agreement, Part 12.8.2, 13.10.2
 
 Lands Act , St. John's Urban Region Agriculture Development Area Regulations , subsections 3(4) with respect to the appointment of a member of the community and subsection 7(2)
 
-Law Society Act, 1999 , section 42(4) with respect to ministerial appointments and paragraph 65(2)(b)
+Law Society Act, 1999 , subsections 42(3.1),(3.2) and (4) with respect to ministerial appointments and paragraph 65(2)(b)
 
 Licensed Practical Nurses Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
 
