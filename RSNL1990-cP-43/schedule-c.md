@@ -40,8 +40,6 @@ Provincial Advisory Council on Aging and Seniors
 
 Provincial Advisory Council on Mental Health and Addictions
 
-Provincial Advisory Council on the Inclusion of Persons with Disabilities
-
 Provincial Cancer Control Advisory Committee
 
 Provincial Council of the Rural Secretariat
@@ -75,6 +73,8 @@ Torngat Wildlife and Plants Co-Management Board with respect to the members appo
 URock Volunteer Award Selection Board
 
 Statutory Appointments
+
+Accessibility Act, subsection 9(3)
 
 Apprenticeship and Certification Act , subsection 5(1)
 
