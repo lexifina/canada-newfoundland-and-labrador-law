@@ -8,13 +8,15 @@ Bryant's Cove Municipal Planning Area
 
 Campbellton Municipal Planning Area
 
-Conception Bay South Municipal Planning Area
+Conception Bay South Municipal Planning Area, the water body and islands of Long Pond and Long Pond Gut only
 
 Embree Municipal Planning Area
 
 George’s Brook-Milton Municipal Planning Area
 
 Happy Adventure Municipal Planning Area
+
+Heart's Content Municipal Planning Area
 
 Meadows Municipal Planning Area
 
