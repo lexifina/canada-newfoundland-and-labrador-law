@@ -122,8 +122,6 @@ Financial Services Appeal Board Act , section 3
 
 Fish Processing Licensing Board Act , section 5
 
-Fishing Industry Collective Bargaining Act , section 19.1
-
 Forestry Act , section 58
 
 Geographical Names Board Act , section 3
@@ -153,6 +151,8 @@ Law Society Act, 1999 , subsections 42(3.1),(3.2) and (4) with respect to minist
 Licensed Practical Nurses Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
 
 Livestock Insurance Act , section 3
+
+Management of Greenhouse Gas Act , paragraphs 8(2)(a) and (b)
 
 Massage Therapy Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
 
