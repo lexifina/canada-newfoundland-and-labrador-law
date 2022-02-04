@@ -4,7 +4,7 @@ Area 1
 
 Parcel A
 
-All that piece or parcel of land situated and being near Nine Island Pond South in the electoral district of Placentia-St. Mary's in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated and being near Nine Island Pond South in the electoral district of Placentia-St. Mary’s in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point being the most northeasterly corner of the within described parcel of land having coordinates of east 286 150 metres and north 5 247 375 metres, more or less;
 
@@ -20,7 +20,7 @@ The above described piece or parcel of land containing approximately 65 hectares
 
 Parcel B
 
-All that piece or parcel of land situated and being near Nine Island Pond South in the electoral district of Placentia-St. Mary's in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated and being near Nine Island Pond South in the electoral district of Placentia-St. Mary’s in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point being the most northeastern corner of the within described parcel of land having coordinates of east 286 695 metres and north 5 246 771 metres, more or less;
 
@@ -76,7 +76,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 3
 
-All that piece or parcel of land situated northwest of George's Brook in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated northwest of George’s Brook in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point to the south of the Bonavista Highway having coordinates of east 231 352 metres and north 5 347 410 metres, more or less;
 
@@ -98,7 +98,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 4
 
-All that piece or parcel of land situated at Gull Pond southeast of Morley's Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated at Gull Pond southeast of Morley’s Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point being the most northwest corner of the within described parcel having coordinates of east 239 017 metres and north 5 351 215 metres, more or less;
 
@@ -120,11 +120,11 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 5
 
-All that piece or parcel of land situated and being near Morley's Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated and being near Morley’s Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point near an access road having coordinates of east 245 319 metres, north 5 352 132 metres, more or less;
 
-Then following irregular courses and the sinuosity's of two ponds, heading in a general southwesterly direction to a point having coordinates of east 244 552 metres, north 5 348 347 metres, more or less;
+Then following irregular courses and the sinuosity’s of two ponds, heading in a general southwesterly direction to a point having coordinates of east 244 552 metres, north 5 348 347 metres, more or less;
 
 Then following an irregular course and heading in a general northwesterly direction to a point having coordinates of east 240 002 metres, north 5 348 503 metres, more or less;
 
@@ -140,7 +140,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 6
 
-All that piece or parcel of land situated and being near Morley's Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated and being near Morley’s Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point on the shore of a pond having coordinates of east 243 968 metres, north 5 353 314 metres, more or less;
 
@@ -160,7 +160,7 @@ Then heading in a southeasterly direction to a point having coordinates of east 
 
 Then running in a southeasterly direction to a point having coordinates of east 243 918 metres, north 5 353 499 metres, more or less;
 
-Then following the sinuosity's of the aforementioned pond in a general southeasterly direction to the place of commencement.
+Then following the sinuosity’s of the aforementioned pond in a general southeasterly direction to the place of commencement.
 
 The above described piece or parcel of land containing approximately 223 hectares, more or less, as depicted in the Provincial Land Use Atlas.
 
@@ -170,7 +170,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 7
 
-All that piece or parcel of land situated northeast of Morley's Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated northeast of Morley’s Siding in the electoral district of Bonavista in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point being the most northeastern corner of the within described parcel having coordinates of east 245 137 metres and north 5 356 699 metres, more or less;
 
@@ -274,15 +274,15 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
 
 Area 12
 
-All that piece or parcel of land situated on the northeast end of Red Indian Lake, west of Millertown, in the electoral district of Grand Falls-Windsor-Buchans in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+All that piece or parcel of land situated on the northeast end of Beothuk Lake, west of Millertown, in the electoral district of Grand Falls-Windsor-Buchans in the Province of Newfoundland and Labrador, abutted and bounded as follows:
 
 Commencing at a point being north of the Buchans Highway having coordinates of east 263 299 metres and north 5 409 823 metres, more or less;
 
-Then running in a southwesterly direction to a point on the shore of Red Indian Lake having coordinates of east 261 861 metres and north 5 407 549 metres, more or less;
+Then running in a southwesterly direction to a point on the shore of Beothuk Lake having coordinates of east 261 861 metres and north 5 407 549 metres, more or less;
 
-Then running in a southwesterly direction along the shore of Red Indian Lake to a point having coordinates of east 258 600 metres and north 5 405 861 metres, more or less;
+Then running in a southwesterly direction along the shore of Beothuk Lake to a point having coordinates of east 258 600 metres and north 5 405 861 metres, more or less;
 
-Then running in a westerly direction along Red Indian Lake to a point having coordinates of east 255 515 metres and north 5 405 871 metres, more or less;
+Then running in a westerly direction along Beothuk Lake to a point having coordinates of east 255 515 metres and north 5 405 871 metres, more or less;
 
 Then running in a northeastern direction to the point of commencement.
 
@@ -314,7 +314,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
 
 Area 14
 
-All that piece or parcel of land situated and being at Fischells in the electoral district of St. George's-Humber in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated and being at Fischells in the electoral district of St. George’s-Humber in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point near the shore of Fischells Brook having coordinates of east 289 595 metres and north 5 353 328 metres, more or less;
 
@@ -352,7 +352,7 @@ Area 15
 
 All that piece or parcel of land situated near Rattling Brook, northeast of Heatherton, in the electoral district of St. George's-Humber in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
-Commencing at a point on the southeastern shore of St. George's Bay at Rattling Brook having coordinates of east 286 845 metres and north 5 350 631 metres, more or less;
+Commencing at a point on the southeastern shore of St. George’s Bay at Rattling Brook having coordinates of east 286 845 metres and north 5 350 631 metres, more or less;
 
 Then running along a very irregular boundary in a generally northeasterly direction to a point having coordinates of east 288 607 metres and north 5 352 103 metres, more or less;
 
@@ -420,7 +420,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 18
 
-All that piece or parcel of land situated near Sooley's Head, southwest of Thornlea, in the electoral district of Placentia West-Bellevue in the Province of Newfoundland and Labrador , abutted and bounded as follows:
+All that piece or parcel of land situated near Sooley’s Head, southwest of Thornlea, in the electoral district of Placentia West-Bellevue in the Province of Newfoundland and Labrador , abutted and bounded as follows:
 
 Commencing at a point on the west side of Route 201 having coordinates of east 250 420 metres and north 5 273 058 metres, more or less;
 
