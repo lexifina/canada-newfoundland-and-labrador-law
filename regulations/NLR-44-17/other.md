@@ -96,7 +96,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 24
 
-All that piece or parcel of land situated at Whitbourne, in the electoral districts of Placentia-St. Mary's and Harbour Grace-Port de Grave, in the Province of Newfoundland and Labrador , abutted and bound as follows:
+All that piece or parcel of land situated at Whitbourne, in the electoral districts of Placentia-St. Mary’s and Harbour Grace-Port de Grave, in the Province of Newfoundland and Labrador , abutted and bound as follows:
 
 Commencing at a point being the southwestern most corner of the within described parcel, next to the Trans Canada Highway having coordinates of east 266 189 metres and north 5 257 325 metres, more or less;
 
@@ -138,7 +138,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 26
 
-All that piece or parcel of land situated near Spread Eagle, in the electoral district of Placentia-St. Mary's, in the Province of Newfoundland and Labrador , abutted and bound as follows:
+All that piece or parcel of land situated near Spread Eagle, in the electoral district of Placentia-St. Mary’s, in the Province of Newfoundland and Labrador , abutted and bound as follows:
 
 Commencing at the most southerly point of the within described parcel, having coordinates of east 256 351 metres and north 5 243 927 metres, more or less;
 
@@ -166,7 +166,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 1.
 
 Area 27
 
-All that piece or parcel of land situated near Whitbourne, in the electoral district of Placentia-St. Mary's, in the Province of Newfoundland and Labrador , abutted and bound as follows:
+All that piece or parcel of land situated near Whitbourne, in the electoral district of Placentia-St. Mary’s, in the Province of Newfoundland and Labrador , abutted and bound as follows:
 
 Commencing at a point being the southeastern most corner of the within described parcel, having coordinates of east 266 128 metres and north 5 237 597 metres, more or less;
 
@@ -242,7 +242,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
 
 Area 30
 
-All that piece or parcel of land situated near King's Point, in the electoral district of Baie Verte-Green Bay, in the Province of Newfoundland and Labrador, abutted and bound as follows:
+All that piece or parcel of land situated near King’s Point, in the electoral district of Baie Verte-Green Bay, in the Province of Newfoundland and Labrador, abutted and bound as follows:
 
 Commencing at a point being the southeastern most corner of the within described parcel, having coordinates of east 295 312 metres and north 5 494 879 metres, more or less;
 
@@ -412,7 +412,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
 
 Area 34
 
-All that piece or parcel of land situated along the Deer Lake lake, in the electoral district of St. George's-Humber, in the Province of Newfoundland and Labrador , abutted and bound as follows:
+All that piece or parcel of land situated along the Deer Lake lake, in the electoral district of St. George’s-Humber, in the Province of Newfoundland and Labrador , abutted and bound as follows:
 
 Commencing at a point being the southeastern most corner of the within described parcel, having coordinates of east 369 259 metres and north 5 434 909 metres, more or less;
 
@@ -584,7 +584,7 @@ All bearings and coordinates being referenced to NAD 1983 MTM Zone 4.
 
 Area 41
 
-All that piece or parcel of land situated at L'Anse au Clair, in the electoral district of Cartwright-L'Anse au Clair, in the Province of Newfoundland and Labrador , abutted and bound as follows:
+All that piece or parcel of land situated at L’Anse au Clair, in the electoral district of Cartwright-L’Anse au Clair, in the Province of Newfoundland and Labrador , abutted and bound as follows:
 
 Commencing at a point on the western boundary of the within described parcel having coordinates of east 228 558 metres and north 5 698 899 metres, more or less;
 
@@ -1854,4 +1854,194 @@ The above described parcel is subject to all reservations, easements, rights-of-
 
 All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
 
-44/17 Sch; 100/17 s1; 45/18; 66/19 s1
+Area 56
+
+All that piece or parcel of land situated south of the Cormack Road Route Number 422, in the electoral district of Humber – Gros Morne, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Commencing at a point in the within described parcel having coordinates of east 218 285 metres and north 5 467 681 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 219 190 metres and north 5 467 312 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 218 934 metres and north 5 466 349 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 218 726 metres and north 5 466 414 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 218 391 metres and north 5 466 013 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 218 021 metres and north 5 466 071 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 218 677 metres and north 5 466 941 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 218 276 metres and north 5 466 910 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 217 081 metres and north 5 465 549 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 217 309 metres and north 5 465 266 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 216 840 metres and north 5 465 111 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 216 721 metres and north 5 465 605 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 216 400 metres and north 5 465 097 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 216 213 metres and north 5 465 432 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 216 369 metres and north 5 465 850 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 216 294 metres and north 5 465 890 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 216 096 metres and north 5 465 538 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 215 845 metres and north 5 465 734 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 216 879 metres and north 5 467 164 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 216 577 metres and north 5 467 148 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 216 522 metres and north 5 467 378 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 216 953 metres and north 5 467 710 metres, more or less;
+
+Then heading in an easterly direction to a point having coordinates of east 217 058 metres and north 5 467 707 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 217 156 metres and north 5 467 439 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 217 472 metres and north 5 467 699 metres, more or less;
+
+Then heading in an easterly direction more or less, to the point of commencement.
+
+The above described piece or parcel of land containing an area of approximately 431 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 2.
+
+Area 57
+
+All that piece or parcel of land situated east of the Trans-Canada Highway Route Number 1, in the electoral district of St. George’s – Humber, in the Province of Newfoundland and Labrador, abutted and bounded as follows:
+
+Part A
+
+Commencing at a point in the within described parcel having coordinates of east 286 165 metres and north 5 335 818 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 286 253 metres and north 5 335 974 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 286 230 metres and north 5 336 078 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 286 452 metres and north 5 336 128 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 286 220 metres and north 5 336 312 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 286 519 metres and north 5 337 136 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 287 930 metres and north 5 337 827 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 290 754 metres and north 5 335 737 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 290 432 metres and north 5 335 246 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 290 656 metres and north 5 334 968 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 290 747 metres and north 5 335 309 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 293 529 metres and north 5 331 253 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 290 734 metres and north 5 330 368 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 289 851 metres and north 5 330 686 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 287 400 metres and north 5 334 748 metres, more or less;
+
+Then heading in an irregular northeast direction to a point having coordinates of east 287 361 metres and north 5 335 221 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+Part B
+
+Commencing at a point in the within described parcel having coordinates of east 285 894 metres and north 5 335 815 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 286 390 metres and north 5 335 465 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 286 177 metres and north 5 335 482 metres, more or less;
+
+Then heading in an irregular southwest direction to a point having coordinates of east 286 138 metres and north 5 335 168 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 286 937 metres and north 5 334 465 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 287 302 metres and north 5 334 697 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 287 782 metres and north 5 334 209 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 287 879 metres and north 5 333 791 metres, more or less;
+
+Then heading in a southeast direction to a point having coordinates of east 287 923 metres and north 5 333 765 metres, more or less;
+
+Then heading in an irregular northerly direction to a point having coordinates of east 287 888 metres and north 5 334 137 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 287 358 metres and north 5 334 730 metres, more or less;
+
+Then heading in a northeast direction to a point having coordinates of east 287 389 metres and north 5 334 957 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 286 927 metres and north 5 335 454 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+Part C
+
+Commencing at a point in the within described parcel having coordinates of east 287 020 metres and north 5 335 434 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 287 219 metres and north 5 335 290 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 287 194 metres and north 5 335 279 metres, more or less;
+
+Then heading in an irregular northwest direction more or less, to the point of commencement.
+
+Part D
+
+Commencing at a point in the within described parcel having coordinates of east 287 232 metres and north 5 335 236 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 287 360 metres and north 5 335 187 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 287 391 metres and north 5 334 986 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 287 225 metres and north 5 335 216 metres, more or less;
+
+Then heading in an irregular northeast direction more or less, to the point of commencement.
+
+Part E
+
+Commencing at a point in the within described parcel having coordinates of east 288 156 metres and north 5 333 465 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 288 236 metres and north 5 333 394 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 288 204 metres and north 5 333 435 metres, more or less;
+
+Then heading in a northwest direction more or less, to the point of commencement.
+
+Part F
+
+Commencing at a point in the within described parcel having coordinates of east 289 703 metres and north 5 330 855 metres, more or less;
+
+Then heading in an irregular southerly direction to a point having coordinates of east 289 713 metres and north 5 330 766 metres, more or less;
+
+Then heading in a northwest direction to a point having coordinates of east 289 701 metres and north 5 330 787 metres, more or less;
+
+Then heading in a northerly direction more or less, to the point of commencement.
+
+Part G
+
+Commencing at a point in the within described parcel having coordinates of east 289 769 metres and north 5 330 813 metres, more or less;
+
+Then heading in an irregular southeast direction to a point having coordinates of east 289 814 metres and north 5 330 697 metres, more or less;
+
+Then heading in an irregular northwest direction to a point having coordinates of east 289 778 metres and north 5 330 750 metres, more or less;
+
+Then heading in a northwest direction more or less, to the point of commencement.
+
+The above described pieces or parcels of land containing a total area of approximately 2,607 hectares, more or less, as depicted in the Provincial Land Use Atlas.
+
+The above described parcel is subject to all reservations, easements, rights-of-way as necessary and those required by law, conditions held in original Crown titles and all rights and privileges held in lands lawfully alienated from the Crown.
+
+All bearings and coordinates being referenced to NAD 1983 MTM Zone 3.
+
+44/17 Sch; 100/17 s1; 45/18; 66/19 s1; 4/22 s1
