@@ -4,6 +4,8 @@ Schedule A
 
 (b) section 29 of the Adult Protection Act ;
 
+(b.1) subsection 30(2) of the Auditor General Act, 2021 ;
+
 (c) section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act ;
 
 (d) sections 90 to 96 of the Children, Youth and Families Act ;
@@ -46,4 +48,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41

@@ -10,7 +10,7 @@ Teachers' Pension Plan Corporation with respect to government appointees
 
 Statutory Appointments
 
-Auditor General Act , section 4
+Auditor General Act , 2021 , section 4
 
 Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act , section 10, with respect to provincial appointees, nomination for chairperson, designation of vice-chairperson and alternate
 
@@ -78,4 +78,4 @@ Status of Women Advisory Council Act , subsections 4(1) and 8(1)
 
 Workplace Health, Safety and Compensation Act , subsection 4(1), paragraphs 4(2)(c) and (d), section 6 and subsections 22(1) and (2)
 
-2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2016 cR-15.2 s32; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11; 2019 c10 s5; 2019 c27 s3; 2019 cO-6.1 s50
+2016 cI-2.1 Sch; 36/16 s2; 47/16 s2; 2016 c42 s1; 2016 cS-13.002 s25; 2016 cP-41.001 s31; 2016 cR-15.2 s32; 2018 cC-5.2 s28; 2018 cI-7.1 c26; 2018 c38 s11; 2019 c10 s5; 2019 c27 s3; 2019 cO-6.1 s50; 2021 cA-22.1 s45
