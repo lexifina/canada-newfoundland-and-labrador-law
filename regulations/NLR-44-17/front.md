@@ -10,7 +10,7 @@ Agricultural Land Reserve Order under the Lands Act (O.C. 2017-158)
 
 Under the authority of subsection 8(2) of the Lands Act , the minister, with the approval of the Lieutenant-Governor in Council, makes the following Order.
 
-Dated at St. John's , May 18, 2017.
+Dated at St. John’s , May 18, 2017.
 
 Steve Crocker Minister of Fisheries and Land Resources
 
