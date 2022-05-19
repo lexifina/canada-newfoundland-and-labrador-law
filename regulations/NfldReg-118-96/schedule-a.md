@@ -8,11 +8,11 @@ The following amusement rides are exempted from the requirements of the Act and 
 
 (c) trackless trailer trains;
 
-(d) vehicles covered under the Motorized Snow Vehicles and All Terrain Vehicles Act ;
+(d) vehicles covered under the Off-Road Vehicles Act;
 
 (e) public pools and wave action pools;
 
-(f) aircraft within the meaning of the Aeronautics Act ( Canada );
+(f) aircraft within the meaning of the Aeronautics Act (Canada );
 
 (g) wind surfers and surf boards;
 
@@ -44,4 +44,4 @@ The following amusement rides are exempted from the requirements of the Act and 
 
 (u) track rides designed for the use by children.
 
-118/96 Sch A
+118/96 Sch A; 2021 cO-5.1 s44
