@@ -10,7 +10,7 @@ Child Care Regulations under the Child Care Act
 
 Under the authority of section 34 of the Child Care Act, I make the following regulations.
 
-Dated at St. John's , May 8, 2017.
+Dated at St. John’s , May 8, 2017.
 
 Dale Kirby Minister of Education and Early Childhood Development
 
