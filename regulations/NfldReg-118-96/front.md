@@ -10,7 +10,7 @@ Amusement Rides and Elevating Devices Regulations under the Public Safety Act (O
 
 Under the authority of section 32 of the Public Safety Act , the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John's , December 20, 1996 .
+Dated at St. John's , December 20, 1996.
 
 Wayne Green for the Clerk of the Executive Council
 
