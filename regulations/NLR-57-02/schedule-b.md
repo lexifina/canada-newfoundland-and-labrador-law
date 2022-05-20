@@ -6,6 +6,10 @@ American Marten (Island of Newfoundland Population)
 
 Martes americana atrata
 
+Bank Swallow
+
+Riparia riparia
+
 Black Ash
 
 Fraxinus nigra
@@ -26,6 +30,10 @@ Hudsonian Godwit
 
 Limosa haemastica
 
+Mackenzie’s Sweetvetch
+
+Hedysarum boreale subsp. mackenziei
+
 Newfoundland Gray-cheeked Thrush
 
 Catharus minimus minimus
@@ -37,6 +45,14 @@ Contopus cooperi
 Porsild's Bryum
 
 Mielichhoferia macrocarpa
+
+Red Crossbill percna subspecies
+
+Loxia curvirostra percna
+
+Red Pine (Island of Newfoundland Population)
+
+Pinus resinosa
 
 Sharpleaf Aster
 
@@ -66,4 +82,4 @@ Wrinkled Shingle Lichen
 
 Pannaria lurida
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2
