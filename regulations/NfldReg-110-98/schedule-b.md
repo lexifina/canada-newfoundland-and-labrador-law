@@ -110,7 +110,7 @@ Operating air brake equipped vehicle without proper endorsement
 
 26
 
-Upgrading driver's licence without properly licensed driver instructor
+Upgrading driver’s licence without properly licensed driver instructor
 
 90
 
