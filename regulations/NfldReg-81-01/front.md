@@ -10,7 +10,7 @@ Vehicles Regulations, 2001 under the Highway Traffic Act (O.C. 2001-713)
 
 Under the authority of section 187 of the Highway Traffic Act , the minister, with the approval of the Lieutenant-Governor in Council, makes the following regulations.
 
-Dated at St. Johns , November 26, 2001 .
+Dated at St. John’s , November 26, 2001 .
 
 Walter Noel Minister of Government Services and Lands
 
