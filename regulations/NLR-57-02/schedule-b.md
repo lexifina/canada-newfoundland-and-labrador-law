@@ -18,17 +18,17 @@ Bodin's Milkvetch
 
 Astragalus bodinii
 
-Chimney Swift
-
-Chaetura pelagica
-
-Common Nighthawk
-
-Chardeiles minor
-
 Hudsonian Godwit
 
 Limosa haemastica
+
+Leach's Storm Petrel
+
+Oceanodroma leucorhoa
+
+Lesser Yellowlegs
+
+Tringa flavipes
 
 Mackenzie’s Sweetvetch
 
@@ -37,10 +37,6 @@ Hedysarum boreale subsp. mackenziei
 Newfoundland Gray-cheeked Thrush
 
 Catharus minimus minimus
-
-Olive-sided Flycatcher
-
-Contopus cooperi
 
 Porsild's Bryum
 
@@ -57,6 +53,10 @@ Pinus resinosa
 Sharpleaf Aster
 
 Oclemena acuminata
+
+Short-eared Owl
+
+Asio flammeus
 
 Suckley’s Cuckoo Bumble Bee
 
@@ -82,4 +82,4 @@ Wrinkled Shingle Lichen
 
 Pannaria lurida
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2; 75/22 s2

@@ -10,6 +10,10 @@ Banded Killifish
 
 Fundulus diaphanus
 
+Barn Swallow
+
+Hirundo rustica
+
 Barrow's Goldeneye
 
 Bucephala islandica
@@ -25,6 +29,10 @@ Dolichonyx oryzivorus
 Boreal Felt Lichen
 
 Erioderma pedicellatum
+
+Common Nighthawk
+
+Chordeiles minor
 
 Evening Grosbeak
 
@@ -46,6 +54,10 @@ Mummichog
 
 Fundulus heteroclitus macrolepidotus
 
+Olive-sided Flycatcher
+
+Contopus cooperi
+
 Peregrine Falcon (anatum)
 
 Falco peregrinus anatum
@@ -66,10 +78,6 @@ Rusty Blackbird
 
 Euphagus carolinus
 
-Short-eared owl
-
-Asio flammeus
-
 Transverse Lady Beetle
 
 Coccinella transversoguttata
@@ -82,4 +90,4 @@ Yellow-banded Bumble Bee
 
 Bombus terricola
 
-116/07 s2; 9/08 s3; 33/14 s2; 33/15 s3; 32/22 s3
+116/07 s2; 9/08 s3; 33/14 s2; 33/15 s3; 32/22 s3; 75/22 s3
