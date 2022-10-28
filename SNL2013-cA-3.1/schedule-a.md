@@ -1,4 +1,4 @@
-Schedule
+Schedule A
 
 CONVENTION ON PROTECTION OF CHILDREN AND CO-OPERATION IN RESPECT OF INTERCOUNTRY ADOPTION
 
@@ -46,7 +46,7 @@ An adoption within the scope of the Convention shall take place only if the comp
 
 (a) have established that the child is adoptable;
 
-(b) have determined, after possibilities for placement of the child within the State of origin have been given due consideration, that an intercountry adoption is in the child's best interests;
+(b) have determined, after possibilities for placement of the child within the State of origin have been given due consideration, that an intercountry adoption is in the child’s best interests;
 
 (c) have ensured that,
 
@@ -62,9 +62,9 @@ An adoption within the scope of the Convention shall take place only if the comp
 
 (1) he or she has been counselled and duly informed of the effects of the adoption and of his or her consent to the adoption, where such consent is required,
 
-(2) consideration has been given to the child's wishes and opinions,
+(2) consideration has been given to the child’s wishes and opinions,
 
-(3) the child's consent to the adoption, where such consent is required, has been given freely, in the required legal form, and expressed or evidenced in writing, and
+(3) the child’s consent to the adoption, where such consent is required, has been given freely, in the required legal form, and expressed or evidenced in writing, and
 
 (4) such consent has not been induced by payment or compensation of any kind.
 
@@ -152,9 +152,9 @@ Article 16
 
 1. If the Central Authority of the State of origin is satisfied that the child is adoptable, it shall,
 
-(a) prepare a report including information about his or her identity, adoptablity, background, social environment, family history, medical history including that of the child's family, and any special needs of the child;
+(a) prepare a report including information about his or her identity, adoptablity, background, social environment, family history, medical history including that of the child’s family, and any special needs of the child;
 
-(b) give due consideration to the child's upbringing and to his or her ethnic, religious and cultural background;
+(b) give due consideration to the child’s upbringing and to his or her ethnic, religious and cultural background;
 
 (c) ensure that consents have been obtained in accordance with Article 4; and
 
@@ -192,7 +192,7 @@ The Central Authorities shall keep each other informed about the adoption proces
 
 Article 21
 
-1. Where the adoption is to take place after the transfer of the child to the receiving State and it appears to the Central Authority of that State that the continued placement of the child with the prospective adoptive parents is not in the child's best interests, such Central Authority shall take the measures necessary to protect the child, in particular,
+1. Where the adoption is to take place after the transfer of the child to the receiving State and it appears to the Central Authority of that State that the continued placement of the child with the prospective adoptive parents is not in the child’s best interests, such Central Authority shall take the measures necessary to protect the child, in particular,
 
 (a) to cause the child to be withdrawn from the prospective adoptive parents and to arrange temporary care;
 
@@ -262,15 +262,15 @@ CHAPTER VI - GENERAL PROVISIONS
 
 Article 28
 
-The Convention does not affect any law of a State of origin which requires that the adoption of a child habitually resident within that State take place in that State or which prohibits the child's placement in, or transfer to, the receiving State prior to adoption.
+The Convention does not affect any law of a State of origin which requires that the adoption of a child habitually resident within that State take place in that State or which prohibits the child’s placement in, or transfer to, the receiving State prior to adoption.
 
 Article 29
 
-There shall be no contact between the prospective adoptive parents and the child's parents or any other person who has care of the child until the requirements of Article 4, subparagraphs (a) to (c), and Article 5, subparagraph (a), have been met, unless the adoption takes place within the family or unless the contact is in compliance with the conditions established by the competent authority of the State of origin.
+There shall be no contact between the prospective adoptive parents and the child’s parents or any other person who has care of the child until the requirements of Article 4, subparagraphs (a) to (c), and Article 5, subparagraph (a), have been met, unless the adoption takes place within the family or unless the contact is in compliance with the conditions established by the competent authority of the State of origin.
 
 Article 30
 
-1. The competent authorities of a Contracting State shall ensure that information held by them concerning the child's origin, in particular information concerning the identity of his or her parents, as well as the medical history, is preserved.
+1. The competent authorities of a Contracting State shall ensure that information held by them concerning the child’s origin, in particular information concerning the identity of his or her parents, as well as the medical history, is preserved.
 
 2. They shall ensure that the child or his or her representative has access to such information, under appropriate guidance, in so far as is permitted by the law of that State.
 
@@ -392,4 +392,4 @@ The depositary shall notify the States Members of the Hague Conference on Privat
 
 (f) the denunciation referred to in Article 47.
 
-2013 cA-3.1 Sch
+2013 cA-3.1 Sch; 2021 c22 s18
