@@ -1,8 +1,6 @@
-SNL CHAPTER 2019 R-2.1
+SNL 2019 CHAPTER R-2.1
 
 REAL ESTATE TRADING ACT, 2019
-
-(Ss 6(1)(e) and ss 9 and 10 not in force)
 
 CHAPTER R-2.1
 
