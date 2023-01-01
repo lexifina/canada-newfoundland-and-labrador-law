@@ -16,7 +16,7 @@ Methane
 
 CH4
 
-25
+28
 
 Nitrogen triflouride
 
@@ -28,7 +28,7 @@ Nitrous oxide
 
 N2 O
 
-298
+265
 
 Sulphur hexafluoride
 
@@ -204,4 +204,4 @@ c-C3 F6
 
 17,340
 
-14/17 Sch C; 117/18 s10
+14/17 Sch C; 117/18 s10; 88/22 s9
