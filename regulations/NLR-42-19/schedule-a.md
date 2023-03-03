@@ -52,6 +52,8 @@ Measles
 
 Meningococcal Invasive Disease
 
+Mpox
+
 Multi-System Inflammatory Syndrome in Children (MIS-C)
 
 Mumps

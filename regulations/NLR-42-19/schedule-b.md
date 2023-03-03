@@ -28,4 +28,4 @@ Tuberculosis due to Mycobacterium bovis
 
 Tularemia
 
-42/19 Sch.; 9/20 s2; 69/20 s2
+42/19 Sch.; 9/20 s2; 69/20 s2; 9/23 s2
