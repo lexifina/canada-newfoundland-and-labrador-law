@@ -4,19 +4,21 @@ Board of Commissioners of Public Utilities
 
 C.A. Pippy Park Commission
 
+Celebrate NL Inc.
+
 Central Regional Health Authority
 
 College of the North Atlantic
 
 Conseil scolaire fr ancophone provincial de Terre-Neuve-et-Labrador
 
+Credit Union Deposit Guarantee Corporation
+
 Eastern Regional Health Authority
 
 Human Rights Commission
 
 Independent Appointments Commission
-
-Innovation and Business Investment Corporation
 
 Labour Relations Board
 
@@ -44,10 +46,6 @@ Newfoundland and Labrador Hydro
 
 Newfoundland and Labrador Liquor Corporation
 
-Newfoundland and Labrador Medical Care Plan
-
-NL 911 Bureau Inc.
-
 Oil and Gas Corporation of Newfoundland and Labrador and its subsidiaries
 
 Provincial Advisory Council on the Status of Women
@@ -60,8 +58,6 @@ Public Service Commission
 
 Royal Newfoundland Constabulary
 
-Student Loan Corporation of Newfoundland and Labrador
-
 The Rooms Corporation
 
 Western Regional Health Authority
@@ -70,4 +66,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53
+81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53; 11/23 s4
