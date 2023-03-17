@@ -10,7 +10,7 @@ Pharmacy Regulations, 2014 under the Pharmacy Act, 2012
 
 Under the authority of section 59 of the Pharmacy Act, 2012 the Newfoundland and Labrador Pharmacy Board, with the approval of the Minister of Health and Community Services, makes the following regulations.
 
-Dated at St. Johns , November 21, 2014.
+Dated at St. John’s , November 21, 2014.
 
 David Cramm Chair of Newfoundland and Labrador Pharmacy Board
 
