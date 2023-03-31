@@ -202,6 +202,8 @@ Professional Fish Harvesters Act, paragraphs 5(2)(f) and (h) and subsection 15(3
 
 Provincial Court Act, 1991 , paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
 
+Provincial Health Authority Regulations , subsection 7(2)
+
 Psychologists Act, 2005 , subsections 4(1) and 15(4) with respect to ministerial appointments
 
 Public Libraries Act , paragraph 3(c)
