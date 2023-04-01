@@ -1,0 +1,11 @@
+SNL2022 CHAPTER P-30.1
+
+PROVINCIAL HEALTH AUTHORITY ACT
+
+CHAPTER P-30.1
+
+AN ACT RESPECTING THE DELIVERY OF HEALTH AND COMMUNITY SERVICES AND THE ESTABLISHMENT OF A PROVINCIAL HEALTH AUTHORITY
+
+(Assented to November 9, 2022)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
