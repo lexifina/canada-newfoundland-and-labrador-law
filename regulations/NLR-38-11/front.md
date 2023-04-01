@@ -10,7 +10,7 @@ Personal Health Information Regulations under the Personal Health Information Ac
 
 Under the authority of section 90 of the Personal Health Information Act, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. Johns , March 30, 2011.
+Dated at St. John’s , March 30, 2011.
 
 Robert Thompson Clerk of the Executive Council
 
