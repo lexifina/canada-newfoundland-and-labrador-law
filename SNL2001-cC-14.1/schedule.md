@@ -20,10 +20,6 @@ The Egg Producers of Newfoundland and Labrador
 
 Enterprise Newfoundland and Labrador Corporation
 
-A hospital board or authority as defined in the Hospitals Act
-
-A health and community services board incorporated under the Health and Community Services Act
-
 Innovation and Business Investment Corporation
 
 Insurance Adjusters, Agents and Brokers Appeal Board
@@ -64,8 +60,6 @@ The Newfoundland and Labrador Municipal Financing Corporation
 
 Newfoundland and Labrador Arts Council
 
-Newfoundland and Labrador Centre for Health Information
-
 Newfoundland and Labrador Education Investment Corporation
 
 Newfoundland and Labrador Geographical Names Board
@@ -77,6 +71,8 @@ Newfoundland and Labrador Student Investment and Opportunity Corporation
 The Private Training Corporation
 
 Provincial Apprenticeship Board
+
+Provincial Health Authority
 
 The Provincial Information and Library Resources Board
 
@@ -104,4 +100,4 @@ A corporation, commission or board the majority of the members of which, or the 
 
 A board, commission or other body added to this Schedule by order of the Lieutenant-Governor in Council
 
-2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2; 2014 cC-11.01 s38; 2018 cI-7.1 s25
+2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2; 2014 cC-11.01 s38; 2018 cI-7.1 s25; 2022 cP-30.1 s44
