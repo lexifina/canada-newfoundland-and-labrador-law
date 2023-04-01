@@ -1,3 +1,5 @@
+se
+
 CONSOLIDATED NEWFOUNDLAND AND LABRADOR REGULATION 969/96
 
 Consolidated Orders under the Public Service Collective Bargaining Act (O.C. 96-115)

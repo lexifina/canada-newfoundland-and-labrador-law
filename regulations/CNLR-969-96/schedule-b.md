@@ -86,6 +86,6 @@ Schedule B
 
 43. Naomi Centre
 
-44. Newfoundland and Labrador Centre for Health Information
+44. [Rep. by 2022 cP-30.1 s68]
 
-126/85; 2001 c42 s45; 96/11 s3; 47/20 s1
+126/85; 2001 c42 s45; 96/11 s3; 47/20 s1; 2022 cP-30.1 s68
