@@ -2,7 +2,7 @@ Schedule A
 
 (a) sections 64 to 68 of the Adoption Act, 2013 ;
 
-(b) section 29 of the Adult Protection Act ;
+(b) sections 33 and 34 of the Adult Protection Act, 2021 ;
 
 (b.1) subsection 30(2) of the Auditor General Act, 2021 ;
 
@@ -48,4 +48,4 @@ Schedule A
 
 (t) section 18 of the Workplace Health, Safety and Compensation Act .
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02
