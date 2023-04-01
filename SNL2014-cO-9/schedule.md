@@ -6,8 +6,6 @@ C.A. Pippy Park Commission
 
 Canada-Newfoundland and Labrador Offshore Petroleum Board
 
-Central Regional Health Authority
-
 College for Licensed Practical Nurses of Newfoundland and Labrador
 
 College of Registered Nurses of Newfoundland and Labrador
@@ -15,8 +13,6 @@ College of Registered Nurses of Newfoundland and Labrador
 College of the North Atlantic
 
 Conseil scolaire francophone provincial de Terre-Neuve-et Labrador
-
-Eastern Regional Health Authority
 
 Eastern Residential Support Board
 
@@ -26,15 +22,11 @@ Grace Sparkes Home
 
 Labrador Group Home
 
-Labrador-Grenfell Regional Health Authority
-
 Municipal Assessment Agency
 
 Nalcor Energy
 
 Newfoundland and Labrador Arts Council
-
-Newfoundland and Labrador Centre for Health Information
 
 Newfoundland and Labrador English School District
 
@@ -50,12 +42,12 @@ Newfoundland and Labrador Liquor Corporation
 
 Provincial Advisory Council on the Status of Women - Newfoundland and Labrador
 
+Provincial Health Authority
+
 Provincial Information and Library Resources Board
 
 Waypoints
 
-Western Regional Health Authority
-
 Workplace Health, Safety and Compensation Commission
 
-2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30
+2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30; 2022 cP-30.1 s55
