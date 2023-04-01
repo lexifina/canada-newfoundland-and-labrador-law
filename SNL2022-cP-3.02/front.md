@@ -1,6 +1,6 @@
 SNL2022 CHAPTER P-3.02
 
-PAY EQUITY AND PAY TRANSPARENCY ACT [subparagraphs 2(1)(q)(i) to (x), and ss2(1)(s)(ii), and ss11 to 15 not in force]
+PAY EQUITY AND PAY TRANSPARENCY ACT [subparagraphs 2(1)(q)(i ) to (x), and 2(1)(s)(ii), and ss11 to 15 not in force]
 
 CHAPTER P-3.02
 
