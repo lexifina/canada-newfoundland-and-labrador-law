@@ -6,23 +6,17 @@ C.A. Pippy Park Commission
 
 Celebrate NL Inc.
 
-Central Regional Health Authority
-
 College of the North Atlantic
 
 Conseil scolaire fr ancophone provincial de Terre-Neuve-et-Labrador
 
 Credit Union Deposit Guarantee Corporation
 
-Eastern Regional Health Authority
-
 Human Rights Commission
 
 Independent Appointments Commission
 
 Labour Relations Board
-
-Labrador-Grenfell Regional Health Authority
 
 Marble Mountain Development Corporation
 
@@ -33,8 +27,6 @@ Multi-Materials Stewardship Board
 Municipal Assessment Agency
 
 Nalcor Energy and its subsidiaries
-
-Newfoundland and Labrador Centre for Health Information
 
 Newfoundland and Labrador English School District
 
@@ -50,6 +42,8 @@ Oil and Gas Corporation of Newfoundland and Labrador and its subsidiaries
 
 Provincial Advisory Council on the Status of Women
 
+Provincial Health Authority
+
 Provincial Information and Library Resources Board
 
 Public Procurement Agency
@@ -60,10 +54,8 @@ Royal Newfoundland Constabulary
 
 The Rooms Corporation
 
-Western Regional Health Authority
-
 Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53; 11/23 s4
+81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53; 11/23 s4; 2022 cP-30.1 s76
