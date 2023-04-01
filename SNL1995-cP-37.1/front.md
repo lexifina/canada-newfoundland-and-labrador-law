@@ -8,4 +8,6 @@ AN ACT RESPECTING THE PROTECTION OF THE HEALTH OF THE PUBLIC AND THE PROVISION O
 
 1997 c24 s1
 
+(Assented to December 21, 1995)
+
 Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
