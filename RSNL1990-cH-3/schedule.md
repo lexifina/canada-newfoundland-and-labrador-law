@@ -1656,9 +1656,9 @@ Exceeding the speed limit by between 1 and 10 kilometres an hour Second offence 
 
 Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence Subsequent offence
 
-150 300 450
+250 400 550
 
-100 200 300
+200 300 400
 
 5 days 10 days 12 days
 
@@ -1668,9 +1668,9 @@ Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence
 
 Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence Subsequent offence
 
-300 450 600
+400 550 700
 
-200 300 400
+300 400 500
 
 10 days 15 days 20 days
 
@@ -1680,9 +1680,9 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
-450 600 750
+550 700 850
 
-300 400 500
+400 500 600
 
 15 days 20 days 25 days
 
@@ -1692,9 +1692,9 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence
 
 Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
 
-600 700 850
+700 800 950
 
-400 500 600
+500 600 700
 
 15 days 20 days 25 days
 
@@ -1728,9 +1728,9 @@ Exceeding the speed limit by between 1 and 10 kilometres an hour Second offence 
 
 Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence Subsequent offence
 
-300 600 900
+400 700 1000
 
-200 400 600
+300 500 700
 
 5 days 10 days 12 days
 
@@ -1740,9 +1740,9 @@ Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence
 
 Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence Subsequent offence
 
-600 900 1200
+700 1000 1300
 
-400 600 800
+500 700 900
 
 10 days 15 days 20 days
 
@@ -1752,9 +1752,9 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
-900 1200 1500
+1000 1300 1600
 
-600 800 1000
+700 900 1100
 
 15 days 20 days 25 days
 
@@ -1764,9 +1764,9 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence
 
 Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
 
-1200 1500 1800
+1300 1600 1900
 
-800 1000 1200
+900 1100 1300
 
 15 days 20 days 25 days
 
@@ -1788,9 +1788,9 @@ Exceeding the speed limit by between 1 and 10 kilometres an hour Second offence 
 
 Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence Subsequent offence
 
-300 600 900
+400 700 1000
 
-200 400 600
+300 500 700
 
 5 days 10 days 12 days
 
@@ -1800,9 +1800,9 @@ Exceeding the speed limit by between 11 and 20 kilometres an hour Second offence
 
 Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence Subsequent offence
 
-600 900 1200
+700 1000 1300
 
-400 600 800
+500 700 900
 
 10 days 15 days 20 days
 
@@ -1812,9 +1812,9 @@ Exceeding the speed limit by between 21 and 30 kilometres an hour Second offence
 
 Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence Subsequent offence
 
-900 1200 1500
+1000 1300 1600
 
-600 800 1000
+700 900 1100
 
 15 days 20 days 25 days
 
@@ -1824,9 +1824,9 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour Second offence
 
 Exceeding the speed limit by 51 kilometres an hour and over Second offence Subsequent offence
 
-1200 1500 1800
+1300 1600 1900
 
-800 1000 1200
+900 1100 1300
 
 15 days 20 days 25 days
 
@@ -3372,9 +3372,9 @@ Driving vehicle without chains or winter tires
 
 Racing vehicles or bicycles on highways
 
-900
+1000
 
-180
+280
 
 30 days
 
@@ -3384,9 +3384,9 @@ Racing vehicles or bicycles on highways
 
 Performing or engaging in stunt while driving
 
-900
+1000
 
-180
+280
 
 30 days
 
