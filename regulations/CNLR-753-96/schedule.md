@@ -814,7 +814,7 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour
 
 110(3)(e)
 
-4
+6
 
 Exceeding the speed limit by 51 kilometres an hour and over
 
@@ -850,7 +850,7 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour
 
 110.1(4)(e)
 
-4
+6
 
 Exceeding the speed limit by 51 kilometres an hour and over
 
@@ -880,7 +880,7 @@ Exceeding the speed limit by between 31 and 50 kilometres an hour
 
 110.2(4)(e)
 
-4
+6
 
 Exceeding the speed limit by 51 kilometres an hour and over
 
@@ -1630,13 +1630,13 @@ Driving vehicle without chains or winter tires
 
 168
 
-2
+6
 
 Racing vehicles or bicycles on highways
 
 168.1(1)
 
-2
+6
 
 Performing or engaging in stunt while driving
 
