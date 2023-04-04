@@ -1,6 +1,4 @@
-Schedule A
-
-Minor Ailments
+Schedule A Approved Ailments and Conditions
 
 Acne, Mild
 
@@ -12,7 +10,7 @@ Atopic Dermatitis, Mild-Moderate
 
 Callouses and Corns
 
-Cold Sores
+Conjunctivitis
 
 Contact Dermatitis
 
@@ -28,6 +26,8 @@ Dyspepsia
 
 Emergency Contraception
 
+Fungal Nail Infections
+
 Fungal Skin Infections (including athlete's foot)
 
 Gastroesophageal Reflux Disease
@@ -35,6 +35,10 @@ Gastroesophageal Reflux Disease
 Headache, Mild
 
 Hemorrhoids
+
+Herpes Simplex (cold sores)
+
+Herpes Zoster (shingles)
 
 Impetigo
 
@@ -50,9 +54,11 @@ Oral Candidiasis
 
 Pinworms
 
-Smoking Cessation
+Nicotine Dependence
 
 Upper Respiratory Conditions, Mild (cough, nasal congestion, sore throat)
+
+Urinary Tract Infections, uncomplicated
 
 Urticaria, Mild (including bites and stings)
 
@@ -60,4 +66,4 @@ Vaginal Candidiasis
 
 Viral Skin Infections (common and flat warts)
 
-73/15 Sch; 4/20 s6
+73/15 Sch; 4/20 s6; 25/23 s6
