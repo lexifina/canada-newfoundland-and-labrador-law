@@ -10,7 +10,7 @@ Glover Island Public Reserve Regulations under the Lands Act (O.C. 2002-601)
 
 Under the authority of section 41 of the Lands Act , the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. Johns , November 13, 2002 .
+Dated at St. John’s , November 13, 2002 .
 
 Deborah E. Fry Clerk of the Executive Council
 
