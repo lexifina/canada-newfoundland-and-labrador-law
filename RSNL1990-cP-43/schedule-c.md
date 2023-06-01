@@ -18,8 +18,6 @@ Committee for the Independent Review of the Public Post-Secondary Education Syst
 
 Independent Geoscience Technical Advisory Committee with respect to mineral industry representatives
 
-Interprovincial Lottery Corporation Board of Directors with respect to provincial nominees
-
 Municipal Assessment Agency with respect to taxpayer representatives
 
 Mistaken Point World Heritage Site Advisory Council with respect to public interest members
@@ -224,7 +222,7 @@ Student Financial Assistance Act, 2019 , Student Financial Assistance Administra
 
 Teachers Training Act , section 3
 
-Urban and Rural Planning Act, 2000 , subsection 41(1)
+Urban and Rural Planning Act, 2000 , subsection 40(1)
 
 Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to ministerial appointments
 
