@@ -88,7 +88,7 @@ An appeal board appointed under the Income and Employment Support Act
 
 Timber Scalers Board
 
-An appeal board established under section 40 of the Urban and Rural Planning Act, 2000
+An adjudicator appointed under section 40 of the Urban and Rural Planning Act, 2000
 
 Workers' Compensation Review Division
 
@@ -100,4 +100,4 @@ A corporation, commission or board the majority of the members of which, or the 
 
 A board, commission or other body added to this Schedule by order of the Lieutenant-Governor in Council
 
-2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2; 2014 cC-11.01 s38; 2018 cI-7.1 s25; 2022 cP-30.1 s44
+2001 cC-14.1 Sch; 2001 c42 s7; 2001 cN-3.1 s2; 2002 cI-0.1 s56; 2006 cA-18.1 s48; 2006 cM-9.1 s83; 16/17 s2; 2014 cC-11.01 s38; 2018 cI-7.1 s25; 2022 cP-30.1 s44; 2022 c14 s35
