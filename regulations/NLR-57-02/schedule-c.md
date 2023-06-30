@@ -6,6 +6,10 @@ American Eel
 
 Anguilla rostrata
 
+American Marten (Island of Newfoundland Population)
+
+Martes americana arata
+
 Banded Killifish
 
 Fundulus diaphanus
@@ -33,6 +37,10 @@ Erioderma pedicellatum
 Common Nighthawk
 
 Chordeiles minor
+
+Dense Draba
+
+Draba pycnosperma
 
 Evening Grosbeak
 
@@ -90,4 +98,4 @@ Yellow-banded Bumble Bee
 
 Bombus terricola
 
-116/07 s2; 9/08 s3; 33/14 s2; 33/15 s3; 32/22 s3; 75/22 s3
+116/07 s2; 9/08 s3; 33/14 s2; 33/15 s3; 32/22 s3; 75/22 s3; 50/23 s2

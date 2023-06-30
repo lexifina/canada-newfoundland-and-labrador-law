@@ -2,10 +2,6 @@ Schedule B
 
 Threatened Species
 
-American Marten (Island of Newfoundland Population)
-
-Martes americana atrata
-
 Bank Swallow
 
 Riparia riparia
@@ -82,4 +78,4 @@ Wrinkled Shingle Lichen
 
 Pannaria lurida
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2; 75/22 s2
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2; 75/22 s2; 50/23 s1
