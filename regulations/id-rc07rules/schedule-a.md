@@ -12,244 +12,244 @@ Total
 
 Baie Verte - Green Bay
 
-$12,600
+$14,100
 
 2
 
 Bonavista
 
-11,200
+$12,200
 
 3
 
 Burgeo - La Poile
 
-11,300
+$14,100
 
 4
 
 Burin - Grand Bank
 
-12,700
+$12,200
 
 5
 
 Cape St. Francis
 
-7,200
+$5,600
 
 6
 
 Carbonear - Trinity - Bay de Verde
 
-8,600
+$8,200
 
 7
 
 Cartwright - L'Anse au Clair
 
-25,600
+$26,800
 
 8
 
 Conception Bay East - Bell Island
 
-7,700
+$8,400
 
 9
 
 Conception Bay South
 
-6,100
+$5,600
 
 10
 
 Corner Brook
 
-6,000
+$5,600
 
 11
 
 Exploits
 
-10,800
+$8,200
 
 12
 
 Ferryland
 
-10,100
+$12,200
 
 13
 
 Fogo Island - Cape Freels
 
-12,700
+$14,100
 
 14
 
 Fortune Bay - Cape La Hune
 
-16,300
+$12,200
 
 15
 
 Gander
 
-7,700
+$8,200
 
 16
 
-Grand Falls-Windsor - Buchans
+Grand Falls - Windsor - Buchans
 
-9,100
+$8,200
 
 17
 
 Harbour Grace - Port de Grave
 
-7,700
+$5,600
 
 18
 
 Harbour Main
 
-7,600
+$8,200
 
 19
 
 Humber - Bay of Islands
 
-12,500
+$8,200
 
 20
 
 Humber - Gros Morne
 
-12,600
+$12,200
 
 21
 
 Labrador West
 
-6,600
+$5,600
 
 22
 
 Lake Melville
 
-8,000
+$12,200
 
 23
 
 Lewisporte - Twillingate
 
-9,200
+$12,200
 
 24
 
 Mount Pearl - Southlands
 
-6,000
+$5,600
 
 25
 
 Mount Pearl North
 
-6,000
+$5,600
 
 26
 
 Mount Scio
 
-6,000
+$5,600
 
 27
 
 Placentia - St. Mary's
 
-11,500
+$12,200
 
 28
 
 Placentia West - Bellevue
 
-13,800
+$14,100
 
 29
 
 St. Barbe - L'Anse aux Meadows
 
-12,200
+$14,100
 
 30
 
 St. George's - Humber
 
-8,400
+$14,100
 
 31
 
 St. John's Centre
 
-6,000
+$5,600
 
 32
 
 St. John's East - Quidi Vidi
 
-6,000
+$5,600
 
 33
 
 St. John's West
 
-6,000
+$5,600
 
 34
 
 Stephenville - Port au Port
 
-6,800
+$8,200
 
 35
 
 Terra Nova
 
-12,700
+$12,200
 
 36
 
 Topsail - Paradise
 
-6,000
+$5,600
 
 37
 
 Torngat Mountains
 
-20,700
+$20,700
 
 38
 
 Virginia Waters - Pleasantville
 
-6,000
+$5,600
 
 39
 
 Waterford Valley
 
-6,000
+$5,600
 
 40
 
 Windsor Lake
 
-6,000
+$5,600
 
 Total
 
-$386,000
+$391,700
 
-2015 c5 s7
+2015 c5 s7; 51/23 s1
