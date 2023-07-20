@@ -6,6 +6,6 @@ CHAPTER H-10.1
 
 AN ACT RESPECTING THE EFFECTIVE ADMINISTRATION OF THE HOUSE OF ASSEMBLY, THE STANDARDS OF CONDUCT OF ELECTED MEMBERS, AND THEIR ETHICAL AND ACCOUNTABLE BEHAVIOUR
 
-(Assented to June 14, 2007 )
+(Assented to June 14, 2007)
 
 Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
