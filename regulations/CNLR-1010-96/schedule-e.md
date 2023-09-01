@@ -42,7 +42,7 @@ Income
 
 (e) allowances received under the War Veterans Allowances Act (Canada ) or under the Civilian War Pensions and Allowances Act (Canada );
 
-(f) Workers' Compensation Board payments received under the Workplace Health, Safety and Compensation Act;
+(f) compensation received under the Workplace Health, Safety and Compensation Act, 2022;
 
 (g) unemployment insurance benefits received under the Employment Insurance Act (Canada );
 
@@ -98,4 +98,4 @@ Assignment or transfer of property or interest
 
 7. Where within 12 months preceding the date of application or at any date subsequent an applicant, spouse or dependent of an applicant has made or makes an assignment or transfer of any interest in liquid assets or real property and, in the opinion of the area director, the consideration for the assignment or transfer was or is inadequate and the assignment or transfer was made or is made for the purpose of qualifying the applicant for legal aid, the area director may determine that the applicant can pay an increased part of the cost of the legal aid taking into account the value of the asset or property so assigned or transferred less the value of the consideration received.
 
-87/78 Sch VII 10/86 s3; 2009 c31 s10; 2017 c10 s19
+87/78 Sch VII 10/86 s3; 2009 c31 s10; 2017 c10 s19; 2022 cW-11.1 s166
