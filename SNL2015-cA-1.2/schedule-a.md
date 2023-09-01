@@ -46,6 +46,6 @@ Schedule A
 
 (s) section 13 of the Statistics Agency Act ; and
 
-(t) section 18 of the Workplace Health, Safety and Compensation Act .
+(t) section 19 of the Workplace Health, Safety and Compensation Act , 2022.
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02; 2022 cW-11.1 s153
