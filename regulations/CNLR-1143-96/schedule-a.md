@@ -40,7 +40,7 @@ Then running by the southern shore of the Narrows in a general easterly directio
 
 Then running in a general southwesterly direction by the waters of St. John's Bay and by the waters of Freshwater Bay to the point of commencement.
 
-C. All that piece or parcel of land, subtitled Julienne Lake, described in Schedule B to Appendix C to the Statutory Agreement annexed to the Nalco-Javelin, Mineral Lands Act, 1957 as amended (Amdt. Nfld. Reg, 5/78).
+C. All that piece or parcel of land, subtitled Julienne Lake, described in Schedule B to Appendix C to the Statutory Agreement annexed to the Nalco-Javelin, Mineral Lands Act, 1957 as amended (Amdt. Nfld. Reg , 5/78).
 
 D. All those pieces or parcels of land described in Appendix B to the draft Lease annexed to the Hamilton Falls Power Corporation Limited Lease Act, 1961 , as amended.
 
@@ -100,7 +100,7 @@ Then south 85 ° 26' 19" west 2,007.257 metres;
 
 Then north 29 ° 16' 48" west 443.683 metres;
 
-Then along the southeast shoreline of Bay d’Espoir, in a generally northeast direction, for a distance of approximately 9,500 metres, more or less to the point of beginning and containing an area of 3,403 ha.
+Then along the southeast shoreline of Bay d’Espoir , in a generally northeast direction, for a distance of approximately 9,500 metres, more or less to the point of beginning and containing an area of 3,403 ha.
 
 All bearings are referred to the UTM Grid Zone 21, NAD27.
 
@@ -3918,7 +3918,7 @@ All bearings are magnetic 1971.
 
 BB. All that piece or parcel of land formerly being Holyrood Pond Provincial Park situate and being at Holyrood Pond near Gaskiers abutted and bounded as follows, that is to say:
 
-Beginning at a point in the easterly limit of the highway, 30 metres wide extending between Gaskiers and St. Vincents, the point being distant 108.17 metres as measured on a bearing of south 54° 44' 37" west from Crown Land Surveys Monument No. 819049;
+Beginning at a point in the easterly limit of the highway, 30 metres wide extending between Gaskiers and St. Vincents , the point being distant 108.17 metres as measured on a bearing of south 54° 44' 37" west from Crown Land Surveys Monument No. 819049;
 
 Then running by Crown land south 34° 21' 42" east 187 metres, more or less;
 
@@ -3974,7 +3974,7 @@ The above described piece or parcel of land containing an area of 28.7 hectares,
 
 All bearings being referred to the true meridian.
 
-DD. All that piece or parcel of land formerly being Jiggin' Head Provincial Park situate and being at Indian Arm near Summerville abutted and bounded as follows, that is to say:
+DD. All that piece or parcel of land formerly being Jiggin ' Head Provincial Park situate and being at Indian Arm near Summerville abutted and bounded as follows, that is to say:
 
 Beginning at a point in the northwesterly limit of the Old Cabot Highway, 30 metres wide, extending between Plate Cove and Summerville, that point being distant 98.02 metres as measured on a bearing of north 43° 26' 51" east from Control Monument No. 834053;
 
@@ -4008,7 +4008,7 @@ Then turning and running north 478.5 metres, more or less, to a point in the sou
 
 Then following the shoreline in general westerly, northeasterly and southwesterly directions to a point in the shoreline at the northerly entrance of Muddy Hold;
 
-Then following the shoreline in general easterly, northeasterly, southwesterly and easterly directions to the point of beginning;
+Then following the shoreline in general easterly, northeasterly , southwesterly and easterly directions to the point of beginning;
 
 The above described piece or parcel of land containing an area of 81.06 hectares, more or less;
 
@@ -4160,7 +4160,7 @@ All bearings being referred to the meridian of 53° west longitude of the 3° Tr
 
 KK. All that piece or parcel of land formerly being Thorburn Lake Provincial Park situate and being at Thorburn Lake near Clarenville abutted and bounded as follows, that is to say:
 
-Beginning at a point in the westerly limit of the Trans Canada Highway 60.96 wide extending between Port Blandford and Clarenville, the point being distant 507.6 metres as measured on a bearing of south 32° 19' 44" east from Crown Land Surveys Monument No. 634076;
+Beginning at a point in the westerly limit of the Trans Canada Highway 60.96 wide extending between Port Blandford and Clarenville , the point being distant 507.6 metres as measured on a bearing of south 32° 19' 44" east from Crown Land Surveys Monument No. 634076;
 
 Then running along the westerly limit of the highway north 32° 45' west 835.4 metres;
 
@@ -4312,7 +4312,7 @@ OO. All that piece or parcel of land formerly being Gushues Pond Provincial Park
 
 Beginning at a point near Brigus Junction Trans Canada Highway Overpass, that point being the intersection of the western limit of the Trans Canada Highway, 61 metres wide, the northerly limit of the Canadian National Railway's right-of-way, 61 metres wide;
 
-Then running along the northerly limit of the Canadian National Railway's right-of-way in a general westerly direction 963.2 metres, more or less, to its intersection with the southeasterly prolongation of the northeasterly limit of a power transmission line, 15.2 metres wide, extending between Seal Cove and Argentia;
+Then running along the northerly limit of the Canadian National Railway's right-of-way in a general westerly direction 963.2 metres, more or less, to its intersection with the southeasterly prolongation of the northeasterly limit of a power transmission line, 15.2 metres wide, extending between Seal Cove and Argentia ;
 
 Then running along the southeasterly prolongation and along the northeasterly limit in a general northwesterly direction 1,264.9 metres, more or less;
 
@@ -4414,7 +4414,7 @@ Then north 26° 18' 47" east 12.50 metres;
 
 Then north 7° 55' 39" east 95.77 metres;
 
-Then running by land of Clyde McIsaac, land of Charles Bennett, land of Patrick Hinks and land of Thomas Bennett north 85° 23' 41" east 252.08 metres;
+Then running by land of Clyde McIsaac , land of Charles Bennett, land of Patrick Hinks and land of Thomas Bennett north 85° 23' 41" east 252.08 metres;
 
 Then running by the land of Thomas Bennett south 3° 46' 58" west 36.73 metres, more or less;
 
@@ -4430,7 +4430,7 @@ Then running by land of the R.C. Episcopal Corporation north 82° 3' 24" west 33
 
 The above described piece or parcel of land containing an area of 42 hectares, more or less, and being more particularly shown on the Department of Forest Resources and Lands Plan No. S.P. 166 dated August, 1984.
 
-All bearings being referred to the meridian of 58° 30' west longitude of the 3° Transverse Mercator Projection, NAD 27.
+All bearings being referred to the meridian of 58° 30' west longitude of the 3° Transverse Mercator Projection , NAD 27.
 
 SS. All that piece or parcel of land formerly being River of Ponds Provincial Park situate and being at River of Ponds near River of Ponds Lake abutted and bounded as follows, that is to say:
 
@@ -7562,4 +7562,92 @@ Then east 2,000 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 21, NAD 27.
 
-132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1; 3/17 s1; 12/22 s1
+SSSS. All that piece or parcel of land and land under water situate and being at Flora Lake in the province and being described as follows:
+
+Beginning at a point having UTM coordinates of 5,868,000 metres north, 650,500 metres east;
+
+Then south 1,500 metres;
+
+Then west 500 metres;
+
+Then south 2,000 metres;
+
+Then west 500 metres;
+
+Then south 1,500 metres;
+
+Then east 500 metres;
+
+Then south 500 metres;
+
+Then east 500 metres;
+
+Then south 1,000 metres;
+
+Then east 500 metres;
+
+Then south 500 metres;
+
+Then east 500 metres;
+
+Then south 1,000 metres;
+
+Then east 500 metres;
+
+Then south 1,000 metres:
+
+Then east 500 metres;
+
+Then south 500 metres;
+
+Then east 500 metres;
+
+Then south 1,000 metres;
+
+Then east 500 metres;
+
+Then south 3,500 metres;
+
+Then west 1,500 metres;
+
+Then north 500 metres;
+
+Then west 500 metres;
+
+Then north 500 metres;
+
+Then west 1,000 metres;
+
+Then north 1,000 metres;
+
+Then west 500 metres;
+
+Then north 500 metres;
+
+Then west 1,500 metres;
+
+Then north 1,000 metres;
+
+Then west 500 metres;
+
+Then north 1,500 metres;
+
+Then west 1,000 metres;
+
+Then north 4,500 metres;
+
+Then west 1,500 metres;
+
+Then north 4,000 metres;
+
+Then east 500 metres;
+
+Then north 500 metres;
+
+Then east 4,500 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 19, NAD 27.
+
+Reserving nevertheless out of the above described parcel of land all that area covered by map staked licences, portions of map staked licences and mining leases.
+
+132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1; 3/17 s1; 12/22 s1; 76/23 s1
