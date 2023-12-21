@@ -994,7 +994,7 @@ Failure to drive to right of centre of roundabout
 
 100.1(3)
 
-Failure to yield right-of-way in roundabout to traffic travelling to left of driver's vehicle
+Failure to yield right-of-way in roundabout to traffic travelling to left of driver’s vehicle
 
 400
 
