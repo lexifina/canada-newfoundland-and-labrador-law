@@ -12,7 +12,7 @@ cars, light trucks, vans and three-wheeled vehicles
 
 before transfer of ownership following a sale
 
-Taxis
+taxis and motor vehicles used for a ride-sharing service
 
 at age one model year and each year afterwards
 
@@ -54,4 +54,4 @@ within 30 days of signing a contract with the school board and every 6 months af
 
 NOTE: Buses and disabled passenger vehicles that are also school buses shall conform to the schedule of inspection for school buses.
 
-220/94 s4; 87/99 s5; 97/06 s2; 9/17 s2
+220/94 s4; 87/99 s5; 97/06 s2; 9/17 s2; 95/23 s8
