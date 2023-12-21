@@ -1,3 +1,3 @@
-This is to certify that the plumbing in the house of.….…..... No .....…... Street, owned by......…............. Permit No..….... has been executed in accordance with the rules and regulations of the St. John's Municipal council by...........…........ licensed plumber.
+This is to certify that the plumbing in the house of.….…..... No ..... …... Street, owned by......…............. Permit No.. ….... has been executed in accordance with the rules and regulations of the St. John's Municipal council by...........…........ licensed plumber.
 
 ..…………................
