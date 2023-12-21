@@ -4,9 +4,9 @@ FORM OF GUARANTEE TO BUILDING SOCIETIES.
 
 1. In this Schedule
 
-(a) "lands" shall include leaseholds;
+(a) "lands " shall include leaseholds;
 
-(b) "securities" shall mean bonds, debentures, debenture stocks or other securities.
+(b) "securities " shall mean bonds, debentures, debenture stocks or other securities.
 
 2. A company incorporated or continued under theCorporations Act with a share capital, whose main objects of incorporation are the acquisition of lands in or near the city of St. John's, and the building and making on the lands of dwelling houses of moderate size and improvements and conveniences, to be rented at moderate rents, may petition the council to guarantee its securities, to enable or help it to raise money to carry out those main objects.
 
