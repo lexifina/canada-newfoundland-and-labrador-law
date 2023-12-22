@@ -10,7 +10,7 @@ Registration of Deeds Regulations under the Registration of Deeds Act, 2009
 
 Under the authority of section 38 of the Registration of Deeds Act, 2009, I make the following regulations.
 
-Dated at St. Johns , November 17, 2010.
+Dated at St. John’s , November 17, 2010.
 
 Harry Harding Minister of Government Services
 
