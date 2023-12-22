@@ -88,8 +88,10 @@ Town of Torbay
 
 Town of Trepassey
 
+Town of Upper Island Cove
+
 Town of Wabush
 
 Town of Witless Bay
 
-CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1; 76/10 s1; 97/11 s1; 66/15 s1; 67/18 s1; 73/19 s1; 66/21 s1
+CNR 1021/96 Sch; 29/98 s1; 62/01 s1; 2/04 s1; 36/04 s1; 78/04 s1; 48/05 s1; 110/07 s1; 107/09 s1; 24/10 s1; 76/10 s1; 97/11 s1; 66/15 s1; 67/18 s1; 73/19 s1; 66/21 s1; 109/23 s1
