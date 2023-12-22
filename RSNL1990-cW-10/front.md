@@ -1,6 +1,6 @@
 RSNL1990 CHAPTER W-10
 
-WILLS ACT [Sections 37 – 41 to be Proclaimed]
+WILLS ACT [Sections 37 – 41 to be Proclaimed ]
 
 CHAPTER W-10
 

@@ -180,33 +180,33 @@ The certificate drawn up by the authorized person shall be in the following form
 
 CERTIFICATE (Convention of October 26, 1973)
 
-1. I, .................................... (name, address and capacity), a person authorized to act in connection with international wills
+1. I, .................................... (name , address and capacity), a person authorized to act in connection with international wills
 
-2. Certify that on .................. (date) at ............. (place)
+2. Certify that on .................. (date ) at ............. (place )
 
-3. (testator) ................................. (name, address, date and place of birth) in my presence and that of the witnesses
+3. (testator ) ................................. (name , address, date and place of birth) in my presence and that of the witnesses
 
-4. (a) ................................ (name, address, date and place of birth)
+4. (a ) ................................ (name , address, date and place of birth)
 
-(b) ................................ (name, address, date and place of birth) has declared that the attached document is his will and that he knows the contents thereof.
+(b) ................................ (name , address, date and place of birth) has declared that the attached document is his will and that he knows the contents thereof.
 
 5. I furthermore certify that:
 
-6. (a) in my presence and in that of the witnesses
+6. (a ) in my presence and in that of the witnesses
 
 (1) the testator has signed the will or has acknowledged his signature previously affixed.
 
 *(2) following a declaration of the testator stating that he was unable to sign his will for the following reason ............................. - I have mentioned this declaration on the will - The signature has been affixed by ......................... (name and address)
 
-7 . (b) the witnesses and I have signed the will;
+7 . (b ) the witnesses and I have signed the will;
 
 8. *(c) each page of the will has been signed by
 
 ..................... and numbered;
 
-9. (d) I have satisfied myself as to the identity of the testator and of the witnesses as designated above;
+9. (d ) I have satisfied myself as to the identity of the testator and of the witnesses as designated above;
 
-10. (e) the witnesses met the conditions requisite to act as such
+10. (e ) the witnesses met the conditions requisite to act as such
 
 according to the law under which I am acting;
 
