@@ -54,7 +54,7 @@ Regional Council of the Rural Secretariat - Corner Brook-Rocky Harbour
 
 Regional Council of the Rural Secretariat - Gander-New-Wes-Valley
 
-Regional Council of the Rural Secretariat - Grand Falls-Windsor-Baie Verte-Harbour Breton
+Regional Council of the Rural Secretariat - Grand Falls-Windsor-Baie Verte -Harbour Breton
 
 Regional Council of the Rural Secretariat - Labrador Region
 
@@ -82,7 +82,7 @@ Arts Council Act , section 6
 
 Atlantic Provinces Harness Racing Commission Act , subsection 5(1)
 
-Atlantic Provinces Special Education Authority Act (Nova Scotia ), paragraph 5(2)(b)
+Atlantic Provinces Special Education Authority Act (Nova Scotia ), paragraph 5(2)( b)
 
 Buildings Accessibility Act, sections 18 and 20 with respect to Lieutenant-Governor in Council appointments
 
@@ -98,7 +98,7 @@ Criminal Code , section 672.38
 
 Crop Insurance Act , section 3
 
-Dental Act, 2008 , paragraphs 5(2)(c) and 27(6)(b)
+Dental Act, 2008 , paragraphs 5(2)( c) and 27(6)(b)
 
 Denturists Act, 2005 , subsections 4(1) and 14(1) with respect to ministerial appointments
 
@@ -128,9 +128,9 @@ Government Money Purchase Pension Plan Act , section 12.1
 
 Government Purchasing Agency Act , subsection 7(1)
 
-Health Professions Act , subsection 9(1) and paragraph 35(4)(c) with respect to ministerial appointments
+Health Professions Act , subsection 9(1) and paragraph 35(4)( c) with respect to ministerial appointments
 
-Health Research Ethics Authority Act, paragraph 3(2)(d)
+Health Research Ethics Authority Act, paragraph 3(2)( d)
 
 Hearing Aid Practitioners Act , subsections 4(1) and 13(4) with respect to ministerial appointments
 
@@ -144,21 +144,21 @@ Labrador Inuit Land Claims Agreement, Part 12.8.2, 13.10.2
 
 Lands Act , St. John's Urban Region Agriculture Development Area Regulations , subsections 3(4) with respect to the appointment of a member of the community and subsection 7(2)
 
-Law Society Act, 1999 , subsections 42(3.1),(3.2) and (4) with respect to ministerial appointments and paragraph 65(2)(b)
+Law Society Act, 1999 , subsections 42(3.1),( 3.2) and (4) with respect to ministerial appointments and paragraph 65(2)(b)
 
 Licensed Practical Nurses Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
 
 Livestock Insurance Act , section 3
 
-Management of Greenhouse Gas Act , paragraphs 8(2)(a) and (b)
+Management of Greenhouse Gas Act , paragraphs 8(2)( a) and (b)
 
 Massage Therapy Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
 
-Medical Act, 2011 , paragraph 9(1)(b) and subsection 40(4) with respect to ministerial appointments
+Medical Act, 2011 , paragraph 9(1)( b) and subsection 40(4) with respect to ministerial appointments
 
 Medical Care and Hospital Insurance Act , subsection 28(1) with respect to those persons not nominated by the medical or dental associations
 
-Medical Care and Hospital Insurance Act, 1999 , Physicians and Fee Regulations , paragraph 15(1)(b)
+Medical Care and Hospital Insurance Act, 1999 , Physicians and Fee Regulations , paragraph 15(1)( b)
 
 Mental Health Care and Treatment Act , section 57
 
@@ -180,15 +180,15 @@ Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to m
 
 Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
 
-Order of Newfoundland and Labrador Act , paragraph 12(1)(c)
+Order of Newfoundland and Labrador Act , paragraph 12(1)( c)
 
-Patient Safety Act , subparagraph 19(1)(b)(i)
+Patient Safety Act , subparagraph 19(1)( b)(i )
 
-Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)(b)
+Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)( b)
 
 Pharmaceutical Services Act , section 42
 
-Pharmaceutical Services Act, Pharmaceutical Services Regulations , paragraphs 8(2)(d) and (e)
+Pharmaceutical Services Act, Pharmaceutical Services Regulations , paragraphs 8(2)( d) and (e)
 
 Pharmacy Act, 2012 , subsections 6(1) and 36(4) with respect to ministerial appointments
 
@@ -196,9 +196,9 @@ Physiotherapy Act, 2006 , subsections 5(1) and 16(4) with respect to ministerial
 
 Private Training Institutions Act, Private Training Institutions Regulations, paragraphs 3.1(e) and (f)
 
-Professional Fish Harvesters Act, paragraphs 5(2)(f) and (h) and subsection 15(3) and section 20 with respect to the appointment of a person who is not a professional fish harvester
+Professional Fish Harvesters Act, paragraphs 5(2)( f) and (h) and subsection 15(3) and section 20 with respect to the appointment of a person who is not a professional fish harvester
 
-Provincial Court Act, 1991 , paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
+Provincial Court Act, 1991 , paragraphs 16(2)( b), 19(1)(c) and 20(1)(c)
 
 Provincial Health Authority Regulations , subsection 7(2)
 
@@ -212,13 +212,13 @@ Queen's Counsel Act , subsection 7(2) with respect to appointments not recommend
 
 Regional Services Board Act, 2012 , subsection 6(2)
 
-Registered Nurses Act, 2008 , paragraph 6(1)(b) and subsection 19(5) with respect to ministerial appointments
+Registered Nurses Act, 2008 , paragraph 6(1)( b) and subsection 19(5) with respect to ministerial appointments
 
 Royal Newfoundland Constabulary Act, 1992 , subsection 29(1)
 
-Social Workers Act , subsection 12(1) and paragraph 24(4)(c)
+Social Workers Act , subsection 12(1) and paragraph 24(4)( c)
 
-Student Financial Assistance Act, 2019 , Student Financial Assistance Administration Regulations , paragraphs 18(1)(b) and (e)
+Student Financial Assistance Act, 2019 , Student Financial Assistance Administration Regulations , paragraphs 18(1)( b) and (e)
 
 Teachers Training Act , section 3
 
