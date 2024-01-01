@@ -1,0 +1,11 @@
+SNL2024 CHAPTER H-18
+
+HYDRO CORPORATION ACT, 2024
+
+CHAPTER H-18
+
+AN ACT RESPECTING THE AMALGAMATION OF NEWFOUNDLAND AND LABRADOR HYDRO-ELECTRIC CORPORATION AND NALCOR ENERGY
+
+(Assented to December 4, 2024)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
