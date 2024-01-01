@@ -6,6 +6,6 @@ CHAPTER T-8.1
 
 AN ACT TO ENHANCE THE TRANSPARENCY AND ACCOUNTABILITY OF THE GOVERNMENT AND GOVERNMENT ENTITIES TO THE PEOPLE OF THE PROVINCE
 
-(Assented to December 16, 2004 )
+(Assented to December 16, 2004)
 
 Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
