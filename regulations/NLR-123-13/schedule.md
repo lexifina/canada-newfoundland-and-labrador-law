@@ -13,3 +13,5 @@ The above described piece or parcel of land containing 176.503 kilometres square
 Reserving and excepting out of the above described pieces or parcels of land, however, all those pieces or parcels of land lawfully alienated from the Crown.
 
 All bearings and coordinates being referred to Zone 21 of the Universal Transverse Mercator Projection, North American Datum 1983.
+
+123/13 Sch
