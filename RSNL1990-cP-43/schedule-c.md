@@ -106,8 +106,6 @@ Dietitians Act , subsections 6(1) and 22(4) with respect to ministerial appointm
 
 Dispensing Opticians Act, 2005 , subsections 5(1) and 13(4) with respect to ministerial appointments
 
-Economic Diversification and Growth Enterprises Act , subsection 6(1)
-
 Embalmers and Funeral Directors Act, 2008 , subsections 4(1) and 16(3) with respect to ministerial appointments
 
 Endangered Species Act , subsection 6(3)
@@ -208,7 +206,7 @@ Psychologists Act, 2005 , subsections 4(1) and 15(4) with respect to ministerial
 
 Public Libraries Act , paragraph 3(c)
 
-Public Safety Act , subsection 25(1) , subsection 7(2) with respect to appointments not recommended by benchers
+Public Safety Act , subsection 25(1)
 
 Regional Services Board Act, 2012 , subsection 6(2)
 
