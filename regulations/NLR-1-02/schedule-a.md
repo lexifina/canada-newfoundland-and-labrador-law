@@ -4,13 +4,13 @@ Rules for Bingo Lotteries
 
 1. Each licensee shall comply with the following:
 
-(a) excluding paragraph (c), maximum combined prize payout for each bingo event - $3,000;
+(a) excluding paragraph (c), maximum combined prize payout for each bingo event - $5,000;
 
-(b) excluding paragraph (c) and media bingo, maximum prize payout for any one game - $1,500;
+(b) excluding paragraph (c) and media bingo, maximum prize payout for any one game - $2,500;
 
-(c) in addition to the $3,000 maximum combined prize payout there may be not more than 2 additional 50/50 style bingo games with non-accumulating jackpots, one additional bingo game with an accumulating jackpot prize and one fixed linked bingo game. The accumulated jackpot game and fixed linked bingo game shall be conducted in accordance with the conditions set by the division;
+(c) in addition to the $5,000 maximum combined prize payout there may be not more than 2 additional 50/50 style bingo games with non-accumulating jackpots, one additional bingo game with an accumulating jackpot prize and one fixed linked bingo game. The accumulated jackpot game and fixed linked bingo game shall be conducted in accordance with the conditions set by the division;
 
-(d) excluding paragraph (c), jackpots are authorized to a maximum of $1,500;
+(d) excluding paragraph (c), jackpots are authorized to a maximum of $2,500;
 
 (e) maximum authorized expenses from gross bingo proceeds - 20%;
 
@@ -48,7 +48,7 @@ Rules for Bingo Lotteries
 
 10. Where there is more than one winner of a bingo game, the prize offered shall be divided equally among all players having obtained a valid bingo. The licensee may set a minimum prize payout not to exceed $5. Where there is more than one winner of a merchandise bingo game, all players having obtained a valid bingo shall each be awarded a merchandise prize of equal value.
 
-11. Jackpots shall be paid out during the last event of the licence period if the licence is not to be renewed.
+11. Jackpots shall be paid out by licensees before the end of the licence period.
 
 12. The division may approve other schemes in conjunction with bingo, as indicated on the application and defined by the division. These schemes are to be reported on the financial report, and applicable licence fees paid.
 
@@ -120,4 +120,4 @@ Umbrella Associations
 
 36. All records of the umbrella association, and the member organizations, in addition to the bingo event records, shall be made available to the division upon request.
 
-1/02 Sch A; 55/02 s1; 33/03 s4
+1/02 Sch A; 55/02 s1; 33/03 s4; 32/24 s16

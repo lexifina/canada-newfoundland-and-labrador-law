@@ -48,7 +48,7 @@ Rules for Monte Carlo Lotteries
 
 (d) the selling price of the ticket; and
 
-(e) the licence number.
+(e) the licence number .
 
 18. (1) Admission tickets that include a door prize shall consist of 2 sections, each severable from the other, and, in addition to section 17, the section to be delivered to the purchaser shall contain the following:
 
@@ -64,8 +64,10 @@ Rules for Monte Carlo Lotteries
 
 (a) the ticket number; and
 
-(b) where the purchasers presence is not a condition of winning, a place for the name, address and telephone number of the purchaser.
+(b) where the purchaser’s presence is not a condition of winning, a place for the name, address and telephone number of the purchaser.
 
 19. A draft or hand drawn facsimile of the proposed ticket shall accompany the application and a true copy of the ticket shall be forwarded immediately upon printing to the division.
 
-1/02 Sch F; 33/03 s7
+20. All claimed prizes shall be paid out before the end of the licence period.
+
+1/02 Sch F; 33/03 s7; 32/24 s20
