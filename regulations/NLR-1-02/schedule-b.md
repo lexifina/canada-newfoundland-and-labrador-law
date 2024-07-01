@@ -82,7 +82,7 @@ $800
 
 7. Each box of breakopen tickets, whether complete or partially sold, when not under the direct control of the seller, shall be kept by the licensee in a secure place.
 
-8. The licensee shall ensure that breakopen ticket patrons have, at all times, full and equal chance to purchase all winning tickets in every game unit offered for sale. Portions of the game unit shall not be held back from sale. Part boxes shall be held by the licensee for sale at future events. Unsold or partial units of breakopen tickets shall not be destroyed without prior approval of the division.
+8. The licensee shall ensure that breakopen ticket patrons have, at all times , full and equal chance to purchase all winning tickets in every game unit offered for sale. Portions of the game unit shall not be held back from sale. Part boxes shall be held by the licensee for sale at future events. Unsold or partial units of breakopen tickets shall not be destroyed without prior approval of the division.
 
 9. The licensee shall ensure that the breakopen ticket seller defaces all winning tickets at the time of prize payout and all winning tickets from each unit shall be retained until that unit is sold and accounted for.
 
