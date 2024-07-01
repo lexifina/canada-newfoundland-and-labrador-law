@@ -12,6 +12,8 @@ Rules of Sports Lotteries
 
 5. Standings, results and times shall be based upon official statistics provided by the appropriate sports league.
 
+5.1 All claimed prizes shall be paid out before the end of the licence period.
+
 Time Tickets
 
 6. Only televised games shall be authorized for a time ticket lottery.
@@ -74,24 +76,24 @@ Pools
 
 (e) the start and end dates of the pool;
 
-(f) a place for the name, address and phone number of the purchaser;
+(f) a place for the name, address, telephone number and email address of the purchaser;
 
-(g) sufficient room to identify the purchasers choice of each player or team; and
+(g) sufficient room to identify the purchaser’s choice of each player or team; and
 
-(h) rules concerning, the purchasers choices, trades, point accumulation and ties, details of bonus prize award, if applicable, final date entries can be received to be eligible, where updates on standings shall be posted or broadcasted, and cancellation of the pool.
+(h) rules concerning, the purchaser’s choices, trades, point accumulation and ties, details of bonus prize award, if applicable, final date entries can be received to be eligible, where updates on standings shall be posted or broadcasted, and cancellation of the pool.
 
-15. Winners of prizes shall be advised of the results of the pool by telephone, registered mail, or in person.
+15. Winners of prizes shall be notified of the results of the pool by telephone, registered mail, email or in person.
 
 Sports Pools
 
-16. A spreadsheet, as approved by the division, or a copy of all entries shall be received by the division, not later than 2 weeks after the commencement of the pool. Any trades completed shall be received by the division within 2 weeks of the trade deadline. Failure to comply with this, may result in the licence being revoked and participants monies being refunded.
+16. A spreadsheet, as approved by the division, or a copy of all entries shall be received by the division, not later than 2 weeks after the commencement of the pool. Any trades completed shall be received by the division within 2 weeks of the trade deadline. Failure to comply with this, may result in the licence being revoked and participants’ monies being refunded.
 
-17. Final prize winners names and point standings shall be published at the end of the pool and submitted along with the financial report. To allow for any challenges to the standings, prizes cannot be awarded until 2 weeks after publication.
+17. Final prize winners’ names and point standings shall be published at the end of the pool and submitted along with the financial report. To allow for any challenges to the standings, prizes cannot be awarded until 2 weeks after publication.
 
 Prediction Pools
 
 18. A minimum of 10 picks per entry is required from the games selection sheets.
 
-19. A spreadsheet, as approved by the division, or a copy of all entries shall be received by the division, or postmarked, not later than 4:00 p.m. of the day that is 24 hours before the commencement of the games. Failure to comply with this, may result in the licence being revoked and participants monies being refunded.
+19. A spreadsheet, as approved by the division, or a copy of all entries shall be received by the division, or postmarked, not later than 4:00 p.m. of the day that is 24 hours before the commencement of the games. Failure to comply with this, may result in the licence being revoked and participants’ monies being refunded.
 
-1/02 Sch G; 33/03 s8
+1/02 Sch G; 33/03 s8; 32/24 s21

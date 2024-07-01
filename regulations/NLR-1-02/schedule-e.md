@@ -32,4 +32,6 @@ Rules for Games of Chance Lotteries
 
 11. A person shall not purchase tickets or place bets while involved in the sale of tickets or the direct operation of a game of chance.
 
-1/02 Sch E
+12. All claimed prizes shall be paid out before the end of the licence period.
+
+1/02 Sch E; 32/24 s19

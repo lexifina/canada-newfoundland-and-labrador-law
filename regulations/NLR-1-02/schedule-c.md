@@ -8,13 +8,13 @@ Bingo
 
 2. Each licensee shall comply with the following:
 
-(a) excluding paragraph (c), maximum combined prize payout for each bingo event - $3,000;
+(a) excluding paragraph (c), maximum combined prize payout for each bingo event - $5,000;
 
-(b) excluding paragraph (c) and media bingo, maximum prize payout for any one game - $1,500;
+(b) excluding paragraph (c) and media bingo, maximum prize payout for any one game - $2,500;
 
-(c) in addition to the $3,000 maximum combined prize payout there may be up to 2 additional 50/50 style bingo games with non-accumulating jackpots, one additional bingo game with an accumulating jackpot prize and one fixed linked bingo game. The accumulated jackpot game and fixed linked bingo shall be conducted in accordance with the conditions set by the division;
+(c) in addition to the $5,000 maximum combined prize payout there may be up to 2 additional 50/50 style bingo games with non-accumulating jackpots, one additional bingo game with an accumulating jackpot prize and one fixed linked bingo game. The accumulated jackpot game and fixed linked bingo shall be conducted in accordance with the conditions set by the division;
 
-(d) excluding paragraph (c), jackpots authorized to a maximum of $1,500;
+(d) excluding paragraph (c), jackpots authorized to a maximum of $2,500;
 
 (e) maximum authorized expenses from gross bingo proceeds - 20%;
 
@@ -138,7 +138,7 @@ Breakopen
 
 35. Each box of tickets, whether complete or partially sold, when not under the direct control of the seller, shall be kept by the licensee in a secure place.
 
-36. The licensee shall ensure that breakopen ticket patrons have, at all times, full and equal chance to purchase all winning tickets in every game unit offered for sale. A portion of the game unit shall not be held back from sale. Part boxes shall be held by the licensee for sale at future events. Unsold or partial units of breakopen tickets shall not be destroyed without prior approval of the division.
+36. The licensee shall ensure that breakopen ticket patrons have, at all times , full and equal chance to purchase all winning tickets in every game unit offered for sale. A portion of the game unit shall not be held back from sale. Part boxes shall be held by the licensee for sale at future events. Unsold or partial units of breakopen tickets shall not be destroyed without prior approval of the division.
 
 37. The licensee shall ensure that the breakopen ticket seller defaces all winning tickets at the time of prize payout and all winning tickets from each unit shall be retained until that unit is sold and accounted for.
 
@@ -164,4 +164,4 @@ Umbrella Associations
 
 47. All records of the umbrella association and the member organizations, in addition to the bingo/breakopen event records, shall be made available to the division upon request.
 
-1/02 Sch C; 55/02 s2; 33/03 s5
+1/02 Sch C; 55/02 s2; 33/03 s5; 32/24 s17
