@@ -198,6 +198,8 @@ Private Training Institutions Act, Private Training Institutions Regulations, pa
 
 Professional Fish Harvesters Act, paragraphs 5(2)(f) and (h) and subsection 15(3) and section 20 with respect to the appointment of a person who is not a professional fish harvester
 
+Provincial Advisory Council Regulations , paragraph 4(1)(c)
+
 Provincial Court Act, 1991 , paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
 
 Provincial Health Authority Regulations , subsection 7(2)
