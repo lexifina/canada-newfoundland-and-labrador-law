@@ -44,7 +44,7 @@ Greysole
 
 whole packaged
 
-Groundfish (all species other than Blackback Flounder, Greysole, Halibut, Monkfish, Redfish (Ocean Perch), Turbot and Yellowtail Flounder)
+Groundfish (all species other than Blackback Flounder, Greysole , Halibut, Monkfish, Redfish (Ocean Perch), Turbot and Yellowtail Flounder)
 
 filleted or split and salted
 
@@ -66,7 +66,7 @@ head on gutted with stomach tube attached and in frozen form
 
 Mussels
 
-washed, declumped, and graded
+washed, declumped , and graded
 
 Redfish (Ocean Perch)
 
@@ -94,7 +94,7 @@ cooked and peeled
 
 Snow Crab
 
-sectioned or whole cooked and 10% of all raw material purchases in a calendar year to be processed into one or more of the following forms: (i) individually scored "snap and eat" leg segments; (ii) cap on or cap off cocktail claws (iii) 907 gram consumer packs; (iv) meat removed from shell; or (v) other value added form as approved by the minister
+sectioned or whole cooked and 10% of all raw material purchases in a calendar year to be processed into one or more of the following forms: (i ) individually scored "snap and eat" leg segments; (ii) cap on or cap off cocktail claws (iii) 907 gram consumer packs; (iv) meat removed from shell; or (v) other value added form as approved by the minister
 
 Squid
 
