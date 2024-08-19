@@ -10,7 +10,7 @@ Fish Inspection Operations Regulations under the Fish Inspection Act
 
 Under the authority of subsection 4(2) of the Fish Inspection Act, I make the following regulations.
 
-Dated at St. John's , June 22, 2007 .
+Dated at St. John’s , June 22, 2007 .
 
 Tom Rideout Minister of Fisheries and Aquaculture
 
