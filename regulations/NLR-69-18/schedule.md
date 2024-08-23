@@ -50,19 +50,19 @@ All that area of the Island of Newfoundland bounded by a line beginning at the T
 
 Then following the TCH in a generally north by northeasterly direction to its intersection with the Camp 33 Road;
 
-Then following Camp 33 Road in an easterly direction to the southwestern extremity of Grand Lake ;
+Then following Camp 33 Road in an easterly direction to the southwestern extremity of Grand Lake;
 
 Then following the southern and eastern shorelines of Grand Lake in an easterly, then northeasterly direction to its confluence with Hinds Brook;
 
-Then following the southern bank of Hinds Brook in a southeasterly direction to Hinds Lake ;
+Then following the southern bank of Hinds Brook in a southeasterly direction to Hinds Lake;
 
 Then following the southwestern shoreline of Hinds Lake in a southeasterly direction to the southwestern abutment of Eclipse Dam at said lake's southeastern extremity;
 
-Then following a straight line in a southeasterly direction to the mouth of a brook in the southwestern extremity of Buchans Lake ;
+Then following a straight line in a southeasterly direction to the mouth of a brook in the southwestern extremity of Buchans Lake;
 
-Then following a straight line in a southeasterly direction to the southwestern abutment of the Exploits Dam on Red Indian Lake;
+Then following a straight line in a southeasterly direction to the southwestern abutment of the Exploits Dam on Beothuk Lake;
 
-Then following the southeastern shoreline of Red Indian Lake in a generally southwesterly direction to the mouth of a brook at UTM coordinates 495,652 metres east and 5,379,530 metres north;
+Then following the southeastern shoreline of Beothuk Lake in a generally southwesterly direction to the mouth of a brook at UTM coordinates 495,652 metres east and 5,379,530 metres north;
 
 Then following a straight line in a southeasterly direction to the intersection of the forest access road with an unnamed brook at UTM coordinates 515,108 metres east and 5,348,718 metres north;
 
@@ -70,7 +70,7 @@ Then following said forest access road in a generally southwesterly, then wester
 
 Then following the southern shoreline of Victoria Lake Reservoir in a westerly direction to an unnamed river into its southwestern extremity at UTM coordinates 467,058 metres east and 5,340,999 metres north;
 
-Then following a straight line in a northwesterly direction to the confluence of Lloyds River with Lloyds Lake ;
+Then following a straight line in a northwesterly direction to the confluence of Lloyds River with Lloyds Lake;
 
 Then following the southeastern bank of Lloyds River to its confluence with King George IV Lake at UTM coordinates 435,714 metres east and 5,341,543 metres north;
 
@@ -94,7 +94,7 @@ Then following the eastern shoreline of said pond to its eastern extremity of Sp
 
 Then following the northern shoreline of Spruce Pond in a generally westerly direction to an unnamed river at its south-western extremity;
 
-Then following said unnamed river to its intersection with the Burgeo Highway ;
+Then following said unnamed river to its intersection with the Burgeo Highway;
 
 Then following the Burgeo Highway in a generally northerly direction to its intersection with Peter Strides Pond;
 
@@ -106,9 +106,9 @@ Then following the southern shoreline of the aforementioned reservoir to the for
 
 Then following the forest access road in southerly then easterly direction to its intersection with an unnamed brook at UTM coordinates 514,879 metres east and 5,347,269 metres north;
 
-Then following a straight line in a north-westerly direction to a small cove on Red Indian Lake located at UTM coordinates 495,641 metres east and 5,379,525 metres north;
+Then following a straight line in a north-westerly direction to a small cove on Beothuk Lake located at UTM coordinates 495,641 metres east and 5,379,525 metres north;
 
-Then following the southern shoreline of Red Indian Lake in a generally north-easterly direction to the western abutment of the Exploits Dam on the Exploits River ;
+Then following the southern shoreline of Beothuk Lake in a generally north-easterly direction to the western abutment of the Exploits Dam on the Exploits River;
 
 Then following the south bank of the Exploits River to the mouth of Stony Brook;
 
@@ -290,9 +290,13 @@ Excluding all offshore islands.
 
 All that area of Newfoundland known as Merasheen Island , Long Island, King Island , and Rose au Rue Island , excluding all other offshore islands.
 
-(k) Area 71 - Grey Islands
+(k) Area 71A - Grey Islands (Bell)
 
-All that area of Newfoundland known as Grey Islands (Groais Island , Bell Island ), excluding all other offshore islands.
+All that area of Newfoundland known as Lower Grey Islands (Bell Island), excluding all other offshore islands.
+
+(k.1) Area 71B - Grey Islands (Groais )
+
+All that area of Newfoundland known as Upper Grey Islands (Groais Island), excluding all other offshore islands.
 
 (l) Area 72 - Fogo Island
 
@@ -470,4 +474,4 @@ Then following the eastern coastline of White Bay in a northeasterly direction t
 
 Excluding all offshore islands.
 
-69/18 Sch
+69/18 Sch; 52/24 s1
