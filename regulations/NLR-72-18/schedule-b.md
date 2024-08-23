@@ -658,4 +658,4 @@ Then following said railway in a generally southerly direction to its intersecti
 
 Then following said highway in a generally northeasterly direction to the point of commencement.
 
-72/18 Sch. B; 53/20 s1
+72/18 Sch; 53/20 s1; 54/24 s1

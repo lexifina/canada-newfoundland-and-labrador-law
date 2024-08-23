@@ -494,21 +494,21 @@ All that area of the Island of Newfoundland bounded by a line beginning at the o
 
 Then following the southeastern shoreline of Grand Lake in a generally northeasterly direction to Hinds Brook;
 
-Then following the eastern bank of Hinds Brook in a southeasterly direction to Hinds Lake ;
+Then following the eastern bank of Hinds Brook in a southeasterly direction to Hinds Lake;
 
 Then following the northeastern shoreline of Hinds Lake in a southeasterly direction to the mouth of a brook at the southeastern extremity of said lake at UTM coordinates 505,841 metres east and 5,416,632 metres north;
 
-Then following a straight line in a southeasterly direction to the northwestern extremity of Buchans Lake ;
+Then following a straight line in a southeasterly direction to the northwestern extremity of Buchans Lake;
 
 Then following the western shoreline of Buchans Lake in a generally southeasterly direction to Buchans Brook;
 
-Then following the southwestern bank of Buchans Brook in a southeasterly direction to its outflow into Red Indian Lake;
+Then following the southwestern bank of Buchans Brook in a southeasterly direction to its outflow into Beothuk Lake;
 
-Then following the northern shoreline of Red Indian Lake in a generally northeasterly direction to the northern bank of Mary March's Brook at the Buchan's Junction Bridge ;
+Then following the northern shoreline of Beothuk Lake in a generally northeasterly direction to the northern bank of Mary March's Brook at the Buchan's Junction Bridge;
 
-Then following the southern bank of said brook and the northeastern shoreline of Red Indian Lake in a southwesterly direction to the Exploits Dam on said lake;
+Then following the southern bank of said brook and the northeastern shoreline of Beothuk Lake in a southwesterly direction to the Exploits Dam on said lake;
 
-Then following the southern shoreline of Red Indian Lake in a generally southwesterly direction to its confluence with Lloyds River ;
+Then following the southern shoreline of Beothuk Lake in a generally southwesterly direction to its confluence with Lloyds River;
 
 Then following the southeastern bank of Lloyds River in a generally southwesterly direction to its confluence with Lloyds Lake at UTM coordinates 466,110 metres east and 5,363,092 metres north;
 
@@ -558,11 +558,11 @@ Then following the western bank of said brook in a generally southerly direction
 
 Then following a straight line due south to the southern bank of the Exploits River ;
 
-Then following the southern bank of the Exploits River in a southwesterly direction to the Exploits Dam on Red Indian Lake;
+Then following the southern bank of the Exploits River in a southwesterly direction to the Exploits Dam on Beothuk Lake;
 
-Then following the eastern shoreline of Red Indian Lake in a generally northeasterly direction to the southern bank of Mary March's Brook at the Buchan's Junction bridge at UTM coordinates 538,174 metres east and 5,410,758 metres north;
+Then following the eastern shoreline of Beothuk Lake in a generally northeasterly direction to the southern bank of Mary March's Brook at the Buchan's Junction bridge at UTM coordinates 538,174 metres east and 5,410,758 metres north;
 
-Then following the northern shoreline of Red Indian Lake in a generally southwesterly direction to its confluence with Buchans Brook;
+Then following the northern shoreline of Beothuk Lake in a generally southwesterly direction to its confluence with Buchans Brook;
 
 Then following the southwestern bank of Buchans Brook in a northwesterly direction to its confluence with Buchans Lake ;
 
@@ -660,9 +660,9 @@ Then following the western bank of said brook in a northwesterly direction to th
 
 All that area of the Island of Newfoundland bounded by a line beginning at the northeastern extremity of Lloyds Lake at UTM coordinates 466,110 metres east and 5,363,092 metres north;
 
-Then following the southeastern bank of Lloyds River in a northeasterly direction to its confluence with Red Indian Lake;
+Then following the southeastern bank of Lloyds River in a northeasterly direction to its confluence with Beothuk Lake;
 
-Then following the southeastern shoreline of Red Indian Lake in a northeasterly direction to the Exploits Dam;
+Then following the southeastern shoreline of Beothuk Lake in a northeasterly direction to the Exploits Dam;
 
 Then following the southern bank of the Exploits River in a northeasterly direction to its confluence with Noel Paul's Brook;
 
@@ -1024,7 +1024,7 @@ Then following the eastern shoreline of Great Gull Lake in a generally northerly
 
 Then following the northeastern bank of Great Gull River in a generally northerly direction to the point of commencement.
 
-(ee) Management Area 28 - Black River
+(ee ) Management Area 28 - Black River
 
 All that area of the Island of Newfoundland bounded by a line beginning at Friar Head in Fortune Bay;
 
@@ -1546,11 +1546,11 @@ Then following the coastline of insular Newfoundland in a generally northerly di
 
 Excluding all offshore islands.
 
-(ww) Management Area 45 - Ten Mile Brook
+(ww) Management Area 45 - Ten Mile Lake
 
 All that area of the Island of Newfoundland bounded by a line beginning at the northern bank of a stream in the community of Eddies Cove West located at UTM coordinates 487,996 metres east and 5,622,053 metres north;
 
-Then following the north bank of said stream in a generally northwesterly direction to the coastline of the Great Northern Peninsula ;
+Then following the north bank of said stream in a generally northwesterly direction to the coastline of the Great Northern Peninsula;
 
 Then following the coastline of the Great Northern Peninsula in a northeasterly direction to the outflow of Eddies Brook at Eddies Cove;
 
@@ -1558,7 +1558,7 @@ Then following the western bank of Eddies Brook to a bridge intersecting the Vik
 
 Then following the Viking Trail, Route 430 in a generally easterly direction to a point where the western bank of Northeast Stream intersects the Viking Trail at UTM coordinates 568,541 metres east and 5,691,775 metres north;
 
-Then following the western bank of Northeast Stream in a generally southerly direction to its outflow at Hare Bay ;
+Then following the western bank of Northeast Stream in a generally southerly direction to its outflow at Hare Bay;
 
 Then following the coastline of Hare Bay in a generally westerly, then southerly direction to a point on the northern bank of West Brook;
 
@@ -1574,7 +1574,7 @@ Then following this road to its intersection with a small stream at UTM coordina
 
 Then following the southern bank of said stream to Muskrat Pond and the southern shoreline of said pond to Muskrat Brook;
 
-Then following the southern bank of Muskrat Brook to its confluence with Round Lake ;
+Then following the southern bank of Muskrat Brook to its confluence with Round Lake;
 
 Then following the southern and western shorelines of Round Lake to the narrows where it enters Ten Mile Lake;
 
@@ -1592,7 +1592,7 @@ Then following East Castor Brook in a southerly direction to East Castor Pond;
 
 Then following the eastern shoreline of East Castor Pond in a southwesterly direction to its outflow;
 
-Then following the southern and eastern banks of the main stem of East Castor Brook, then the Middle Gulch Brook North Branch and then Middle Gulch Brook in a southwesterly direction to its confluence with East Castor River ;
+Then following the southern and eastern banks of the main stem of East Castor Brook, then the Middle Gulch Brook North Branch and then Middle Gulch Brook in a southwesterly direction to its confluence with East Castor River;
 
 Then following the eastern bank of East Castor River in a generally southerly direction to its confluence with Leg Pond;
 
@@ -1606,11 +1606,11 @@ Then following the eastern bank of this brook to Bluey on Big East;
 
 Then following the eastern shoreline of said pond to its southeastern extremity at UTM coordinates 512,616 metres east and 5,627,601 metres north;
 
-Then following a straight line in a southeasterly direction to Rocky Stint Pond on the headwaters of the Soufflets River , at UTM coordinates 518,370 metres east and 5,596,857 metres north;
+Then following a straight line in a southeasterly direction to Rocky Stint Pond on the headwaters of the Soufflets River, at UTM coordinates 518,370 metres east and 5,596,857 metres north;
 
 Then following a straight line in a northwesterly direction to the point of commencement;
 
-Excluding all offshore islands.
+Excluding all offshore islands, except St. John Island in St. John Bay.
 
 (xx) Management Area 47 - Random Island
 
@@ -1673,5 +1673,3 @@ Note To Hunters:
 Hunting is prohibited on the Gander International Airport property as described below:
 
 All that parcel of land starting on the north shore of Gander Lake at a point, UTM coordinates 675,566 metres east and 5,422,746 metres north, due south of the intersection of Cooper Boulevard with the TCH; then continuing east on the shoreline of Gander Lake to the Town of Gander boundary; then following the boundary in a generally northerly direction to its intersection with the TCH; then continuing west on the TCH to a point closest to the south-eastern corner of the airport security fence; then following the fence in a generally northerly direction to its intersection with Circular Road, next to Hangar 21; then continuing west on Circular Road to the intersection of the Boot Pond Road; then from the Boot Pond Road, continuing west on the T'Railway , to the eastern boundary of the Gander Industrial Park; then running in a generally north-westerly direction along the eastern boundary of the adjoining properties of the Industrial Park, the Town of Gander Cemetery and the Department of National Defence housing site, around to Cooper Boulevard; then south on Cooper Boulevard to its intersection with the TCH; then due south of the intersection to the point of commencement.
-
-72/18 Sch. A
