@@ -190,7 +190,7 @@ Pharmaceutical Services Act , section 42
 
 Pharmaceutical Services Act, Pharmaceutical Services Regulations , paragraphs 8(2)(d) and (e)
 
-Pharmacy Act, 2012 , subsections 6(1) and 36(4) with respect to ministerial appointments
+Pharmacy Act, 2024 , subsection 9(1) and paragraph 35(4)(c)
 
 Physiotherapy Act, 2006 , subsections 5(1) and 16(4) with respect to ministerial appointments
 
