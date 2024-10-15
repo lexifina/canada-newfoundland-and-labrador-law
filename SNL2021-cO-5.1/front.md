@@ -1,6 +1,6 @@
 SNL2021 CHAPTER O-5.1
 
-OFF-ROAD VEHICLES ACT [subsections 5(3), 7(3), 22(4) and paragraphs 5(4)(b), 12(2)(a), 22(1)(b), 23(b), and 24(a) not in force]
+OFF-ROAD VEHICLES ACT
 
 CHAPTER O-5.1
 
