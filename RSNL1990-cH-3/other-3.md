@@ -1,1 +1,1 @@
-Periods of suspension – novice driver
+2013 c15 s6; 2024 c17 s68

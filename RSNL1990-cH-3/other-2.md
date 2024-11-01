@@ -1,1 +1,1 @@
-Periods of suspension – driver under 22 and not a novice driver
+2012 c17 s3; 2017 c4 s4; 2018 c37 s15; 2024 c17 s35
