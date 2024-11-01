@@ -212,7 +212,7 @@ Failure to notify registrar of change of name
 
 1 day
 
-42(a)(i)(A)
+42(a)(i )(A)
 
 Operating a vehicle contrary to paragraph 10(1)(a) or (c) re: vehicle not exceeding 4,500 kg. m.g.m.
 
@@ -224,7 +224,7 @@ Operating a vehicle contrary to paragraph 10(1)(a) or (c) re: vehicle not exceed
 
 4 days
 
-42(a)(i)(B)
+42(a)(i )(B)
 
 Operating a vehicle contrary to paragraph 10(1)(a) or (c) re: vehicle 4,500 to 10,900 kg. m.g.m.
 
@@ -236,7 +236,7 @@ Operating a vehicle contrary to paragraph 10(1)(a) or (c) re: vehicle 4,500 to 1
 
 6 days
 
-42(a)(i)(C)
+42(a)(i )(C)
 
 Operating a vehicle contrary to paragraph 10(1)(a) or (c) re: vehicle exceeding 10,900 kg. m.g.m.
 
@@ -392,7 +392,7 @@ Giving false name or address in application for registration of vehicle
 
 2 days
 
-42(i)
+42(i )
 
 Applying for registration or having licence illegally
 
@@ -646,7 +646,7 @@ Failure to keep record regarding vehicles rented
 
 57
 
-Failure to notify registrar of lost driver's licence, etc.
+Failure to notify registrar of lost driver's licence , etc.
 
 175
 
@@ -694,7 +694,7 @@ Lending driver's licence
 
 59(1)(c)
 
-Person misrepresenting driver's licence as his or her own
+Person misrepresenting driver's licence as the person’s own
 
 900
 
@@ -788,7 +788,7 @@ Failure to produce proof that a policy is in force
 
 1 day
 
-80(a)(i)
+80(a)(i )
 
 Producing financial responsibility card with policy of insurance not in force
 
@@ -1064,7 +1064,7 @@ Driving in centre lane of three lane roadway
 
 2 days
 
-101(i)
+101(i )
 
 Improper passing on roadway with two or more lanes available to traffic heading in same direction
 
@@ -1570,7 +1570,7 @@ Erecting devices resembling or interfering with traffic-control device
 
 108
 
-Placing commercial advertising upon a traffic-control device
+Placing commercial advertising upon a traffic -control device
 
 400
 
@@ -2360,7 +2360,7 @@ Riding bicycle abreast of another bicycle rider
 
 1 day
 
-129(2)(c.1)
+129(2)( c.1)
 
 Riding bicycle without a bicycle helmet
 
@@ -2432,7 +2432,7 @@ Driving bicycle on highway where signs prohibit use of bicycles
 
 1 day
 
-129(2)(i)
+129(2)(i )
 
 Riding bicycle on roadway when bicycle path provided
 
@@ -2816,7 +2816,7 @@ Parking too near the entrance to or exit from hotel, school, church, etc.
 
 1 day
 
-144(i)
+144(i )
 
 Parking too near safety zone
 
@@ -2890,7 +2890,7 @@ Parking on a bridge or in a highway tunnel
 
 144(o)
 
-Failure to observe traffic-control device prohibiting parking or stopping
+Failure to observe traffic -control device prohibiting parking or stopping
 
 170
 
