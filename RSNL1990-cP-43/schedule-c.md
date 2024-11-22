@@ -28,8 +28,6 @@ Newfoundland and Labrador Historic Commemorations Board
 
 Newfoundland and Labrador Sports Centre Inc. with respect to 6 members and a chairperson appointed by Lieutenant-Governor in Council
 
-Newfoundland and Labrador Tourism Board with respect to a ministerial appointment of a chairperson
-
 Oil and Gas Industry Development Council
 
 Premier's Youth Council
@@ -114,7 +112,7 @@ Engineers and Geoscientists Act, 2008 , subsections 5(1) and 21(4) with respect 
 
 Fatalities Investigations Act , subsection 13.1
 
-Financial Services Appeal Board Act , section 3
+Financial Services Appeal Board Act, section 3
 
 Fish Processing Licensing Board Act , section 5
 
@@ -208,7 +206,7 @@ Psychologists Act, 2005 , subsections 4(1) and 15(4) with respect to ministerial
 
 Public Libraries Act , paragraph 3(c)
 
-Public Safety Act , subsection 25(1)
+Public Safety Act, subsection 25(1)
 
 Regional Services Board Act, 2012 , subsection 6(2)
 
