@@ -6,7 +6,7 @@ Definitions
 
 (a) "accident and sickness insurance" means insurance
 
-(i) against loss resulting from bodily injury to, or the death of, a person caused by an accident,
+(i ) against loss resulting from bodily injury to, or the death of, a person caused by an accident,
 
 (ii) under which an insurer undertakes to pay a certain sum or sums of insurance money in the event of bodily injury to, or the death of, a person caused by an accident,
 
@@ -18,21 +18,21 @@ Definitions
 
 (b) "aircraft insurance" means insurance against
 
-(i) liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft, or
+(i ) liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft, or
 
 (ii) the loss of, the loss of use of, or damage to, an aircraft;
 
 (c) "automobile insurance" means insurance
 
-(i) against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile,
+(i ) against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile,
 
 (ii) against the loss of, the loss of use of, or damage to, an automobile, or
 
-(iii) that falls within subparagraph (i) or (ii) of the class of accident and sickness insurance, where the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the automobile insurance contract includes insurance against liability arising out of bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile;
+(iii) that falls within subparagraph (i ) or (ii) of the class of accident and sickness insurance, where the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the automobile insurance contract includes insurance against liability arising out of bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile;
 
 (d) "boiler and machinery insurance" means insurance
 
-(i) against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels, or
+(i ) against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels, or
 
 (ii) against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by a breakdown of machinery;
 
@@ -42,25 +42,25 @@ Definitions
 
 (g) "fidelity insurance" means
 
-(i) insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties by a person in a position of trust, and
+(i ) insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties by a person in a position of trust, and
 
 (ii) insurance under which an insurer undertakes to guarantee the proper fulfillment of the duties of an office;
 
 (h) "hail insurance" means insurance against the loss of, or damage to, crops in the field caused by hail;
 
-(i) "legal expenses insurance" means insurance against the costs incurred by a person or persons for legal services specified in the legal expenses insurance policy, including a retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services;
+(i ) "legal expenses insurance" means insurance against the costs incurred by a person or persons for legal services specified in the legal expenses insurance policy, including a retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services;
 
 (j) "liability insurance" means insurance other than insurance that is incidental to another class of insurance,
 
-(i) against liability arising out of bodily injury to, or the disability or death of, a person, including an employee,
+(i ) against liability arising out of bodily injury to, or the disability or death of, a person, including an employee,
 
 (ii) against liability arising out of the loss of, or damage to, property, or
 
-(iii) where the liability insurance contract includes the insurance described in subparagraph (i), against expenses arising out of bodily injury to a person other than the insured or a member of the insured's family, whether or not liability exists;
+(iii) where the liability insurance contract includes the insurance described in subparagraph (i ), against expenses arising out of bodily injury to a person other than the insured or a member of the insured's family, whether or not liability exists;
 
 (k) "life insurance" means
 
-(i) insurance that is payable
+(i ) insurance that is payable
 
 (A) on death,
 
@@ -88,11 +88,11 @@ and includes
 
 (p) "title insurance" means insurance against loss or damage caused by
 
-(i) the existence of a mortgage, charge, lien, encumbrance, servitude or another restriction on real property,
+(i ) the existence of a mortgage, charge, lien, encumbrance, servitude or another restriction on real property,
 
 (ii) the existence of a mortgage, charge, lien, pledge, encumbrance or another restriction on personal property,
 
-(iii) a defect in a document that evidences the creation of a restriction referred to in subparagraph (i) or (ii),
+(iii) a defect in a document that evidences the creation of a restriction referred to in subparagraph (i ) or (ii),
 
 (iv) a defect in the title to property, or
 
