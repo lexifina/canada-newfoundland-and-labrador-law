@@ -3504,7 +3504,7 @@ O. Areas proclaimed as provincial parks under the authority of the Provincial Pa
 
 P. Areas set aside as reserves or provisional reserves under the authority of the Wilderness and Ecological Reserves Act .
 
-Q. All that piece or parcel of land formerly being a portion of the Bellevue Beach Provincial Park situate and being at Bellevue Beach near Bellevue abutted and bounded as follows, that is to say:
+Q. All that piece or parcel of land formerly being a portion of the Bellevue Beach Provincial Park situate and being at Bellevue Beach near Bellevue abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northerly shoreline of Broad Lake at low water mark, the point being distance 369.72 metres as measured on a bearing of north 75° 52' 40" west from Control Monument No. 83043;
 
@@ -3618,7 +3618,7 @@ The above described pieces or parcels of land containing, in all, an area of 74.
 
 All bearings being magnetic.
 
-R. All that piece or parcel of land formerly being a portion of the Flatwater Pond Provincial Park situate and being at Flatwater Pond south of Baie Verte abutted and bounded as follows, that is to say:
+R. All that piece or parcel of land formerly being a portion of the Flatwater Pond Provincial Park situate and being at Flatwater Pond south of Baie Verte abutted and bounded as follows, that is to say :
 
 Beginning at a survey marker set on the easterly limit of Route 410, 40 metres wide, the survey marker being distant 7,937.986 metres as measured on a bearing of south 9° 53' 27" west from Control Monument "Granite";
 
@@ -3636,7 +3636,7 @@ The above described piece or parcel of land containing an area of 35.927 hectare
 
 All bearings being referred to the meridian of 56° west longitude of the 3° Transverse Mercator Projection NAD 27.
 
-S. All that piece or parcel of land formerly being a portion of the Jonathan's Pond Provincial Park situate and being at Jonathan's Pond abutted and bounded as follows, that is to say:
+S. All that piece or parcel of land formerly being a portion of the Jonathan's Pond Provincial Park situate and being at Jonathan's Pond abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northerly limit of the highway, 30.48 metres wide, extending between the Trans Canada Highway and Gander Bay, the point having reference from point of intersection of the western boundary of Reid Lot 82 and the southern boundary of the Timber Licence issued to Mines and Forests (Newfoundland) Limited and registered in Volume 7, Folio 40 in the Registry of Crown Grants as follows:
 
@@ -3664,7 +3664,7 @@ The above described piece or parcel of land containing an area of 103 hectares, 
 
 All bearings being referred to the True Meridian.
 
-T. All that piece or parcel of land formerly being a portion of the Grand Codroy Provincial Park situate and being at Doyles abutted and bounded as follows, that is to say:
+T. All that piece or parcel of land formerly being a portion of the Grand Codroy Provincial Park situate and being at Doyles abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northern limit of an old road, 20.12 metres wide, leading to Trans Canada Highway, that point having NAD 27 co-ordinates of north 5,299,544.415 metres and east 252,227.266 metres;
 
@@ -3712,7 +3712,7 @@ The above described piece or parcel of land containing an area of 23.6 hectares,
 
 All bearings being referred to the meridian of 58° 30' west longitude in the 3° Transverse Mercator Projection NAD 27.
 
-U. All that piece or parcel of land formerly being a portion of the Jack's Pond Provincial Park situate and being at Jack's Pond abutted and bounded as follows, that is to say:
+U. All that piece or parcel of land formerly being a portion of the Jack's Pond Provincial Park situate and being at Jack's Pond abutted and bounded as follows, that is to say :
 
 Beginning at a point, that point being distant 299.96 metres as measured on a bearing of north 36° 54' 50" east from Control Survey Monument No. 73104 having NAD 27 co-ordinates of north 5,291,981.99 metres and east 232,434.42 metres;
 
@@ -3740,7 +3740,7 @@ The above described piece or parcel of land containing an area of 257 hectares, 
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection NAD 27.
 
-V. All that piece or parcel of land formerly being a portion of the Marine Drive Provincial Park situate and being near Pouch Cove abutted and bounded as follows, that is to say:
+V. All that piece or parcel of land formerly being a portion of the Marine Drive Provincial Park situate and being near Pouch Cove abutted and bounded as follows, that is to say :
 
 Beginning at a point in the westerly shore of Rocky Pond, that point having co-ordinates of north 5,287,442.35 metres and east 319,281.89 metres;
 
@@ -3770,7 +3770,7 @@ The above described piece or parcel of land containing an area of 165.5 hectares
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-W. All that piece or parcel of land formerly being a portion of the Fitzgerald's Pond Provincial Park situate and being on the southern side of Argentia Access Road, at Fitzgerald's Pond abutted and bounded as follows, that is to say:
+W. All that piece or parcel of land formerly being a portion of the Fitzgerald's Pond Provincial Park situate and being on the southern side of Argentia Access Road, at Fitzgerald's Pond abutted and bounded as follows, that is to say :
 
 Beginning at a point, that point being a brass plaque cemented in rock having co-ordinates of north 5,242,091.95 metres and east 248,365.95 metres that point being distant 2,100.9 metres as measured on a bearing of south 22° 4' 17" east from Control Monument No. 82310;
 
@@ -3794,7 +3794,7 @@ The above described piece or parcel of land containing an area of 650 hectares, 
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-X. All that piece or parcel of land formerly being a portion of the Windmill Bight Provincial Park situate and being at Windmill Bight abutted and bounded as follows, that is to say:
+X. All that piece or parcel of land formerly being a portion of the Windmill Bight Provincial Park situate and being at Windmill Bight abutted and bounded as follows, that is to say :
 
 Beginning at a point in the easterly limit of the Main Highway, 40 metres wide, extending between Wesleyville and Lumsden, the point being distant 687.753 metres as measured on a bearing of north 10° 22' 24" east from the centre of the bridge spanning Windmill Brook crossing the Main Highway;
 
@@ -3848,7 +3848,7 @@ The above described piece or parcel of land containing an area of 50 hectares, m
 
 All bearings being magnetic.
 
-Y. All that piece or parcel of land formerly being a portion of the Jipujijkuei Kuespem Provincial Park situate and being at River Pond abutted and bounded as follows, that is to say:
+Y. All that piece or parcel of land formerly being a portion of the Jipujijkuei Kuespem Provincial Park situate and being at River Pond abutted and bounded as follows, that is to say :
 
 Beginning at a point in the westerly limit of the Bay d'Espoir Highway, 40 metres wide, that point being the point of intersection of the westerly limit of the Bay d'Espoir Highway with the southerly shoreline of River Pond;
 
@@ -3866,7 +3866,7 @@ The above described piece or parcel of land containing an area of 212 hectares, 
 
 All bearings being magnetic.
 
-Z. All that piece or parcel of land formerly being a portion of the Duley Lake Provincial Park situate and being at Walsh River near Labrador City abutted and bounded as follows, that is to say:
+Z. All that piece or parcel of land formerly being a portion of the Duley Lake Provincial Park situate and being at Walsh River near Labrador City abutted and bounded as follows, that is to say :
 
 Beginning at a point in the westerly shore of Long Lake, that being Post No. 1 of Newfoundland Labrador Mining Block 23 and having co-ordinates of north 29,599.10 metres and east 14,768.54 metres from Geodetic Station "Lucky" having assigned co-ordinates of north 30,480 metres and east 30,480 metres;
 
@@ -3888,7 +3888,7 @@ The above described piece or parcel of land containing an area of 192.1 hectares
 
 All bearings referred to the true meridian.
 
-AA. All that piece or parcel of land formerly being Freshwater Pond Park situate and being at Freshwater Pond near Burin abutted and bounded as follows, that is to say:
+AA. All that piece or parcel of land formerly being Freshwater Pond Park situate and being at Freshwater Pond near Burin abutted and bounded as follows, that is to say :
 
 Beginning at a point, it being the centre line intersection of the Lewin's Cove Highroad and the road to Freshwater Pond;
 
@@ -3916,7 +3916,7 @@ The above described piece or parcel of land containing an area of 892.1 hectares
 
 All bearings are magnetic 1971.
 
-BB. All that piece or parcel of land formerly being Holyrood Pond Provincial Park situate and being at Holyrood Pond near Gaskiers abutted and bounded as follows, that is to say:
+BB. All that piece or parcel of land formerly being Holyrood Pond Provincial Park situate and being at Holyrood Pond near Gaskiers abutted and bounded as follows, that is to say :
 
 Beginning at a point in the easterly limit of the highway, 30 metres wide extending between Gaskiers and St. Vincents , the point being distant 108.17 metres as measured on a bearing of south 54° 44' 37" west from Crown Land Surveys Monument No. 819049;
 
@@ -3956,7 +3956,7 @@ The above described piece or parcel of land containing an area of 225.8 hectares
 
 All bearings being magnetic.
 
-CC. All that piece or parcel of land formerly being Indian Cove Neck Provincial Park situate and being at Indian Arm near Comfort Cove abutted and abounded as follows, that is to say:
+CC. All that piece or parcel of land formerly being Indian Cove Neck Provincial Park situate and being at Indian Arm near Comfort Cove abutted and abounded as follows, that is to say :
 
 Beginning at a point in the westerly limit of the highway 20.11 metres wide leading to Newstead the point being the southeasterly angle of land transferred by the Crown to the Department of Transport (Canada) under Executive Council No. 208-'61;
 
@@ -3974,7 +3974,7 @@ The above described piece or parcel of land containing an area of 28.7 hectares,
 
 All bearings being referred to the true meridian.
 
-DD. All that piece or parcel of land formerly being Jiggin ' Head Provincial Park situate and being at Indian Arm near Summerville abutted and bounded as follows, that is to say:
+DD. All that piece or parcel of land formerly being Jiggin ' Head Provincial Park situate and being at Indian Arm near Summerville abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northwesterly limit of the Old Cabot Highway, 30 metres wide, extending between Plate Cove and Summerville, that point being distant 98.02 metres as measured on a bearing of north 43° 26' 51" east from Control Monument No. 834053;
 
@@ -3998,7 +3998,7 @@ The above described piece or parcel of land containing an area of 4.507 hectares
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-EE. All that piece or parcel of land formerly being Mummichog Provincial Park situate and being at Little Codroy River near St. Andrews abutted and bounded as follows, that is to say:
+EE. All that piece or parcel of land formerly being Mummichog Provincial Park situate and being at Little Codroy River near St. Andrews abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northeastern shoreline of Muddy Hole where the northerly limit of the old highway, 20.1 metres wide, extending between Tompkins and Channel intersects the northeastern shoreline of Muddy Hole;
 
@@ -4028,7 +4028,7 @@ The above described piece or parcel of land containing an area of 3.14 hectares,
 
 All bearings are magnetic.
 
-FF. All that piece or parcel of land formerly being Cochrane Pond Provincial Park situate and being at Cochrane Pond near St. John's abutted and bounded as follows, that is to say:
+FF. All that piece or parcel of land formerly being Cochrane Pond Provincial Park situate and being at Cochrane Pond near St. John's abutted and bounded as follows, that is to say :
 
 Beginning at a point in the southeasterly limit of the access ramp, 36 metres wide, the point being distant 1,854.578 metres as measured on a bearing of south 59° 9' 40" west from Control Monument No. 38021;
 
@@ -4056,7 +4056,7 @@ The above described piece or parcel of land containing an area of 27.131 hectare
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-GG. All that piece or parcel of land formerly being Black Bank Provincial Park situate and being at Black Bank near Stephenville Crossing abutted and bounded as follows, that is to say:
+GG. All that piece or parcel of land formerly being Black Bank Provincial Park situate and being at Black Bank near Stephenville Crossing abutted and bounded as follows, that is to say :
 
 Beginning at a point being distant 61 metres as measured on a bearing of south 55° 19' west from the point of intersection of the centre line of the Canadian National Railways right of way, 20 metres wide extending between Stephenville Crossing and St. George's with the centre line of the highway, 20 metres wide, extending between Stephenville Crossing and St. Georges;
 
@@ -4076,7 +4076,7 @@ The above described piece or parcel of land containing an area of 5.18 hectares,
 
 All bearings being magnetic.
 
-HH. All that piece or parcel of land formerly being Blue Pond Provincial Park situate and being at Blue Ponds near Corner Brook abutted and bounded as follows, that is to say:
+HH. All that piece or parcel of land formerly being Blue Pond Provincial Park situate and being at Blue Ponds near Corner Brook abutted and bounded as follows, that is to say :
 
 Beginning at a point in the southeasterly limit of the Trans Canada Highway, 60 metres wide, that point having reference from Monument No. 2 as follows:
 
@@ -4102,7 +4102,7 @@ The above described piece or parcel of land containing an area of 125.1526 hecta
 
 All bearings being magnetic.
 
-II. All that piece or parcel of land formerly being Pasadena Beach Provincial Park situate and being on the shore of Deer Lake at Pasadena abutted and bounded as follows, that is to say:
+II. All that piece or parcel of land formerly being Pasadena Beach Provincial Park situate and being on the shore of Deer Lake at Pasadena abutted and bounded as follows, that is to say :
 
 Beginning at a point having reference from the centre of the concrete bridge spanning Blue Gulch Brook crossing the Canadian National Railway as follows:
 
@@ -4140,7 +4140,7 @@ The above described piece or parcel of land containing an area of 4.8 hectares m
 
 All bearings being referred to the True Meridian.
 
-JJ. All that piece or parcel of land formerly being Rattle Falls Provincial Park situate and being at Southern Bay near Princeton abutted and bounded as follows, that is to say:
+JJ. All that piece or parcel of land formerly being Rattle Falls Provincial Park situate and being at Southern Bay near Princeton abutted and bounded as follows, that is to say :
 
 Beginning at a point in the southern limit of the Cabot Highway, 40 metres wide, extending between Port Rexton and Lethbridge the point having co-ordinates of north 5,361,716.14 metres and east 260,426.35 metres;
 
@@ -4158,7 +4158,7 @@ The above described piece or parcel of land containing an area of 20.76 hectares
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-KK. All that piece or parcel of land formerly being Thorburn Lake Provincial Park situate and being at Thorburn Lake near Clarenville abutted and bounded as follows, that is to say:
+KK. All that piece or parcel of land formerly being Thorburn Lake Provincial Park situate and being at Thorburn Lake near Clarenville abutted and bounded as follows, that is to say :
 
 Beginning at a point in the westerly limit of the Trans Canada Highway 60.96 wide extending between Port Blandford and Clarenville, the point being distant 507.6 metres as measured on a bearing of south 32° 19' 44" east from Crown Land Surveys Monument No. 634076;
 
@@ -4180,7 +4180,7 @@ The above described piece or parcel of land containing an area of 34.6 hectares,
 
 All bearings being magnetic.
 
-LL. All that piece or parcel of land formerly being Three Mile Lake Provincial Park situate and being at Three Mile Lake near Bartlett's Harbour abutted and bounded as follows, that is to say:
+LL. All that piece or parcel of land formerly being Three Mile Lake Provincial Park situate and being at Three Mile Lake near Bartlett's Harbour abutted and bounded as follows, that is to say :
 
 Begging at a point in the southeasterly limit of the Northern Peninsula Highway, 40 metres wide, extending between the Reels Harbour intersection and Plum Point, that point being distant 20.27 metres as measured on a bearing of south 54° 19' 23" east from the point of intersection of the westerly prolongation of the centre line of the abandoned woods road 20 metres with the centre line of the Northern Peninsula Highway, the intersection being located approximately 9.1 kilometres southwest of the intersection of the Northern Peninsula Highway with Route 432 leading to Main Brook;
 
@@ -4256,7 +4256,7 @@ The above described piece or parcel of land containing an area of 14.5 hectares,
 
 All bearings being magnetic.
 
-MM. All that piece or parcel of land formerly being Beothuck Provincial Park situate and being at Big Rushy Pond near Grand Falls abutted and bounded as follows, that is to say:
+MM. All that piece or parcel of land formerly being Beothuck Provincial Park situate and being at Big Rushy Pond near Grand Falls abutted and bounded as follows, that is to say :
 
 Beginning at the point of intersection of the southern bank of the river flowing out of Rushy Pond with the northern limit of the right-of-way, 30.5 metres wide, of Canadian National Railway;
 
@@ -4274,7 +4274,7 @@ The above described piece or parcel of land containing an area of 74.6 hectares.
 
 All bearings are magnetic.
 
-NN. All that piece or parcel of land formerly being Catamaran Provincial Park situate and being at Joe's Lake near Badger abutted and bounded as follows, that is to say:
+NN. All that piece or parcel of land formerly being Catamaran Provincial Park situate and being at Joe's Lake near Badger abutted and bounded as follows, that is to say :
 
 Beginning at a point in the easterly limit of the Trans Canada Highway, 60.96 metres wide, extending between South Brook and Badger, that point being distant 2,250.362 metres as measured on a bearing of north 6° 14' 35" west from Control Monument No. 76G2345;
 
@@ -4308,7 +4308,7 @@ The above described piece or parcel of land containing an area of 41.569 hectare
 
 All bearings being referred to the meridian of 56° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-OO. All that piece or parcel of land formerly being Gushues Pond Provincial Park situate and being at Brigus Junction near Brigus abutted and bounded as follows, that is to say:
+OO. All that piece or parcel of land formerly being Gushues Pond Provincial Park situate and being at Brigus Junction near Brigus abutted and bounded as follows, that is to say :
 
 Beginning at a point near Brigus Junction Trans Canada Highway Overpass, that point being the intersection of the western limit of the Trans Canada Highway, 61 metres wide, the northerly limit of the Canadian National Railway's right-of-way, 61 metres wide;
 
@@ -4328,7 +4328,7 @@ The above described piece or parcel of land containing 178.9 hectares, more or l
 
 All bearings are referred to the true meridian.
 
-PP. All that piece or parcel of land formerly being Indian River Provincial Park situate and being at Springdale Junction near Springdale abutted and bounded as follows, that is to say:
+PP. All that piece or parcel of land formerly being Indian River Provincial Park situate and being at Springdale Junction near Springdale abutted and bounded as follows, that is to say :
 
 Beginning at a point in the northerly limit of the Trans Canada Highway, 61 metres wide, extending between Grand Falls and Deer Lake, that point being distant 1,260.5 metres as measured on a bearing of north 42° 41' 41" west from the point of intersection of the southwesterly prolongation of the centre line of the highway leading to Springdale with the centre line of the Trans Canada Highway;
 
@@ -4346,7 +4346,7 @@ The above described piece or parcel of land containing an area of 28.6 hectares,
 
 All bearings being magnetic.
 
-QQ. All that piece or parcel of land formerly being Northern Bay Sands Provincial Park situate and being at Northern Bay near Bay de Verde abutted and bounded as follows, that is to say:
+QQ. All that piece or parcel of land formerly being Northern Bay Sands Provincial Park situate and being at Northern Bay near Bay de Verde abutted and bounded as follows, that is to say :
 
 Beginning at a point in the high water mark of Conception Bay, that point having co-ordinates of north 5,310,343.8 metres and east 299,182.9 metres;
 
@@ -4386,7 +4386,7 @@ The above described piece or parcel of land containing an area of 13.6 hectares,
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-RR. All that piece or parcel of land formerly being Picadilly Head Provincial Park situate and being at Picadilly near Port au Port abutted and bounded as follows, that is to say:
+RR. All that piece or parcel of land formerly being Picadilly Head Provincial Park situate and being at Picadilly near Port au Port abutted and bounded as follows, that is to say :
 
 Beginning at a point in the easterly limit of the Main Highway, 20 metres wide, that point being an iron pin having co-ordinates of north 5,382,554.79 metres and east 274,994.58 metres;
 
@@ -4432,7 +4432,7 @@ The above described piece or parcel of land containing an area of 42 hectares, m
 
 All bearings being referred to the meridian of 58° 30' west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-SS. All that piece or parcel of land formerly being River of Ponds Provincial Park situate and being at River of Ponds near River of Ponds Lake abutted and bounded as follows, that is to say:
+SS. All that piece or parcel of land formerly being River of Ponds Provincial Park situate and being at River of Ponds near River of Ponds Lake abutted and bounded as follows, that is to say :
 
 Beginning at a point in the southerly limit of the Great Northern Peninsula Highway, that point being distant 441.39 metres as measured on a bearing of north 86° 11' 29" west from the centre of the bridge spanning River of Ponds crossing the Great Northern Peninsula Highway;
 
@@ -4520,7 +4520,7 @@ The above described piece or parcel of land containing an area of 50.656 hectare
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-VV. All that piece or parcel of land formerly being Square Pond Provincial Park situate and being at Square Pond near Gander abutted and bounded as follows, that is to say:
+VV. All that piece or parcel of land formerly being Square Pond Provincial Park situate and being at Square Pond near Gander abutted and bounded as follows, that is to say :
 
 Beginning at the point of intersection of the southwesterly limit of the Trans Canada Highway, 30.5 metres wide, extending between Gambo and Gander and the southeasterly bank of Middle Brook flowing out of Square Pond;
 
@@ -4534,7 +4534,7 @@ The above described piece or parcel of land containing an area of 38.6 hectares.
 
 All bearings are magnetic.
 
-WW. All that piece or parcel of land formerly being Backside Pond Provincial Park situate and being at Greens Harbour near Whiteway abutted and bounded as follows, that is to say:
+WW. All that piece or parcel of land formerly being Backside Pond Provincial Park situate and being at Greens Harbour near Whiteway abutted and bounded as follows, that is to say :
 
 Beginning at a point formed by the intersection of the northern limit of the Trinity South Highway, 30.5 metres wide, with the eastern limit of an abandoned Canadian National Railway's right-of-way, 15.2 metres wide, that point having co-ordinates of north 29,904.3 metres and east 30,922.8 metres as referred to Crown Land Survey Marker No. 83220 having assumed co-ordinates of north 30,480 metres and east 30,480 metres;
 
@@ -4552,7 +4552,7 @@ The above described piece or parcel of land containing an area of 562.5 hectares
 
 All bearings being referred to magnetic north.
 
-XX. All that piece or parcel of land formerly being Eastport North Provincial Park situate and being at Eastport near Eastport Bay abutted and bounded as follows, that is to say:
+XX. All that piece or parcel of land formerly being Eastport North Provincial Park situate and being at Eastport near Eastport Bay abutted and bounded as follows, that is to say :
 
 Beginning at a point in the easterly limit of the Eastport North Road, 20 metres wide, extending between the Trans Canada Highway and Burnside, that point being the southernmost angle of land granted by the Crown to Freeman Pottle and having co-ordinates of north 5,391,468.721 metres and east 248,665.517 metres;
 
@@ -4622,7 +4622,7 @@ The above described piece or parcel of land containing an area of 8.312 hectares
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-YY. All that piece or parcel of land formerly being Middle Cove Provincial Park situate and being at Middle Cove near St. John's abutted and bounded as follows, that is to say:
+YY. All that piece or parcel of land formerly being Middle Cove Provincial Park situate and being at Middle Cove near St. John's abutted and bounded as follows, that is to say :
 
 Beginning at a point having co-ordinates of north 5,278,895.8 metres and east 327,725.4 metres;
 
@@ -4660,7 +4660,7 @@ The above described piece or parcel of land containing an area of 3.1 hectares, 
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-ZZ. All that piece or parcel of land formerly being Point au Mal Provincial Park situate and being at Point au Mal near Kippens abutted and bounded as follows, that is to say:
+ZZ. All that piece or parcel of land formerly being Point au Mal Provincial Park situate and being at Point au Mal near Kippens abutted and bounded as follows, that is to say :
 
 Beginning at a point in the westerly limit of a local road, 3 metres wide, leading to Point au Mal Beach, that point being distant 132.6 metres as measured in a general southerly direction from the westerly end of a culvert spanning a brook crossing that road;
 
@@ -4678,7 +4678,7 @@ The above described piece or parcel of land containing an area of 31.5 hectares,
 
 All bearings being magnetic.
 
-AAA. All that piece or parcel of land formerly being Point LaHaye Provincial Park situate and being at Point La Haye near St. Mary's abutted and bounded as follows, that is to say:
+AAA. All that piece or parcel of land formerly being Point LaHaye Provincial Park situate and being at Point La Haye near St. Mary's abutted and bounded as follows, that is to say :
 
 Beginning at a point at low water mark extending along the northerly shore of LaHaye Pond, that point being distant 95.5 metres as measured on a bearing of south 65° 29' west from the southerly end of a culvert crossing the road extending between the main highway and the Point LaHaye Lighthouse Site;
 
@@ -4722,7 +4722,7 @@ The above described piece or parcel of land containing an area of 18.6 hectares,
 
 All bearings being magnetic.
 
-BBB. All that piece or parcel of land formerly being Salmon Cove Sands Provincial Park situate and being at Salmon Cove near Carbonear abutted and bounded as follows, that is to say:
+BBB. All that piece or parcel of land formerly being Salmon Cove Sands Provincial Park situate and being at Salmon Cove near Carbonear abutted and bounded as follows, that is to say :
 
 Beginning at a point being the southwesterly angle of the Case Estate, that point being distant 877.3 metres as measured on a bearing of south 33' west from Crown Land Survey Monument No. 7-62;
 
@@ -4810,7 +4810,7 @@ The above described piece or parcel of land containing an area of 8.3 hectares, 
 
 All bearings being magnetic.
 
-CCC. All that piece or parcel of land formerly being Topsail Beach Provincial Park situate and being at Topsail near St. John's abutted and bounded as follows, that is to say:
+CCC. All that piece or parcel of land formerly being Topsail Beach Provincial Park situate and being at Topsail near St. John's abutted and bounded as follows, that is to say :
 
 Beginning at a point, that point having co-ordinates of north 5,267,062.679 metres and east 311,228.933 metres and being distant 385.6 metres as measured on a bearing of south 2° 51' 36.4" west from Control Monument No. 83G3210;
 
@@ -4854,7 +4854,7 @@ The above described piece or parcel of land containing an area of 33.1 hectares,
 
 All bearings being referred to the meridian of 53° west longitude of the 3° Transverse Mercator Projection, NAD 27.
 
-DDD. All that piece or parcel of land and land under water located east of Lac Brisson at Strange Lake in the province and being described as follows, that is to say:
+DDD. All that piece or parcel of land and land under water located east of Lac Brisson at Strange Lake in the province and being described as follows, that is to say :
 
 Beginning at a point that point having UTM co-ordinates of 6,243,500 metres north, 433,500 metres east;
 
@@ -4922,7 +4922,7 @@ All parcels of land are located at Main River, in the Provincial Electoral Distr
 
 All coordinates are based on the UTM projection, Zone 21, with the central meridian of 57 degrees West longitude, North American Datum 1983.
 
-The following parcels of land contain a total area of 49.13 km2 , more or less.
+The following parcels of land contain a total area of 49.13 km2 , more or less .
 
 Parcel 1
 
@@ -7692,4 +7692,34 @@ Then east 2,500 metres to the point of beginning.
 
 All bearings are referred to the UTM Grid Zone 20, NAD 27.
 
-132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1; 3/17 s1; 12/22 s1; 76/23 s1; 34/24 s1
+UUUU. All that piece or parcel of land and land under water situ-ate and being in the general area of Grey River in the province and being described as follows:
+
+Beginning at a point having UTM coordinates of 5,272,500 metres north, 493,500 metres east;
+
+Then south 1,000 metres;
+
+Then west 500 metres;
+
+Then south 1,500 metres;
+
+Then west 1,000 metres;
+
+Then north 500 metres;
+
+Then west 1,500 metres;
+
+Then north 500 metres;
+
+Then east 1,500 metres;
+
+Then north 1,000 metres;
+
+Then east 1,000 metres;
+
+Then north 500 metres;
+
+Then east 500 metres to the point of beginning.
+
+All bearings are referred to the UTM Grid Zone 21, NAD 27.
+
+132/83 Sch I; 240/83 s1; 271/83 s1; 104/84 s1; 263/84 s1; 26/85 s1; 72/85 s1; 26/86 s1; 70/86 s1; 181/86 s5; 188/86 s1; 266/86 s1; 106/87 s1; 112/87 s1; 202/87 s2; 170/88 s1; 272/88 s1; 93/89 s1; 186/92 ss1&2; 49/94 s1; 152/94 ss1&2; 170/94 s1; 202/94 s1; 3/95 s1; 10/95 s1; 79/95 s1; 87/95 s1; 91/96 s2; 85/97 s1; 71/98 s1; 104/98 s1; 107/98 s1; 38/99 s1; 81/99 s1; 97/00 s1; 36/01 s1; 2001 c42 s45; 31/04 s1; 46/06 s1; 78/06 s1; 100/06 s1; 8/08 s1; 28/09 s1; 63/09 s1; 66/10 s1; 5/13 s1; 3/17 s1; 12/22 s1; 76/23 s1; 34/24 s1; 83/24 s1
