@@ -14,6 +14,10 @@ Bodin's Milkvetch
 
 Astragalus bodinii
 
+Dwarf Hawksbeard
+
+Askellia pygmaea
+
 Hudsonian Godwit
 
 Limosa haemastica
@@ -78,4 +82,4 @@ Wrinkled Shingle Lichen
 
 Pannaria lurida
 
-157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2; 75/22 s2; 50/23 s1
+157/04 s2; 9/08 s2; 114/09 s1; 110/13 s2; 33/14 s1; 33/15 s2; 28/16 s2; 42/21 s2; 32/22 s2; 75/22 s2; 50/23 s1; 113/25 s1
