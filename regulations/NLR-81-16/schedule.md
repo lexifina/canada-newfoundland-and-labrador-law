@@ -8,7 +8,7 @@ Celebrate NL Inc.
 
 College of the North Atlantic
 
-Conseil scolaire fr ancophone provincial de Terre-Neuve-et-Labrador
+Conseil scolaire fr ancophone provincial de Terre-Neuve -et-Labrador
 
 Credit Union Deposit Guarantee Corporation
 
@@ -26,15 +26,13 @@ Multi-Materials Stewardship Board
 
 Municipal Assessment Agency
 
-Nalcor Energy and its subsidiaries
-
 Newfoundland and Labrador English School District
 
 Newfoundland and Labrador Film Development Corporation
 
 Newfoundland and Labrador Housing Corporation
 
-Newfoundland and Labrador Hydro
+Newfoundland and Labrador Hydro-Electric Corporation and its subsidiaries
 
 Newfoundland and Labrador Liquor Corporation
 
@@ -58,4 +56,4 @@ Workplace Health, Safety and Compensation Review Division
 
 Workplace NL
 
-81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53; 11/23 s4; 2022 cP-30.1 s76
+81/16 Sch; 2018 cI-7.1 s29; 110/18 s4; 2019 cO-6.1 s53; 11/23 s4; 2022 cP-30.1 s76; 2024 cH-18 s70
