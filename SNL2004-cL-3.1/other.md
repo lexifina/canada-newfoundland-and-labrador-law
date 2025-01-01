@@ -1,6 +1,6 @@
-WHEREAS the Constitution Act, 1982 (Canada ) recognizes and affirms the aboriginal and treaty rights of the aboriginal peoples of Canada ;
+WHEREAS the Constitution Act, 1982 (Canada ) recognizes and affirms the aboriginal and treaty rights of the aboriginal peoples of Canada;
 
-AND WHEREAS the Inuit of Labrador are an aboriginal people of Canada ;
+AND WHEREAS the Inuit of Labrador are an aboriginal people of Canada;
 
 AND WHEREAS the Inuit of Labrador claim aboriginal rights in and to the Labrador Inuit Land Claims Area based on their traditional and current use and occupancy of the lands, water and sea ice of the Labrador Inuit Land Claims Area in accordance with their own customs and traditions;
 
