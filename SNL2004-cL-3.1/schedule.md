@@ -1,4 +1,4 @@
-(Remainder of Act in force on Nov. 30/18) Schedule
+Schedule
 
 (See attachment)
 
