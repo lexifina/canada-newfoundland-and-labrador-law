@@ -24,8 +24,6 @@ Labrador Group Home
 
 Municipal Assessment Agency
 
-Nalcor Energy
-
 Newfoundland and Labrador Arts Council
 
 Newfoundland and Labrador English School District
@@ -35,6 +33,8 @@ Newfoundland and Labrador Film Development Corporation
 Newfoundland and Labrador Foster Families Association
 
 Newfoundland and Labrador Housing Corporation
+
+Newfoundland and Labrador Hydro-Electric Corporation and its subsidiaries
 
 Newfoundland and Labrador Legal Aid Commission
 
@@ -50,4 +50,4 @@ Waypoints
 
 Workplace Health, Safety and Compensation Commission
 
-2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30; 2022 cP-30.1 s55
+2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30; 2022 cP-30.1 s55; 2024 cH-18 s66
