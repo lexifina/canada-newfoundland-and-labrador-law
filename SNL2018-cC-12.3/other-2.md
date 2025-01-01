@@ -1,6 +1,6 @@
 Proceedings
 
-F37.01 (1) To the extent that the procedure or time limits in this Part are inconsistent with the Children, Youth and Families Act , the provisions of the Children, Youth and Families Act will apply.
+F37.01 (1) To the extent that the procedure or time limits in this Part are inconsistent with the Children, Youth and Families Act, the provisions of the Children, Youth and Families Act will apply.
 
 (2) Any hearing under the Children, Youth and Families Act must be
 
