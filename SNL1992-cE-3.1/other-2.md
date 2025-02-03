@@ -1,1 +1,1 @@
-2017 c17 s3
+(Subsection 56(3) in force - Jan. 26/96; Part III, ss.269-331, in force - Oct. 1/93; Part III R&S 1998 c13 in force - Sept. 3/98; Part IV, ss.332-337, in force - Jan. 29/93; Subsection 339(2) in force - Oct. 1/93; s.341 in force - Jan. 29/93; s.342 in force - Sept. 30/93; Remainder in force - Sept. 2/98)
