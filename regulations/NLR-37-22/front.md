@@ -1,4 +1,6 @@
-June 17, 2022 and February 27, 2025
+NEWFOUNDLAND AND LABRADOR REGULATION 37/22
+
+Composition of the Supreme Court Regulations under the Judicature Act (O.C. 2022-154)
 
 NEWFOUNDLAND AND LABRADOR REGULATION 37/22
 
