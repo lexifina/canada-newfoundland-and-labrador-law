@@ -2,6 +2,10 @@ NEWFOUNDLAND AND LABRADOR REGULATION 78/24
 
 Medical Radiation Technologists Regulations under the Health Professions Act
 
+NEWFOUNDLAND AND LABRADOR REGULATION 78/24
+
+Medical Radiation Technologists Regulations under the Health Professions Act
+
 (Filed November 12, 2024)
 
 Under the authority of section 53 of the Health Professions Act, the Newfoundland and Labrador Council of Health Professionals, with the approval of the Minister of Health and Community Services, makes the following regulations.
