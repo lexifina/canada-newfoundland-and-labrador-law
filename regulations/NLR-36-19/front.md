@@ -8,7 +8,7 @@ Salmon Angling and Tag Use Order, 2019 under the Wild Life Regulations and the W
 
 (Filed May 31, 2019)
 
-Under the authority of sections 3.2 and 4.1 of the Wild Life Regulations and the Wild Life Act , I make the following Order.
+Under the authority of sections 3.2 and 4.1 of the Wild Life Regulations and the Wild Life Act, I make the following Order.
 
 Dated at St. John’s, May 30, 2019.
 
