@@ -8,9 +8,9 @@ Offshore Petroleum Cost Recovery Regulations under the Canada-Newfoundland and L
 
 (Filed February 26, 2016)
 
-Under the authority of section 29.1 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act , the Lieutenant-Governor in Council makes the following regulations.
+Under the authority of section 29.1 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. Johns , February 26, 2016.
+Dated at St. John’s, February 26, 2016.
 
 Julia Mullaley Clerk of the Executive Council
 
