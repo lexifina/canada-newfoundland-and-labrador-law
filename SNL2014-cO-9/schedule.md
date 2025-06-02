@@ -4,7 +4,7 @@ Board of Commissioners of Public Utilities
 
 C.A. Pippy Park Commission
 
-Canada-Newfoundland and Labrador Offshore Petroleum Board
+Canada-Newfoundland and Labrador Offshore Energy Regulator
 
 College for Licensed Practical Nurses of Newfoundland and Labrador
 
@@ -50,4 +50,4 @@ Waypoints
 
 Workplace Health, Safety and Compensation Commission
 
-2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30; 2022 cP-30.1 s55; 2024 cH-18 s66
+2014 cO-9 Sch; 2018 cI-7.1 s27; 2019 c9 s30; 2022 cP-30.1 s55; 2024 cH-18 s66; 2025 c4 s247
