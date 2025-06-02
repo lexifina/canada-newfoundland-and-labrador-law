@@ -8,7 +8,7 @@ Management of Greenhouse Gas Reporting Regulations under the Management of Green
 
 (Filed March 7, 2017)
 
-Under the authority of section 29 of the Management of Greenhouse Gas Act , I make the following regulations.
+Under the authority of section 29 of the Management of Greenhouse Gas Act, I make the following regulations.
 
 Dated at St. John’s , February 22, 2017.
 
