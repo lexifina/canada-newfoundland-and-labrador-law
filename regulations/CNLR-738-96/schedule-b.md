@@ -24,7 +24,7 @@ Schedule B
 
 (a) emergency signalling between divers involved in the diving program and between the divers and their attendants using umbilicals or other suitable methods;
 
-(b) the provision of stand-by divers;
+(b) the provision of stand?by divers;
 
 (c) the provision of crafts, stand-by boats and other devices to be used for rescue;
 
