@@ -6,7 +6,7 @@ Schedule A
 
 (b.1) subsection 30(2) of the Auditor General Act, 2021;
 
-(c) section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act;
+(c) section 115 of the Canada-Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Newfoundland and Labrador Act;
 
 (d) sections 90 to 96 of the Children, Youth and Families Act;
 
@@ -48,8 +48,8 @@ Schedule A
 
 (r) sections 19 and 20 of the Securities Act;
 
-(s) section 13 of the Statistics Agency Act ; and
+(s) section 13 of the Statistics Agency Act; and
 
-(t) section 19 of the Workplace Health, Safety and Compensation Act , 2022.
+(t) section 19 of the Workplace Health, Safety and Compensation Act, 2022.
 
-2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02; 2022 cW-11.1 s153; 2023 c16 s1; 2023 c18 s38; 2024 cH-18 s61
+2015 cA-1.2 Sch; 2017 cP-3.01 s28; 2018 cI-7.1 s24; 2018 cC-12.3 s112; 2019 cO-6.1 s49; 2021 cA-22.1 s41; 2021 cA-4.02; 2022 cW-11.1 s153; 2023 c16 s1; 2023 c18 s38; 2024 cH-18 s61; 2025 c4 s241

@@ -18,7 +18,7 @@ Bay Roberts Group Home
 
 Bonavista Peninsula Health Care Complex
 
-Bay D'Espoir, Hermitage, Fortune Bay Integrated School Board
+Bay D'Espoir , Hermitage, Fortune Bay Integrated School Board
 
 Cape Freels Integrated School Board
 
@@ -64,7 +64,7 @@ St. Patrick's Mercy Home
 
 St. Clare's Mercy Hospital
 
-Canada Newfoundland and Labrador Offshore Petroleum Board
+Canada Newfoundland and Labrador Offshore Energy Regulator
 
 Humber Valley Association Group Home
 
@@ -248,4 +248,4 @@ Twin Cities Residential Support Board, Incorporated
 
 Avalon Community Accommodations Board
 
-1990 c12 Sch B; 1994 c11 s4; 94/91; 197/91; 161/92; 61/93; 176/93; 123/94; 27/95; 38/95; 2001 cN-3.1 s2; 2019 c9 s27
+1990 c12 Sch B; 1994 c11 s4; 94/91; 197/91; 161/92; 61/93; 176/93; 123/94; 27/95; 38/95; 2001 cN-3.1 s2; 2019 c9 s27; 2025 c4 s242
