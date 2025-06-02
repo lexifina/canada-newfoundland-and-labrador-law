@@ -66,156 +66,154 @@ Statutory Appointments
 
 Apprenticeship and Certification Act , subsection 5(1)
 
-Architects Act, 2008 , subsections 6(1) and 15(4) with respect to ministerial appointments
+Architects Act, 2008, subsections 6(1) and 15(4) with respect to ministerial appointments
 
-Arts Council Act , section 6
+Arts Council Act, section 6
 
-Atlantic Provinces Harness Racing Commission Act , subsection 5(1)
+Atlantic Provinces Harness Racing Commission Act, subsection 5(1)
 
-Atlantic Provinces Special Education Authority Act (Nova Scotia ), paragraph 5(2)(b)
+Atlantic Provinces Special Education Authority Act (Nova Scotia), paragraph 5(2)(b)
 
-Buildings Accessibility Act , section 18 with respect to Lieutenant-Governor in Council appointments
+Buildings Accessibility Act, section 18 with respect to Lieutenant-Governor in Council appointments
 
-Canadian Centre for Occupational Health and Safety Act , section 4 with respect to provincial appointments
+Canadian Centre for Occupational Health and Safety Act, section 4 with respect to provincial appointments
 
-Centre for Health Information Act, 2018 , subsections 7(2) and 13(1)
+Centre for Health Information Act, 2018, subsection 6(1)
 
-Chartered Professional Accountants and Public Accountants Act , subsections 5(1) and 28(4) with respect to ministerial appointments
+Chartered Professional Accountants and Public Accountants Act, subsections 5(1) and 28(4) with respect to ministerial appointments
 
-Chiropractors Act, 2009 , subsections 5(1) and 21(4)
+Chiropractors Act, 2009, subsections 5(1) and 21(4)
 
 Credit Union Act, 2009, Credit Union Regulations, 2009, subsection 40(1) with respect to ministerial appointments
 
-Criminal Code , section 672.38
+Criminal Code, section 672.38
 
-Crop Insurance Act , section 3
+Crop Insurance Act, section 3
 
-Dental Act, 2008 , paragraphs 5(2)(c) and 27(6)(b)
+Dental Act, 2008, paragraphs 5(2)(c) and 27(6)(b)
 
-Denturists Act, 2005 , subsections 4(1) and 14(1) with respect to ministerial appointments
+Denturists Act, 2005, subsections 4(1) and 14(1) with respect to ministerial appointments
 
-Dietitians Act , subsections 6(1) and 22(4) with respect to ministerial appointments
+Dietitians Act, subsections 6(1) and 22(4) with respect to ministerial appointments
 
-Dispensing Opticians Act, 2005 , subsections 5(1) and 13(4) with respect to ministerial appointments
+Dispensing Opticians Act, 2005, subsections 5(1) and 13(4) with respect to ministerial appointments
 
-Economic Diversification and Growth Enterprises Act , subsection 6(1)
+Economic Diversification and Growth Enterprises Act, subsection 6(1)
 
-Embalmers and Funeral Directors Act, 2008 , subsections 4(1) and 16(3) with respect to ministerial appointments
+Embalmers and Funeral Directors Act, 2008, subsections 4(1) and 16(3) with respect to ministerial appointments
 
-Endangered Species Act , subsection 6(3)
+Endangered Species Act, subsection 6(3)
 
-Engineers and Geoscientists Act, 2008 , subsections 5(1) and 21(4) with respect to ministerial appointments
+Engineers and Geoscientists Act, 2008, subsections 5(1) and 21(4) with respect to ministerial appointments
 
-Fatalities Investigations Act , subsection 13.1
+Fatalities Investigations Act, subsection 13.1
 
-Financial Services Appeal Board Act , section 3
+Financial Services Appeal Board Act, section 3
 
-Fish Processing Licensing Board Act , section 5
+Fish Processing Licensing Board Act, section 5
 
-Fishing Industry Collective Bargaining Act , section 19.1
+Fishing Industry Collective Bargaining Act, section 19.1
 
-Forestry Act , section 58
+Forestry Act, section 58
 
-Geographical Names Board Act , section 3
+Geographical Names Board Act, section 3
 
-Government Money Purchase Pension Plan Act , section 12.1
+Government Money Purchase Pension Plan Act, section 12.1
 
-Government Purchasing Agency Act , subsection 7(1)
+Government Purchasing Agency Act, subsection 7(1)
 
-Health Professions Act , subsection 9(1) and paragraph 35(4)(c) with respect to ministerial appointments
+Health Professions Act, subsection 9(1) and paragraph 35(4)(c) with respect to ministerial appointments
 
 Health Research Ethics Authority Act, paragraph 3(2)(d)
 
-Hearing Aid Practitioners Act, 2005 , subsections 4(1) and 13(4) with respect to ministerial appointments
+Hearing Aid Practitioners Act, 2005, subsections 4(1) and 13(4) with respect to ministerial appointments
 
-Historic Resources Act , section 22
+Historic Resources Act, section 22
 
-Human Rights Act, 2010 , section 36
+Human Rights Act, 2010, section 36
 
-Income and Employment Support Act , section 42
+Income and Employment Support Act, section 42
 
 Labrador Inuit Land Claims Agreement, Part 12.8.2, 13.10.2
 
-Lands Act , St. John's Urban Region Agriculture Development Area Regulations , subsections 3(3) and 7(2)
+Lands Act, St. John's Urban Region Agriculture Development Area Regulations, subsections 3(3) and 7(2)
 
-Law Society Act, 1999 , section 42(4) with respect to ministerial appointments and paragraph 65(2)(b)
+Law Society Act, 1999, section 42(4) with respect to ministerial appointments and paragraph 65(2)(b)
 
-Licensed Practical Nurses Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
+Licensed Practical Nurses Act, 2005, subsections 4(1) and 14(4) with respect to ministerial appointments
 
-Livestock Insurance Act , section 3
+Livestock Insurance Act, section 3
 
-Massage Therapy Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
+Massage Therapy Act, 2005, subsections 4(1) and 14(4) with respect to ministerial appointments
 
-Medical Act, 2011 , paragraph 9(1)(b) and subsection 40(4) with respect to ministerial appointments
+Medical Act, 2011, paragraph 9(1)(b) and subsection 40(4) with respect to ministerial appointments
 
-Medical Care Insurance Act 1999 , subsection 15(7) with respect to those persons not nominated by the medical or dental associations
+Medical Care Insurance Act 1999, subsection 15(7) with respect to those persons not nominated by the medical or dental associations
 
-Medical Care Insurance Act, 1999 , Physicians and Fee Regulations , paragraph 15(1)(b)
+Medical Care Insurance Act, 1999, Physicians and Fee Regulations, paragraph 15(1)(b)
 
-Mental Health Care and Treatment Act , section 57
+Mental Health Care and Treatment Act, section 57
 
-Mineral Act , section 37
+Mineral Act, section 37
 
-Muskrat Falls Project Land Use and Expropriation Act, Muskrat Falls Project Land Use and Expropriation Regulations , section 16
+Muskrat Falls Project Land Use and Expropriation Act, Muskrat Falls Project Land Use and Expropriation Regulations, section 16
 
-Natural Products Marketing Act , section 3
+Natural Products Marketing Act, section 3
 
-Natural Products Marketing Act, Egg Scheme, 2000 , subsection 4(4)
+Natural Products Marketing Act, Egg Scheme, 2000, subsection 4(4)
 
-Natural Products Marketing Act, Milk Scheme, 1998 , subsection 4(6)
+Natural Products Marketing Act, Milk Scheme, 1998, subsection 4(6)
 
-Natural Products Marketing Act, Newfoundland and Labrador Chicken Marketing Scheme , subsection 4(1.1)
+Natural Products Marketing Act, Newfoundland and Labrador Chicken Marketing Scheme, subsection 4(1.1)
 
-Occupational Health and Safety Act , section 12
+Occupational Health and Safety Act, section 12
 
-Occupational Therapists Act, 2005 , subsections 4(1) and 14(4) with respect to ministerial appointments
+Occupational Therapists Act, 2005, subsections 4(1) and 14(4) with respect to ministerial appointments
 
-Optometry Act, 2012 , subsections 9(1) and 27(4) with respect to ministerial appointments
+Optometry Act, 2012, subsections 9(1) and 27(4) with respect to ministerial appointments
 
-Order of Newfoundland and Labrador Act , paragraph 12(1)(c)
+Petroleum and Natural Gas Act, Royalty Regulations, 2003, paragraph 81(6)(b)
 
-Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)(b)
-
-Pharmaceutical Services Act , section 42
+Pharmaceutical Services Act, section 42
 
 Pharmaceutical Services Act, Pharmaceutical Services Regulations , paragraphs 8(2)(d) and (e)
 
-Pharmacy Act, 2012 , subsections 6(1) and 36(4) with respect to ministerial appointments
+Pharmacy Act, 2012, subsections 6(1) and 36(4) with respect to ministerial appointments
 
-Physiotherapy Act, 2006 , subsections 5(1) and 16(4) with respect to ministerial appointments
+Physiotherapy Act, 2006, subsections 5(1) and 16(4) with respect to ministerial appointments
 
-Private Training Institutions Act , subsection 4(3)
+Private Training Institutions Act, subsection 4(3)
 
-Professional Fish Harvesters Act , section 5, subsection 15(1) and section 20
+Professional Fish Harvesters Act, section 5, subsection 15(1) and section 20
 
-Provincial Court Act, 1991 , paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
+Provincial Court Act, 1991, paragraphs 16(2)(b), 19(1)(c) and 20(1)(c)
 
-Psychologists Act, 2005 , subsections 4(1) and 15(4) with respect to ministerial appointments
+Psychologists Act, 2005, subsections 4(1) and 15(4) with respect to ministerial appointments
 
-Public Libraries Act , paragraph 3(c)
+Public Libraries Act, paragraph 3(c)
 
-Public Safety Act , subsection 25(1)
+Public Safety Act, subsection 25(1)
 
-Queen's Counsel Act , subsection 7(2) with respect to appointments not recommended by benchers
+Queen's Counsel Act, subsection 7(2) with respect to appointments not recommended by benchers
 
-Regional Services Board Act, 2012 , subsection 6(2)
+Regional Services Board Act, 2012, subsection 6(2)
 
-Registered Nurses Act, 2008 , paragraph 6(1)(b) and subsection 19(5) with respect to ministerial appointments
+Registered Nurses Act, 2008, paragraph 6(1)(b) and subsection 19(5) with respect to ministerial appointments
 
-Royal Newfoundland Constabulary Act, 1992 , subsection 29(1)
+Royal Newfoundland Constabulary Act, 1992, subsection 29(1)
 
-Social Workers Act , subsection 12(1) and paragraph 24(4)(c)
+Social Workers Act, subsection 12(1) and paragraph 24(4)(c)
 
-Student Financial Assistance Act , Student Financial Assistance Administration Regulations , paragraphs 18(1)(b) and (e)
+Student Financial Assistance Act, Student Financial Assistance Administration Regulations, paragraphs 18(1)(b) and (e)
 
-Teachers' Collective Bargaining Act , subsection 10(1)
+Teachers' Collective Bargaining Act, subsection 10(1)
 
-Teachers Training Act , section 3
+Teachers Training Act, section 3
 
-Urban and Rural Planning Act, 2000 , subsection 41(1)
+Urban and Rural Planning Act, 2000, subsection 41(1)
 
-Veterinary Medical Act, 2004 , subsections 7(1) and 33(1) with respect to ministerial appointments
+Veterinary Medical Act, 2004, subsections 7(1) and 33(1) with respect to ministerial appointments
 
-Wilderness and Ecological Reserves Act , subsection 7(1)
+Wilderness and Ecological Reserves Act, subsection 7(1)
 
-2016 cI-2.1 s19; 2018 c3 s4; 2018 cC-5.2 s28
+2016 cI-2.1 s19
