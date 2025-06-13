@@ -24,7 +24,9 @@ Millertown Municipal Planning Area
 
 Mount Carmel-Mitchell's Brook-St. Catherine's Municipal Planning Area
 
-St. Jacques-Coombs Cove Municipal Planning Area - area added by St. Jacques-Coombs Cove Municipal Planning Area (Amendment) , NLR 5/17, only
+North River Municipal Planning Area - area added by North River Municipal Planning Area, 2025, only
+
+St. Jacques-Coombs Cove Municipal Planning Area - area added by St. Jacques-Coombs Cove Municipal Planning Area (Amendment), NLR 5/17, only
 
 St. Joseph's Municipal Planning Area
 
