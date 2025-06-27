@@ -10,7 +10,7 @@ Income and Employment Support Regulations under the Income and Employment Suppor
 
 Under the authority of section 52 of the Income and Employment Support Act, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John’s , November 23, 2004 .
+Dated at St. John’s, November 23, 2004.
 
 Robert C. Thompson Clerk of the Executive Council
 
