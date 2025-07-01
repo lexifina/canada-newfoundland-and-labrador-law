@@ -8,7 +8,7 @@ Income Supplement and Seniors' Benefit Regulations under the Income Tax Act, 200
 
 (Filed June 30, 2016)
 
-Under the authority of section 68 of the Income Tax Act, 2000 , the Lieutenant-Governor in Council makes the following regulations.
+Under the authority of section 68 of the Income Tax Act, 2000, the Lieutenant-Governor in Council makes the following regulations.
 
 Dated at St. John’s , June 30, 2016.
 
