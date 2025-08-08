@@ -32,14 +32,14 @@ Schedule A
 
 15.1 The Lands Act
 
-(4) Paragraph 10(1)(b) of The Mineral Act, 1976 is amended by striking out the words "The Crown Lands Act" and substituting the words "The Lands Act".
+(4) Paragraph 10(1)(b) of The Mineral Act, 1976 is amended by striking out the words "The Crown Lands Act " and substituting the words "The Lands Act ".
 
-(5) Subsection 40(1) of The Newfoundland and Labrador Housing Corporation Act is amended by striking out the words "The Crown Lands Act" and substituting the words "The Lands Act".
+(5) Subsection 40(1) of The Newfoundland and Labrador Housing Corporation Act is amended by striking out the words "The Crown Lands Act " and substituting the words "The Lands Act" .
 
 (6) Paragraph 12(3)(b) of The Quieting of Titles Act is repealed and the following substituted:
 
 (b) that subsection 36(2) of The Lands Act applies to the lands affected by the application.
 
-(7) Paragraph 3(a) of The Reservation of Lands to the Crown Act is amended by striking out the words "The Crown Lands Act" and substituting the words "The Lands Act".
+(7) Paragraph 3(a) of The Reservation of Lands to the Crown Act is amended by striking out the words "The Crown Lands Act" and substituting the words "The Lands Act" .
 
 1991 c36 s74
