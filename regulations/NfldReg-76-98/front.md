@@ -10,7 +10,7 @@ Off-road Vehicle Operation in the T’Railway Provincial Park Prohibition Order 
 
 Under the authority of section 11 of the Provincial Parks Regulations and the Provincial Parks Act , I make the following Order.
 
-Dated at St. John’s , June 29, 1998.
+Dated at St. John’s, June 29, 1998.
 
 Sandra C. Kelly Minister of Tourism, Culture and Recreation
 
