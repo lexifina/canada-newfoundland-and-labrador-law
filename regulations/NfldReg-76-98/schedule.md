@@ -1,6 +1,6 @@
 Schedule
 
-All that piece or parcel of land situate and being in the Town of Conception Bay South in the province of Newfoundland and Labrador, in the Electoral Districts of Topsail-Paradise, Conception Bay South and Harbour Main, abutted and bounded as follows, that is to say :
+All that piece or parcel of land situate and being in the Town of Conception Bay South in the province of Newfoundland and Labrador, in the Electoral Districts of Topsail-Paradise, Conception Bay South and Harbour Main, abutted and bounded as follows, that is to say:
 
 Beginning at a point on the centreline of the Newfoundland and Labrador T'Railway Provincial Park approximately 160 metres northeast of its intersection with Spruce Hill Road having coordinates east 355,137 metres, north 5,265,340 metres, more or less;
 
@@ -8,6 +8,6 @@ Then along the centreline of the Newfoundland and Labrador T'Railway Provincial 
 
 As delineated at the Registry of Crown Titles in Special Plans 18 and 19.
 
-All bearings and coordinates being referred to the meridian of the 51 ° west longitude of the 6 ° Transverse Mercator Projection, North American Datum 1983.
+All bearings and coordinates being referred to the meridian of the 51° west longitude of the 6° Transverse Mercator Projection, North American Datum 1983.
 
 114/13 s2; 104/19 s1
