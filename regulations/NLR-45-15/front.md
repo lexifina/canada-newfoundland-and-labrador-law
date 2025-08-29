@@ -10,7 +10,7 @@ Access to Information and Protection of Privacy Regulations under the Access to 
 
 Under the authority of section 116 of the Access to Information and Protection of Privacy Act, 2015, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John’s , July 9, 2015.
+Dated at St. John’s, July 9, 2015.
 
 Julia Mullaley Clerk of the Executive Council
 
