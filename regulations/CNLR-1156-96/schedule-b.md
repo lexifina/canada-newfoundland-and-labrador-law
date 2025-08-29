@@ -98,7 +98,7 @@ Toad, Firebellied
 
 Bombina bombina
 
-Toad, Firebellied, Oriental
+Toad, Firebellied , Oriental
 
 Bombina orientalis
 
@@ -350,39 +350,39 @@ Angel, Yellow Faced
 
 Arusetta xanthometopon
 
-Anostomus, Striped
+Anostomus , Striped
 
 Anostomus anostomus
 
-Aphyosemion, Christy's
+Aphyosemion , Christy's
 
 Aphyosemion christyi
 
-Aphyosemion, Plumed
+Aphyosemion , Plumed
 
 Aphyosemion filamentosum
 
-Aphyosemion, Red
+Aphyosemion , Red
 
 Aphyosemion bivittatum
 
-Aphyosemion, Red Chinned
+Aphyosemion , Red Chinned
 
 Aphyosemion calliurum
 
-Aphyosemion, Red Spotted
+Aphyosemion , Red Spotted
 
 Aphyosemion lujae
 
-Aphyosemion, Scheel's
+Aphyosemion , Scheel's
 
-Aphyosemion 'burnundi'
+Aphyosemion 'burnundi '
 
-Aphyosemion, Steel Blue
+Aphyosemion , Steel Blue
 
 Aphyosemion gardneri
 
-Aphyosemion, Walker's
+Aphyosemion , Walker's
 
 Aphyosemion walkeri
 
@@ -460,7 +460,7 @@ Puntius pentazona
 
 Barb, Golden
 
-Barbus 'schuberti'
+Barbus 'schuberti '
 
 Barb, Golden
 
@@ -504,7 +504,7 @@ Puntius conchonius
 
 Barb, Schubert's
 
-Barbus 'schuberti'
+Barbus 'schuberti '
 
 Barb, Spanner
 
@@ -618,7 +618,7 @@ Bluehead
 
 Thalassoma bifasciatum
 
-Botia, Tiger
+Botia , Tiger
 
 Botia macracantha
 
@@ -726,11 +726,11 @@ Cave, Blind
 
 Anoptichthys jordani
 
-Characidium, Banded
+Characidium , Banded
 
 Characidium faciatum
 
-Characidium, Darter
+Characidium , Darter
 
 Characidium faciatum
 
@@ -774,11 +774,11 @@ Characin, Yellow Congo
 
 Hemigrammopetersius caudalis
 
-Chranide, Green
+Chranide , Green
 
 Etroplus suratensis
 
-Chranide, Orange
+Chranide , Orange
 
 Etroplus maculatus
 
@@ -942,7 +942,7 @@ Cling, Shore
 
 Lepadogaster lepadogaster
 
-Copeina, Red Spotted
+Copeina , Red Spotted
 
 Copeina guttata
 
@@ -988,7 +988,7 @@ Brachydanio albolineatus
 
 Danio, Spotted
 
-Brachydanio, nigrofasciatus
+Brachydanio , nigrofasciatus
 
 Danio, Zebra
 
@@ -1050,7 +1050,7 @@ Eel, Spiny
 
 Macrognathus aculeatus
 
-Eel, Spingy, Deep Bodied
+Eel, Spingy , Deep Bodied
 
 Mastacembelus pancalus
 
@@ -1062,15 +1062,15 @@ Elephant Nosed
 
 Gnathonemus petersi
 
-Epiplatys, Banded
+Epiplatys , Banded
 
 Epiplatys fascolatus
 
-Epiplatys, Fire Mouth
+Epiplatys , Fire Mouth
 
 Epiplatys dageti monroviae
 
-Epiplatys, Six Barred
+Epiplatys , Six Barred
 
 Epiplatys sexfasciatus
 
@@ -1126,11 +1126,11 @@ Flying Fox
 
 Epalzeorhynchus kallopterus
 
-Ganbusia, Blue
+Ganbusia , Blue
 
 Gambusia puncticulata
 
-Ganbusia, Spotted
+Ganbusia , Spotted
 
 Gambusia puncticulata
 
@@ -1278,7 +1278,7 @@ Grouper, Six Line
 
 Grammistes sexlineatus
 
-Grucha, Ladige's
+Grucha , Ladige's
 
 Cynopoecilus ladigesi
 
@@ -1318,7 +1318,7 @@ Headstander, Spotted
 
 Chilodus punctatus
 
-Hoplo, Port
+Hoplo , Port
 
 Hoplosternum Thoracatum
 
@@ -1502,7 +1502,7 @@ Nandus
 
 Nandus nandus
 
-Neolebias, Ansorge's
+Neolebias , Ansorge's
 
 Neolebias ansorgei
 
@@ -1510,19 +1510,19 @@ Neon, Gold
 
 Neolebias trilineatus
 
-Nothobranch, Beira
+Nothobranch , Beira
 
 Nothobranchius melanospilus
 
-Nothobranch, Green
+Nothobranch , Green
 
 Nothobranchius korthausae
 
-Nothobranch, Guenther's
+Nothobranch , Guenther's
 
 Nothobranchius guentheri
 
-Nothobranch, Rachow's
+Nothobranch , Rachow's
 
 Nothobranchius taeniopygus
 
@@ -1706,7 +1706,7 @@ Puffer, Somphongs
 
 Carinotetraodon somphongsi
 
-Pyrrhulina, Rachow's
+Pyrrhulina , Rachow's
 
 Pyrrhulina rachoviana
 
@@ -1766,7 +1766,7 @@ Reef, Orange
 
 Chromis xanthurus
 
-Rivulus, Brown
+Rivulus , Brown
 
 Rivulus cylindraceus
 
@@ -1774,19 +1774,19 @@ Rivulus , Colombia
 
 Rivulus milesi
 
-Rivulus, Cuban
+Rivulus , Cuban
 
 Rivulus cylindraceus
 
-Rivulus, Green
+Rivulus , Green
 
 Rivulus cylindraceus
 
-Roloffia, Gery's
+Roloffia , Gery's
 
 Roloffia geryi
 
-Roloffia, Gery's
+Roloffia , Gery's
 
 Roloffia roloffi
 
@@ -2078,11 +2078,11 @@ Toby, Ocellated
 
 Canthigaster solandri
 
-Variatus, Marigold
+Variatus , Marigold
 
 Xiphophorus mariatus
 
-Variatus, Sunset
+Variatus , Sunset
 
 Xiphophorus variatus
 
