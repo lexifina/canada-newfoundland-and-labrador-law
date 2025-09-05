@@ -2,9 +2,13 @@ NEWFOUNDLAND AND LABRADOR REGULATION 105/10
 
 Architects Regulations under the Architects Act, 2008
 
+NEWFOUNDLAND AND LABRADOR REGULATION 105/10
+
+Architects Regulations under the Architects Act, 2008
+
 (Filed November 30, 2010)
 
-Under the authority of section 32 of the Architects Act, 200 8, the Architects Licensing Board, with the approval of the Minister of Government Services, makes the following regulations.
+Under the authority of section 32 of the Architects Act, 2008, the Architects Licensing Board, with the approval of the Minister of Government Services, makes the following regulations.
 
 Dated at St. John's , November 23, 2010.
 
