@@ -1,3 +1,5 @@
+King's Printer, St. John's, Newfoundland and Labrador, Canada
+
 NEWFOUNDLAND AND LABRADOR REGULATION 59/22
 
 Municipal Conduct Regulations under the Municipal Conduct Act
