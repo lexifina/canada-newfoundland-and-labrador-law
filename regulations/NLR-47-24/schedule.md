@@ -160,35 +160,35 @@ All that piece or parcel of land situated east of Arnold’s Cove, in the electo
 
 Commencing at a point which falls to the north of Dog Rock Cove Pond, having grid coordinates of east 284,283 metres and north 5,294,693 metres , more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 282,360 metres and north 5,293 953 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 282,360 metres and north 5,293 953 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 282,692 metres and north 5,293,364 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 282,692 metres and north 5,293,364 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 283,371 metres and north 5,293,170 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 283,371 metres and north 5,293,170 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 284,710 metres and north 5,291,839 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 284,710 metres and north 5,291,839 metres, more or less;
 
 Then heading in a southeast direction to a point having grid coordinates of east 284,757 metres and north 5,291,652 metres , more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 283,177 metres and north 5,291,289 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 283,177 metres and north 5,291,289 metres, more or less;
 
-Then heading in a northwest direction to a point having grid coordinates of east 282,099 metres and north 5,291,933 metres , more or less;
+Then heading in a northwest direction to a point having grid coordinates of east 282,099 metres and north 5,291,933 metres, more or less;
 
-Then heading in a northwest direction to a point having grid coordinates of east 281,018 metres and north 5,293,985 metres , more or less;
+Then heading in a northwest direction to a point having grid coordinates of east 281,018 metres and north 5,293,985 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 281,109 metres and north 5,294,063 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 281,109 metres and north 5,294,063 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 281,236 metres and north 5,294,045 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 281,236 metres and north 5,294,045 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 281,504 metres and north 5,294,192 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 281,504 metres and north 5,294,192 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 281,544 metres and north 5,294,437 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 281,544 metres and north 5,294,437 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 283,194 metres and north 5,295,855 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 283,194 metres and north 5,295,855 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 293,304 metres and north 5,295,903 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 293,304 metres and north 5,295,903 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 283,831 metres and north 5,295,481 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 283,831 metres and north 5,295,481 metres, more or less;
 
 Then heading in a southeast direction to the point of commencement.
 
@@ -202,57 +202,57 @@ Area 6
 
 All that piece or parcel of land situated northeast of Bellevue, in the electoral district of Placentia West - Bellevue, in the Province of Newfoundland and Labrador, bounded and abutted as follows:
 
-Commencing at a point east of Trippers Cove, having grid coordinates of east 297,075 metres and north 5,285,029 metres , more or less;
+Commencing at a point east of Trippers Cove, having grid coordinates of east 297,075 metres and north 5,285,029 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 297,710 metres and north 5,284,934 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 297,710 metres and north 5,284,934 metres, more or less;
 
-Then heading in a southeast direction to a point south of Point Cove having grid coordinates of east 298,131 metres and north 5,284,553 metres , more or less;
+Then heading in a southeast direction to a point south of Point Cove having grid coordinates of east 298,131 metres and north 5,284,553 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 298,200 metres and north 5,284,114 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 298,200 metres and north 5,284,114 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 297,417 metres and north 5,282,856 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 297,417 metres and north 5,282,856 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 297,335 metres and north 5,282,371 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 297,335 metres and north 5,282,371 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 297,597 metres and north 5,281,874 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 297,597 metres and north 5,281,874 metres, more or less;
 
-Then heading in a southeast direction to a point having grid coordinates of east 298,008 metres and north 5,281,617 metres , more or less;
+Then heading in a southeast direction to a point having grid coordinates of east 298,008 metres and north 5,281,617 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 297,896 metres and north 5,280,369 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 297,896 metres and north 5,280,369 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 297,494 metres and north 5,279,893 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 297,494 metres and north 5,279,893 metres, more or less;
 
-Then heading in a southwest direction to a point east of Cross Ponds having grid coordinates of east 297,351 metres and north 5,279,330 metres , more or less;
+Then heading in a southwest direction to a point east of Cross Ponds having grid coordinates of east 297,351 metres and north 5,279,330 metres, more or less;
 
-Then heading in a southwest direction to a point east of Rattling Brook Pond having grid coordinates of east 296,695 metres and north 5,278,732 metres , more or less;
+Then heading in a southwest direction to a point east of Rattling Brook Pond having grid coordinates of east 296,695 metres and north 5,278,732 metres, more or less;
 
-Then heading in a southwest direction to a point west of Passengers Cove having grid coordinates of east 296,643 metres and north 5,278,362 metres , more or less;
+Then heading in a southwest direction to a point west of Passengers Cove having grid coordinates of east 296,643 metres and north 5,278,362 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 296,330 metres and north 5,278,227 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 296,330 metres and north 5,278,227 metres, more or less;
 
-Then heading in a northwest direction north of Passenger Cove Hill to a point having grid coordinates of east 295,522 metres and north 5,278,673 metres , more or less;
+Then heading in a northwest direction north of Passenger Cove Hill to a point having grid coordinates of east 295,522 metres and north 5,278,673 metres, more or less;
 
-Then heading in a northeast direction east of Passenger Cove Pond to a point having grid coordinates of east 295,783 metres and north 5,279,161 metres , more or less;
+Then heading in a northeast direction east of Passenger Cove Pond to a point having grid coordinates of east 295,783 metres and north 5,279,161 metres, more or less;
 
-Then heading in a northwest direction east of Bellevue to a point having grid coordinates of east 295,761 metres and north 5,279,672 metres , more or less;
+Then heading in a northwest direction east of Bellevue to a point having grid coordinates of east 295,761 metres and north 5,279,672 metres, more or less;
 
-Then heading in a northwest direction east of Murphy’s Beach to a point having grid coordinates of east 295,480 metres and north 5,280,076 metres , more or less;
+Then heading in a northwest direction east of Murphy’s Beach to a point having grid coordinates of east 295,480 metres and north 5,280,076 metres, more or less;
 
-Then heading in a northeast direction to a point having grid coordinates of east 295,498 metres and north 5,280,137 metres , more or less;
+Then heading in a northeast direction to a point having grid coordinates of east 295,498 metres and north 5,280,137 metres, more or less;
 
-Then heading in a northeast direction east of Salmon Point Marsh to a point having grid coordinates of east 295,912 metres and north 5,280,488 metres , more or less;
+Then heading in a northeast direction east of Salmon Point Marsh to a point having grid coordinates of east 295,912 metres and north 5,280,488 metres, more or less;
 
-Then heading in a northeast direction east of Old Tilt Cove to a point having grid coordinates of east 296,286 metres and north 5,281,623 metres , more or less;
+Then heading in a northeast direction east of Old Tilt Cove to a point having grid coordinates of east 296,286 metres and north 5,281,623 metres, more or less;
 
-Then heading in a northwest direction to a point having grid coordinates of east 296,177 metres and north 5,281,753 metres , more or less;
+Then heading in a northwest direction to a point having grid coordinates of east 296,177 metres and north 5,281,753 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 295,871 metres and north 5,281,603 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 295,871 metres and north 5,281,603 metres, more or less;
 
-Then heading in a northwest direction north of Lynch’s Garden to a point having grid coordinates of east 295,817 metres and north 5,281,631 metres , more or less;
+Then heading in a northwest direction north of Lynch’s Garden to a point having grid coordinates of east 295,817 metres and north 5,281,631 metres, more or less;
 
-Then heading in a northwest direction along a curved buffer boundary to a point having grid coordinates of east 295,642 metres and north 5,282,099 metres , more or less;
+Then heading in a northwest direction along a curved buffer boundary to a point having grid coordinates of east 295,642 metres and north 5,282,099 metres, more or less;
 
-Then heading in a northeast direction west of Lily Pond to a point having grid coordinates of east 296,553 metres and north 5,284,823 metres , more or less;
+Then heading in a northeast direction west of Lily Pond to a point having grid coordinates of east 296,553 metres and north 5,284,823 metres, more or less;
 
 Then heading in a northeast direction south of Trippers Head to the point of commencement.
 
@@ -292,61 +292,61 @@ Area 8
 
 All that piece or parcel of land situated south of Come By Chance, in the electoral district of Placentia - St. Mary’s, in the Province of Newfoundland and Labrador, bounded and abutted as follows:
 
-Commencing at a point which falls west of Big Pond having grid coordinates of east 277,036 metres and north 5,302,150 metres , more or less;
+Commencing at a point which falls west of Big Pond having grid coordinates of east 277,036 metres and north 5,302,150 metres, more or less;
 
-Then heading in a southwest direction to a point having grid coordinates of east 276,964 metres and north 5,302,064 metres , more or less;
+Then heading in a southwest direction to a point having grid coordinates of east 276,964 metres and north 5,302,064 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,965 metres and north 5,302,081 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,965 metres and north 5,302,081 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,946 metres and north 5,302,082 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,946 metres and north 5,302,082 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,948 metres and north 5,302,101 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,948 metres and north 5,302,101 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,929 metres and north 5,302,102 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,929 metres and north 5,302,102 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,930 metres and north 5,302,121 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,930 metres and north 5,302,121 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,892 metres and north 5,302,124 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,892 metres and north 5,302,124 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,895 metres and north 5,302,162 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,895 metres and north 5,302,162 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,877 metres and north 5,302,164 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,877 metres and north 5,302,164 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,875 metres and north 5,302,145 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,875 metres and north 5,302,145 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,856 metres and north 5,302,146 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,856 metres and north 5,302,146 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,855 metres and north 5,302,127 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,855 metres and north 5,302,127 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,836 metres and north 5,302,129 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,836 metres and north 5,302,129 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,834 metres and north 5,302,110 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,834 metres and north 5,302,110 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,816 metres and north 5,302,111 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,816 metres and north 5,302,111 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,817 metres and north 5,302,130 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,817 metres and north 5,302,130 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,798 metres and north 5,302,132 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,798 metres and north 5,302,132 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,792 metres and north 5,302,056 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,792 metres and north 5,302,056 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,773 metres and north 5,302,058 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,773 metres and north 5,302,058 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,772 metres and north 5,302,039 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,772 metres and north 5,302,039 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,753 metres and north 5,302,040 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,753 metres and north 5,302,040 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,749 metres and north 5,301,984 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,749 metres and north 5,301,984 metres, more or less;
 
-Then heading in a west direction to a point having grid coordinates of east 276,730 metres and north 5,301,985 metres , more or less;
+Then heading in a west direction to a point having grid coordinates of east 276,730 metres and north 5,301,985 metres, more or less;
 
-Then heading in a south direction to a point having grid coordinates of east 276,727 metres and north 5,301,947 metres , more or less;
+Then heading in a south direction to a point having grid coordinates of east 276,727 metres and north 5,301,947 metres, more or less;
 
-Then heading in an east direction to a point having grid coordinates of east 276,821 metres and north 5,301,940 metres , more or less;
+Then heading in an east direction to a point having grid coordinates of east 276,821 metres and north 5,301,940 metres, more or less;
 
-Then heading in a north direction to a point having grid coordinates of east 276,823 metres and north 5,301,959 metres , more or less;
+Then heading in a north direction to a point having grid coordinates of east 276,823 metres and north 5,301,959 metres, more or less;
 
-Then heading in an east direction to a point having grid coordinates of east 276,842 metres and north 5,301,957 metres , more or less;
+Then heading in an east direction to a point having grid coordinates of east 276,842 metres and north 5,301,957 metres, more or less;
 
 Then heading in a north direction to a point having grid coordinates of east 276,843 metres and north 5,301,976 metres , more or less;
 
