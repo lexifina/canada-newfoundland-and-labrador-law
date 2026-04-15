@@ -2494,7 +2494,7 @@ Failing to stop at railway crossing
 
 132(2)
 
-Driving vehicle through barrier, etc., at railway crossing
+Driving vehicle through barrier , etc., at railway crossing
 
 200
 
@@ -2542,7 +2542,7 @@ School bus carrying children failing to stop at railway crossing
 
 134(1)(c)
 
-Vehicle carrying explosive substance, etc., failing to stop at railway crossing
+Vehicle carrying explosive substance , etc., failing to stop at railway crossing
 
 720
 
@@ -2986,7 +2986,7 @@ Failing or refusing to surrender vehicle licence
 
 150
 
-Parking unattended vehicle on highway without stopping engine and locking ignition, etc.
+Parking unattended vehicle on highway without stopping engine and locking ignition , etc.
 
 180
 
@@ -3130,7 +3130,7 @@ Driving motor vehicle with ornaments obstructing vision
 
 155(c)
 
-Driving motor vehicle with windshield, etc., so covered with snow, etc. as to obscure or obstruct vision
+Driving motor vehicle with windshield , etc., so covered with snow, etc. as to obscure or obstruct vision
 
 235
 
