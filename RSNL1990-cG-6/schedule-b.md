@@ -18,7 +18,7 @@ Bay Roberts Group Home
 
 Bonavista Peninsula Health Care Complex
 
-Bay D'Espoir , Hermitage, Fortune Bay Integrated School Board
+Bay D'Espoir, Hermitage, Fortune Bay Integrated School Board
 
 Cape Freels Integrated School Board
 
@@ -36,11 +36,11 @@ St. John's Youth Centre
 
 Newfoundland and Labrador Liquor Corporation
 
-Memorial United Church Group Home (Grand Falls )
+Memorial United Church Group Home (Grand Falls)
 
 Newfoundland and Labrador Cancer Treatment and Research Foundation
 
-Placentia and Area Healthcare Complex (Placentia Hospital )
+Placentia and Area Healthcare Complex (Placentia Hospital)
 
 Roman Catholic School Board Placentia - St. Mary's
 
@@ -68,7 +68,7 @@ Canada Newfoundland and Labrador Offshore Energy Regulator
 
 Humber Valley Association Group Home
 
-Interfaith Home for Senior Citizens (Corner Brook )
+Interfaith Home for Senior Citizens (Corner Brook)
 
 Roman Catholic School Board for St. John's
 
@@ -136,7 +136,7 @@ Masonic Park Nursing Home
 
 Bay St. George Residential Support Board
 
-College of Registered Nurses of Newfoundland and Labrador
+Newfoundland and Labrador College of Nurses
 
 Eastern Newfoundland and Labrador Children's Home Inc.
 
@@ -248,4 +248,4 @@ Twin Cities Residential Support Board, Incorporated
 
 Avalon Community Accommodations Board
 
-1990 c12 Sch B; 1994 c11 s4; 94/91; 197/91; 161/92; 61/93; 176/93; 123/94; 27/95; 38/95; 2001 cN-3.1 s2; 2019 c9 s27; 2025 c4 s242
+1990 c12 Sch B; 1994 c11 s4; 94/91; 197/91; 161/92; 61/93; 176/93; 123/94; 27/95; 38/95; 2001 cN-3.1 s2; 2019 c9 s27; 2024 cN-5.1 s56; 2025 c4 s242
