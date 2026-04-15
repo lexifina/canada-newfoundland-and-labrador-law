@@ -12,6 +12,6 @@ Under the authority of section 187 of the Highway Traffic Act, I make the follow
 
 Dated at St. John’s, April 10, 2019.
 
-Sherry Gambin -Walsh Minister of Service Newfoundland and Labrador
+Sherry Gambin-Walsh Minister of Service Newfoundland and Labrador
 
 REGULATIONS
