@@ -64,7 +64,7 @@ URock Volunteer Award Selection Board
 
 Statutory Appointments
 
-Apprenticeship and Certification Act , subsection 5(1)
+Apprenticeship and Certification Act, subsection 5(1)
 
 Architects Act, 2008, subsections 6(1) and 15(4) with respect to ministerial appointments
 
@@ -118,7 +118,7 @@ Forestry Act, section 58
 
 Geographical Names Board Act, section 3
 
-Government Money Purchase Pension Plan Act, section 12.1
+Government Money Purchase Pension Plan Act , section 12.1
 
 Government Purchasing Agency Act, subsection 7(1)
 
@@ -172,11 +172,11 @@ Occupational Therapists Act, 2005, subsections 4(1) and 14(4) with respect to mi
 
 Optometry Act, 2012, subsections 9(1) and 27(4) with respect to ministerial appointments
 
-Petroleum and Natural Gas Act, Royalty Regulations, 2003, paragraph 81(6)(b)
+Petroleum and Natural Gas Act, Royalty Regulations, 2003 , paragraph 81(6)(b)
 
 Pharmaceutical Services Act, section 42
 
-Pharmaceutical Services Act, Pharmaceutical Services Regulations , paragraphs 8(2)(d) and (e)
+Pharmaceutical Services Act, Pharmaceutical Services Regulations, paragraphs 8(2)(d) and (e)
 
 Pharmacy Act, 2012, subsections 6(1) and 36(4) with respect to ministerial appointments
 
