@@ -10,7 +10,7 @@ Management of Greenhouse Gas Administrative Penalty Regulations under the Manage
 
 Under the authority of paragraph 30(1)(m) of the Management of Greenhouse Gas Act , the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John's , July 27, 2017.
+Dated at St. John’s , July 27, 2017.
 
 Elizabeth Day Clerk of the Executive Council (Acting)
 
