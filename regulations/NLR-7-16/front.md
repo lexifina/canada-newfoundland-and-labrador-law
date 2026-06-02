@@ -10,7 +10,7 @@ Offshore Petroleum Financial Requirements Regulations under the Canada-Newfoundl
 
 Under the authority of subsection 145(1) of the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, the Lieutenant-Governor in Council makes the following regulations.
 
-Dated at St. John’s, February 26, 2016.
+Dated at St. John’s , February 26, 2016.
 
 Julia Mullaley Clerk of the Executive Council
 
