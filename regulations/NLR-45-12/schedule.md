@@ -14,7 +14,7 @@ Interpretation
 
 (d) "change of occupancy classification" means a change in the occupancy classification of a structure or portion of a structure;
 
-(e) "change of use" means a change in the purpose or level of activity within a structure that involves a change in application of the requirements of the Act, regulations and adopted code s;
+(e) "change of use" means a change in the purpose or level of activity within a structure that involves a change in application of the requirements of the Act, regulations and adopted codes;
 
 (f) "existing building or structure" means building or structure approved for occupancy by the AHJ or a building or structure which is currently occupied;
 
@@ -74,9 +74,9 @@ Interpretation
 
 (b) LSC: NFPA 101 Life Safety Code;
 
-(c) NBCC: National Building Code of Canada ;
+(c) NBCC: National Building Code of Canada;
 
-(d) NFCC: National Fire Code of Canada ; and
+(d) NFCC: National Fire Code of Canada; and
 
 (e) NFPA: National Fire Protection Association.
 
@@ -90,13 +90,13 @@ Application and use
 
 (b) the use and operation of existing structures.
 
-(3) This schedule identifies the procedures that owners or developers shall follow in the repair , renovation , modification , reconstruction , change of use or change of occupancy classification , and addition to existing structures including historic buildings .
+(3) This schedule identifies the procedures that owners or developers shall follow in the repair, renovation, modification, reconstruction, change of use or change of occupancy classification, and addition to existing structures including historic buildings.
 
 Existing buildings
 
-3. (1) This schedule permits repairs , renovation s, modification s, reconstruction s, additions , and changes of use that maintain or improve the health, safety, and well-being of occupants in existing buildings, without requiring full compliance with the adopted codes, except for proportional additional work as specified in this schedule and the LSC .
+3. (1) This schedule permits repairs, renovations, modifications, reconstructions, additions, and changes of use that maintain or improve the health, safety, and well-being of occupants in existing buildings, without requiring full compliance with the adopted codes, except for proportional additional work as specified in this schedule and the LSC.
 
-(2) Nothing in this section shall be interpreted as requiring the repair , renovation , modification or reconstruction of existing buildings, but in all circumstances the requirements of the adopted codes shall be met.
+(2) Nothing in this section shall be interpreted as requiring the repair, renovation, modification or reconstruction of existing buildings, but in all circumstances the requirements of the adopted codes shall be met.
 
 (3) All work shall be classified into categories of:
 
@@ -112,21 +112,21 @@ Existing buildings
 
 (f) addition
 
-with specific requirements established for each category according to the LSC .
+with specific requirements established for each category according to the LSC.
 
 Compliance
 
-4. (1) Existing life safety features which are obvious to the public, if not required by the adopted codes , shall be either maintained or removed.
+4. (1) Existing life safety features which are obvious to the public, if not required by the adopted codes, shall be either maintained or removed.
 
 (2) This schedule shall not supersede any adopted codes or ordinances that address dangerous or unsafe buildings.
 
-(3) Buildings and structures located in whole or in part in a floodway or floodway fringe shall conform to the Newfoundland and Labrador Provincial Land Use Policy Flood Risk Areas .
+(3) Buildings and structures located in whole or in part in a floodway or floodway fringe shall conform to the Newfoundland and Labrador Provincial Land Use Policy Flood Risk Areas.
 
 (4) The minimum design loads for a structure shall be the loads applicable at the time the building was constructed, provided that no structurally deficient condition is created.
 
-(5) Notwithstanding subsection (4), structural elements that are uncovered during the course of the building rehabilitation which are found to be unsound or structurally deficient shall comply with the load requirements of the NBCC .
+(5) Notwithstanding subsection (4), structural elements that are uncovered during the course of the building rehabilitation which are found to be unsound or structurally deficient shall comply with the load requirements of the NBCC.
 
-(6) Where a rehabilitation work area includes a commercial kitchen and the work includes reconfiguration or extension of cooking equipment or the installation of additional cooking equipment, existing grease ducts, exhaust equipment, and kitchen hoods shall be brought into compliance with the requirements of NBCC .
+(6) Where a rehabilitation work area includes a commercial kitchen and the work includes reconfiguration or extension of cooking equipment or the installation of additional cooking equipment, existing grease ducts, exhaust equipment, and kitchen hoods shall be brought into compliance with the requirements of NBCC.
 
 (7) Where
 
@@ -134,7 +134,7 @@ Compliance
 
 (b) the occupant load is intended to be increased by at least 20 percent as a result of the rehabilitation work,
 
-the plumbing system shall be upgraded to the NBCC .
+the plumbing system shall be upgraded to the NBCC.
 
 (8) Rehabilitation work, including an addition, shall not create or extend any nonconformity to the adopted codes in the existing building in which the rehabilitation work or the addition is constructed.
 
@@ -144,29 +144,29 @@ Preliminary meeting
 
 (2) The meeting referred to in subsection (1) shall, to the extent possible, include the officials responsible for permit approval and enforcement with respect to the following, as applicable to the rehabilitation project:
 
-(a) National Building Code of Canada ;
+(a) National Building Code of Canada;
 
-(b) National Plumbing Code of Canada ;
+(b) National Plumbing Code of Canada;
 
 (c) NFPA 101, LSC;
 
 (d) Canadian Electrical Code;
 
-(e) National Fire Code of Canada ;
+(e) National Fire Code of Canada;
 
-(f) Public Safety Act ;
+(f) Public Safety Act;
 
-(g) Building Accessibility Act ; and
+(g) Building Accessibility Act; and
 
-(h) Historic Resources Act ;
+(h) Historic Resources Act;
 
 (3) Decisions made at the meeting shall be documented and circulated to those in attendance.
 
-(4) For a rehabilitation project or portion of it that is in the repair , renovation , or modification category of work, a preliminary meeting may be permitted to be granted at the discretion of the AHJ when a request for a preliminary meeting is made by the prospective applicant prior to the submission of the construction permit application.
+(4) For a rehabilitation project or portion of it that is in the repair, renovation, or modification category of work, a preliminary meeting may be permitted to be granted at the discretion of the AHJ when a request for a preliminary meeting is made by the prospective applicant prior to the submission of the construction permit application.
 
-(5) The rehabilitation work area shall be clearly identified on all construction permit applications, construction documents, and permits required by the AHJ .
+(5) The rehabilitation work area shall be clearly identified on all construction permit applications, construction documents, and permits required by the AHJ.
 
-Design, construction, use & occupancy - new construction
+Design, coustruction, use & occupancy - new construction
 
 6. (1) Building plans submitted for approval shall meet the requirements of the regulations, adopted codes and this schedule.
 
@@ -280,7 +280,7 @@ NBCC, NFCC AND CHAPTER 42 LSC
 
 (4) Means of egress for new construction shall comply with Chapter 7 of the LSC unless otherwise provided for or modified by the individual occupancy chapters, which shall prevail.
 
-(5) The requirements for the use and occupancy of the building shall follow the NFCC and the applicable occupancy chapter for new construction requirements in the NFPA 101, LSC .
+(5) The requirements for the use and occupancy of the building shall follow the NFCC and the applicable occupancy chapter for new construction requirements in the NFPA 101, LSC.
 
 (6) The use and occupancy requirements shall be incorporated into the design and construction of the building.
 
@@ -290,7 +290,7 @@ NBCC, NFCC AND CHAPTER 42 LSC
 
 (b) section 2, Means of Egress, of the applicable occupancy chapter of the NFPA 101, LSC.
 
-Use and occupancy -existing buildings
+Use and occupancy - existing buildings
 
 7. (1) Existing buildings shall meet the requirements of the regulations, adopted codes, this schedule and the requirements in the table:
 
@@ -364,7 +364,7 @@ STORAGE
 
 NFCC AND CHAPTER 43 LSC
 
-(2) Existing buildings shall meet the requirements of NFCC ; and the applicable chapter for existing buildings in the NFPA 101, LSC .
+(2) Existing buildings shall meet the requirements of NFCC; and the applicable chapter for existing buildings in the NFPA 101, LSC.
 
 (3) Means of egress for existing buildings shall comply with Chapter 7 of the LSC unless otherwise provided for or modified by the individual occupancy chapters.
 
@@ -404,13 +404,13 @@ Rehabilitation work areas
 
 Historic buildings
 
-9. (1) The repair , renovation , modification , reconstruction , and change of use or occupancy of historic buildings shall comply with:
+9. (1) The repair, renovation, modification, reconstruction, and change of use or occupancy of historic buildings shall comply with:
 
 (a) NFPA 101, LSC;
 
 (b) NFPA 914, Code for Fire Protection of Historic Structures; or
 
-(c) Fire Safety Alternatives for Heritage Buildings in St. John's , NL.
+(c) Fire Safety Alternatives for Heritage Buildings in St. John’s , NL.
 
 (2) For historic buildings or structures located in whole or in part in floodway or floodway fringe, work on the building or structure shall be permitted, provided that both of the following are met:
 
