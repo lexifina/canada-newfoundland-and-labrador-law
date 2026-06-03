@@ -10,7 +10,7 @@ Offence
 
 A fine of not more than the dollar amounts specified
 
-Imprisonment for no longer than time specified , or to both a fine and imprisonment
+Imprisonment for no longer than time specified, or to both a fine and imprisonment
 
 Max.
 
