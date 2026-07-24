@@ -107,5 +107,3 @@ Major defects
 · Loose, missing, damaged or ineffective wheel fastener.
 
 · Damaged wheel or wheel component.
-
-27/12 Sch
