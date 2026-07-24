@@ -234,11 +234,11 @@ When affected position is occupied and there is a:
 
 22. Steering
 
-· Steering wheel lash (free-play) is greater than normal.
+· Steering wheel lash (free-play ) is greater than normal.
 
 · Steering wheel is insecure, or does not respond normally.
 
-· Steering wheel lash (free-play) exceeds required limit.
+· Steering wheel lash (free-play ) exceeds required limit.
 
 23. Suspension system
 
@@ -266,7 +266,7 @@ When affected position is occupied and there is a:
 
 · Tire tread depth is less than wear limit.
 
-· Tire is in contact with another tire or a vehicle component other than mud-flap.
+· Tire is in contact with another tire or a vehicle component other than mud-flap .
 
 · Tire is marked "Not for highway use".
 
