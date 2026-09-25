@@ -192,7 +192,7 @@ Occupational respiratory diseases
 
 2.1.1
 
-Pneumoconioses caused by sclerogenic mineral dust (silicosis, anthraco-silicosis, asbestosis) and silicotuberculosis, provided that silicosis is an essential factor in causing the resultant incapacity or death
+Pneumoconioses caused by sclerogenic mineral dust (silicosis, anthraco -silicosis, asbestosis) and silicotuberculosis, provided that silicosis is an essential factor in causing the resultant incapacity or death
 
 2.1.2
 
@@ -244,7 +244,7 @@ Occupational vitiligo
 
 2.3
 
-Occupational musculo-skeletal disorders
+Occupational musculo -skeletal disorders
 
 2.3.1
 
