@@ -1,0 +1,11 @@
+SNL2024 CHAPTER L-7.1
+
+LAW ENFORCEMENT IDENTITY MANAGEMENT ACT [To be Proclaimed]
+
+CHAPTER L-7.1
+
+AN ACT RESPECTING THE MANAGEMENT OF LAW ENFORCEMENT ARTICLES, UNIFORMS, VEHICLE MARKINGS AND VEHICLE EQUIPMENT
+
+(December 4, 2024)
+
+Be it enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
