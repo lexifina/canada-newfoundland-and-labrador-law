@@ -1,0 +1,7 @@
+Schedule C
+
+AN ACT RESPECTING THE FISHERY
+
+Fisheries Act , SNL1995 cF-12.1
+
+1995 cF-12.1

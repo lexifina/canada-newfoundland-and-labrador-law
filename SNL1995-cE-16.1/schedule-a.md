@@ -1,0 +1,7 @@
+Schedule A
+
+AN ACT RESPECTING EDUCATION
+
+Education Act , SNL1995 cE-2.1
+
+1995 cE-2.1
