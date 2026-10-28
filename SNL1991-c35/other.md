@@ -1,0 +1,47 @@
+Regional services
+
+403E (1) Notwithstanding The Regional Service Boards Act, the council shall own, manage and operate those regional services that are designated by order of the Lieutenant-Governor in Council in those municipal authorities or areas of the Northeast Avalon Region as set out in the order of the Lieutenant-Governor in Council.
+
+(2) Where a regional service is designated under subsection (1), the council shall sit as a regional committee for the purpose of making policy directions with respect to that regional service and for the purpose of establishing the rates or user fees to be charged by the council for the regional service in the other municipal authorities served by the regional service.
+
+(3) Where the council sits as a regional committee under this section, the mayor of the municipal authority which is served by a regional service as designated under subsection (1), shall sit on that regional committee and take part in its deliberations.
+
+(4) Where a mayor referred to in subsection (3) is unable to attend a meeting of the regional committee of the council, another member of the council of the municipal authority as selected by the mayor of that municipal authority shall be eligible to attend the meeting of the regional committee of the council in the mayor's place.
+
+(5) Subject to the approval of the Lieutenant-Governor in Council, the regional committee of the council may make by-laws respecting
+
+(a) procedure and other matters in respect of meetings of the regional committee of the council;
+
+(b) the general policy objectives respecting the provision of regional services in the area served by a regional service;
+
+(c) the formula used in setting rates or user fees paid to the council by a municipal authority served by a regional service; and
+
+(d) respecting matters necessary or advisable to carry out effectively the intent and purpose of this section.
+
+(6) In this section, section 403F and 403G
+
+(a) "municipal authority" means
+
+(i) the Mount Pearl City Council, and
+
+(ii) a council of a town constituted or continued under The Municipalities Act;
+
+(b) "Public Utilities Board" means the Board of Commissioners of Public utilities referred to in The Public Utilities Act, 1989; and
+
+(c) "regional service" includes
+
+(i) a regional water supply system,
+
+(ii) a regional sewage disposal system,
+
+(iii) a regional storm drainage system,
+
+(iv) a regional solid waste disposal site or facility,
+
+(v) a regional public transportation system,
+
+(vi) a regional recreational facility,
+
+(vii) a regional fire protection service, and
+
+(viii) other facilities or services of a regional nature that are designated by order of the Lieutenant-Governor in Council.
