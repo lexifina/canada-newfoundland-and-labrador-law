@@ -1,0 +1,7 @@
+Schedule F
+
+AN ACT RESPECTING THE SOCIAL SERVICES APPEAL BOARD
+
+Social Services Appeal Board Act , SNL1995 cS-17.1
+
+1995 cS-17.1
