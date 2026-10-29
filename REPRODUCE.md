@@ -117,7 +117,7 @@ Everything below is done by `build.py`, deterministically.
   9 with no law cited; 507 reformatting; 20 versions with no change in the text;
   67 acts leaving the consolidation with no law named. 0 on a `future` branch. 0 before 1970.
   - Author: the law (`SNL2017 c10 <snl2017-c10@assembly-nl.invalid>`) or the publisher. Committer: `Lexifina`.
-  - Dates: noon in St. John's, written into the code because the build machine has no time-zone database:
+  - Dates: noon in St. John's, written into the code (no time-zone database is used):
     UTC-3:30; daylight time UTC-2:30 from the second Sunday in March to the first Sunday in November since 2007, from
     the first Sunday in April to the last Sunday in October 1987-2006 (1988: double daylight time, UTC-1:30), from
     the last Sunday in April to the last Sunday in October before.
