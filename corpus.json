@@ -1,0 +1,41 @@
+{
+  "corpus": "ca/newfoundland-and-labrador/acts",
+  "parent": "ca/federal/acts",
+  "name": "Newfoundland and Labrador: consolidated statutes and regulations, change by change",
+  "label": "Newfoundland and Labrador",
+  "language": "en",
+  "history": "in-force",
+  "history_from": "1970-06-18",
+  "record_to": "2026-10-29",
+  "built": "2026-10-29",
+  "checked_on": "2026-10-29",
+  "record_note": "Every statute the House of Assembly publishes in its consolidated statutes (550 acts, retrieved on 2026-10-28) and every regulation in its consolidated regulations (1828 regulations under regulations/, retrieved on 2026-10-29), with their point-in-time versions, checked version by version against the pages file by file and letter by letter. Point-in-time versions are not official copies (Statutes Act, RSNL1990 cS-26, s. 11(2)). Versions start at different days for different acts and regulations (most after 2006); 72 acts and 1148 regulations are dated only by the retrieval day because the site gives no first day for their only version.",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Date-note"
+    ],
+    "time": "12:00 America/St_Johns (UTC-3:30, UTC-2:30 in daylight time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retrospectivity; immediate application to procedure",
+      "meaning": "an enactment is presumed not to apply to facts completed before it came into force, or to interfere with vested rights, unless the Legislature says so expressly or by necessary implication; procedural provisions apply immediately to pending matters; a repeal does not affect rights acquired or proceedings begun under the repealed enactment",
+      "authority": "Interpretation Act, RSNL1990 cI-19, s. 29 (effect of repeal); Canadian Charter of Rights and Freedoms, s. 11(g) and 11(i); R. v. Dineley, 2012 SCC 58; Tran v. Canada (Public Safety and Emergency Preparedness), 2017 SCC 50",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "((?:RSNL|SNL)[0-9]{4}-c[A-Z0-9.-]+|regulations/[A-Za-z0-9.-]+)/s([0-9]+(?:\\.[0-9]+)*)\\.md",
+    "cites": "([Ss]ections?|[Ss]ubsections?|[Pp]aragraphs?|ss?\\.) ?{n}([^0-9.]|\\.[^0-9]|$)"
+  },
+  "path_pattern": "<chapter citation, e.g. SNL2015-cA-1.2 or RSNL1990-cH-3>/s<section>.md; front.md (title, chapter, long title, assent, enacting words); preamble.md; schedule-<x>.md; form-<x>.md; regulations/<regulation number, e.g. NLR-45-15, CNLR-1151-96 or NfldReg-11-98>/s<section>.md (front.md: number, title, filing, authority)",
+  "acts": 550,
+  "regulations": 1828
+}
