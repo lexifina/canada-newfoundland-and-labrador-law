@@ -1,5 +1,7 @@
 # Newfoundland and Labrador statutes and regulations, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Newfoundland And Labrador, Canada, which global-law reads at `canada/newfoundland-and-labrador/acts/`.
+
 The consolidated statutes and regulations of Newfoundland and Labrador as a git repository: 550 acts and 1829
 regulations, each a folder, each section a file. Every amending law is one commit, credited to that law and dated the
 day the version it produced took effect, at noon in St. John's. The text is the consolidated text published by the
