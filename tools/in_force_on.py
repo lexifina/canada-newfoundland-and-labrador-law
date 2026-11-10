@@ -4,7 +4,12 @@
     python tools/in_force_on.py 2020-01-01 SNL2015-cA-1.2 5.1      # section 5.1
     python tools/in_force_on.py 2015-07-01 RSNL1990-cH-3           # the whole act
     python tools/in_force_on.py 2015-07-01 RSNL1990-cH-3 schedule-a
-    python tools/in_force_on.py 2020-01-01 regulations/NLR-45-15 2  # a regulation (folders under regulations/)
+    python tools/in_force_on.py 2020-01-01 regulations/NLR-45-15 2  # a regulation
+    python tools/in_force_on.py 2020-01-01 nlr/2015/45 2           # the same, by its folder
+
+Folders are the citation split up, <series>/<year>/<number> (rsnl/1990/H-3, snl/2015/A-1.2, nlr/2015/45,
+cnlr/1996/1151, nfldreg/1998/11); data/paths.json maps each earlier folder name (RSNL1990-cH-3,
+regulations/NLR-45-15) to it. Either name works, and versions recorded under the earlier name are read too.
 
 Each commit carries the day its change took effect in an `In-force:` trailer, which is the source of truth (not the
 commit date, which is noon in St. John's on that day). The text in force on a day is the act's last commit on or
@@ -12,6 +17,7 @@ before it. Changes published but not yet in force would be on the branch "future
 there. Standard library only.
 """
 import datetime as dt
+import json
 import re
 import subprocess
 import sys
@@ -41,11 +47,24 @@ def file_for(key: str) -> str:
     return key if key.endswith('.md') else f'{key}.md'
 
 
-def commit_on(day: str, act: str) -> tuple[str, str]:
+def names(act: str) -> tuple[str, str]:
+    """(folder, earlier folder name) of an act named either way (data/paths.json; the same name twice without it)."""
+    try:
+        paths = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
+    except (subprocess.CalledProcessError, ValueError):
+        paths = {}
+    if act in paths:
+        return paths[act], act
+    back = {v: k for k, v in paths.items()}
+    return act, back.get(act, act)
+
+
+def commit_on(day: str, act: str, earlier: str = '') -> tuple[str, str]:
     """(commit, its In-force day): the act's last commit in force on or before the day."""
     future = day > dt.date.today().isoformat() and git('branch', '--list', 'future').strip()
     branch = 'future' if future else 'main'
-    out = git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--', f'{act}/')
+    out = git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', branch, '--',
+              *dict.fromkeys([f'{act}/', f'{earlier or act}/']))
     for line in out.splitlines():
         h, _, d = line.partition('\t')
         if d.strip() and d.strip() <= day:
@@ -59,11 +78,15 @@ def main():
         sys.exit(__doc__)
     day, act = sys.argv[1], sys.argv[2].rstrip('/')
     dt.date.fromisoformat(day)
-    commit, since = commit_on(day, act)
+    act, earlier = names(act)
+    commit, since = commit_on(day, act, earlier)
     if not commit:
         sys.exit(f'{act} is not in the record on {day} (the record of an act starts with the first version the House '
                  'of Assembly publishes; see data/acts.csv).')
     files = [f for f in git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n') if f.endswith('.md')]
+    if not files and earlier != act:   # a version from before the layout move: the act under its earlier name
+        act = earlier
+        files = [f for f in git('ls-tree', '-r', '--name-only', commit, f'{act}/').split('\n') if f.endswith('.md')]
     if not files:
         sys.exit(f'{act} was no longer in the consolidation on {day} (it left it on {since}; see git show {commit}).')
     if len(sys.argv) > 3:
